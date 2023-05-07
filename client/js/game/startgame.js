@@ -52,7 +52,7 @@ define(["require", "exports", "jassijs/ui/Panel", "jassijs/base/Windows", "game/
         link.id = cssId;
         link.rel = 'stylesheet';
         link.type = 'text/css';
-        link.href = 'game/style.css?1';
+        link.href = 'game/style.css';
         link.media = 'all';
         head.appendChild(link);
     }
