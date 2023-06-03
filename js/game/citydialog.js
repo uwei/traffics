@@ -361,6 +361,15 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 _this.city.buildBuilding(10000);
                 _this.update();
             });
+            document.getElementById("buy-shop").addEventListener("contextmenu", (evt) => {
+                evt.preventDefault();
+                if (!_this.city.commitBuildingCosts(15000 * parameter.numberBuildShopsWithContextMenu, [], "buy building"))
+                    return;
+                for (var x = 0; x < parameter.numberBuildShopsWithContextMenu; x++) {
+                    _this.city.buildBuilding(10000);
+                }
+                _this.update();
+            });
             document.getElementById("delete-shop").addEventListener("click", (evt) => {
                 if (_this.city.shops === 0)
                     return;
@@ -377,6 +386,16 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 if (_this.city.buildingplaces === 0)
                     _this.city.buildingplaces = 0;
                 _this.city.buildingplaces++;
+                //_this.city.buildBuilding(10000);
+                _this.update();
+            });
+            document.getElementById("buy-buildingplace").addEventListener("contextmenu", (evt) => {
+                evt.preventDefault();
+                if (!_this.city.commitBuildingCosts(20000000 * parameter.numberBuildShopsWithContextMenu, [], "buy buildingplace"))
+                    return;
+                if (_this.city.buildingplaces === 0)
+                    _this.city.buildingplaces = 0;
+                _this.city.buildingplaces = parameter.numberBuildShopsWithContextMenu + _this.city.buildingplaces;
                 //_this.city.buildBuilding(10000);
                 _this.update();
             });

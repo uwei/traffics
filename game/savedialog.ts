@@ -484,9 +484,10 @@ export class SaveDialog {
 
             game.version = "2.9";
         }
-        if (parseFloat(ret.version) < 3.3) {
-            parameter.rateBuyBuildingGrowFactor = 2000;
-            game.version = "2.3";
+        if (parseFloat(ret.version) < 3.4) {
+            parameter.rateBuyBuildingGrowFactor = 3000;
+            parameter.numberBuildShopsWithContextMenu=10;
+            game.version = "3.4";
         }
         game.render(this.game.dom);
         game.resume();

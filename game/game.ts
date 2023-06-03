@@ -11,7 +11,7 @@ import { Route } from "game/route";
 import { Product } from "game/product";
 import { DiagramDialog } from "game/diagramdialog";
 import { SaveDialog } from "game/savedialog";
-var gameversion = "3.3";
+var gameversion = "3.4";
 window.onbeforeunload = function () {
   return "Do you want to exit?";
 
@@ -49,7 +49,7 @@ export class Parameter {
   ratePriceMax = 1.33;
   rateBuyAirplane = 1;
   rateBuyBuilding = 1;
-  rateBuyBuildingGrowFactor = 2000;
+  rateBuyBuildingGrowFactor = 3000;
   rateCostsAirplaine = 1;
   rateCostShop = 100;
   rateCostsShopMany = 1000;
@@ -63,7 +63,7 @@ export class Parameter {
   costsAdvertising = 2000;
   peopleInHouse = 200;
   numberBuildWithContextMenu = 10;
-  numberBuildHousesWithContextMenu = 10;
+  numberBuildShopsWithContextMenu = 10;
   startMoney = 250000;
   allAirplaneTypes = [
     { typeid: 0, model: "Airplane", speed: 200, capacity: 200, costs: 60, buildDays: 20, buildingCosts: 20000, buildingMaterial: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
@@ -131,7 +131,7 @@ export class Game {
   domHeader: HTMLDivElement;
   domWorld: HTMLDivElement;
   _money;
-  version = "3.3";
+  version = "3.4";
   date: Date;
   lastUpdate: number;
   speed: number;

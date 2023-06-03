@@ -33,9 +33,9 @@ export class DiagramDialog {
             parameter.numberBuildWithContextMenu=num;
             _this.update();
         });
-         document.getElementById("buildHousesWithOneClick").addEventListener('change', (e) => {
-            var num=parseInt((<HTMLInputElement>document.getElementById("buildHousesWithOneClick")).value);
-            parameter.numberBuildHousesWithContextMenu=num;
+         document.getElementById("buildShopsWithOneClick").addEventListener('change', (e) => {
+            var num=parseInt((<HTMLInputElement>document.getElementById("buildShopsWithOneClick")).value);
+            parameter.numberBuildShopsWithContextMenu=num;
             _this.update();
         });
         for (var x = 0; x < parameter.allProducts.length; x++) {
@@ -81,7 +81,7 @@ export class DiagramDialog {
                 </div>
                  <div id="diagramdialog-settings">   
                        number build company with one click: <input id="buildWithOneClick"  value="""/><br/>
-                       number build houses with one click: <input id="buildHousesWithOneClick"  value="""/>
+                       number build shops with one click: <input id="buildShopsWithOneClick"  value="""/>
                 </div>
             </div>
            </div> 
@@ -134,8 +134,8 @@ export class DiagramDialog {
         
         if (document.activeElement !== <any>document.getElementById("buildWithOneClick")) 
              (<HTMLInputElement>document.getElementById("buildWithOneClick")).value=""+parameter.numberBuildWithContextMenu;
-        if (document.activeElement !== <any>document.getElementById("buildHousesWithOneClick")) 
-         (<HTMLInputElement>document.getElementById("buildHousesWithOneClick")).value=""+parameter.numberBuildHousesWithContextMenu;
+        if (document.activeElement !== <any>document.getElementById("buildShopsWithOneClick")) 
+         (<HTMLInputElement>document.getElementById("buildShopsWithOneClick")).value=""+parameter.numberBuildShopsWithContextMenu;
         try {
             if (!$(this.dom).dialog('isOpen')) {
                 return;

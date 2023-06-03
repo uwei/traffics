@@ -321,13 +321,13 @@ export class CityDialog {
 
         });
         document.getElementById("citydialog-shopinfo").addEventListener("click", (e) => {
-           var en=(<HTMLInputElement>document.getElementById("citydialog-shopinfo")).checked;
-           _this.city.cityShowShopInfo=en;
-           _this.city.renderShopinfo(en);
+            var en = (<HTMLInputElement>document.getElementById("citydialog-shopinfo")).checked;
+            _this.city.cityShowShopInfo = en;
+            _this.city.renderShopinfo(en);
             //  _this.update();
 
         });
-        
+
         for (var x = 0; x < 8; x++) {
             document.getElementById("new-factory_" + x).addEventListener("click", (evt) => {
                 var sid = (<any>evt.target).id;
@@ -395,6 +395,16 @@ export class CityDialog {
             _this.city.buildBuilding(10000);
             _this.update();
         });
+        document.getElementById("buy-shop").addEventListener("contextmenu", (evt) => {
+            evt.preventDefault();
+
+            if (!_this.city.commitBuildingCosts(15000 * parameter.numberBuildShopsWithContextMenu, [], "buy building"))
+                return;
+            for (var x = 0; x < parameter.numberBuildShopsWithContextMenu; x++) {
+                _this.city.buildBuilding(10000);
+            }
+            _this.update();
+        });
         document.getElementById("delete-shop").addEventListener("click", (evt) => {
             if (_this.city.shops === 0)
                 return;
@@ -413,6 +423,17 @@ export class CityDialog {
             if (_this.city.buildingplaces === 0)
                 _this.city.buildingplaces = 0;
             _this.city.buildingplaces++;
+            //_this.city.buildBuilding(10000);
+            _this.update();
+        });
+        document.getElementById("buy-buildingplace").addEventListener("contextmenu", (evt) => {
+             evt.preventDefault();
+            if (!_this.city.commitBuildingCosts(20000000* parameter.numberBuildShopsWithContextMenu, [], "buy buildingplace"))
+                return;
+            if (_this.city.buildingplaces === 0)
+                _this.city.buildingplaces = 0;
+
+            _this.city.buildingplaces= parameter.numberBuildShopsWithContextMenu+_this.city.buildingplaces;
             //_this.city.buildBuilding(10000);
             _this.update();
         });
@@ -593,14 +614,14 @@ export class CityDialog {
                 document.getElementById("buy-license_" + x).setAttribute("disabled", "");
             }
         }
-        for(var x=6;x<=8;x++){
-             var trr :HTMLTableRowElement= <HTMLTableRowElement> table.children[0].children[x];
-             if(x>this.city.companies.length&&trr.style.display !== "none"){
-                 trr.style.display = "none";
-             }
-            if(x<=this.city.companies.length&&trr.style.display === "none"){
-                 trr.style.display="";
-             }
+        for (var x = 6; x <= 8; x++) {
+            var trr: HTMLTableRowElement = <HTMLTableRowElement>table.children[0].children[x];
+            if (x > this.city.companies.length && trr.style.display !== "none") {
+                trr.style.display = "none";
+            }
+            if (x <= this.city.companies.length && trr.style.display === "none") {
+                trr.style.display = "";
+            }
 
         }
         var sh = "" + this.city.shops;
@@ -704,8 +725,8 @@ export class CityDialog {
             this.updateConstruction();
         if (document.getElementById("citydialog-score-tab")?.parentElement?.classList?.contains("ui-tabs-active"))
             this.updateScore();
-            if((<HTMLInputElement>document.getElementById("citydialog-shopinfo")).checked!==this.city.cityShowShopInfo)
-                (<HTMLInputElement>document.getElementById("citydialog-shopinfo")).checked=this.city.cityShowShopInfo;
+        if ((<HTMLInputElement>document.getElementById("citydialog-shopinfo")).checked !== this.city.cityShowShopInfo)
+            (<HTMLInputElement>document.getElementById("citydialog-shopinfo")).checked = this.city.cityShowShopInfo;
         return;
     }
     updateTitle() {
