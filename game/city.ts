@@ -135,7 +135,7 @@ export class City {
         this.renderShopinfo(false);
         this.renderShopinfo(this.cityShowShopInfo);
     }
-   
+
     renderShopinfo(enable) {
         if (enable) {
             var s = `<table style="position:absolute;top:` + (this.y - 4) +
@@ -187,8 +187,9 @@ export class City {
         this.domDesc.appendChild(this.domPeople);
         this.world.dom.appendChild(this.domDesc);
         this.domDesc.style.zIndex = "2";
+        
         this.domAirport = <any>document.createRange().createContextualFragment('<span style="position:absolute;top:' + (this.y) +
-            'px;left:' + (this.x - 20) + 'px;font-size:20px;color:white;">' + Icons.airport + '</span>').children[0];
+            'px;left:' + (this.x - 20) + 'px;font-size:20px;color:'+this.getAirportColor()+';">' + Icons.airport + '</span>').children[0];
         this.world.dom.appendChild(this.domAirport);
 
         this.renderShopinfo(this.cityShowShopInfo);
@@ -508,7 +509,7 @@ export class City {
 
 
     }
-     
+
     updateDailyConsumtion() {
 
         //neutral companies
@@ -526,7 +527,7 @@ export class City {
 
         for (var x = 0; x < parameter.allProducts.length; x++) {
             var totalDailyConsumtion = Math.round(parameter.allProducts[x].dailyConsumtion * this.people * (this.world.advertising[x] ? 1.15 : 1));
-         //   totalDailyConsumtion--;//never go down
+            //   totalDailyConsumtion--;//never go down
             if (totalDailyConsumtion < 1)
                 totalDailyConsumtion = 1;
             var untilNow = Math.round(totalDailyConsumtion * dayProcent);
@@ -644,49 +645,92 @@ export class City {
             }
         }
     }
-     updateShopinfo(){
-        var arr=[];
-        var _this=this;
-        var gesamount=0;
-        for(var x=0;x<parameter.allProducts.length;x++){
-            arr.push(x);
-            gesamount+=this.shop[x];
-        }
-        var sorted:number[]=arr.sort((a, b) => {
-            return _this.shop[b]-_this.shop[a];
-                });
-        for(var x=0;x<4;x++){
-            var row=this.domShopinfo.children[0].children[x];
-            if(row.getAttribute("product")!==sorted[x].toString()){
-                row.children[0].innerHTML=parameter.allProducts[sorted[x]].getIcon();
-                row.setAttribute("product",sorted[x].toString());
-            }
-             row.children[1].textContent=this.shop[sorted[x]].toLocaleString();
-        }
-        var proz=gesamount/ (this.shops * parameter.capacityShop);
-        if(proz>0.75&&this.domShopinfo.style.backgroundColor!=="LightPink")
-            this.domShopinfo.style.backgroundColor="LightPink";
-        if(proz<=0.75&&this.domShopinfo.style.backgroundColor!=="white")
-            this.domShopinfo.style.backgroundColor="white";
-    }
-    updateUI(){
+    updateShopinfo() {
+        var arr = [];
         var _this = this;
-   //  setTimeout(()=>{
+        var gesamount = 0;
+        for (var x = 0; x < parameter.allProducts.length; x++) {
+            arr.push(x);
+            gesamount += this.shop[x];
+        }
+        var sorted: number[] = arr.sort((a, b) => {
+            return _this.shop[b] - _this.shop[a];
+        });
+        for (var x = 0; x < 4; x++) {
+            var row = this.domShopinfo.children[0].children[x];
+            if (row.getAttribute("product") !== sorted[x].toString()) {
+                row.children[0].innerHTML = parameter.allProducts[sorted[x]].getIcon();
+                row.setAttribute("product", sorted[x].toString());
+            }
+            row.children[1].textContent = this.shop[sorted[x]].toLocaleString();
+        }
+        var proz = gesamount / (this.shops * parameter.capacityShop);
+        if (proz > 0.75 && this.domShopinfo.style.backgroundColor !== "LightPink")
+            this.domShopinfo.style.backgroundColor = "LightPink";
+        if (proz <= 0.75 && this.domShopinfo.style.backgroundColor !== "white")
+            this.domShopinfo.style.backgroundColor = "white";
+    }
+    updateUI() {
+        var _this = this;
+        //  setTimeout(()=>{
         var s = (this.people === 0 ? "" : this.people.toLocaleString());
         if (_this.domPeople.textContent !== s) {
 
             _this.domPeople.textContent = s;
 
         }
-         if(this.cityShowShopInfo)
+        if (this.cityShowShopInfo)
             this.updateShopinfo();
+    }
+    private addNewCompany() {
+        var factIDs = [];
+        for (var x = 0; x < this.companies.length; x++) {
+            factIDs.push(this.companies[x].productid);
+        }
+        var comp = new Company(factIDs);
+        comp.city = this;
+        this.companies.push(comp);
+        this.companies.sort((a, b) => {
+            return a.productid - b.productid;
+        });
+    }
+    getAirportColor(){
+        var acolor="white";
+        if(this.people>500000){
+            acolor="yellow";
+        }
+        if(this.people>1000000){
+            acolor="springgreen";
+        }
+        if(this.people>1500000){
+            acolor="deepskyblue";
+        }
+        return acolor;
+    }
+    checkUpgrade() {
+        if (this.people > 500000 && this.companies.length < 6) {
+            this.addNewCompany();
+            this.resetBuildingsWithoutCosts();
+            this.domAirport.style.color= this.getAirportColor();
+        }
+        if (this.people > 1000000 && this.companies.length < 7) {
+            this.addNewCompany();
+            this.resetBuildingsWithoutCosts();
+            this.domAirport.style.color=this.getAirportColor();
+        }
+        if (this.people > 1500000 && this.companies.length < 8) {
+            this.addNewCompany();
+            this.resetBuildingsWithoutCosts();
+            this.domAirport.style.color=this.getAirportColor();
+        }
+        
     }
     update() {
         var _this = this;
         if (this.lastUpdate === undefined) {
             this.lastUpdate = this.world.game.date.getTime();
         }
-      //  _this.updateUI();
+        //  _this.updateUI();
 
         //  },1);
 
@@ -700,13 +744,14 @@ export class City {
         this.updateAirplaneQueue();
         this.updateBuildingQueue();
         this.updateresetBuildingsWithoutCosts();
-       
+
         // this.sellShopToMarket();
         if (this.world.game.date.getHours() % 1 === 0)
             this.updatePeople();
         if (this.world.game.date.getDate() !== new Date(this.lastUpdate).getDate()) {
             //a new day starts
             this.updateDailyCosts();
+            this.checkUpgrade();
         }
 
         if (this.world.game.date.getHours() === 23) {
@@ -737,7 +782,7 @@ export class City {
                     alert("Not enough money");
                     return;
                 }
-                this.world.game.changeMoney(-iprice, "bay an airport", this);
+                this.world.game.changeMoney(-iprice, "buy an airport", this);
                 this.hasAirport = true;
                 this.domAirport.style.visibility = "initial";
                 this.world.addCity(false);//cities[this.world.cities.length - 1].hasAirport = false;
@@ -847,7 +892,7 @@ function calcPosNewCity(world: World, deep) {
     var y = getRandomInt(world.game.mapHeight - 12) + 12;
     for (var i = 0; i < world.cities.length; i++) {
         var ct = world.cities[i];
-        if (x > (ct.x - 70) && x < (ct.x + 70) && y > (ct.y - 68) && (y < ct.y + 68) ){
+        if (x > (ct.x - 70) && x < (ct.x + 70) && y > (ct.y - 68) && (y < ct.y + 68)) {
             //conflict
             if (deep > 0) {
                 deep--;

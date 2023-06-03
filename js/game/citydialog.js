@@ -99,7 +99,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                         </tr>
                        ${(function fun() {
                 var ret = "";
-                for (var x = 0; x < 5; x++) {
+                for (var x = 0; x < 8; x++) {
                     ret = ret + "<tr>";
                     ret = ret + "<td></td>";
                     ret = ret + "<td></td>";
@@ -118,17 +118,13 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 return ret;
             })()}
                     </table>
-                    <br/>
-                        <br/>
-                        <b>My-Shops</b>
-                    <br/>
                        ` + icons_1.Icons.shop + ` Shops: <span id="count-shops">0/0</span>  
                         ` + ` costs: <span id="costs-shops">0</span> ` + icons_1.Icons.money + `  
-                        <button id="buy-shop"  class="mybutton">+` + icons_1.Icons.shop + ` for 15k` + icons_1.Icons.money + `</button> 
+                        <button id="buy-shop"  class="mybutton">+` + icons_1.Icons.shop + ` 15k` + icons_1.Icons.money + `</button> 
                         <button id="delete-shop"  class="mybutton">-` + icons_1.Icons.shop + `</button>` +
-                `<div id="city-buildingplaces">Increase construction speed: <span id="count-buildingplaces">0</span>  
+                `<div id="city-buildingplaces">construction speed: <span id="count-buildingplaces">0</span>  
                         ` + icons_1.Icons.money + `  
-                        <button id="buy-buildingplace"  class="mybutton">+` + icons_1.Icons.wrench + ` for 20.000k` + icons_1.Icons.money + `</button> 
+                        <button id="buy-buildingplace"  class="mybutton">+` + icons_1.Icons.wrench + ` 20m` + icons_1.Icons.money + `</button> 
                         <button id="delete-buildingplace"  class="mybutton">-` + icons_1.Icons.home + `</button>` +
                 '</div>';
         }
@@ -303,7 +299,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 _this.city.renderShopinfo(en);
                 //  _this.update();
             });
-            for (var x = 0; x < 5; x++) {
+            for (var x = 0; x < 8; x++) {
                 document.getElementById("new-factory_" + x).addEventListener("click", (evt) => {
                     var sid = evt.target.id;
                     if (sid === "")
@@ -554,6 +550,15 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 }
                 else {
                     document.getElementById("buy-license_" + x).setAttribute("disabled", "");
+                }
+            }
+            for (var x = 6; x <= 8; x++) {
+                var trr = table.children[0].children[x];
+                if (x > this.city.companies.length && trr.style.display !== "none") {
+                    trr.style.display = "none";
+                }
+                if (x <= this.city.companies.length && trr.style.display === "none") {
+                    trr.style.display = "";
                 }
             }
             var sh = "" + this.city.shops;

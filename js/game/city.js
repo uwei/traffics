@@ -151,7 +151,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             this.world.dom.appendChild(this.domDesc);
             this.domDesc.style.zIndex = "2";
             this.domAirport = document.createRange().createContextualFragment('<span style="position:absolute;top:' + (this.y) +
-                'px;left:' + (this.x - 20) + 'px;font-size:20px;color:white;">' + icons_1.Icons.airport + '</span>').children[0];
+                'px;left:' + (this.x - 20) + 'px;font-size:20px;color:' + this.getAirportColor() + ';">' + icons_1.Icons.airport + '</span>').children[0];
             this.world.dom.appendChild(this.domAirport);
             this.renderShopinfo(this.cityShowShopInfo);
             if (!this.hasAirport) {
@@ -619,6 +619,48 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             if (this.cityShowShopInfo)
                 this.updateShopinfo();
         }
+        addNewCompany() {
+            var factIDs = [];
+            for (var x = 0; x < this.companies.length; x++) {
+                factIDs.push(this.companies[x].productid);
+            }
+            var comp = new company_1.Company(factIDs);
+            comp.city = this;
+            this.companies.push(comp);
+            this.companies.sort((a, b) => {
+                return a.productid - b.productid;
+            });
+        }
+        getAirportColor() {
+            var acolor = "white";
+            if (this.people > 500000) {
+                acolor = "yellow";
+            }
+            if (this.people > 1000000) {
+                acolor = "springgreen";
+            }
+            if (this.people > 1500000) {
+                acolor = "deepskyblue";
+            }
+            return acolor;
+        }
+        checkUpgrade() {
+            if (this.people > 500000 && this.companies.length < 6) {
+                this.addNewCompany();
+                this.resetBuildingsWithoutCosts();
+                this.domAirport.style.color = this.getAirportColor();
+            }
+            if (this.people > 1000000 && this.companies.length < 7) {
+                this.addNewCompany();
+                this.resetBuildingsWithoutCosts();
+                this.domAirport.style.color = this.getAirportColor();
+            }
+            if (this.people > 1500000 && this.companies.length < 8) {
+                this.addNewCompany();
+                this.resetBuildingsWithoutCosts();
+                this.domAirport.style.color = this.getAirportColor();
+            }
+        }
         update() {
             var _this = this;
             if (this.lastUpdate === undefined) {
@@ -641,6 +683,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             if (this.world.game.date.getDate() !== new Date(this.lastUpdate).getDate()) {
                 //a new day starts
                 this.updateDailyCosts();
+                this.checkUpgrade();
             }
             if (this.world.game.date.getHours() === 23) {
                 this.updateStatus();
@@ -666,7 +709,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                         alert("Not enough money");
                         return;
                     }
-                    this.world.game.changeMoney(-iprice, "bay an airport", this);
+                    this.world.game.changeMoney(-iprice, "buy an airport", this);
                     this.hasAirport = true;
                     this.domAirport.style.visibility = "initial";
                     this.world.addCity(false); //cities[this.world.cities.length - 1].hasAirport = false;

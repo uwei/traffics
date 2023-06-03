@@ -117,7 +117,7 @@ export class CityDialog {
                         </tr>
                        ${(function fun() {
                 var ret = "";
-                for (var x = 0; x < 5; x++) {
+                for (var x = 0; x < 8; x++) {
                     ret = ret + "<tr>";
                     ret = ret + "<td></td>";
                     ret = ret + "<td></td>";
@@ -137,17 +137,13 @@ export class CityDialog {
                 return ret;
             })()}
                     </table>
-                    <br/>
-                        <br/>
-                        <b>My-Shops</b>
-                    <br/>
                        `+ Icons.shop + ` Shops: <span id="count-shops">0/0</span>  
                         ` + ` costs: <span id="costs-shops">0</span> ` + Icons.money + `  
-                        <button id="buy-shop"  class="mybutton">+`+ Icons.shop + ` for 15k` + Icons.money + `</button> 
+                        <button id="buy-shop"  class="mybutton">+`+ Icons.shop + ` 15k` + Icons.money + `</button> 
                         <button id="delete-shop"  class="mybutton">-`+ Icons.shop + `</button>` +
-            `<div id="city-buildingplaces">Increase construction speed: <span id="count-buildingplaces">0</span>  
+            `<div id="city-buildingplaces">construction speed: <span id="count-buildingplaces">0</span>  
                         `  + Icons.money + `  
-                        <button id="buy-buildingplace"  class="mybutton">+`+ Icons.wrench + ` for 20.000k` + Icons.money + `</button> 
+                        <button id="buy-buildingplace"  class="mybutton">+`+ Icons.wrench + ` 20m` + Icons.money + `</button> 
                         <button id="delete-buildingplace"  class="mybutton">-`+ Icons.home + `</button>` +
             '</div>'
     }
@@ -332,7 +328,7 @@ export class CityDialog {
 
         });
         
-        for (var x = 0; x < 5; x++) {
+        for (var x = 0; x < 8; x++) {
             document.getElementById("new-factory_" + x).addEventListener("click", (evt) => {
                 var sid = (<any>evt.target).id;
                 if (sid === "")
@@ -596,6 +592,15 @@ export class CityDialog {
             } else {
                 document.getElementById("buy-license_" + x).setAttribute("disabled", "");
             }
+        }
+        for(var x=6;x<=8;x++){
+             var trr :HTMLTableRowElement= <HTMLTableRowElement> table.children[0].children[x];
+             if(x>this.city.companies.length&&trr.style.display !== "none"){
+                 trr.style.display = "none";
+             }
+            if(x<=this.city.companies.length&&trr.style.display === "none"){
+                 trr.style.display="";
+             }
 
         }
         var sh = "" + this.city.shops;
