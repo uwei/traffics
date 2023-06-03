@@ -575,7 +575,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
         updateresetBuildingsWithoutCosts() {
             var _this = this;
             if (this.world.game.date.getHours() === 0) {
-                var test = getRandomInt(5000);
+                var test = getRandomInt(4000);
                 if (test === 0) {
                     this.domStar.style.display = "initial";
                     setTimeout(() => {
@@ -634,13 +634,13 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
         getAirportColor() {
             var acolor = "white";
             if (this.people > 500000) {
-                acolor = "yellow";
+                acolor = "lightgreen";
             }
             if (this.people > 1000000) {
                 acolor = "springgreen";
             }
             if (this.people > 1500000) {
-                acolor = "deepskyblue";
+                acolor = "green";
             }
             return acolor;
         }

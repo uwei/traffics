@@ -332,7 +332,7 @@ export class SaveDialog {
             }
         }
         var game = this.game;
-        
+
         Object.assign(this.game, ret);
         game.world.game = game;
         game.date = new Date(game.date);
@@ -463,26 +463,30 @@ export class SaveDialog {
                 parameter.allProducts[x].input2Amount = test[x].input2Amount;
                 parameter.allProducts[x]["amountForPeople"] = test[x].getAmountForPeople();
 
-                if(parameter.allProducts[x].getDiffConsumtion()>0.3){
-                    parameter.allProducts[x].dailyConsumtion=1.3*parameter.allProducts[x].getAmountForPeople() / (parameter.workerInCompany * parameter.allProducts.length);
+                if (parameter.allProducts[x].getDiffConsumtion() > 0.3) {
+                    parameter.allProducts[x].dailyConsumtion = 1.3 * parameter.allProducts[x].getAmountForPeople() / (parameter.workerInCompany * parameter.allProducts.length);
                 }
-                if(parameter.allProducts[x].getDiffConsumtion()<-0.3){
-                    parameter.allProducts[x].dailyConsumtion=0.7*parameter.allProducts[x].getAmountForPeople() / (parameter.workerInCompany * parameter.allProducts.length);
+                if (parameter.allProducts[x].getDiffConsumtion() < -0.3) {
+                    parameter.allProducts[x].dailyConsumtion = 0.7 * parameter.allProducts[x].getAmountForPeople() / (parameter.workerInCompany * parameter.allProducts.length);
                 }
             }
 
             game.version = "2.7";
         }
-         if (parseFloat(ret.version) < 2.9) {
-           
+        if (parseFloat(ret.version) < 2.9) {
+
             for (var x = 0; x < parameter.allProducts.length; x++) {
-               
-                if(parameter.allProducts[x].getDiffConsumtion()>0.4){
-                    parameter.allProducts[x].dailyConsumtion=1.4*parameter.allProducts[x].getAmountForPeople() / (parameter.workerInCompany * parameter.allProducts.length);
+
+                if (parameter.allProducts[x].getDiffConsumtion() > 0.4) {
+                    parameter.allProducts[x].dailyConsumtion = 1.4 * parameter.allProducts[x].getAmountForPeople() / (parameter.workerInCompany * parameter.allProducts.length);
                 }
             }
 
             game.version = "2.9";
+        }
+        if (parseFloat(ret.version) < 3.3) {
+            parameter.rateBuyBuildingGrowFactor = 2000;
+            game.version = "2.3";
         }
         game.render(this.game.dom);
         game.resume();

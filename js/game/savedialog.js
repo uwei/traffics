@@ -443,6 +443,10 @@ define(["require", "exports", "game/product", "game/airplane", "game/route", "ga
                 }
                 game.version = "2.9";
             }
+            if (parseFloat(ret.version) < 3.3) {
+                parameter.rateBuyBuildingGrowFactor = 2000;
+                game.version = "2.3";
+            }
             game.render(this.game.dom);
             game.resume();
         }
