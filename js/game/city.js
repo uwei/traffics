@@ -634,14 +634,15 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
         getAirportColor() {
             var acolor = "white";
             if (this.people > 500000) {
-                acolor = "lightgreen";
+                acolor = "RoyalBlue";
             }
             if (this.people > 1000000) {
-                acolor = "springgreen";
+                acolor = "Olive";
             }
             if (this.people > 1500000) {
-                acolor = "green";
+                acolor = "HotPink";
             }
+            //green GoldenRod 
             return acolor;
         }
         checkUpgrade() {
