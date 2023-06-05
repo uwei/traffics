@@ -187,9 +187,9 @@ export class City {
         this.domDesc.appendChild(this.domPeople);
         this.world.dom.appendChild(this.domDesc);
         this.domDesc.style.zIndex = "2";
-        
+
         this.domAirport = <any>document.createRange().createContextualFragment('<span style="position:absolute;top:' + (this.y) +
-            'px;left:' + (this.x - 20) + 'px;font-size:20px;color:'+this.getAirportColor()+';">' + Icons.airport + '</span>').children[0];
+            'px;left:' + (this.x - 20) + 'px;font-size:20px;color:' + this.getAirportColor() + ';">' + Icons.airport + '</span>').children[0];
         this.world.dom.appendChild(this.domAirport);
 
         this.renderShopinfo(this.cityShowShopInfo);
@@ -223,17 +223,25 @@ export class City {
 
         alert("Congratulations. All building costs " + this.name + " are reset.")
     }
-    buildBuilding(typeid: number) {
-        var last = this.world.game.date.getTime();
-        if (this.queueBuildings.length > 0)
-            last = this.queueBuildings[this.queueBuildings.length - 1].ready;
-        last += (parameter.daysBuildBuilding * 1000 * 60 * 60 * 24) / (!this.buildingplaces ? 1 : (this.buildingplaces + 1));
-        this.queueBuildings.push({ ready: last, typeid: typeid, name: "" });
+    buildBuilding(typeid: number, before = false) {
+
+
         //shop should create at first
-        if (typeid === 10000) {
-            var t = this.queueBuildings[0].typeid;
-            this.queueBuildings[0].typeid = this.queueBuildings[this.queueBuildings.length - 1].typeid;
-            this.queueBuildings[this.queueBuildings.length - 1].typeid = t;
+        if (before&&this.queueBuildings.length > 1) {
+            var last = this.world.game.date.getTime();
+            last = this.queueBuildings[1].ready;
+            this.queueBuildings.splice(1, 0, { ready: last, typeid: typeid, name: "" });
+            //move others
+            for(var x=2;x<this.queueBuildings.length;x++){
+                last += (parameter.daysBuildBuilding * 1000 * 60 * 60 * 24) / (!this.buildingplaces ? 1 : (this.buildingplaces + 1));
+                this.queueBuildings[x].ready=last;
+            }
+        } else {
+            var last = this.world.game.date.getTime();
+            if (this.queueBuildings.length > 0)
+                last = this.queueBuildings[this.queueBuildings.length - 1].ready;
+            last += (parameter.daysBuildBuilding * 1000 * 60 * 60 * 24) / (!this.buildingplaces ? 1 : (this.buildingplaces + 1));
+            this.queueBuildings.push({ ready: last, typeid: typeid, name: "" });
         }
     }
     buildAirplane(typeid: number) {
@@ -371,6 +379,8 @@ export class City {
         if (this.queueBuildings.length > 0 && this.queueBuildings[0].ready <= this.world.game.date.getTime()) {
             if (this.queueBuildings[0].typeid === 10000) {
                 this.shops++;
+            } else if (this.queueBuildings[0].typeid === 10001) {
+                this.buildingplaces++;
             } else {
                 for (var x = 0; x < this.companies.length; x++) {
                     if (this.companies[x].productid === this.queueBuildings[0].typeid) {
@@ -636,7 +646,7 @@ export class City {
     updateresetBuildingsWithoutCosts() {
         var _this = this;
         if (this.world.game.date.getHours() === 0) {
-            var test = getRandomInt(4000);
+            var test = getRandomInt(5000);
             if (test === 0) {
                 this.domStar.style.display = "initial";
                 setTimeout(() => {
@@ -694,16 +704,16 @@ export class City {
             return a.productid - b.productid;
         });
     }
-    getAirportColor(){
-        var acolor="white";
-        if(this.people>500000){
-            acolor="RoyalBlue";
+    getAirportColor() {
+        var acolor = "white";
+        if (this.people > 500000) {
+            acolor = "RoyalBlue";
         }
-        if(this.people>1000000){
-            acolor="Olive";
+        if (this.people > 1000000) {
+            acolor = "Olive";
         }
-        if(this.people>1500000){
-            acolor="HotPink";
+        if (this.people > 1500000) {
+            acolor = "HotPink";
         }
         //green GoldenRod 
         return acolor;
@@ -712,19 +722,19 @@ export class City {
         if (this.people > 500000 && this.companies.length < 6) {
             this.addNewCompany();
             this.resetBuildingsWithoutCosts();
-            this.domAirport.style.color= this.getAirportColor();
+            this.domAirport.style.color = this.getAirportColor();
         }
         if (this.people > 1000000 && this.companies.length < 7) {
             this.addNewCompany();
             this.resetBuildingsWithoutCosts();
-            this.domAirport.style.color=this.getAirportColor();
+            this.domAirport.style.color = this.getAirportColor();
         }
         if (this.people > 1500000 && this.companies.length < 8) {
             this.addNewCompany();
             this.resetBuildingsWithoutCosts();
-            this.domAirport.style.color=this.getAirportColor();
+            this.domAirport.style.color = this.getAirportColor();
         }
-        
+
     }
     update() {
         var _this = this;

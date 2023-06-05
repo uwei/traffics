@@ -38,6 +38,11 @@ export class DiagramDialog {
             parameter.numberBuildShopsWithContextMenu=num;
             _this.update();
         });
+          document.getElementById("buildSpeedWithOneClick").addEventListener('change', (e) => {
+            var num=parseInt((<HTMLInputElement>document.getElementById("buildSpeedWithOneClick")).value);
+            parameter.numberBuildSpeedWithContextMenu=num;
+            _this.update();
+        });
         for (var x = 0; x < parameter.allProducts.length; x++) {
             document.getElementById("diagram-advertise_" + x).addEventListener("click", (evt) => {
                 var sid = (<any>evt.target).id;
@@ -80,8 +85,9 @@ export class DiagramDialog {
                     </table>         
                 </div>
                  <div id="diagramdialog-settings">   
-                       number build company with one click: <input id="buildWithOneClick"  value="""/><br/>
-                       number build shops with one click: <input id="buildShopsWithOneClick"  value="""/>
+                       build company with one click: <input id="buildWithOneClick"  value="""/><br/>
+                       build shops with contextmenu: <input id="buildShopsWithOneClick"  value="""/><br/>
+                       build speed with contextmenu: <input id="buildSpeedWithOneClick"  value="""/><br/>
                 </div>
             </div>
            </div> 
@@ -136,6 +142,8 @@ export class DiagramDialog {
              (<HTMLInputElement>document.getElementById("buildWithOneClick")).value=""+parameter.numberBuildWithContextMenu;
         if (document.activeElement !== <any>document.getElementById("buildShopsWithOneClick")) 
          (<HTMLInputElement>document.getElementById("buildShopsWithOneClick")).value=""+parameter.numberBuildShopsWithContextMenu;
+         if (document.activeElement !== <any>document.getElementById("buildSpeedWithOneClick")) 
+         (<HTMLInputElement>document.getElementById("buildSpeedWithOneClick")).value=""+parameter.numberBuildSpeedWithContextMenu;
         try {
             if (!$(this.dom).dialog('isOpen')) {
                 return;

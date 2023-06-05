@@ -26,6 +26,11 @@ define(["require", "exports", "game/icons"], function (require, exports, icons_1
                 parameter.numberBuildShopsWithContextMenu = num;
                 _this.update();
             });
+            document.getElementById("buildSpeedWithOneClick").addEventListener('change', (e) => {
+                var num = parseInt(document.getElementById("buildSpeedWithOneClick").value);
+                parameter.numberBuildSpeedWithContextMenu = num;
+                _this.update();
+            });
             for (var x = 0; x < parameter.allProducts.length; x++) {
                 document.getElementById("diagram-advertise_" + x).addEventListener("click", (evt) => {
                     var sid = evt.target.id;
@@ -67,8 +72,9 @@ define(["require", "exports", "game/icons"], function (require, exports, icons_1
                     </table>         
                 </div>
                  <div id="diagramdialog-settings">   
-                       number build company with one click: <input id="buildWithOneClick"  value="""/><br/>
-                       number build shops with one click: <input id="buildShopsWithOneClick"  value="""/>
+                       build company with one click: <input id="buildWithOneClick"  value="""/><br/>
+                       build shops with contextmenu: <input id="buildShopsWithOneClick"  value="""/><br/>
+                       build speed with contextmenu: <input id="buildSpeedWithOneClick"  value="""/><br/>
                 </div>
             </div>
            </div> 
@@ -121,6 +127,8 @@ define(["require", "exports", "game/icons"], function (require, exports, icons_1
                 document.getElementById("buildWithOneClick").value = "" + parameter.numberBuildWithContextMenu;
             if (document.activeElement !== document.getElementById("buildShopsWithOneClick"))
                 document.getElementById("buildShopsWithOneClick").value = "" + parameter.numberBuildShopsWithContextMenu;
+            if (document.activeElement !== document.getElementById("buildSpeedWithOneClick"))
+                document.getElementById("buildSpeedWithOneClick").value = "" + parameter.numberBuildSpeedWithContextMenu;
             try {
                 if (!$(this.dom).dialog('isOpen')) {
                     return;

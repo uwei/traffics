@@ -57,7 +57,7 @@ export class CityDialog {
             </select>
             <input type="checkbox" id="hide-busy" name="vehicle1">hide busy</input>
             <button id="update-all-routes" title="update all routes" class="mybutton">`+ Icons.route + `</button>
-            <input type="checkbox" id="citydialog-shopinfo" title="show shop info beside the city" class="mybutton">info</input>
+            <input type="checkbox" id="citydialog-shopinfo" title="show shop info beside the city" >info</input>
           </div>
             <div id="citydialog-tabs">
                 <ul>
@@ -392,7 +392,7 @@ export class CityDialog {
         document.getElementById("buy-shop").addEventListener("click", (evt) => {
             if (!_this.city.commitBuildingCosts(15000, [], "buy building"))
                 return;
-            _this.city.buildBuilding(10000);
+            _this.city.buildBuilding(10000,true);
             _this.update();
         });
         document.getElementById("buy-shop").addEventListener("contextmenu", (evt) => {
@@ -401,7 +401,7 @@ export class CityDialog {
             if (!_this.city.commitBuildingCosts(15000 * parameter.numberBuildShopsWithContextMenu, [], "buy building"))
                 return;
             for (var x = 0; x < parameter.numberBuildShopsWithContextMenu; x++) {
-                _this.city.buildBuilding(10000);
+                _this.city.buildBuilding(10000,true);
             }
             _this.update();
         });
@@ -422,18 +422,20 @@ export class CityDialog {
                 return;
             if (_this.city.buildingplaces === 0)
                 _this.city.buildingplaces = 0;
-            _this.city.buildingplaces++;
-            //_this.city.buildBuilding(10000);
+            //_this.city.buildingplaces++;
+            _this.city.buildBuilding(10001,true);
             _this.update();
         });
         document.getElementById("buy-buildingplace").addEventListener("contextmenu", (evt) => {
              evt.preventDefault();
-            if (!_this.city.commitBuildingCosts(20000000* parameter.numberBuildShopsWithContextMenu, [], "buy buildingplace"))
+            if (!_this.city.commitBuildingCosts(20000000* parameter.numberBuildSpeedWithContextMenu, [], "buy buildingplace"))
                 return;
-            if (_this.city.buildingplaces === 0)
-                _this.city.buildingplaces = 0;
-
-            _this.city.buildingplaces= parameter.numberBuildShopsWithContextMenu+_this.city.buildingplaces;
+           
+            
+            //_this.city.buildingplaces= parameter.numberBuildSpeedWithContextMenu+_this.city.buildingplaces;
+            for(var x=0;x<parameter.numberBuildSpeedWithContextMenu;x++){
+                _this.city.buildBuilding(10001,true);
+            }
             //_this.city.buildBuilding(10000);
             _this.update();
         });
@@ -631,7 +633,13 @@ export class CityDialog {
         }
         document.getElementById("count-shops").innerHTML = "" + sh;
         document.getElementById("costs-shops").innerHTML = "" + this.city.getDailyCostsShops();
-        document.getElementById("count-buildingplaces").innerHTML = "" + this.city.buildingplaces.toLocaleString();
+
+        sh = "" + this.city.buildingplaces.toLocaleString();
+        var inprogr = this.city.getBuildingInProgress(10001);
+        if (inprogr) {
+            sh = sh + "(" + inprogr + Icons.hammer + ")";
+        }
+        document.getElementById("count-buildingplaces").innerHTML = "" +sh;
 
         if (this.city.canBuild(15000, []) !== "") {
             document.getElementById("buy-shop").setAttribute("disabled", "");
