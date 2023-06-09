@@ -173,7 +173,7 @@ export class City {
         this.domStar.addEventListener("click", (ev: MouseEvent) => {
             _this.resetBuildingsWithoutCosts();
         });
-        this.domStar.style.zIndex = "3";
+        this.domStar.style.zIndex = "99999";
         this.world.dom.appendChild(this.domStar);
         this.domDesc = <any>document.createRange().createContextualFragment('<span style="position:absolute;top:' + (30 + this.y) +
             'px;left:' + (this.x - 20) + 'px;font-size:12px;"></span>').children[0];
@@ -651,7 +651,7 @@ export class City {
                 this.domStar.style.display = "initial";
                 setTimeout(() => {
                     _this.domStar.style.display = "none";
-                }, 7000);
+                }, 8000);
             }
         }
     }
