@@ -1,4 +1,4 @@
-define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "game/airplanedialog", "game/routedialog", "game/squadrondialog", "game/diagramdialog", "game/product", "game/icons"], function (require, exports, city_1, airplane_1, citydialog_1, airplanedialog_1, routedialog_1, squadrondialog_1, diagramdialog_1, product_1, icons_1) {
+define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "game/airplanedialog", "game/routedialog", "game/squadrondialog", "game/company", "game/diagramdialog", "game/product", "game/icons"], function (require, exports, city_1, airplane_1, citydialog_1, airplanedialog_1, routedialog_1, squadrondialog_1, company_1, diagramdialog_1, product_1, icons_1) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.World = void 0;
@@ -109,9 +109,14 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
         resetMostExpensiveCity() {
             var max = 0;
             var city = undefined;
+            var comp = new company_1.Company();
             for (var x = 0; x < this.cities.length; x++) {
                 for (var c = 0; c < this.cities[x].companies.length; c++) {
                     var test = (this.cities[x].companies[c].buildings - (this.cities[x].companies[c].buildingsWithoutCosts ? this.cities[x].companies[c].buildingsWithoutCosts : 0));
+                    comp.productid = this.cities[x].companies[c].productid;
+                    comp.buildings = test;
+                    comp.city = this.cities[x];
+                    test = comp.getBuildingCosts();
                     if (test > max) {
                         max = test;
                         city = this.cities[x];

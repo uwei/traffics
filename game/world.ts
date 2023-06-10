@@ -129,16 +129,22 @@ export class World {
     resetMostExpensiveCity() {
         var max = 0;
         var city: City = undefined;
+        var comp = new Company();
         for (var x = 0; x < this.cities.length; x++) {
             for (var c = 0; c < this.cities[x].companies.length; c++) {
                 var test = (this.cities[x].companies[c].buildings - (this.cities[x].companies[c].buildingsWithoutCosts ? this.cities[x].companies[c].buildingsWithoutCosts : 0));
+                comp.productid = this.cities[x].companies[c].productid;
+                comp.buildings = test;
+                comp.city = this.cities[x];
+                test= comp.getBuildingCosts();
+
                 if (test > max) {
                     max = test;
                     city = this.cities[x];
                 }
             }
         }
-        city.showStar(); 
+        city.showStar();
     }
     update() {
         if (this.lastUpdate === undefined) {
