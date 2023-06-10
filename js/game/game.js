@@ -6,6 +6,8 @@ define(["require", "exports", "game/citydialog", "game/world", "game/airplanedia
     window.onbeforeunload = function () {
         return "Do you want to exit?";
     };
+    //@ts-ignore
+    $.notify.defaults({ position: "bottom right", className: "info" });
     class Statistic {
         constructor() {
             this.today = {};

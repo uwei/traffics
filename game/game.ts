@@ -16,6 +16,8 @@ window.onbeforeunload = function () {
   return "Do you want to exit?";
 
 };
+//@ts-ignore
+$.notify.defaults({ position: "bottom right", className: "info" });
 export class Statistic {
   today: { [key: string]: number } = {};
   yesterday: { [key: string]: number } = {};
