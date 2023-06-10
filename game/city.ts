@@ -220,8 +220,8 @@ export class City {
         for (var x = 0; x < this.companies.length; x++) {
             this.companies[x].buildingsWithoutCosts = this.companies[x].buildings;
         }
-
-        alert("Congratulations. All building costs " + this.name + " are reset.")
+        //@ts-ignore
+        $.notify("Congratulations. All building costs " + this.name + " are reset.");
     }
     buildBuilding(typeid: number, before = false) {
 
@@ -790,7 +790,8 @@ export class City {
             var price = Number(iprice).toLocaleString();
             if (confirm(`Do you want to buy an airport for ${price}?`)) {
                 if (this.world.game.getMoney() < iprice) {
-                    alert("Not enough money");
+                    //@ts-ignore
+                    $.notify("Not enough money");
                     return;
                 }
                 this.world.game.changeMoney(-iprice, "buy an airport", this);

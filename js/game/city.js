@@ -180,7 +180,8 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             for (var x = 0; x < this.companies.length; x++) {
                 this.companies[x].buildingsWithoutCosts = this.companies[x].buildings;
             }
-            alert("Congratulations. All building costs " + this.name + " are reset.");
+            //@ts-ignore
+            $.notify("Congratulations. All building costs " + this.name + " are reset.");
         }
         buildBuilding(typeid, before = false) {
             //shop should create at first
@@ -717,7 +718,8 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                 var price = Number(iprice).toLocaleString();
                 if (confirm(`Do you want to buy an airport for ${price}?`)) {
                     if (this.world.game.getMoney() < iprice) {
-                        alert("Not enough money");
+                        //@ts-ignore
+                        $.notify("Not enough money");
                         return;
                     }
                     this.world.game.changeMoney(-iprice, "buy an airport", this);
