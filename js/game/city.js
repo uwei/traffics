@@ -583,15 +583,19 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             else
                 this.domRating.style.display = "none";
         }
+        showStar() {
+            var _this = this;
+            this.domStar.style.display = "initial";
+            setTimeout(() => {
+                _this.domStar.style.display = "none";
+            }, 8000);
+        }
         updateresetBuildingsWithoutCosts() {
             var _this = this;
             if (this.world.game.date.getHours() === 0) {
                 var test = getRandomInt(4000);
                 if (test === 0) {
-                    this.domStar.style.display = "initial";
-                    setTimeout(() => {
-                        _this.domStar.style.display = "none";
-                    }, 8000);
+                    this.showStar();
                 }
             }
         }

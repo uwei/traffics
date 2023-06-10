@@ -106,6 +106,20 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
                 this.cities[x].updateUI();
             }
         }
+        resetMostExpensiveCity() {
+            var max = 0;
+            var city = undefined;
+            for (var x = 0; x < this.cities.length; x++) {
+                for (var c = 0; c < this.cities[x].companies.length; c++) {
+                    var test = (this.cities[x].companies[c].buildings - (this.cities[x].companies[c].buildingsWithoutCosts ? this.cities[x].companies[c].buildingsWithoutCosts : 0));
+                    if (test > max) {
+                        max = test;
+                        city = this.cities[x];
+                    }
+                }
+            }
+            city.showStar();
+        }
         update() {
             var _a;
             if (this.lastUpdate === undefined) {
@@ -126,6 +140,9 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
                 var i = getRandomInt(80);
                 if (i === 0)
                     this.showMoveIcon();
+                i = getRandomInt(200);
+                if (i === 0)
+                    this.resetMostExpensiveCity();
                 for (var y = 0; y < parameter.allProducts.length; y++) {
                     if (this.game.world.advertising[y] && this.game.date.getTime() > this.game.world.advertising[y]) {
                         this.game.world.advertising[y] = undefined;
