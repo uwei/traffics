@@ -144,6 +144,8 @@ export class World {
                 }
             }
         }
+         //@ts-ignore
+        $.notify("Upgrade " + city.name + " ("+max+")");
         city.showStar();
     }
     update() {

@@ -123,6 +123,8 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
                     }
                 }
             }
+            //@ts-ignore
+            $.notify("Upgrade " + city.name + " (" + max + ")");
             city.showStar();
         }
         update() {
