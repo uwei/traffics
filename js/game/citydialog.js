@@ -572,7 +572,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                     document.getElementById("buy-license_" + x).setAttribute("disabled", "");
                 }
             }
-            for (var x = 6; x <= 8; x++) {
+            for (var x = 6; x <= 10; x++) {
                 var trr = table.children[0].children[x];
                 if (x > this.city.companies.length && trr.style.display !== "none") {
                     trr.style.display = "none";
