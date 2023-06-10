@@ -653,6 +653,12 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             if (this.people > 1500000) {
                 acolor = "HotPink";
             }
+            if (this.people > 2000000) {
+                acolor = "green";
+            }
+            if (this.people > 2500000) {
+                acolor = "GoldenRod";
+            }
             //green GoldenRod 
             return acolor;
         }
@@ -668,6 +674,16 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                 this.domAirport.style.color = this.getAirportColor();
             }
             if (this.people > 1500000 && this.companies.length < 8) {
+                this.addNewCompany();
+                this.resetBuildingsWithoutCosts();
+                this.domAirport.style.color = this.getAirportColor();
+            }
+            if (this.people > 2000000 && this.companies.length < 9) {
+                this.addNewCompany();
+                this.resetBuildingsWithoutCosts();
+                this.domAirport.style.color = this.getAirportColor();
+            }
+            if (this.people > 2500000 && this.companies.length < 10) {
                 this.addNewCompany();
                 this.resetBuildingsWithoutCosts();
                 this.domAirport.style.color = this.getAirportColor();

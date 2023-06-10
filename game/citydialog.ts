@@ -117,7 +117,7 @@ export class CityDialog {
                         </tr>
                        ${(function fun() {
                 var ret = "";
-                for (var x = 0; x < 8; x++) {
+                for (var x = 0; x < 10; x++) {
                     ret = ret + "<tr>";
                     ret = ret + "<td></td>";
                     ret = ret + "<td></td>";

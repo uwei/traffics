@@ -227,14 +227,14 @@ export class City {
 
 
         //shop should create at first
-        if (before&&this.queueBuildings.length > 1) {
+        if (before && this.queueBuildings.length > 1) {
             var last = this.world.game.date.getTime();
             last = this.queueBuildings[1].ready;
             this.queueBuildings.splice(1, 0, { ready: last, typeid: typeid, name: "" });
             //move others
-            for(var x=2;x<this.queueBuildings.length;x++){
+            for (var x = 2; x < this.queueBuildings.length; x++) {
                 last += (parameter.daysBuildBuilding * 1000 * 60 * 60 * 24) / (!this.buildingplaces ? 1 : (this.buildingplaces + 1));
-                this.queueBuildings[x].ready=last;
+                this.queueBuildings[x].ready = last;
             }
         } else {
             var last = this.world.game.date.getTime();
@@ -715,6 +715,12 @@ export class City {
         if (this.people > 1500000) {
             acolor = "HotPink";
         }
+        if (this.people > 2000000) {
+            acolor = "green";
+        }
+        if (this.people > 2500000) {
+            acolor = "GoldenRod";
+        }
         //green GoldenRod 
         return acolor;
     }
@@ -730,6 +736,16 @@ export class City {
             this.domAirport.style.color = this.getAirportColor();
         }
         if (this.people > 1500000 && this.companies.length < 8) {
+            this.addNewCompany();
+            this.resetBuildingsWithoutCosts();
+            this.domAirport.style.color = this.getAirportColor();
+        }
+         if (this.people > 2000000 && this.companies.length < 9) {
+            this.addNewCompany();
+            this.resetBuildingsWithoutCosts();
+            this.domAirport.style.color = this.getAirportColor();
+        }
+         if (this.people > 2500000 && this.companies.length < 10) {
             this.addNewCompany();
             this.resetBuildingsWithoutCosts();
             this.domAirport.style.color = this.getAirportColor();
