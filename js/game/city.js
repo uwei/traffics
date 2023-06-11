@@ -593,7 +593,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
         updateresetBuildingsWithoutCosts() {
             var _this = this;
             if (this.world.game.date.getHours() === 0) {
-                var test = getRandomInt(4000);
+                var test = getRandomInt(6000);
                 if (test === 0) {
                     this.showStar();
                 }
