@@ -54,7 +54,7 @@ export class Product {
         }
         return ges;
     }
-    private getAverageBuildingCosts(world: World) {
+    public getAverageBuildingCosts(world: World) {
         var ges = 0;
         var count = 0;
         for (var x = 0; x < world.cities.length; x++) {

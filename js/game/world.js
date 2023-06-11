@@ -144,9 +144,12 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
                 product_1.Product.randomUpdateConsumtion(this);
             }
             if (this.game.date.getDate() !== new Date(this.lastUpdate).getDate()) {
-                var i = getRandomInt(80);
+                var i = getRandomInt(120);
                 if (i === 0)
                     this.showMoveIcon();
+                i = getRandomInt(Math.round(200 / this.cities.length * 80)); //each 80 day
+                if (i === 0)
+                    this.showReduceIcon();
                 i = getRandomInt(Math.round(200 / this.cities.length * 80)); //each 80 day
                 if (i === 0)
                     this.resetMostExpensiveCity();
@@ -302,6 +305,52 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
             });
             setTimeout(() => {
                 _this.dom.removeChild(domStar);
+            }, 8000);
+        }
+        showReduceIcon() {
+            var _this = this;
+            var x = getRandomInt(this.game.mapWidth);
+            var y = getRandomInt(this.game.mapHeight);
+            var prod = undefined;
+            var max = 0;
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                var test = parameter.allProducts[x].getAverageBuildingCosts(this);
+                if (test > max) {
+                    max = test;
+                    prod = parameter.allProducts[x];
+                }
+            }
+            //     return "<span style='width:14px;font-size:15px;color:" + colors[this.id][1] + ";background-color:" + colors[this.id][0] + "' class='mdi " + ic + "'></span>";
+            var domIcon = document.createRange().createContextualFragment(prod.getIcon()).children[0];
+            this.dom.appendChild(domIcon);
+            domIcon.style.position = "absolute";
+            domIcon.style.top = y + "px";
+            domIcon.style.left = x + "px";
+            domIcon.style.fontSize = "38px";
+            domIcon.style.animation = "animate   0.5s linear infinite";
+            domIcon.style.zIndex = "999999";
+            //         <any>document.createRange().createContextualFragment('<span style="position:absolute;top:' + (y) +
+            //          'px;left:' + (x) + 'px;font-size:48px;color:yellow;animation: animate   0.5s linear infinite;z-index:4" >' +  prod.getIcon()+ '</span>').children[0];
+            // 
+            domIcon.addEventListener("click", (ev) => {
+                domIcon.style.visibility = "hidden";
+                for (var x = 0; x < _this.cities.length; x++) {
+                    for (var c = 0; c < _this.cities[x].companies.length; c++) {
+                        var comp = _this.cities[x].companies[c];
+                        if (comp.productid === prod.id) {
+                            if (comp.buildingsWithoutCosts === undefined)
+                                comp.buildingsWithoutCosts = 0;
+                            var diff = Math.round((comp.buildings - comp.buildingsWithoutCosts) / 2);
+                            comp.buildingsWithoutCosts = comp.buildingsWithoutCosts + diff;
+                        }
+                    }
+                }
+                //@ts-ignore
+                $.notify("Reduced building costs of " + prod.name);
+                return undefined;
+            });
+            setTimeout(() => {
+                _this.dom.removeChild(domIcon);
             }, 8000);
         }
     }
