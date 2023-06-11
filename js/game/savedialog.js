@@ -448,6 +448,11 @@ define(["require", "exports", "game/product", "game/airplane", "game/route", "ga
                 parameter.numberBuildShopsWithContextMenu = 10;
                 game.version = "3.4";
             }
+            if (parseFloat(ret.version) < 3.7) {
+                parameter.rateBuyBuildingGrowFactor = 2000;
+                //parameter.numberBuildShopsWithContextMenu=10;
+                game.version = "3.7";
+            }
             game.render(this.game.dom);
             game.resume();
         }

@@ -2,7 +2,7 @@ define(["require", "exports", "game/citydialog", "game/world", "game/airplanedia
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.test = exports.Game = exports.Parameter = exports.Statistic = void 0;
-    var gameversion = "3.6";
+    var gameversion = "3.7";
     window.onbeforeunload = function () {
         return "Do you want to exit?";
     };
@@ -35,7 +35,7 @@ define(["require", "exports", "game/citydialog", "game/world", "game/airplanedia
             this.ratePriceMax = 1.33;
             this.rateBuyAirplane = 1;
             this.rateBuyBuilding = 1;
-            this.rateBuyBuildingGrowFactor = 3000;
+            this.rateBuyBuildingGrowFactor = 2000;
             this.rateCostsAirplaine = 1;
             this.rateCostShop = 100;
             this.rateCostsShopMany = 1000;
@@ -113,7 +113,7 @@ define(["require", "exports", "game/citydialog", "game/world", "game/airplanedia
     //global.parameter=new Parametetr();
     class Game {
         constructor() {
-            this.version = "3.6";
+            this.version = "3.7";
             this.mapWidth = 1000;
             this.mapHeight = 600;
             var _this = this;
