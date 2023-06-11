@@ -14,6 +14,7 @@ window.city = function () {
 }
 
 export class CityDialog {
+    maxCompanies=10;
     dom: HTMLDivElement;
     city: City;
     hasPaused = false;
@@ -105,6 +106,7 @@ export class CityDialog {
         return ret;
     }
     createBuildings() {
+        var _this=this;
         return `<table id="citydialog-buildings-table" style="height:100%;weight:100%;">
                         <tr>
                             <th>Produce</th>
@@ -117,7 +119,7 @@ export class CityDialog {
                         </tr>
                        ${(function fun() {
                 var ret = "";
-                for (var x = 0; x < 10; x++) {
+                for (var x = 0; x <_this.maxCompanies ; x++) {
                     ret = ret + "<tr>";
                     ret = ret + "<td></td>";
                     ret = ret + "<td></td>";
@@ -328,7 +330,7 @@ export class CityDialog {
 
         });
 
-        for (var x = 0; x < 8; x++) {
+        for (var x = 0; x < this.maxCompanies; x++) {
             document.getElementById("new-factory_" + x).addEventListener("click", (evt) => {
                 var sid = (<any>evt.target).id;
                 if (sid === "")
@@ -616,7 +618,7 @@ export class CityDialog {
                 document.getElementById("buy-license_" + x).setAttribute("disabled", "");
             }
         }
-        for (var x = 6; x <= 10; x++) {
+        for (var x = 6; x <= this.maxCompanies; x++) {
             var trr: HTMLTableRowElement = <HTMLTableRowElement>table.children[0].children[x];
             if (x > this.city.companies.length && trr.style.display !== "none") {
                 trr.style.display = "none";

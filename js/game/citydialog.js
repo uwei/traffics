@@ -8,6 +8,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
     };
     class CityDialog {
         constructor() {
+            this.maxCompanies = 10;
             this.hasPaused = false;
             this.create();
         }
@@ -87,6 +88,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
             return ret;
         }
         createBuildings() {
+            var _this = this;
             return `<table id="citydialog-buildings-table" style="height:100%;weight:100%;">
                         <tr>
                             <th>Produce</th>
@@ -99,7 +101,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                         </tr>
                        ${(function fun() {
                 var ret = "";
-                for (var x = 0; x < 10; x++) {
+                for (var x = 0; x < _this.maxCompanies; x++) {
                     ret = ret + "<tr>";
                     ret = ret + "<td></td>";
                     ret = ret + "<td></td>";
@@ -299,7 +301,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 _this.city.renderShopinfo(en);
                 //  _this.update();
             });
-            for (var x = 0; x < 8; x++) {
+            for (var x = 0; x < this.maxCompanies; x++) {
                 document.getElementById("new-factory_" + x).addEventListener("click", (evt) => {
                     var sid = evt.target.id;
                     if (sid === "")
@@ -572,7 +574,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                     document.getElementById("buy-license_" + x).setAttribute("disabled", "");
                 }
             }
-            for (var x = 6; x <= 10; x++) {
+            for (var x = 6; x <= this.maxCompanies; x++) {
                 var trr = table.children[0].children[x];
                 if (x > this.city.companies.length && trr.style.display !== "none") {
                     trr.style.display = "none";
