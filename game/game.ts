@@ -67,6 +67,7 @@ export class Parameter {
   numberBuildWithContextMenu = 10;
   numberBuildShopsWithContextMenu = 10;
   numberBuildSpeedWithContextMenu = 5;
+  hideFlags=false;
   startMoney = 250000;
   allAirplaneTypes = [
     { typeid: 0, model: "Airplane", speed: 200, capacity: 200, costs: 60, buildDays: 20, buildingCosts: 20000, buildingMaterial: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }

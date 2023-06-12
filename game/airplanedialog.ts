@@ -238,10 +238,11 @@ export class AirplaneDialog {
 
         }
         if (this.dropCitiesEnabled === false && enable) {
-            $(".city").draggable({
+            var config={
                 connectToSortable: '#route-list',
                 helper: function (event) {
-                    var id = parseInt(event.target.getAttribute("cityid"));
+                    var id = parseInt(event.target.getAttribute("cityid")?event.target.getAttribute("cityid"):event.target.parentNode.getAttribute("cityid"));
+                   
                     var city = _this.airplane.world.cities[id];
                     var ret = '<li id="route-' + id + '" class="ui-state-default"><img style="width:20px" src="' + city.icon + '" </img>' + city.name + "</li>";
 
@@ -249,7 +250,10 @@ export class AirplaneDialog {
                     // return helper._position.dom;
                 },
                 revert: 'invalid'
-            });
+            };
+
+            $(".city").draggable(config);
+            $(".citydesc").draggable(config);
             for (var x = 0; x < _this.airplane.world.cities.length; x++) {
                 if (this.airplane.world.cities[x].hasAirport === false) {
                     $(this.airplane.world.cities[x].dom).draggable('disable');

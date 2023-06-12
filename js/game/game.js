@@ -50,6 +50,7 @@ define(["require", "exports", "game/citydialog", "game/world", "game/airplanedia
             this.numberBuildWithContextMenu = 10;
             this.numberBuildShopsWithContextMenu = 10;
             this.numberBuildSpeedWithContextMenu = 5;
+            this.hideFlags = false;
             this.startMoney = 250000;
             this.allAirplaneTypes = [
                 { typeid: 0, model: "Airplane", speed: 200, capacity: 200, costs: 60, buildDays: 20, buildingCosts: 20000, buildingMaterial: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }

@@ -160,7 +160,7 @@ export class City {
         this.dom = <any>document.createElement("img");
         this.dom.style.border = "1px solid black";
         this.dom.setAttribute("src", this.icon);
-        this.dom.setAttribute("cityid", cityid.toString())
+        this.dom.setAttribute("cityid", cityid.toString());
         this.dom.style.position = "absolute";
         this.dom.classList.add("city");
         this.dom["city"] = this;
@@ -177,6 +177,8 @@ export class City {
         this.world.dom.appendChild(this.domStar);
         this.domDesc = <any>document.createRange().createContextualFragment('<span style="position:absolute;top:' + (30 + this.y) +
             'px;left:' + (this.x - 20) + 'px;font-size:12px;"></span>').children[0];
+        this.domDesc.setAttribute("cityid", cityid.toString())
+        this.domDesc.classList.add("citydesc");
         this.domName = <any>document.createRange().createContextualFragment('<span>' + this.name.substring(0, 12) + '</span>').children[0];
         this.domPeople = <any>document.createRange().createContextualFragment('<span>0</span>').children[0];
         this.domDesc.appendChild(this.domName);
@@ -200,8 +202,15 @@ export class City {
             _this.onclick(ev);
             return undefined;
         });
-
+        this.domDesc.addEventListener("click", (ev: MouseEvent) => {
+            _this.onclick(ev);
+            return undefined;
+        });
         this.dom.addEventListener("contextmenu", (ev: MouseEvent) => {
+            _this.oncontextmenu(ev);
+            return undefined;
+        });
+        this.domDesc.addEventListener("contextmenu", (ev: MouseEvent) => {
             _this.oncontextmenu(ev);
             return undefined;
         });
@@ -213,6 +222,23 @@ export class City {
             _this.oncontextmenu(ev);
             return undefined;
         });
+        this.showOrHideFlags();
+    }
+    showOrHideFlags() {
+        if (parameter.hideFlags && this.dom.style.visibility !== "hidden") {
+            this.dom.style.visibility = "hidden";
+            this.domDesc.style.top = (this.y) + "px";
+            this.domDesc.style.left = (this.x) + "px";
+            this.domStar.style.top = (this.y) + "px";
+        
+        }
+        if (!parameter.hideFlags && this.dom.style.visibility === "hidden") {
+            this.dom.style.visibility = "";
+            this.domDesc.style.top = (this.y + 30) + "px";
+            this.domDesc.style.left = (this.x - 20) + "px";
+            this.domStar.style.top = (this.y + 16) + "px";
+        }
+
     }
     resetBuildingsWithoutCosts() {
         var _this = this;
@@ -644,7 +670,7 @@ export class City {
             this.domRating.style.display = "none";
     }
     showStar() {
-        var _this=this;
+        var _this = this;
         this.domStar.style.display = "initial";
         setTimeout(() => {
             _this.domStar.style.display = "none";
@@ -653,7 +679,7 @@ export class City {
     updateresetBuildingsWithoutCosts() {
         var _this = this;
         if (this.world.game.date.getHours() === 0) {
-            var test = getRandomInt(6000);
+            var test = getRandomInt(7000);
             if (test === 0) {
                 this.showStar();
             }

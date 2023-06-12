@@ -43,6 +43,16 @@ export class DiagramDialog {
             parameter.numberBuildSpeedWithContextMenu=num;
             _this.update();
         });
+          document.getElementById("hideFlags").addEventListener("click", (e) => {
+            var en = (<HTMLInputElement>document.getElementById("hideFlags")).checked;
+            parameter.hideFlags=en;
+            for(var x=0;x<_this.world.cities.length;x++){
+                _this.world.cities[x].showOrHideFlags();
+            }
+           // _this.city.renderShopinfo(en);
+            //  _this.update();
+
+        });
         for (var x = 0; x < parameter.allProducts.length; x++) {
             document.getElementById("diagram-advertise_" + x).addEventListener("click", (evt) => {
                 var sid = (<any>evt.target).id;
@@ -88,6 +98,7 @@ export class DiagramDialog {
                        build company with one click: <input id="buildWithOneClick"  value="""/><br/>
                        build shops with contextmenu: <input id="buildShopsWithOneClick"  value="""/><br/>
                        build speed with contextmenu: <input id="buildSpeedWithOneClick"  value="""/><br/>
+                       <input type="checkbox" id="hideFlags" title="hide flags" >hide flags</input>
                 </div>
             </div>
            </div> 
@@ -144,6 +155,9 @@ export class DiagramDialog {
          (<HTMLInputElement>document.getElementById("buildShopsWithOneClick")).value=""+parameter.numberBuildShopsWithContextMenu;
          if (document.activeElement !== <any>document.getElementById("buildSpeedWithOneClick")) 
          (<HTMLInputElement>document.getElementById("buildSpeedWithOneClick")).value=""+parameter.numberBuildSpeedWithContextMenu;
+        if ((<HTMLInputElement>document.getElementById("hideFlags")).checked !== parameter.hideFlags)
+            (<HTMLInputElement>document.getElementById("hideFlags")).checked = parameter.hideFlags;
+
         try {
             if (!$(this.dom).dialog('isOpen')) {
                 return;

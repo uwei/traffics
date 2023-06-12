@@ -140,6 +140,8 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             this.world.dom.appendChild(this.domStar);
             this.domDesc = document.createRange().createContextualFragment('<span style="position:absolute;top:' + (30 + this.y) +
                 'px;left:' + (this.x - 20) + 'px;font-size:12px;"></span>').children[0];
+            this.domDesc.setAttribute("cityid", cityid.toString());
+            this.domDesc.classList.add("citydesc");
             this.domName = document.createRange().createContextualFragment('<span>' + this.name.substring(0, 12) + '</span>').children[0];
             this.domPeople = document.createRange().createContextualFragment('<span>0</span>').children[0];
             this.domDesc.appendChild(this.domName);
@@ -161,7 +163,15 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                 _this.onclick(ev);
                 return undefined;
             });
+            this.domDesc.addEventListener("click", (ev) => {
+                _this.onclick(ev);
+                return undefined;
+            });
             this.dom.addEventListener("contextmenu", (ev) => {
+                _this.oncontextmenu(ev);
+                return undefined;
+            });
+            this.domDesc.addEventListener("contextmenu", (ev) => {
                 _this.oncontextmenu(ev);
                 return undefined;
             });
@@ -173,6 +183,21 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                 _this.oncontextmenu(ev);
                 return undefined;
             });
+            this.showOrHideFlags();
+        }
+        showOrHideFlags() {
+            if (parameter.hideFlags && this.dom.style.visibility !== "hidden") {
+                this.dom.style.visibility = "hidden";
+                this.domDesc.style.top = (this.y) + "px";
+                this.domDesc.style.left = (this.x) + "px";
+                this.domStar.style.top = (this.y) + "px";
+            }
+            if (!parameter.hideFlags && this.dom.style.visibility === "hidden") {
+                this.dom.style.visibility = "";
+                this.domDesc.style.top = (this.y + 30) + "px";
+                this.domDesc.style.left = (this.x - 20) + "px";
+                this.domStar.style.top = (this.y + 16) + "px";
+            }
         }
         resetBuildingsWithoutCosts() {
             var _this = this;
@@ -593,7 +618,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
         updateresetBuildingsWithoutCosts() {
             var _this = this;
             if (this.world.game.date.getHours() === 0) {
-                var test = getRandomInt(6000);
+                var test = getRandomInt(7000);
                 if (test === 0) {
                     this.showStar();
                 }
