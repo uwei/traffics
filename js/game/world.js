@@ -271,7 +271,10 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
                     $(sel).draggable("destroy");
                     var city = event.target.city;
                     setTimeout(() => {
-                        _this.makeCityMovable(city.dom);
+                        if (parameter.hideFlags)
+                            _this.makeCityMovable(city.domDesc);
+                        else
+                            _this.makeCityMovable(city.dom);
                     }, 400);
                     var x = parseInt(event.target.style.left.replace("px", ""));
                     var y = parseInt(event.target.style.top.replace("px", ""));
@@ -299,7 +302,10 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
             domStar.addEventListener("click", (ev) => {
                 domStar.style.visibility = "hidden";
                 if (confirm("Do you want to move a city (drag and drop)")) {
-                    _this.makeCityMovable(".city");
+                    if (parameter.hideFlags)
+                        _this.makeCityMovable(".citydesc");
+                    else
+                        _this.makeCityMovable(".city");
                 }
                 return undefined;
             });

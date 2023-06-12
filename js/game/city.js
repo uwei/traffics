@@ -98,6 +98,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                 'px;left:' + (this.x + 40) + 'px;font-size:40px;color:yellow;display:none;animation: animate   0.5s linear infinite;" >' + icons_1.Icons.stare + '</span>').children[0];
             this.renderShopinfo(false);
             this.renderShopinfo(this.cityShowShopInfo);
+            this.showOrHideFlags(true);
         }
         renderShopinfo(enable) {
             if (enable) {
@@ -141,6 +142,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             this.domDesc = document.createRange().createContextualFragment('<span style="position:absolute;top:' + (30 + this.y) +
                 'px;left:' + (this.x - 20) + 'px;font-size:12px;"></span>').children[0];
             this.domDesc.setAttribute("cityid", cityid.toString());
+            this.domDesc["city"] = this;
             this.domDesc.classList.add("citydesc");
             this.domName = document.createRange().createContextualFragment('<span>' + this.name.substring(0, 12) + '</span>').children[0];
             this.domPeople = document.createRange().createContextualFragment('<span>0</span>').children[0];
@@ -185,14 +187,14 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             });
             this.showOrHideFlags();
         }
-        showOrHideFlags() {
-            if (parameter.hideFlags && this.dom.style.visibility !== "hidden") {
+        showOrHideFlags(forceUpdate = false) {
+            if (parameter.hideFlags && (forceUpdate || this.dom.style.visibility !== "hidden")) {
                 this.dom.style.visibility = "hidden";
                 this.domDesc.style.top = (this.y) + "px";
                 this.domDesc.style.left = (this.x) + "px";
                 this.domStar.style.top = (this.y) + "px";
             }
-            if (!parameter.hideFlags && this.dom.style.visibility === "hidden") {
+            if (!parameter.hideFlags && (forceUpdate || this.dom.style.visibility === "hidden")) {
                 this.dom.style.visibility = "";
                 this.domDesc.style.top = (this.y + 30) + "px";
                 this.domDesc.style.left = (this.x - 20) + "px";

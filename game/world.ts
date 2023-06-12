@@ -302,6 +302,9 @@ export class World {
                 $(sel).draggable("destroy");
                 var city: City = (<any>event.target).city;
                 setTimeout(() => {
+                    if(parameter.hideFlags)
+                    _this.makeCityMovable(city.domDesc);
+                    else
                     _this.makeCityMovable(city.dom);
 
                 }, 400);
@@ -332,6 +335,9 @@ export class World {
         domStar.addEventListener("click", (ev: MouseEvent) => {
             domStar.style.visibility = "hidden";
             if (confirm("Do you want to move a city (drag and drop)")) {
+                if(parameter.hideFlags)
+                _this.makeCityMovable(".citydesc");
+                else
                 _this.makeCityMovable(".city");
             }
             return undefined;
