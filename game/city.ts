@@ -226,15 +226,15 @@ export class City {
         });
         this.showOrHideFlags();
     }
-    showOrHideFlags(forceUpdate=false) {
-        if ( parameter.hideFlags &&(forceUpdate|| this.dom.style.visibility !== "hidden")) {
+    showOrHideFlags(forceUpdate = false) {
+        if (parameter.hideFlags && (forceUpdate || this.dom.style.visibility !== "hidden")) {
             this.dom.style.visibility = "hidden";
             this.domDesc.style.top = (this.y) + "px";
             this.domDesc.style.left = (this.x) + "px";
             this.domStar.style.top = (this.y) + "px";
-        
+
         }
-        if (!parameter.hideFlags && (forceUpdate||this.dom.style.visibility === "hidden")) {
+        if (!parameter.hideFlags && (forceUpdate || this.dom.style.visibility === "hidden")) {
             this.dom.style.visibility = "";
             this.domDesc.style.top = (this.y + 30) + "px";
             this.domDesc.style.left = (this.x - 20) + "px";
@@ -704,7 +704,10 @@ export class City {
                 row.children[0].innerHTML = parameter.allProducts[sorted[x]].getIcon();
                 row.setAttribute("product", sorted[x].toString());
             }
-            row.children[1].textContent = this.shop[sorted[x]].toLocaleString();
+            if (_this.world.advertising[arr[x]] !== undefined)
+                row.children[1].textContent = this.shop[sorted[x]].toLocaleString() + "↓";
+            else
+                row.children[1].textContent = this.shop[sorted[x]].toLocaleString() ;
         }
         var proz = gesamount / (this.shops * parameter.capacityShop);
         if (proz > 0.75 && this.domShopinfo.style.backgroundColor !== "LightPink")

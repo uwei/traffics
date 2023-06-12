@@ -643,7 +643,10 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                     row.children[0].innerHTML = parameter.allProducts[sorted[x]].getIcon();
                     row.setAttribute("product", sorted[x].toString());
                 }
-                row.children[1].textContent = this.shop[sorted[x]].toLocaleString();
+                if (_this.world.advertising[arr[x]] !== undefined)
+                    row.children[1].textContent = this.shop[sorted[x]].toLocaleString() + "↓";
+                else
+                    row.children[1].textContent = this.shop[sorted[x]].toLocaleString();
             }
             var proz = gesamount / (this.shops * parameter.capacityShop);
             if (proz > 0.75 && this.domShopinfo.style.backgroundColor !== "LightPink")

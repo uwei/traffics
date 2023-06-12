@@ -37,5 +37,6 @@ define(["require", "exports"], function (require, exports) {
     Icons.wrench = "<span  class='mdi mdi-wrench-outline'></span>";
     Icons.move = "<span  class='mdi mdi-arrow-expand-all'></span>";
     Icons.capital = "<span  class='mdi mdi-city-variant-outline'></span>";
+    Icons.down = "<span  class='mdi mdi-arrow-down'></span>";
 });
 //# sourceMappingURL=icons.js.map
