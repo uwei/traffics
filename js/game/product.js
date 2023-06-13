@@ -115,8 +115,8 @@ define(["require", "exports", "game/game", "game/company"], function (require, e
             var profit = game_1.Game.instance.statistic.yesterday["people buy from the shop"];
             var diffbuildings = Math.round(1 / 100 * prod1.getBuildings(world));
             var faktor = 1;
-            if (diffbuildings * costs > profit * 7) { //the eliminated buildings by -1% should be buy back in 7 days
-                faktor = (profit * 5) / (diffbuildings * costs);
+            if (diffbuildings * costs > profit * 4) { //the eliminated buildings by -1% should be buy back in 4 days
+                faktor = (profit * 4) / (diffbuildings * costs);
                 proz = proz * faktor;
             }
             var proz1 = prod1.dailyConsumtion * (1 - ((proz) / 100));

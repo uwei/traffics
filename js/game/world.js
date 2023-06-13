@@ -147,10 +147,10 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
                 var i = getRandomInt(120);
                 if (i === 0)
                     this.showMoveIcon();
-                i = getRandomInt(Math.round(200 / this.cities.length * 300)); //each 140 day
+                i = getRandomInt(Math.round(200 / this.cities.length * 200)); //each 200 day
                 if (i === 0)
                     this.showReduceIcon();
-                i = getRandomInt(Math.round(200 / this.cities.length * 200)); //each 140 day
+                i = getRandomInt(Math.round(200 / this.cities.length * 150)); //each 150 day
                 if (i === 0)
                     this.resetMostExpensiveCity();
                 for (var y = 0; y < parameter.allProducts.length; y++) {

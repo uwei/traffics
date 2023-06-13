@@ -11,7 +11,7 @@ import { Route } from "game/route";
 import { Product } from "game/product";
 import { DiagramDialog } from "game/diagramdialog";
 import { SaveDialog } from "game/savedialog";
-var gameversion = "3.8";
+var gameversion = "3.9";
 window.onbeforeunload = function () {
   return "Do you want to exit?";
 
@@ -51,7 +51,7 @@ export class Parameter {
   ratePriceMax = 1.33;
   rateBuyAirplane = 1;
   rateBuyBuilding = 1;
-  rateBuyBuildingGrowFactor = 2000;
+  rateBuyBuildingGrowFactor = 3000;
   rateCostsAirplaine = 1;
   rateCostShop = 100;
   rateCostsShopMany = 1000;
@@ -135,7 +135,7 @@ export class Game {
   domHeader: HTMLDivElement;
   domWorld: HTMLDivElement;
   _money;
-  version = "3.8";
+  version = "3.9";
   date: Date;
   lastUpdate: number;
   speed: number;

@@ -137,8 +137,8 @@ export class Product {
         var profit = Game.instance.statistic.yesterday["people buy from the shop"];
         var diffbuildings = Math.round(1 / 100 * prod1.getBuildings(world));
         var faktor = 1;
-        if (diffbuildings * costs > profit * 7) { //the eliminated buildings by -1% should be buy back in 7 days
-            faktor = (profit * 5) / (diffbuildings * costs);
+        if (diffbuildings * costs > profit * 4) { //the eliminated buildings by -1% should be buy back in 4 days
+            faktor = (profit * 4) / (diffbuildings * costs);
             proz = proz * faktor;
         }
 
