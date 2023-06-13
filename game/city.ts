@@ -501,17 +501,24 @@ export class City {
             this.people = workers;
             return;
         }
-        //  var rating=this.getRating(this.people)===-1?Math.round(newPeople/2):newPeople;
-        while (newPeople > 0) {
-            var rate = this.getRating(this.people)
-            if (rate === 1)
-                this.people++;
-            if (rate < 0) {
+        if (this.people >= workers)
+            return;
+        if (this.getRating(this.people + newPeople) > 0) {
+            this.people = this.people + newPeople;
 
+        } else {
+            //  var rating=this.getRating(this.people)===-1?Math.round(newPeople/2):newPeople;
+            while (newPeople > 0) {
+                var rate = this.getRating(this.people)
+                if (rate === 1)
+                    this.people++;
+                if (rate < 0) {
+
+                }
+                //   if (this.getRating(this.people) === -1)
+                //     this.people--;
+                newPeople--;
             }
-            //   if (this.getRating(this.people) === -1)
-            //     this.people--;
-            newPeople--;
         }
         if (this.people > workers) {
             this.people = workers;
@@ -707,7 +714,7 @@ export class City {
             if (_this.world.advertising[arr[x]] !== undefined)
                 row.children[1].textContent = this.shop[sorted[x]].toLocaleString() + "↓";
             else
-                row.children[1].textContent = this.shop[sorted[x]].toLocaleString() ;
+                row.children[1].textContent = this.shop[sorted[x]].toLocaleString();
         }
         var proz = gesamount / (this.shops * parameter.capacityShop);
         if (proz > 0.75 && this.domShopinfo.style.backgroundColor !== "LightPink")

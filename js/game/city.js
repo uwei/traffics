@@ -455,16 +455,23 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                 this.people = workers;
                 return;
             }
-            //  var rating=this.getRating(this.people)===-1?Math.round(newPeople/2):newPeople;
-            while (newPeople > 0) {
-                var rate = this.getRating(this.people);
-                if (rate === 1)
-                    this.people++;
-                if (rate < 0) {
+            if (this.people >= workers)
+                return;
+            if (this.getRating(this.people + newPeople) > 0) {
+                this.people = this.people + newPeople;
+            }
+            else {
+                //  var rating=this.getRating(this.people)===-1?Math.round(newPeople/2):newPeople;
+                while (newPeople > 0) {
+                    var rate = this.getRating(this.people);
+                    if (rate === 1)
+                        this.people++;
+                    if (rate < 0) {
+                    }
+                    //   if (this.getRating(this.people) === -1)
+                    //     this.people--;
+                    newPeople--;
                 }
-                //   if (this.getRating(this.people) === -1)
-                //     this.people--;
-                newPeople--;
             }
             if (this.people > workers) {
                 this.people = workers;
