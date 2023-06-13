@@ -301,6 +301,8 @@ define(["require", "exports", "game/product", "game/airplane", "game/route", "ga
                 }
             }
             var game = this.game;
+            delete ret.timer;
+            delete ret.updateUIID;
             Object.assign(this.game, ret);
             game.world.game = game;
             game.date = new Date(game.date);
@@ -457,6 +459,11 @@ define(["require", "exports", "game/product", "game/airplane", "game/route", "ga
                 parameter.rateBuyBuildingGrowFactor = 3000;
                 //parameter.numberBuildShopsWithContextMenu=10;
                 game.version = "3.9";
+            }
+            if (parseFloat(ret.version) < 4.0) {
+                parameter.rateBuyBuildingGrowFactor = 2500;
+                //parameter.numberBuildShopsWithContextMenu=10;
+                game.version = "4.0";
             }
             game.render(this.game.dom);
             game.resume();

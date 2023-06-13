@@ -115,8 +115,8 @@ define(["require", "exports", "game/game", "game/company"], function (require, e
             var profit = game_1.Game.instance.statistic.yesterday["people buy from the shop"];
             var diffbuildings = Math.round(1 / 100 * prod1.getBuildings(world));
             var faktor = 1;
-            if (diffbuildings * costs > profit * 4) { //the eliminated buildings by -1% should be buy back in 4 days
-                faktor = (profit * 4) / (diffbuildings * costs);
+            if (diffbuildings * costs > profit * 3) { //the eliminated buildings by -1% should be buy back in 4 days
+                faktor = (profit * 3) / (diffbuildings * costs);
                 proz = proz * faktor;
             }
             var proz1 = prod1.dailyConsumtion * (1 - ((proz) / 100));
@@ -170,6 +170,14 @@ define(["require", "exports", "game/game", "game/company"], function (require, e
                 allCalc[product2].neededForPeople += diffBuildings * parameter.allProducts[product2].dailyProduce;
                 proz2 = allCalc[product2].neededForPeople / people;
             }
+            //test proz2
+            var testproz = Math.abs((prod2.dailyConsumtion - proz2) * 100 / prod2.dailyConsumtion);
+            var costs2 = prod2.getAverageBuildingCosts(world);
+            var diffbuildings2 = Math.round(1 / 100 * prod2.getBuildings(world));
+            var faktor = 1;
+            if (diffbuildings * costs2 * testproz > profit * 12) { //the new buildings should be buy back in 12 days
+                return this.randomUpdateConsumtion(world, product1, product2, proz * 0.75, changeBuildings);
+            }
             if (changeBuildings) {
                 world.cities[0].people = people;
                 for (var x = 0; x < parameter.allProducts.length; x++) {
@@ -203,7 +211,7 @@ define(["require", "exports", "game/game", "game/company"], function (require, e
                 Product.randomUpdateConsumtion(world);
                 return;
             }
-            world.game.statistic.lastPriceChange = "change price " + prod1.name + " -" + proz + "% and " + prod2.name + " +" + ((prod2.dailyConsumtion - proz2) * 100 / prod2.dailyConsumtion);
+            world.game.statistic.lastPriceChange = "change price " + prod1.name + " -" + proz + "% and " + prod2.name + " +" + ((prod2.dailyConsumtion - proz2) * 100 / prod2.dailyConsumtion) * -1;
             console.log(world.game.statistic.lastPriceChange);
             prod1.dailyConsumtion = proz1;
             prod2.dailyConsumtion = proz2;

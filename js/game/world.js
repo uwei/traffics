@@ -18,7 +18,6 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
             }
             this._intervall = setInterval(() => {
                 var _a;
-                console.log(this._intervall);
                 for (var x = 0; x < ((_a = _this.airplanes) === null || _a === void 0 ? void 0 : _a.length); x++) {
                     /*if (this.airplanes[x].x < 500)
                         this.airplanes[x].x = this.airplanes[x].x + 1;
@@ -147,10 +146,10 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
                 var i = getRandomInt(120);
                 if (i === 0)
                     this.showMoveIcon();
-                i = getRandomInt(Math.round(200 / this.cities.length * 200)); //each 200 day
+                i = getRandomInt(Math.round(200 / this.cities.length * 150)); //each 200 day
                 if (i === 0)
                     this.showReduceIcon();
-                i = getRandomInt(Math.round(200 / this.cities.length * 150)); //each 150 day
+                i = getRandomInt(Math.round(200 / this.cities.length * 120)); //each 150 day
                 if (i === 0)
                     this.resetMostExpensiveCity();
                 for (var y = 0; y < parameter.allProducts.length; y++) {

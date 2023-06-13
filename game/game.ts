@@ -11,7 +11,7 @@ import { Route } from "game/route";
 import { Product } from "game/product";
 import { DiagramDialog } from "game/diagramdialog";
 import { SaveDialog } from "game/savedialog";
-var gameversion = "3.9";
+var gameversion = "4.0";
 window.onbeforeunload = function () {
   return "Do you want to exit?";
 
@@ -51,7 +51,7 @@ export class Parameter {
   ratePriceMax = 1.33;
   rateBuyAirplane = 1;
   rateBuyBuilding = 1;
-  rateBuyBuildingGrowFactor = 3000;
+  rateBuyBuildingGrowFactor = 2500;
   rateCostsAirplaine = 1;
   rateCostShop = 100;
   rateCostsShopMany = 1000;
@@ -135,7 +135,7 @@ export class Game {
   domHeader: HTMLDivElement;
   domWorld: HTMLDivElement;
   _money;
-  version = "3.9";
+  version = "4.0";
   date: Date;
   lastUpdate: number;
   speed: number;
@@ -159,6 +159,7 @@ export class Game {
     this.updateUIID = setInterval(() => {
       _this.updateUI();
     }, 100);
+    console.log("set intervall"+this.updateUIID);
   }
   public updateTitle() {
     try {
@@ -326,6 +327,7 @@ export class Game {
     this.world.destroy();
     clearTimeout(this.timer);
     clearInterval(this.updateUIID);
+     console.log("clear intervall"+this.updateUIID);
   }
   close(){
     //clearInterval(this.updateUIID);
