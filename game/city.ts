@@ -405,7 +405,7 @@ export class City {
         }
     }
     updateBuildingQueue() {
-        if (this.queueBuildings.length > 0 && this.queueBuildings[0].ready <= this.world.game.date.getTime()) {
+        while (this.queueBuildings.length > 0 && this.queueBuildings[0].ready <= this.world.game.date.getTime()) {
             if (this.queueBuildings[0].typeid === 10000) {
                 this.shops++;
             } else if (this.queueBuildings[0].typeid === 10001) {
