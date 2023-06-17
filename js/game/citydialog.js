@@ -8,7 +8,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
     };
     class CityDialog {
         constructor() {
-            this.maxCompanies = 10;
+            this.maxCompanies = 12;
             this.hasPaused = false;
             this.create();
         }
@@ -107,7 +107,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                     ret = ret + "<td></td>";
                     ret = ret + "<td></td>";
                     ret = ret + "<td></td>";
-                    ret = ret + "<td></td>";
+                    ret = ret + "<td style='white-space: nowrap;'></td>";
                     ret = ret + "<td></td>";
                     ret = ret + '<td><button id="new-factory_' + x + '" class="mybutton">' + "+" + icons_1.Icons.factory + '</button>' +
                         '<button id="new-factoryX_' + x + '" class="mybutton">' + "x " + icons_1.Icons.factory + '</button>' +
@@ -120,15 +120,14 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 return ret;
             })()}
                     </table>
-                       ` + icons_1.Icons.shop + ` Shops: <span id="count-shops">0/0</span>  
-                        ` + ` costs: <span id="costs-shops">0</span> ` + icons_1.Icons.money + `  
+                       ` + icons_1.Icons.home + ` Shops: <span id="count-shops">0/0</span> ` + `  
                         <button id="buy-shop"  class="mybutton">+` + icons_1.Icons.shop + ` 15k` + icons_1.Icons.money + `</button> 
-                        <button id="delete-shop"  class="mybutton">-` + icons_1.Icons.shop + `</button>` +
-                `<div id="city-buildingplaces">construction speed: <span id="count-buildingplaces">0</span>  
+                        <button id="delete-shop"  class="mybutton">-` + icons_1.Icons.shop + `</button>` + "&nbsp;&nbsp;&nbsp;&nbsp;" +
+                `<span id="city-buildingplaces">` + icons_1.Icons.wrench + `Speed: <span id="count-buildingplaces">0</span>  
                         ` + icons_1.Icons.money + `  
-                        <button id="buy-buildingplace"  class="mybutton">+` + icons_1.Icons.wrench + ` 20m` + icons_1.Icons.money + `</button> 
-                        <button id="delete-buildingplace"  class="mybutton">-` + icons_1.Icons.home + `</button>` +
-                '</div>';
+                        <button id="buy-buildingplace"  class="mybutton">+` + ` 20m` + icons_1.Icons.money + `</button> 
+                        <button id="delete-buildingplace"  class="mybutton">-` + `</button>` +
+                '</span>';
         }
         createScore() {
             return `<table id="citydialog-score-table" style="height:100%;weight:100%;">
@@ -523,16 +522,16 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 tr.children[2].innerHTML = s;
                 tr.children[3].innerHTML = "" + comp.workers + "/<br/>" + comp.getMaxWorkers();
                 if (comp.workers > 10000)
-                    tr.children[3].innerHTML = (Math.round(comp.workers / 1000)).toLocaleString() + "K" + "/<br/>" + Math.round(comp.getMaxWorkers() / 1000).toLocaleString() + "K";
+                    tr.children[3].innerHTML = (Math.floor(comp.workers / 1000)).toLocaleString() + "K" + "/<br/>" + Math.floor(comp.getMaxWorkers() / 1000).toLocaleString() + "K";
                 if (comp.workers > 10000000)
-                    tr.children[3].innerHTML = (Math.round(comp.workers / 1000000)).toLocaleString() + "M" + "/<br/>" + Math.round(comp.getMaxWorkers() / 1000000).toLocaleString() + "M";
+                    tr.children[3].innerHTML = (Math.floor(comp.workers / 1000000)).toLocaleString() + "M" + "/<br/>" + Math.floor(comp.getMaxWorkers() / 1000000).toLocaleString() + "M";
                 var needs1 = "";
                 var needs2 = "";
                 if (product.input1 !== undefined)
-                    needs1 = "" + Math.round(comp.getDailyInput1()) + all[product.input1].getIcon() + " ";
+                    needs1 = "" + /*Math.round(comp.getDailyInput1()) + */ all[product.input1].getIcon() + " ";
                 tr.children[4].innerHTML = needs1;
                 if (product.input2 !== undefined)
-                    needs2 = "<br/>" + Math.round(comp.getDailyInput2()) + all[product.input2].getIcon();
+                    needs2 = /*"<br/>" + Math.round(comp.getDailyInput2()) +*/ all[product.input2].getIcon();
                 tr.children[4].innerHTML = needs1 + " " + needs2;
                 if (comp.hasLicense) {
                     document.getElementById("buy-license_" + x).setAttribute("hidden", "");
@@ -589,7 +588,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 sh = sh + "(" + inprogr + icons_1.Icons.hammer + ")";
             }
             document.getElementById("count-shops").innerHTML = "" + sh;
-            document.getElementById("costs-shops").innerHTML = "" + this.city.getDailyCostsShops();
+            // document.getElementById("costs-shops").innerHTML = "" + this.city.getDailyCostsShops();
             sh = "" + this.city.buildingplaces.toLocaleString();
             var inprogr = this.city.getBuildingInProgress(10001);
             if (inprogr) {
@@ -692,7 +691,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
             var sicon = '';
             if ($(this.dom).parent().find('.ui-dialog-title').length > 0)
                 $(this.dom).parent().find('.ui-dialog-title')[0].innerHTML = '<img style="float: right" id="citydialog-icon" src="' + this.city.icon +
-                    '"  height="15"></img> ' + this.city.name + " " + this.city.people + " " + icons_1.Icons.people;
+                    '"  height="15"></img> ' + this.city.name + " (lev " + this.city.level + ") " + this.city.people + " " + icons_1.Icons.people;
         }
         show() {
             var _this = this;

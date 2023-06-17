@@ -2,7 +2,7 @@ define(["require", "exports", "game/citydialog", "game/world", "game/airplanedia
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.test = exports.Game = exports.Parameter = exports.Statistic = void 0;
-    var gameversion = "4.0";
+    var gameversion = "4.1";
     window.onbeforeunload = function () {
         return "Do you want to exit?";
     };
@@ -114,7 +114,7 @@ define(["require", "exports", "game/citydialog", "game/world", "game/airplanedia
     //global.parameter=new Parametetr();
     class Game {
         constructor() {
-            this.version = "4.0";
+            this.version = "4.1";
             this.mapWidth = 1000;
             this.mapHeight = 600;
             var _this = this;

@@ -465,6 +465,12 @@ define(["require", "exports", "game/product", "game/airplane", "game/route", "ga
                 //parameter.numberBuildShopsWithContextMenu=10;
                 game.version = "4.0";
             }
+            if (parseFloat(ret.version) < 4.1) {
+                for (var x = 0; x < game.world.cities.length; x++) {
+                    game.world.cities[x].level = 1 + Math.floor(game.world.cities[x].people / 500000);
+                }
+                game.version = "4.1";
+            }
             game.render(this.game.dom);
             game.resume();
         }

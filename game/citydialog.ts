@@ -9,12 +9,12 @@ import { Route } from "game/route";
 import { RouteDialog } from "game/routedialog";
 
 //@ts-ignore
-window.city = function () {
+window.city = function () { 
     return CityDialog.getInstance().city;
 }
 
 export class CityDialog {
-    maxCompanies=10;
+    maxCompanies=12;
     dom: HTMLDivElement;
     city: City;
     hasPaused = false;
@@ -125,7 +125,7 @@ export class CityDialog {
                     ret = ret + "<td></td>";
                     ret = ret + "<td></td>";
                     ret = ret + "<td></td>";
-                    ret = ret + "<td></td>";
+                    ret = ret + "<td style='white-space: nowrap;'></td>";
                     ret = ret + "<td></td>";
                     ret = ret + '<td><button id="new-factory_' + x + '" class="mybutton">' + "+" + Icons.factory + '</button>' +
                         '<button id="new-factoryX_' + x + '" class="mybutton">' + "x " + Icons.factory + '</button>' +
@@ -139,15 +139,14 @@ export class CityDialog {
                 return ret;
             })()}
                     </table>
-                       `+ Icons.shop + ` Shops: <span id="count-shops">0/0</span>  
-                        ` + ` costs: <span id="costs-shops">0</span> ` + Icons.money + `  
+                       `+Icons.home + ` Shops: <span id="count-shops">0/0</span> ` + `  
                         <button id="buy-shop"  class="mybutton">+`+ Icons.shop + ` 15k` + Icons.money + `</button> 
-                        <button id="delete-shop"  class="mybutton">-`+ Icons.shop + `</button>` +
-            `<div id="city-buildingplaces">construction speed: <span id="count-buildingplaces">0</span>  
+                        <button id="delete-shop"  class="mybutton">-`+ Icons.shop + `</button>` +"&nbsp;&nbsp;&nbsp;&nbsp;"+
+            `<span id="city-buildingplaces">`+Icons.wrench+`Speed: <span id="count-buildingplaces">0</span>  
                         `  + Icons.money + `  
-                        <button id="buy-buildingplace"  class="mybutton">+`+ Icons.wrench + ` 20m` + Icons.money + `</button> 
-                        <button id="delete-buildingplace"  class="mybutton">-`+ Icons.home + `</button>` +
-            '</div>'
+                        <button id="buy-buildingplace"  class="mybutton">+`+  ` 20m` + Icons.money + `</button> 
+                        <button id="delete-buildingplace"  class="mybutton">-`+ `</button>` +
+            '</span>'
     }
 
     createScore() {
@@ -568,18 +567,18 @@ export class CityDialog {
             tr.children[2].innerHTML = s;
             tr.children[3].innerHTML = "" + comp.workers + "/<br/>" + comp.getMaxWorkers();
             if (comp.workers > 10000)
-                tr.children[3].innerHTML = (Math.round(comp.workers / 1000)).toLocaleString() + "K" + "/<br/>" + Math.round(comp.getMaxWorkers() / 1000).toLocaleString() + "K";
+                tr.children[3].innerHTML = (Math.floor(comp.workers / 1000)).toLocaleString() + "K" + "/<br/>" + Math.floor(comp.getMaxWorkers() / 1000).toLocaleString() + "K";
             if (comp.workers > 10000000)
-                tr.children[3].innerHTML = (Math.round(comp.workers / 1000000)).toLocaleString() + "M" + "/<br/>" + Math.round(comp.getMaxWorkers() / 1000000).toLocaleString() + "M";
+                tr.children[3].innerHTML = (Math.floor(comp.workers / 1000000)).toLocaleString() + "M" + "/<br/>" + Math.floor(comp.getMaxWorkers() / 1000000).toLocaleString() + "M";
 
 
             var needs1 = "";
             var needs2 = "";
             if (product.input1 !== undefined)
-                needs1 = "" + Math.round(comp.getDailyInput1()) + all[product.input1].getIcon() + " ";
+                needs1 = "" + /*Math.round(comp.getDailyInput1()) + */all[product.input1].getIcon() + " ";
             tr.children[4].innerHTML = needs1;
             if (product.input2 !== undefined)
-                needs2 = "<br/>" + Math.round(comp.getDailyInput2()) + all[product.input2].getIcon();
+                needs2 = /*"<br/>" + Math.round(comp.getDailyInput2()) +*/  all[product.input2].getIcon();
             tr.children[4].innerHTML = needs1 + " " + needs2;
 
             if (comp.hasLicense) {
@@ -634,7 +633,7 @@ export class CityDialog {
             sh = sh + "(" + inprogr + Icons.hammer + ")";
         }
         document.getElementById("count-shops").innerHTML = "" + sh;
-        document.getElementById("costs-shops").innerHTML = "" + this.city.getDailyCostsShops();
+       // document.getElementById("costs-shops").innerHTML = "" + this.city.getDailyCostsShops();
 
         sh = "" + this.city.buildingplaces.toLocaleString();
         var inprogr = this.city.getBuildingInProgress(10001);
@@ -743,7 +742,7 @@ export class CityDialog {
         var sicon = '';
         if ($(this.dom).parent().find('.ui-dialog-title').length > 0)
             $(this.dom).parent().find('.ui-dialog-title')[0].innerHTML = '<img style="float: right" id="citydialog-icon" src="' + this.city.icon +
-                '"  height="15"></img> ' + this.city.name + " " + this.city.people + " " + Icons.people;
+                '"  height="15"></img> ' + this.city.name + " (lev "+this.city.level+") " + this.city.people + " " + Icons.people;
     }
     show() {
         var _this = this;

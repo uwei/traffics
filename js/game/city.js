@@ -9,6 +9,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
     }
     class City {
         constructor() {
+            this.level = 1;
             this.domProductNeeded = [];
             this.lastUpdate = undefined;
             this.score = [];
@@ -700,32 +701,20 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             if (this.people > 2500000) {
                 acolor = "GoldenRod";
             }
+            if (this.people > 3000000) {
+                acolor = "blueviolet";
+            }
+            if (this.people > 3500000) {
+                acolor = "Wheat";
+            }
             //green GoldenRod 
             return acolor;
         }
         checkUpgrade() {
-            if (this.people > 500000 && this.companies.length < 6) {
-                this.addNewCompany();
-                this.resetBuildingsWithoutCosts();
-                this.domAirport.style.color = this.getAirportColor();
-            }
-            if (this.people > 1000000 && this.companies.length < 7) {
-                this.addNewCompany();
-                this.resetBuildingsWithoutCosts();
-                this.domAirport.style.color = this.getAirportColor();
-            }
-            if (this.people > 1500000 && this.companies.length < 8) {
-                this.addNewCompany();
-                this.resetBuildingsWithoutCosts();
-                this.domAirport.style.color = this.getAirportColor();
-            }
-            if (this.people > 2000000 && this.companies.length < 9) {
-                this.addNewCompany();
-                this.resetBuildingsWithoutCosts();
-                this.domAirport.style.color = this.getAirportColor();
-            }
-            if (this.people > 2500000 && this.companies.length < 10) {
-                this.addNewCompany();
+            if (this.people > (this.level * 500000)) {
+                this.level++;
+                if (this.companies.length < citydialog_1.CityDialog.getInstance().maxCompanies)
+                    this.addNewCompany();
                 this.resetBuildingsWithoutCosts();
                 this.domAirport.style.color = this.getAirportColor();
             }
@@ -833,11 +822,11 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             return ret;
         }
         static getBuildingCostsAsIcon(money, buildingMaterial, withBreak = false) {
-            var s = (money / 1000).toLocaleString() + "K";
+            var s = Math.floor(money / 1000).toLocaleString() + "K";
             if (money >= 10000000)
-                s = (money / 1000000).toLocaleString() + "M";
+                s = Math.floor(money / 1000000).toLocaleString() + "M";
             if (money >= 10000000000)
-                s = (money / 1000000000).toLocaleString() + "Mrd";
+                s = Math.floor(money / 1000000000).toLocaleString() + "Mrd";
             var lastAmount = undefined;
             for (var x = 0; x < buildingMaterial.length; x++) {
                 if (buildingMaterial[x]) {
