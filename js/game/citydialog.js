@@ -284,7 +284,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                                 b1 = b.companies[y].buildings - (b.companies[y].buildingsWithoutCosts ? b.companies[y].buildingsWithoutCosts : 0);
                             }
                         }
-                        return a1 - b1;
+                        return (a1 - b1) * 1000000000 + (a.people - b.people) / 1000;
                     });
                     this.city = this.filteredCities[this.filteredCities.length - 1];
                 }

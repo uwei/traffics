@@ -296,7 +296,7 @@ export class CityDialog {
                 if (this.filteredCities.length === 0) {
                     this.filteredCities = [_this.city];
                 }
-                this.filteredCities.sort((a, b) => {
+                this.filteredCities.sort((a:City, b:City) => {
                     var a1, b1;
                     for (var y = 0; y < a.companies.length; y++) {
                         if (a.companies[y].productid === Number(sel)) {
@@ -310,7 +310,8 @@ export class CityDialog {
                             b1 = b.companies[y].buildings - (b.companies[y].buildingsWithoutCosts ? b.companies[y].buildingsWithoutCosts : 0);
                         }
                     }
-                    return a1 - b1;
+                    
+                    return (a1- b1)*1000000000+(a.people-b.people)/1000;
                 });
                 this.city = this.filteredCities[this.filteredCities.length - 1];
             }
