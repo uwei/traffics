@@ -2,6 +2,7 @@ import { Game } from "game/game";
 import { Company } from "game/company";
 import { DiagramDialog } from "game/diagramdialog";
 import { World } from "game/world";
+import { getRandomInt } from "game/tools";
 
 var log = (function () {
     var log = Math.log;
@@ -9,9 +10,7 @@ var log = (function () {
         return log(n) / (base ? log(base) : 1);
     };
 })();
-function getRandomInt(max) {
-    return Math.floor(Math.random() * max);
-}
+
 export class Product {
     id: number;
     name: string;

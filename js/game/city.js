@@ -1,10 +1,7 @@
-define(["require", "exports", "game/citydialog", "game/company", "game/airplane", "game/icons"], function (require, exports, citydialog_1, company_1, airplane_1, icons_1) {
+define(["require", "exports", "game/citydialog", "game/company", "game/airplane", "game/icons", "game/tools"], function (require, exports, citydialog_1, company_1, airplane_1, icons_1, tools_1) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.test = exports.createCities = exports.City = void 0;
-    function getRandomInt(max) {
-        return Math.floor(Math.random() * max);
-    }
     class QueueItem {
     }
     class City {
@@ -328,7 +325,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                 }
                 if (comps.length === 0)
                     return;
-                var winner = getRandomInt(comps.length);
+                var winner = (0, tools_1.getRandomInt)(comps.length);
                 this.companies[comps[winner]].workers++;
             }
         }
@@ -460,6 +457,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                 return;
             if (this.getRating(this.people + newPeople) > 0) {
                 this.people = this.people + newPeople;
+                this.growing = true;
             }
             else {
                 //  var rating=this.getRating(this.people)===-1?Math.round(newPeople/2):newPeople;
@@ -492,7 +490,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                 if (comps.length === 0)
                     return;
                 this.people++;
-                var winner = getRandomInt(comps.length);
+                var winner = (0, tools_1.getRandomInt)(comps.length);
                 //            console.log("+1 in company " + winner);
                 this.companies[comps[winner]].workers++;
                 newPeople--;
@@ -514,6 +512,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             var dayProcent = this.world.game.date.getHours() / 24;
             if (this.world.game.date.getHours() === 23) {
                 dayProcent = 1;
+                this.growing = false;
             }
             for (var x = 0; x < parameter.allProducts.length; x++) {
                 var totalDailyConsumtion = Math.round(parameter.allProducts[x].dailyConsumtion * this.people * (this.world.advertising[x] ? 1.15 : 1));
@@ -532,7 +531,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                             price = parameter.allProducts[x].priceSelling;
                         }
                     }
-                    var priceMax = product.priceSelling + getRandomInt(Math.round(product.priceSelling) * parameter.ratePriceMax - product.priceSelling);
+                    var priceMax = product.priceSelling + (0, tools_1.getRandomInt)(Math.round(product.priceSelling) * parameter.ratePriceMax - product.priceSelling);
                     this.consumedToday[x] = untilNow;
                     if (price <= priceMax) {
                         if (fromshop) {
@@ -628,7 +627,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
         updateresetBuildingsWithoutCosts() {
             var _this = this;
             if (this.world.game.date.getHours() === 0) {
-                var test = getRandomInt(7000);
+                var test = (0, tools_1.getRandomInt)(7000);
                 if (test === 0) {
                     this.showStar();
                 }
@@ -665,7 +664,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
         updateUI() {
             var _this = this;
             //  setTimeout(()=>{
-            var s = (this.people === 0 ? "" : this.people.toLocaleString());
+            var s = (this.people === 0 ? "" : (0, tools_1.getLocalNumber)(this.people)) + (this.growing ? "↑" : ""); //this.people.toLocaleString());
             if (_this.domPeople.textContent !== s) {
                 _this.domPeople.textContent = s;
             }
@@ -822,11 +821,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             return ret;
         }
         static getBuildingCostsAsIcon(money, buildingMaterial, withBreak = false) {
-            var s = Math.floor(money / 1000).toLocaleString() + "K";
-            if (money >= 10000000)
-                s = Math.floor(money / 1000000).toLocaleString() + "M";
-            if (money >= 10000000000)
-                s = Math.floor(money / 1000000000).toLocaleString() + "Mrd";
+            var s = (0, tools_1.getLocalNumber)(money);
             var lastAmount = undefined;
             for (var x = 0; x < buildingMaterial.length; x++) {
                 if (buildingMaterial[x]) {
@@ -868,8 +863,8 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
         return cities;
     }
     function calcPosNewCity(world, deep) {
-        var x = getRandomInt(world.game.mapWidth - 40) + 40;
-        var y = getRandomInt(world.game.mapHeight - 12) + 12;
+        var x = (0, tools_1.getRandomInt)(world.game.mapWidth - 40) + 40;
+        var y = (0, tools_1.getRandomInt)(world.game.mapHeight - 12) + 12;
         for (var i = 0; i < world.cities.length; i++) {
             var ct = world.cities[i];
             if (x > (ct.x - 70) && x < (ct.x + 70) && y > (ct.y - 68) && (y < ct.y + 68)) {
@@ -919,9 +914,9 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                 //überschneidung
             }
             city.world = world;
-            var num = getRandomInt(allCities.length);
+            var num = (0, tools_1.getRandomInt)(allCities.length);
             while (allready.indexOf(num) !== -1) {
-                num = getRandomInt(allCities.length);
+                num = (0, tools_1.getRandomInt)(allCities.length);
             }
             allready.push(num);
             city.id = num;
@@ -934,7 +929,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
     }
     exports.createCities = createCities;
     function test() {
-        console.log(getRandomInt(2));
+        console.log((0, tools_1.getRandomInt)(2));
     }
     exports.test = test;
     //https://de.wikipedia.org/wiki/Liste_der_Hauptst%C3%A4dte_der_Erde   https://lizenzhinweisgenerator.de/ Wikipedia

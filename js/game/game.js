@@ -1,4 +1,4 @@
-define(["require", "exports", "game/citydialog", "game/world", "game/airplanedialog", "game/icons", "game/product", "game/diagramdialog", "game/savedialog"], function (require, exports, citydialog_1, world_1, airplanedialog_1, icons_1, product_1, diagramdialog_1, savedialog_1) {
+define(["require", "exports", "game/citydialog", "game/world", "game/airplanedialog", "game/icons", "game/product", "game/diagramdialog", "game/savedialog", "game/tools"], function (require, exports, citydialog_1, world_1, airplanedialog_1, icons_1, product_1, diagramdialog_1, savedialog_1, tools_1) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.test = exports.Game = exports.Parameter = exports.Statistic = void 0;
@@ -134,10 +134,11 @@ define(["require", "exports", "game/citydialog", "game/world", "game/airplanedia
         updateTitle() {
             try {
                 var m = this.getMoney();
-                if (m >= 10000000)
-                    document.getElementById("gamemoney").textContent = Math.round(m / 1000000).toLocaleString() + "M";
-                else
-                    document.getElementById("gamemoney").textContent = new Number(m).toLocaleString();
+                document.getElementById("gamemoney").textContent = (0, tools_1.getLocalNumber)(m);
+                /*   if (m >= 10000000)
+                     document.getElementById("gamemoney").textContent = Math.round(m / 1000000).toLocaleString() + "M";
+                   else
+                     document.getElementById("gamemoney").textContent = new Number(m).toLocaleString();*/
                 document.getElementById("gamedate").textContent = this.date.toLocaleDateString();
             }
             catch (ex) {

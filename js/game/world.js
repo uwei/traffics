@@ -1,10 +1,7 @@
-define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "game/airplanedialog", "game/routedialog", "game/squadrondialog", "game/company", "game/diagramdialog", "game/product", "game/icons"], function (require, exports, city_1, airplane_1, citydialog_1, airplanedialog_1, routedialog_1, squadrondialog_1, company_1, diagramdialog_1, product_1, icons_1) {
+define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "game/airplanedialog", "game/routedialog", "game/squadrondialog", "game/company", "game/diagramdialog", "game/product", "game/icons", "game/tools"], function (require, exports, city_1, airplane_1, citydialog_1, airplanedialog_1, routedialog_1, squadrondialog_1, company_1, diagramdialog_1, product_1, icons_1, tools_1) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.World = void 0;
-    function getRandomInt(max) {
-        return Math.floor(Math.random() * max);
-    }
     class World {
         constructor() {
             this.type = "World";
@@ -143,13 +140,13 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
                 product_1.Product.randomUpdateConsumtion(this);
             }
             if (this.game.date.getDate() !== new Date(this.lastUpdate).getDate()) {
-                var i = getRandomInt(120);
+                var i = (0, tools_1.getRandomInt)(120);
                 if (i === 0)
                     this.showMoveIcon();
-                i = getRandomInt(Math.round(200 / this.cities.length * 150)); //each 200 day
+                i = (0, tools_1.getRandomInt)(Math.round(200 / this.cities.length * 150)); //each 200 day
                 if (i === 0)
                     this.showReduceIcon();
-                i = getRandomInt(Math.round(200 / this.cities.length * 120)); //each 150 day
+                i = (0, tools_1.getRandomInt)(Math.round(200 / this.cities.length * 120)); //each 150 day
                 if (i === 0)
                     this.resetMostExpensiveCity();
                 for (var y = 0; y < parameter.allProducts.length; y++) {
@@ -293,8 +290,8 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
         }
         showMoveIcon() {
             var _this = this;
-            var x = getRandomInt(this.game.mapWidth);
-            var y = getRandomInt(this.game.mapHeight);
+            var x = (0, tools_1.getRandomInt)(this.game.mapWidth);
+            var y = (0, tools_1.getRandomInt)(this.game.mapHeight);
             var domStar = document.createRange().createContextualFragment('<span style="position:absolute;top:' + (y) +
                 'px;left:' + (x) + 'px;font-size:48px;color:yellow;animation: animate   0.5s linear infinite;z-index:4" >' + icons_1.Icons.move + '</span>').children[0];
             this.dom.appendChild(domStar);
@@ -314,8 +311,8 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
         }
         showReduceIcon() {
             var _this = this;
-            var x = getRandomInt(this.game.mapWidth);
-            var y = getRandomInt(this.game.mapHeight);
+            var x = (0, tools_1.getRandomInt)(this.game.mapWidth);
+            var y = (0, tools_1.getRandomInt)(this.game.mapHeight);
             var prod = undefined;
             var max = 0;
             for (var x = 0; x < parameter.allProducts.length; x++) {

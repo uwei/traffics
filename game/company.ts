@@ -1,9 +1,8 @@
 import { Icons } from "game/icons";
 import { City } from "game/city";
+import { getRandomInt } from "game/tools";
 
-function getRandomInt(max) {
-    return Math.floor(Math.random() * max);
-}
+
 var distributionTable: number[] = undefined;
 var debugNeed=[];
 for(var x=0;x<19;x++){

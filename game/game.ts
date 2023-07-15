@@ -11,6 +11,7 @@ import { Route } from "game/route";
 import { Product } from "game/product";
 import { DiagramDialog } from "game/diagramdialog";
 import { SaveDialog } from "game/savedialog";
+import { getLocalNumber } from "game/tools";
 var gameversion = "4.2";
 window.onbeforeunload = function () {
   return "Do you want to exit?";
@@ -164,10 +165,11 @@ export class Game {
   public updateTitle() {
     try {
       var m = this.getMoney();
-      if (m >= 10000000)
+      document.getElementById("gamemoney").textContent=getLocalNumber(m);
+   /*   if (m >= 10000000)
         document.getElementById("gamemoney").textContent = Math.round(m / 1000000).toLocaleString() + "M";
       else
-        document.getElementById("gamemoney").textContent = new Number(m).toLocaleString();
+        document.getElementById("gamemoney").textContent = new Number(m).toLocaleString();*/
       document.getElementById("gamedate").textContent = this.date.toLocaleDateString();
 
     } catch (ex) {

@@ -4,10 +4,9 @@ import { Product } from "game/product";
 import { Company, debugNeed } from "game/company";
 import { Airplane } from "game/airplane";
 import { Icons } from "game/icons";
+import { getLocalNumber, getRandomInt } from "game/tools";
 
-function getRandomInt(max) {
-    return Math.floor(Math.random() * max);
-}
+
 class QueueItem {
     typeid: number;
     name: string;
@@ -33,6 +32,7 @@ export class City {
     people: number;
     market: number[];
     companies: Company[];
+    growing;
     neutralDailyProducedToday: number[];
     consumedToday: number[];
     lastUpdate = undefined;
@@ -500,13 +500,14 @@ export class City {
         // }
         if (this.people > workers) {
             this.people = workers;
+           
             return;
         }
         if (this.people >= workers)
             return;
         if (this.getRating(this.people + newPeople) > 0) {
             this.people = this.people + newPeople;
-
+            this.growing=true;
         } else {
             //  var rating=this.getRating(this.people)===-1?Math.round(newPeople/2):newPeople;
             while (newPeople > 0) {
@@ -568,7 +569,7 @@ export class City {
         var dayProcent = this.world.game.date.getHours() / 24;
         if (this.world.game.date.getHours() === 23) {
             dayProcent = 1;
-
+            this.growing=false;
         }
 
         for (var x = 0; x < parameter.allProducts.length; x++) {
@@ -726,7 +727,7 @@ export class City {
     updateUI() {
         var _this = this;
         //  setTimeout(()=>{
-        var s = (this.people === 0 ? "" : this.people.toLocaleString());
+        var s = (this.people === 0 ? "" : getLocalNumber(this.people))+(this.growing?"↑":""); //this.people.toLocaleString());
         if (_this.domPeople.textContent !== s) {
 
             _this.domPeople.textContent = s;
@@ -897,11 +898,7 @@ export class City {
     }
 
     static getBuildingCostsAsIcon(money: number, buildingMaterial: number[], withBreak = false) {
-        var s = Math.floor(money / 1000).toLocaleString() + "K";
-        if (money >= 10000000)
-            s = Math.floor(money / 1000000).toLocaleString() + "M";
-        if (money >= 10000000000)
-            s = Math.floor(money / 1000000000).toLocaleString() + "Mrd";
+        var s =getLocalNumber(money); 
         var lastAmount = undefined;
         for (var x = 0; x < buildingMaterial.length; x++) {
             if (buildingMaterial[x]) {

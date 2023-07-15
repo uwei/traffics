@@ -1,10 +1,7 @@
-define(["require", "exports"], function (require, exports) {
+define(["require", "exports", "game/tools"], function (require, exports, tools_1) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.test = exports.Company = exports.debugNeed = void 0;
-    function getRandomInt(max) {
-        return Math.floor(Math.random() * max);
-    }
     var distributionTable = undefined;
     var debugNeed = [];
     exports.debugNeed = debugNeed;
@@ -25,7 +22,7 @@ define(["require", "exports"], function (require, exports) {
         }
         var rand = undefined;
         while (rand === undefined || notThisIds.indexOf(rand) > -1) {
-            rand = getRandomInt(distributionTable.length);
+            rand = (0, tools_1.getRandomInt)(distributionTable.length);
             rand = distributionTable[rand];
         }
         return rand;

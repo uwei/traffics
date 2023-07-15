@@ -1,4 +1,4 @@
-define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", "game/routedialog"], function (require, exports, city_1, icons_1, citydialogshop_1, routedialog_1) {
+define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", "game/routedialog", "game/tools"], function (require, exports, city_1, icons_1, citydialogshop_1, routedialog_1, tools_1) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.CityDialog = void 0;
@@ -115,7 +115,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                         //'<button id="new-factory_' + x + '" class="mybutton">' + "+" + Icons.factory + '</button>' +
                         '<button id="new-factoryX_' + x + '" class="mybutton">' + "x " + icons_1.Icons.factory + '</button>' +
                         '<button id="delete-factory_' + x + '" class="mybutton">' + "- " + icons_1.Icons.factory + '</button>' +
-                        '<button id="buy-license_' + x + '" class="mybutton">' + "buy license to produce for 50.000" + icons_1.Icons.money + '</button>' +
+                        '<button id="buy-license_' + x + '" class="mybutton">' + "buy license to produce for " + (0, tools_1.getLocalNumber)(50000) + icons_1.Icons.money + '</button>' +
                         '<div id="no-shop_' + x + '">need a shop to produce</div>' +
                         '</td>';
                     ret = ret + "</tr>";
@@ -124,11 +124,11 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
             })()}
                     </table>
                        ` + icons_1.Icons.home + ` Shops: <span id="count-shops">0/0</span> ` + `  
-                        <button id="buy-shop"  class="mybutton">+` + icons_1.Icons.shop + ` 15k` + icons_1.Icons.money + `</button> 
+                        <button id="buy-shop"  class="mybutton">+` + icons_1.Icons.shop + ` ` + (0, tools_1.getLocalNumber)(15000) + icons_1.Icons.money + `</button> 
                         <button id="delete-shop"  class="mybutton">-` + icons_1.Icons.shop + `</button>` + "&nbsp;&nbsp;&nbsp;&nbsp;" +
                 `<span id="city-buildingplaces">` + icons_1.Icons.wrench + `Speed: <span id="count-buildingplaces">0</span>  
                         ` + icons_1.Icons.money + `  
-                        <button id="buy-buildingplace"  class="mybutton">+` + ` 20m` + icons_1.Icons.money + `</button> 
+                        <button id="buy-buildingplace"  class="mybutton">+` + ` ` + (0, tools_1.getLocalNumber)(20000000) + icons_1.Icons.money + `</button> 
                         <button id="delete-buildingplace"  class="mybutton">-` + `</button>` +
                 '</span>';
         }
@@ -536,17 +536,19 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 var produce = comp.getDailyProduce();
                 tr.children[0].innerHTML = produce + " " + product.getIcon();
                 tr.children[1].innerHTML = product.name;
-                var s = comp.buildings.toString();
+                var s = (0, tools_1.getLocalNumber)(comp.buildings); //.toString();
                 var inprogr = this.city.getBuildingInProgress(comp.productid);
                 if (inprogr) {
                     s = s + "<br/>" + inprogr + icons_1.Icons.hammer + "";
                 }
                 tr.children[2].innerHTML = s;
-                tr.children[3].innerHTML = "" + comp.workers + "/<br/>" + comp.getMaxWorkers();
-                if (comp.workers > 10000)
-                    tr.children[3].innerHTML = (Math.floor(comp.workers / 1000)).toLocaleString() + "K" + "/<br/>" + Math.floor(comp.getMaxWorkers() / 1000).toLocaleString() + "K";
-                if (comp.workers > 10000000)
-                    tr.children[3].innerHTML = (Math.floor(comp.workers / 1000000)).toLocaleString() + "M" + "/<br/>" + Math.floor(comp.getMaxWorkers() / 1000000).toLocaleString() + "M";
+                //tr.children[3].innerHTML = "" + getLocalNumber(comp.workers);// + "/<br/>" + getLocalNumber(comp.getMaxWorkers());
+                tr.children[3].innerHTML = (0, tools_1.getLocalNumber)(comp.workers);
+                /*            if (comp.workers > 10000)
+                                tr.children[3].innerHTML = (Math.floor(comp.workers / 1000)).toLocaleString() + "K" + "/<br/>" + Math.floor(comp.getMaxWorkers() / 1000).toLocaleString() + "K";
+                            if (comp.workers > 10000000)
+                                tr.children[3].innerHTML = (Math.floor(comp.workers / 1000000)).toLocaleString() + "M" + "/<br/>" + Math.floor(comp.getMaxWorkers() / 1000000).toLocaleString() + "M";
+                */
                 var needs1 = "";
                 var needs2 = "";
                 if (product.input1 !== undefined)
@@ -573,18 +575,22 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                     //  document.getElementById("new-factory_" + x).removeAttribute("hidden");
                     document.getElementById("new-factoryX_" + x).removeAttribute("hidden");
                     document.getElementById("delete-factory_" + x).removeAttribute("hidden");
+                    document.getElementById("buy-companies-next").removeAttribute("hidden");
                 }
                 else {
                     //  document.getElementById("new-factory_" + x).setAttribute("hidden", "");
                     document.getElementById("new-factoryX_" + x).setAttribute("hidden", "");
                     document.getElementById("delete-factory_" + x).setAttribute("hidden", "");
+                    document.getElementById("buy-companies-next").setAttribute("hidden", "");
                 }
                 var mat = comp.getBuildingMaterial();
                 if (this.city.canBuild(comp.getBuildingCosts(), comp.getBuildingMaterial()) != "") {
+                    document.getElementById("buy-companies-next").setAttribute("disabled", "");
                     document.getElementById("new-factoryX_" + x).setAttribute("disabled", "");
                     document.getElementById("new-factoryX_" + x).setAttribute("title", "not all building costs are available");
                 }
                 else {
+                    document.getElementById("buy-companies-next").removeAttribute("disabled");
                     document.getElementById("new-factoryX_" + x).removeAttribute("disabled");
                     document.getElementById("new-factoryX_" + x).removeAttribute("title");
                 }
@@ -604,7 +610,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                     trr.style.display = "";
                 }
             }
-            var sh = "" + this.city.shops;
+            var sh = (0, tools_1.getLocalNumber)(this.city.shops);
             var inprogr = this.city.getBuildingInProgress(10000);
             if (inprogr) {
                 sh = sh + "(" + inprogr + icons_1.Icons.hammer + ")";

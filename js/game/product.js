@@ -1,4 +1,4 @@
-define(["require", "exports", "game/game", "game/company"], function (require, exports, game_1, company_1) {
+define(["require", "exports", "game/game", "game/company", "game/tools"], function (require, exports, game_1, company_1, tools_1) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.test = exports.Product = void 0;
@@ -8,9 +8,6 @@ define(["require", "exports", "game/game", "game/company"], function (require, e
             return log(n) / (base ? log(base) : 1);
         };
     })();
-    function getRandomInt(max) {
-        return Math.floor(Math.random() * max);
-    }
     class Product {
         constructor(prod) {
             this.type = "Product";
@@ -91,9 +88,9 @@ define(["require", "exports", "game/game", "game/company"], function (require, e
         }
         static randomUpdateConsumtion(world, product1 = undefined, product2 = undefined, proz = undefined, changeBuildings = false) {
             if (product1 === undefined)
-                product1 = getRandomInt(parameter.allProducts.length);
+                product1 = (0, tools_1.getRandomInt)(parameter.allProducts.length);
             if (product2 === undefined)
-                product2 = getRandomInt(parameter.allProducts.length);
+                product2 = (0, tools_1.getRandomInt)(parameter.allProducts.length);
             var prod1 = parameter.allProducts[product1];
             var prod2 = parameter.allProducts[product2];
             if (prod1 === prod2) {
@@ -109,7 +106,7 @@ define(["require", "exports", "game/game", "game/company"], function (require, e
                        prod2 = varprod2;
                }*/
             if (proz === undefined)
-                proz = Math.round(getRandomInt(50)) / 10; //Prozent
+                proz = Math.round((0, tools_1.getRandomInt)(50)) / 10; //Prozent
             //on lately game the prozent is smaller
             var costs = prod1.getAverageBuildingCosts(world);
             var profit = game_1.Game.instance.statistic.yesterday["people buy from the shop"];
@@ -218,25 +215,25 @@ define(["require", "exports", "game/game", "game/company"], function (require, e
         }
         static randomUpdateConsumtion3(world, product1 = undefined, product2 = undefined, proz = undefined, changeBuildings = false) {
             if (product1 === undefined)
-                product1 = getRandomInt(parameter.allProducts.length);
+                product1 = (0, tools_1.getRandomInt)(parameter.allProducts.length);
             if (product2 === undefined)
-                product2 = getRandomInt(parameter.allProducts.length);
+                product2 = (0, tools_1.getRandomInt)(parameter.allProducts.length);
             var prod1 = parameter.allProducts[product1];
             var prod2 = parameter.allProducts[product2];
             if (prod1 === prod2) {
                 Product.randomUpdateConsumtion(world);
                 return;
             }
-            if (getRandomInt(2) === 0) { //The Biggest diff should be smaller
-                var varprod1 = parameter.allProducts[getRandomInt(parameter.allProducts.length)];
+            if ((0, tools_1.getRandomInt)(2) === 0) { //The Biggest diff should be smaller
+                var varprod1 = parameter.allProducts[(0, tools_1.getRandomInt)(parameter.allProducts.length)];
                 if (prod1.getDiffConsumtion() < varprod1.getDiffConsumtion())
                     prod1 = varprod1;
-                var varprod2 = parameter.allProducts[getRandomInt(parameter.allProducts.length)];
+                var varprod2 = parameter.allProducts[(0, tools_1.getRandomInt)(parameter.allProducts.length)];
                 if (prod2.getDiffConsumtion() > varprod2.getDiffConsumtion())
                     prod2 = varprod2;
             }
             if (proz === undefined)
-                proz = Math.round(getRandomInt(50)) / 10; //Prozent
+                proz = Math.round((0, tools_1.getRandomInt)(50)) / 10; //Prozent
             //on lately game the prozent is smaller
             var costs = prod1.getAverageBuildingCosts(world);
             var profit = game_1.Game.instance.statistic.yesterday["people buy from the shop"];
@@ -291,25 +288,25 @@ define(["require", "exports", "game/game", "game/company"], function (require, e
         }
         static randomUpdateConsumtionAlt(world, product1 = undefined, product2 = undefined, proz = undefined, changeBuildings = false) {
             if (product1 === undefined)
-                product1 = getRandomInt(parameter.allProducts.length);
+                product1 = (0, tools_1.getRandomInt)(parameter.allProducts.length);
             if (product2 === undefined)
-                product2 = getRandomInt(parameter.allProducts.length);
+                product2 = (0, tools_1.getRandomInt)(parameter.allProducts.length);
             var prod1 = parameter.allProducts[product1];
             var prod2 = parameter.allProducts[product2];
             if (prod1 === prod2) {
                 Product.randomUpdateConsumtion(world);
                 return;
             }
-            if (getRandomInt(2) === 0) { //The Biggest diff should be smaller
-                var varprod1 = parameter.allProducts[getRandomInt(parameter.allProducts.length)];
+            if ((0, tools_1.getRandomInt)(2) === 0) { //The Biggest diff should be smaller
+                var varprod1 = parameter.allProducts[(0, tools_1.getRandomInt)(parameter.allProducts.length)];
                 if (prod1.getDiffConsumtion() < varprod1.getDiffConsumtion())
                     prod1 = varprod1;
-                var varprod2 = parameter.allProducts[getRandomInt(parameter.allProducts.length)];
+                var varprod2 = parameter.allProducts[(0, tools_1.getRandomInt)(parameter.allProducts.length)];
                 if (prod2.getDiffConsumtion() > varprod2.getDiffConsumtion())
                     prod2 = varprod2;
             }
             if (proz === undefined)
-                proz = Math.round(getRandomInt(50)) / 10; //Prozent
+                proz = Math.round((0, tools_1.getRandomInt)(50)) / 10; //Prozent
             var proz1 = prod1.dailyConsumtion * (1 - (proz / 100));
             //on lately game the prozent is smaller
             var costs = prod1.getAverageBuildingCosts(world);

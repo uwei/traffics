@@ -11,9 +11,8 @@ import { Company } from "game/company";
 import { DiagramDialog } from "game/diagramdialog";
 import { Product } from "game/product";
 import { Icons } from "game/icons";
-function getRandomInt(max) {
-    return Math.floor(Math.random() * max);
-}
+import { getRandomInt } from "game/tools";
+
 export class World {
     _intervall;
     cities: City[];
