@@ -651,7 +651,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                     row.setAttribute("product", sorted[x].toString());
                 }
                 if (_this.world.advertising[arr[x]] !== undefined)
-                    row.children[1].textContent = this.shop[sorted[x]].toLocaleString() + "↓";
+                    row.children[1].textContent = (0, tools_1.getLocalNumber)(this.shop[sorted[x]]) + "↓";
                 else
                     row.children[1].textContent = this.shop[sorted[x]].toLocaleString();
             }

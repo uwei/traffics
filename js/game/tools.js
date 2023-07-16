@@ -7,14 +7,16 @@ define(["require", "exports"], function (require, exports) {
     }
     exports.getRandomInt = getRandomInt;
     function getLocalNumber(num) {
-        if (num < 100000)
+        if (num < 10000)
             return num.toLocaleString();
-        else if (num < 100000000)
+        else if (num < 10000000)
             return Math.floor(num / 1000).toLocaleString() + "T";
-        else if (num < 100000000000)
+        else if (num < 10000000000)
             return Math.floor(num / 1000000).toLocaleString() + "M";
+        else if (num < 10000000000000)
+            return Math.floor(num / 1000000000).toLocaleString() + "Mrd";
         else
-            Math.floor(num / 1000000000).toLocaleString() + "Mrd";
+            return Math.floor(num / 1000000000000).toLocaleString() + "Bil";
     }
     exports.getLocalNumber = getLocalNumber;
 });

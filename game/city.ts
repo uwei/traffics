@@ -714,7 +714,7 @@ export class City {
                 row.setAttribute("product", sorted[x].toString());
             }
             if (_this.world.advertising[arr[x]] !== undefined)
-                row.children[1].textContent = this.shop[sorted[x]].toLocaleString() + "↓";
+                row.children[1].textContent = getLocalNumber(this.shop[sorted[x]]) + "↓";
             else
                 row.children[1].textContent = this.shop[sorted[x]].toLocaleString();
         }
