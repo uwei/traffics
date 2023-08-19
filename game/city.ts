@@ -699,7 +699,7 @@ export class City {
     updateShopinfo() {
         var arr = [];
         var _this = this;
-        var gesamount = 0;
+        var gesamount = 0; 
         for (var x = 0; x < parameter.allProducts.length; x++) {
             arr.push(x);
             gesamount += this.shop[x];
@@ -716,7 +716,7 @@ export class City {
             if (_this.world.advertising[arr[x]] !== undefined)
                 row.children[1].textContent = getLocalNumber(this.shop[sorted[x]]) + "↓";
             else
-                row.children[1].textContent = this.shop[sorted[x]].toLocaleString();
+                row.children[1].textContent = getLocalNumber(this.shop[sorted[x]]);
         }
         var proz = gesamount / (this.shops * parameter.capacityShop);
         if (proz > 0.75 && this.domShopinfo.style.backgroundColor !== "LightPink")
