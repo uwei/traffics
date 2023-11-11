@@ -578,6 +578,8 @@ export class CityDialog {
                */
         var companies = this.city.companies;
         var all = parameter.allProducts;
+        var selectedProduct = (<HTMLSelectElement>document.getElementById("citydialog-filter")).value;
+           
         for (var x = 0; x < companies.length; x++) {
             var comp = companies[x];
             var table = document.getElementById("citydialog-buildings-table");
@@ -626,21 +628,25 @@ export class CityDialog {
               //  document.getElementById("new-factory_" + x).removeAttribute("hidden");
                 document.getElementById("new-factoryX_" + x).removeAttribute("hidden");
                 document.getElementById("delete-factory_" + x).removeAttribute("hidden");
-                document.getElementById("buy-companies-next").removeAttribute("hidden");
+                if(comp.productid.toString()===selectedProduct)
+                    document.getElementById("buy-companies-next").removeAttribute("hidden");
                 
             } else {
               //  document.getElementById("new-factory_" + x).setAttribute("hidden", "");
                 document.getElementById("new-factoryX_" + x).setAttribute("hidden", "");
                 document.getElementById("delete-factory_" + x).setAttribute("hidden", "");
-                 document.getElementById("buy-companies-next").setAttribute("hidden", "");
+                if(comp.productid.toString()===selectedProduct)
+                    document.getElementById("buy-companies-next").setAttribute("hidden", "");
             }
             var mat = comp.getBuildingMaterial();
             if (this.city.canBuild(comp.getBuildingCosts(), comp.getBuildingMaterial()) != "") {
-                document.getElementById("buy-companies-next").setAttribute("disabled", "");
+                if(comp.productid.toString()===selectedProduct)
+                    document.getElementById("buy-companies-next").setAttribute("disabled", "");
                 document.getElementById("new-factoryX_" + x).setAttribute("disabled", "");
                 document.getElementById("new-factoryX_" + x).setAttribute("title", "not all building costs are available");
             } else {
-                document.getElementById("buy-companies-next").removeAttribute("disabled");
+                if(comp.productid.toString()===selectedProduct)
+                    document.getElementById("buy-companies-next").removeAttribute("disabled");
                 document.getElementById("new-factoryX_" + x).removeAttribute("disabled");
                 document.getElementById("new-factoryX_" + x).removeAttribute("title");
             }

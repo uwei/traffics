@@ -12,7 +12,7 @@ import { Product } from "game/product";
 import { DiagramDialog } from "game/diagramdialog";
 import { SaveDialog } from "game/savedialog";
 import { getLocalNumber } from "game/tools";
-var gameversion = "4.3";
+var gameversion = "4.4";
 window.onbeforeunload = function () {
   return "Do you want to exit?";
 
