@@ -245,7 +245,7 @@ export class City {
     }
     resetBuildingsWithoutCosts() {
         var _this = this;
-        this.domStar.style.visibility = "hidden";
+        this.domStar.style.display = "none";
         for (var x = 0; x < this.companies.length; x++) {
             this.companies[x].buildingsWithoutCosts = this.companies[x].buildings;
         }

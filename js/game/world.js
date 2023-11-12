@@ -296,7 +296,7 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
                 'px;left:' + (x) + 'px;font-size:48px;color:yellow;animation: animate   0.5s linear infinite;z-index:4" >' + icons_1.Icons.move + '</span>').children[0];
             this.dom.appendChild(domStar);
             domStar.addEventListener("click", (ev) => {
-                domStar.style.visibility = "hidden";
+                domStar.style.display = "none";
                 if (confirm("Do you want to move a city (drag and drop)")) {
                     if (parameter.hideFlags)
                         _this.makeCityMovable(".citydesc");
