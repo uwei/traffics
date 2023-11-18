@@ -78,9 +78,9 @@ export class Company {
         var fact =4  - (parameter.allProducts[this.productid].distribution) ;
         return [];
     }
-    getBuildingCosts() {
+    getBuildingCosts(correctBuildins=0) {
         var fact = 4 - (parameter.allProducts[this.productid].distribution);
-        var buildings=this.buildings-(this.buildingsWithoutCosts===undefined?0:this.buildingsWithoutCosts) +this.city.getBuildingInProgress(this.productid);
+        var buildings=this.buildings-(this.buildingsWithoutCosts===undefined?0:this.buildingsWithoutCosts) +this.city.getBuildingInProgress(this.productid)+correctBuildins;
         if(buildings<0)
             buildings=0;
         return Math.round(parameter.rateBuyBuilding*fact * 10000+Math.round(parameter.rateBuyBuildingGrowFactor*buildings));
