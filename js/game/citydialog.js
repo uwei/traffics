@@ -570,6 +570,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 else {
                     document.getElementById("no-shop_" + x).setAttribute("hidden", "");
                 }
+                var discomp = false;
                 if (comp.hasLicense && this.city.shops > 0) {
                     document.getElementById("new-factoryX_" + x).innerHTML = "+" + icons_1.Icons.factory +
                         city_1.City.getBuildingCostsAsIcon(comp.getBuildingCosts(), comp.getBuildingMaterial());
@@ -577,14 +578,16 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                     document.getElementById("new-factoryX_" + x).removeAttribute("hidden");
                     document.getElementById("delete-factory_" + x).removeAttribute("hidden");
                     if (comp.productid.toString() === selectedProduct)
-                        document.getElementById("buy-companies-next").removeAttribute("hidden");
+                        document.getElementById("buy-companies-next").removeAttribute("disabled");
                 }
                 else {
                     //  document.getElementById("new-factory_" + x).setAttribute("hidden", "");
                     document.getElementById("new-factoryX_" + x).setAttribute("hidden", "");
                     document.getElementById("delete-factory_" + x).setAttribute("hidden", "");
-                    if (comp.productid.toString() === selectedProduct)
-                        document.getElementById("buy-companies-next").setAttribute("hidden", "");
+                    if (comp.productid.toString() === selectedProduct) {
+                        discomp = true;
+                        document.getElementById("buy-companies-next").setAttribute("disabled", "");
+                    }
                 }
                 var mat = comp.getBuildingMaterial();
                 if (this.city.canBuild(comp.getBuildingCosts(), comp.getBuildingMaterial()) != "") {
@@ -594,7 +597,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                     document.getElementById("new-factoryX_" + x).setAttribute("title", "not all building costs are available");
                 }
                 else {
-                    if (comp.productid.toString() === selectedProduct)
+                    if (comp.productid.toString() === selectedProduct && discomp === false)
                         document.getElementById("buy-companies-next").removeAttribute("disabled");
                     document.getElementById("new-factoryX_" + x).removeAttribute("disabled");
                     document.getElementById("new-factoryX_" + x).removeAttribute("title");
