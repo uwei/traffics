@@ -10,12 +10,12 @@ import { RouteDialog } from "game/routedialog";
 import { getLocalNumber } from "game/tools";
 
 //@ts-ignore
-window.city = function () { 
+window.city = function () {
     return CityDialog.getInstance().city;
 }
 
 export class CityDialog {
-    maxCompanies=14;
+    maxCompanies = 14;
     dom: HTMLDivElement;
     city: City;
     hasPaused = false;
@@ -50,7 +50,7 @@ export class CityDialog {
         var sdom = `
           <div>
           <div>
-            <button id="buy-companies-next" title="update all routes" class="mybutton">`+ "+"+Icons.factory+Icons.route +">"+ `</button>
+            <button id="buy-companies-next" title="update all routes" class="mybutton">`+ "+" + Icons.factory + Icons.route + ">" + `</button>
             <button id="citydialog-capital" title="goto Capital" class="mybutton">`+ Icons.capital + `</button>
             <input style="width:30px" id="citydialog-prev" type="button" value="<"  class="mybutton"/>
             <input style="width:30px" id="citydialog-next" type="button" value=">"  class="mybutton"/>
@@ -109,7 +109,7 @@ export class CityDialog {
         return ret;
     }
     createBuildings() {
-        var _this=this;
+        var _this = this;
         return `<table id="citydialog-buildings-table" style="height:100%;weight:100%;">
                         <tr>
                             <th>Produce</th>
@@ -122,7 +122,7 @@ export class CityDialog {
                         </tr>
                        ${(function fun() {
                 var ret = "";
-                for (var x = 0; x <_this.maxCompanies ; x++) {
+                for (var x = 0; x < _this.maxCompanies; x++) {
                     ret = ret + "<tr>";
                     ret = ret + "<td></td>";
                     ret = ret + "<td></td>";
@@ -130,11 +130,11 @@ export class CityDialog {
                     ret = ret + "<td></td>";
                     ret = ret + "<td style='white-space: nowrap;'></td>";
                     ret = ret + "<td></td>";
-                    ret = ret + '<td>'+
+                    ret = ret + '<td>' +
                         //'<button id="new-factory_' + x + '" class="mybutton">' + "+" + Icons.factory + '</button>' +
                         '<button id="new-factoryX_' + x + '" class="mybutton">' + "x " + Icons.factory + '</button>' +
                         '<button id="delete-factory_' + x + '" class="mybutton">' + "- " + Icons.factory + '</button>' +
-                        '<button id="buy-license_' + x + '" class="mybutton">' + "buy license to produce for "+getLocalNumber(50000) + Icons.money + '</button>' +
+                        '<button id="buy-license_' + x + '" class="mybutton">' + "buy license to produce for " + getLocalNumber(50000) + Icons.money + '</button>' +
                         '<div id="no-shop_' + x + '">need a shop to produce</div>' +
 
                         '</td>';
@@ -143,12 +143,12 @@ export class CityDialog {
                 return ret;
             })()}
                     </table>
-                       `+Icons.home + ` Shops: <span id="count-shops">0/0</span> ` + `  
-                        <button id="buy-shop"  class="mybutton">+`+ Icons.shop + ` `+getLocalNumber(15000) + Icons.money + `</button> 
-                        <button id="delete-shop"  class="mybutton">-`+ Icons.shop + `</button>` +"&nbsp;&nbsp;&nbsp;&nbsp;"+
-            `<span id="city-buildingplaces">`+Icons.wrench+`Speed: <span id="count-buildingplaces">0</span>  
+                       `+ Icons.home + ` Shops: <span id="count-shops">0/0</span> ` + `  
+                        <button id="buy-shop"  class="mybutton">+`+ Icons.shop + ` ` + getLocalNumber(15000) + Icons.money + `</button> 
+                        <button id="delete-shop"  class="mybutton">-`+ Icons.shop + `</button>` + "&nbsp;&nbsp;&nbsp;&nbsp;" +
+            `<span id="city-buildingplaces">` + Icons.wrench + `Speed: <span id="count-buildingplaces">0</span>  
                         `  + Icons.money + `  
-                        <button id="buy-buildingplace"  class="mybutton">+`+  ` `+getLocalNumber(20000000) + Icons.money + `</button> 
+                        <button id="buy-buildingplace"  class="mybutton">+`+ ` ` + getLocalNumber(20000000) + Icons.money + `</button> 
                         <button id="delete-buildingplace"  class="mybutton">-`+ `</button>` +
             '</span>'
     }
@@ -248,13 +248,14 @@ export class CityDialog {
             sid = (<any>evt.target).parentNode.id
         var id = Number(sid.split("_")[1]);
         var comp = _this.city.companies[id];
+        var count = 0;
         for (var i = 0; i < parameter.numberBuildWithContextMenu; i++) {
             if (!_this.city.commitBuildingCosts(comp.getBuildingCosts(), comp.getBuildingMaterial(), "buy building", false))
                 return;
-            _this.city.buildBuilding(comp.productid);
-
-
+            count++;
         }
+        _this.city.buildBuilding(comp.productid, count);
+
         //comp.buildings++;
         _this.update();
         _this.city.world.game.updateTitle();
@@ -300,7 +301,7 @@ export class CityDialog {
                 if (this.filteredCities.length === 0) {
                     this.filteredCities = [_this.city];
                 }
-                this.filteredCities.sort((a:City, b:City) => {
+                this.filteredCities.sort((a: City, b: City) => {
                     var a1, b1;
                     for (var y = 0; y < a.companies.length; y++) {
                         if (a.companies[y].productid === Number(sel)) {
@@ -314,8 +315,8 @@ export class CityDialog {
                             b1 = b.companies[y].buildings - (b.companies[y].buildingsWithoutCosts ? b.companies[y].buildingsWithoutCosts : 0);
                         }
                     }
-                    
-                    return (a1- b1)*1000000000+(a.people-b.people)/1000;
+
+                    return (a1 - b1) * 1000000000 + (a.people - b.people) / 1000;
                 });
                 this.city = this.filteredCities[this.filteredCities.length - 1];
             }
@@ -328,14 +329,14 @@ export class CityDialog {
         });
         document.getElementById("buy-companies-next").addEventListener("click", (e) => {
             var sel = (<HTMLSelectElement>document.getElementById("citydialog-filter")).value;
-            if(sel=="all")
+            if (sel == "all")
                 return;
 
-            var num=parseInt(sel);
-           
-            for(var x=0;x<_this.city.companies.length;x++){
-                if(this.city.companies[x].productid===num){
-                    var bt:HTMLButtonElement=<HTMLButtonElement>document.getElementById('new-factoryX_' + x);
+            var num = parseInt(sel);
+
+            for (var x = 0; x < _this.city.companies.length; x++) {
+                if (this.city.companies[x].productid === num) {
+                    var bt: HTMLButtonElement = <HTMLButtonElement>document.getElementById('new-factoryX_' + x);
                     bt.click();
                 }
             }
@@ -344,7 +345,7 @@ export class CityDialog {
             //  _this.update();
 
         });
-        
+
         document.getElementById("citydialog-shopinfo").addEventListener("click", (e) => {
             var en = (<HTMLInputElement>document.getElementById("citydialog-shopinfo")).checked;
             _this.city.cityShowShopInfo = en;
@@ -354,44 +355,42 @@ export class CityDialog {
         });
 
         for (var x = 0; x < this.maxCompanies; x++) {
-           /* document.getElementById("new-factory_" + x).addEventListener("click", (evt) => {
-                var sid = (<any>evt.target).id;
-                if (sid === "")
-                    sid = (<any>evt.target).parentNode.id
-                var id = Number(sid.split("_")[1]);
-                var comp = _this.city.companies[id];
-                if (!_this.city.commitBuildingCosts(comp.getBuildingCosts(), comp.getBuildingMaterial(), "buy building"))
-                    return;
-                _this.city.buildBuilding(comp.productid);
-
-                //comp.buildings++;
-                _this.update();
-            });*/
+            /* document.getElementById("new-factory_" + x).addEventListener("click", (evt) => {
+                 var sid = (<any>evt.target).id;
+                 if (sid === "")
+                     sid = (<any>evt.target).parentNode.id
+                 var id = Number(sid.split("_")[1]);
+                 var comp = _this.city.companies[id];
+                 if (!_this.city.commitBuildingCosts(comp.getBuildingCosts(), comp.getBuildingMaterial(), "buy building"))
+                     return;
+                 _this.city.buildBuilding(comp.productid);
+ 
+                 //comp.buildings++;
+                 _this.update();
+             });*/
             document.getElementById("new-factoryX_" + x).addEventListener("click", (evt) => {
                 _this.buildCompanies(evt);
             });
-           /* document.getElementById("new-factory_" + x).addEventListener("contextmenu", (evt) => {
-                evt.preventDefault();
-                _this.buildCompanies(evt);
-
-            });*/
-           /* document.getElementById("delete-factory_" + x).addEventListener("click", (evt) => {
-                var sid = (<any>evt.target).id;
-                if (sid === "")
-                    sid = (<any>evt.target).parentNode.id
-                var id = Number(sid.split("_")[1]);
-                _this.deleteFactory(id);
-                _this.update();
-            });*/
+            /* document.getElementById("new-factory_" + x).addEventListener("contextmenu", (evt) => {
+                 evt.preventDefault();
+                 _this.buildCompanies(evt);
+ 
+             });*/
+            /* document.getElementById("delete-factory_" + x).addEventListener("click", (evt) => {
+                 var sid = (<any>evt.target).id;
+                 if (sid === "")
+                     sid = (<any>evt.target).parentNode.id
+                 var id = Number(sid.split("_")[1]);
+                 _this.deleteFactory(id);
+                 _this.update();
+             });*/
             document.getElementById("delete-factory_" + x).addEventListener("click", (evt) => {
                 evt.preventDefault();
                 var sid = (<any>evt.target).id;
                 if (sid === "")
                     sid = (<any>evt.target).parentNode.id
                 var id = Number(sid.split("_")[1]);
-                for (var i = 0; i < parameter.numberBuildWithContextMenu; i++) {
-                    _this.deleteFactory(id);
-                } 
+                _this.deleteFactory(id, parameter.numberBuildWithContextMenu);
 
                 /* var unempl = this.city.companies[id].workers - (this.city.companies[id].buildings * parameter.workerInCompany);
                  if (unempl > 0) {
@@ -414,26 +413,26 @@ export class CityDialog {
 
         }
 
-       /* document.getElementById("buy-shop").addEventListener("click", (evt) => {
-            if (!_this.city.commitBuildingCosts(15000, [], "buy building"))
-                return;
-            _this.city.buildBuilding(10000,true);
-            _this.update();
-        });*/
+        /* document.getElementById("buy-shop").addEventListener("click", (evt) => {
+             if (!_this.city.commitBuildingCosts(15000, [], "buy building"))
+                 return;
+             _this.city.buildBuilding(10000,true);
+             _this.update();
+         });*/
         document.getElementById("buy-shop").addEventListener("click", (evt) => {
             evt.preventDefault();
 
             if (!_this.city.commitBuildingCosts(15000 * parameter.numberBuildShopsWithContextMenu, [], "buy building"))
                 return;
-            for (var x = 0; x < parameter.numberBuildShopsWithContextMenu; x++) {
-                _this.city.buildBuilding(10000,true);
-            }
+            // for (var x = 0; x < parameter.numberBuildShopsWithContextMenu; x++) {
+            _this.city.buildBuilding(10000, parameter.numberBuildShopsWithContextMenu, true);
+            // }
             _this.update();
         });
         document.getElementById("delete-shop").addEventListener("click", (evt) => {
             if (_this.city.shops === 0)
                 return;
-            if (_this.city.tryRemoveBuildingInProgress(10000)) {
+            if (_this.city.tryRemoveBuildingInProgress(10000, 1)) {
                 _this.update();
                 return;
             }
@@ -442,25 +441,23 @@ export class CityDialog {
 
         });
 
-     /*   document.getElementById("buy-buildingplace").addEventListener("click", (evt) => {
-            if (!_this.city.commitBuildingCosts(20000000, [], "buy buildingplace"))
-                return;
-            if (_this.city.buildingplaces === 0)
-                _this.city.buildingplaces = 0;
-            //_this.city.buildingplaces++;
-            _this.city.buildBuilding(10001,true);
-            _this.update();
-        });*/
+        /*   document.getElementById("buy-buildingplace").addEventListener("click", (evt) => {
+               if (!_this.city.commitBuildingCosts(20000000, [], "buy buildingplace"))
+                   return;
+               if (_this.city.buildingplaces === 0)
+                   _this.city.buildingplaces = 0;
+               //_this.city.buildingplaces++;
+               _this.city.buildBuilding(10001,true);
+               _this.update();
+           });*/
         document.getElementById("buy-buildingplace").addEventListener("click", (evt) => {
-             evt.preventDefault();
-            if (!_this.city.commitBuildingCosts(20000000* parameter.numberBuildSpeedWithContextMenu, [], "buy buildingplace"))
+            evt.preventDefault();
+            if (!_this.city.commitBuildingCosts(20000000 * parameter.numberBuildSpeedWithContextMenu, [], "buy buildingplace"))
                 return;
-           
-            
+
+
             //_this.city.buildingplaces= parameter.numberBuildSpeedWithContextMenu+_this.city.buildingplaces;
-            for(var x=0;x<parameter.numberBuildSpeedWithContextMenu;x++){
-                _this.city.buildBuilding(10001,true);
-            }
+            _this.city.buildBuilding(10001, parameter.numberBuildSpeedWithContextMenu, true);
             //_this.city.buildBuilding(10000);
             _this.update();
         });
@@ -470,10 +467,10 @@ export class CityDialog {
             //    _this.update();
             //    return;
             //}
-            _this.city.buildingplaces=_this.city.buildingplaces-parameter.numberBuildSpeedWithContextMenu;
-            if (_this.city.buildingplaces<0)
-                _this.city.buildingplaces=1;
-            
+            _this.city.buildingplaces = _this.city.buildingplaces - parameter.numberBuildSpeedWithContextMenu;
+            if (_this.city.buildingplaces < 0)
+                _this.city.buildingplaces = 1;
+
             _this.update();
 
         });
@@ -495,7 +492,7 @@ export class CityDialog {
         }
         CityDialogShop.getInstance().bindActions();
     }
-    loadFillAllConsumtion(nowarning=false) {
+    loadFillAllConsumtion(nowarning = false) {
         var routes: Route[] = [];
         var posCity = this.city.world.cities.indexOf(this.city);
         for (var a = 0; a < this.city.world.airplanes.length; a++) {
@@ -520,7 +517,7 @@ export class CityDialog {
         }
         var money = 20000 * routes.length / 2;
         if (routes.length > 2 || this.city.world.game.getMoney() < 1000000) {
-            if(nowarning)
+            if (nowarning)
                 return;
             if (!confirm("Update conumtion in all routes for " + money + "?")) {
                 return;
@@ -551,18 +548,20 @@ export class CityDialog {
                 }
             }*/
     }
-    deleteFactory(id: number) {
+    deleteFactory(id: number, count: number) {
         var _this = this;
         var comp = _this.city.companies[id];
-        if (_this.city.tryRemoveBuildingInProgress(comp.productid)) {
+        if (_this.city.tryRemoveBuildingInProgress(comp.productid, count)) {
             _this.update();
             return;
         }
-
-        if (comp.buildings > 0) {
-            comp.buildings--;
-            _this.city.companies[id].workers -= parameter.workerInCompany;
+        for (var x = 0; x < count; x++) {
+            if (comp.buildings > 0) {
+                comp.buildings--;
+                _this.city.companies[id].workers -= parameter.workerInCompany;
+            }
         }
+
     }
 
     updateBuildings() {
@@ -579,7 +578,7 @@ export class CityDialog {
         var companies = this.city.companies;
         var all = parameter.allProducts;
         var selectedProduct = (<HTMLSelectElement>document.getElementById("citydialog-filter")).value;
-           
+
         for (var x = 0; x < companies.length; x++) {
             var comp = companies[x];
             var table = document.getElementById("citydialog-buildings-table");
@@ -595,12 +594,12 @@ export class CityDialog {
             }
             tr.children[2].innerHTML = s;
             //tr.children[3].innerHTML = "" + getLocalNumber(comp.workers);// + "/<br/>" + getLocalNumber(comp.getMaxWorkers());
-            tr.children[3].innerHTML=getLocalNumber(comp.workers);
-/*            if (comp.workers > 10000)
-                tr.children[3].innerHTML = (Math.floor(comp.workers / 1000)).toLocaleString() + "K" + "/<br/>" + Math.floor(comp.getMaxWorkers() / 1000).toLocaleString() + "K";
-            if (comp.workers > 10000000)
-                tr.children[3].innerHTML = (Math.floor(comp.workers / 1000000)).toLocaleString() + "M" + "/<br/>" + Math.floor(comp.getMaxWorkers() / 1000000).toLocaleString() + "M";
-*/
+            tr.children[3].innerHTML = getLocalNumber(comp.workers);
+            /*            if (comp.workers > 10000)
+                            tr.children[3].innerHTML = (Math.floor(comp.workers / 1000)).toLocaleString() + "K" + "/<br/>" + Math.floor(comp.getMaxWorkers() / 1000).toLocaleString() + "K";
+                        if (comp.workers > 10000000)
+                            tr.children[3].innerHTML = (Math.floor(comp.workers / 1000000)).toLocaleString() + "M" + "/<br/>" + Math.floor(comp.getMaxWorkers() / 1000000).toLocaleString() + "M";
+            */
 
             var needs1 = "";
             var needs2 = "";
@@ -621,33 +620,33 @@ export class CityDialog {
             } else {
                 document.getElementById("no-shop_" + x).setAttribute("hidden", "");
             }
-    var discomp=false;
+            var discomp = false;
             if (comp.hasLicense && this.city.shops > 0) {
                 document.getElementById("new-factoryX_" + x).innerHTML = "+" + Icons.factory +
                     City.getBuildingCostsAsIcon(comp.getBuildingCosts(), comp.getBuildingMaterial());
-              //  document.getElementById("new-factory_" + x).removeAttribute("hidden");
+                //  document.getElementById("new-factory_" + x).removeAttribute("hidden");
                 document.getElementById("new-factoryX_" + x).removeAttribute("hidden");
                 document.getElementById("delete-factory_" + x).removeAttribute("hidden");
-                if(comp.productid.toString()===selectedProduct)
+                if (comp.productid.toString() === selectedProduct)
                     document.getElementById("buy-companies-next").removeAttribute("disabled");
-                
+
             } else {
-              //  document.getElementById("new-factory_" + x).setAttribute("hidden", "");
+                //  document.getElementById("new-factory_" + x).setAttribute("hidden", "");
                 document.getElementById("new-factoryX_" + x).setAttribute("hidden", "");
                 document.getElementById("delete-factory_" + x).setAttribute("hidden", "");
-                if(comp.productid.toString()===selectedProduct){
-                    discomp=true;
+                if (comp.productid.toString() === selectedProduct) {
+                    discomp = true;
                     document.getElementById("buy-companies-next").setAttribute("disabled", "");
                 }
             }
             var mat = comp.getBuildingMaterial();
             if (this.city.canBuild(comp.getBuildingCosts(), comp.getBuildingMaterial()) != "") {
-                if(comp.productid.toString()===selectedProduct)
+                if (comp.productid.toString() === selectedProduct)
                     document.getElementById("buy-companies-next").setAttribute("disabled", "");
                 document.getElementById("new-factoryX_" + x).setAttribute("disabled", "");
                 document.getElementById("new-factoryX_" + x).setAttribute("title", "not all building costs are available");
             } else {
-                if(comp.productid.toString()===selectedProduct&&discomp===false)
+                if (comp.productid.toString() === selectedProduct && discomp === false)
                     document.getElementById("buy-companies-next").removeAttribute("disabled");
                 document.getElementById("new-factoryX_" + x).removeAttribute("disabled");
                 document.getElementById("new-factoryX_" + x).removeAttribute("title");
@@ -674,14 +673,14 @@ export class CityDialog {
             sh = sh + "(" + inprogr + Icons.hammer + ")";
         }
         document.getElementById("count-shops").innerHTML = "" + sh;
-       // document.getElementById("costs-shops").innerHTML = "" + this.city.getDailyCostsShops();
+        // document.getElementById("costs-shops").innerHTML = "" + this.city.getDailyCostsShops();
 
         sh = "" + this.city.buildingplaces.toLocaleString();
         var inprogr = this.city.getBuildingInProgress(10001);
         if (inprogr) {
             sh = sh + "(" + inprogr + Icons.hammer + ")";
         }
-        document.getElementById("count-buildingplaces").innerHTML = "" +sh;
+        document.getElementById("count-buildingplaces").innerHTML = "" + sh;
 
         if (this.city.canBuild(15000, []) !== "") {
             document.getElementById("buy-shop").setAttribute("disabled", "");
@@ -783,7 +782,7 @@ export class CityDialog {
         var sicon = '';
         if ($(this.dom).parent().find('.ui-dialog-title').length > 0)
             $(this.dom).parent().find('.ui-dialog-title')[0].innerHTML = '<img style="float: right" id="citydialog-icon" src="' + this.city.icon +
-                '"  height="15"></img> ' + this.city.name + " (lev "+this.city.level+") " + this.city.people + " " + Icons.people;
+                '"  height="15"></img> ' + this.city.name + " (lev " + this.city.level + ") " + this.city.people + " " + Icons.people;
     }
     show() {
         var _this = this;

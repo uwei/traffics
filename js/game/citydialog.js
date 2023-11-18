@@ -226,11 +226,13 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 sid = evt.target.parentNode.id;
             var id = Number(sid.split("_")[1]);
             var comp = _this.city.companies[id];
+            var count = 0;
             for (var i = 0; i < parameter.numberBuildWithContextMenu; i++) {
                 if (!_this.city.commitBuildingCosts(comp.getBuildingCosts(), comp.getBuildingMaterial(), "buy building", false))
                     return;
-                _this.city.buildBuilding(comp.productid);
+                count++;
             }
+            _this.city.buildBuilding(comp.productid, count);
             //comp.buildings++;
             _this.update();
             _this.city.world.game.updateTitle();
@@ -354,9 +356,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                     if (sid === "")
                         sid = evt.target.parentNode.id;
                     var id = Number(sid.split("_")[1]);
-                    for (var i = 0; i < parameter.numberBuildWithContextMenu; i++) {
-                        _this.deleteFactory(id);
-                    }
+                    _this.deleteFactory(id, parameter.numberBuildWithContextMenu);
                     /* var unempl = this.city.companies[id].workers - (this.city.companies[id].buildings * parameter.workerInCompany);
                      if (unempl > 0) {
                          this.city.companies[id].workers -= unempl;
@@ -386,15 +386,15 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 evt.preventDefault();
                 if (!_this.city.commitBuildingCosts(15000 * parameter.numberBuildShopsWithContextMenu, [], "buy building"))
                     return;
-                for (var x = 0; x < parameter.numberBuildShopsWithContextMenu; x++) {
-                    _this.city.buildBuilding(10000, true);
-                }
+                // for (var x = 0; x < parameter.numberBuildShopsWithContextMenu; x++) {
+                _this.city.buildBuilding(10000, parameter.numberBuildShopsWithContextMenu, true);
+                // }
                 _this.update();
             });
             document.getElementById("delete-shop").addEventListener("click", (evt) => {
                 if (_this.city.shops === 0)
                     return;
-                if (_this.city.tryRemoveBuildingInProgress(10000)) {
+                if (_this.city.tryRemoveBuildingInProgress(10000, 1)) {
                     _this.update();
                     return;
                 }
@@ -415,9 +415,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 if (!_this.city.commitBuildingCosts(20000000 * parameter.numberBuildSpeedWithContextMenu, [], "buy buildingplace"))
                     return;
                 //_this.city.buildingplaces= parameter.numberBuildSpeedWithContextMenu+_this.city.buildingplaces;
-                for (var x = 0; x < parameter.numberBuildSpeedWithContextMenu; x++) {
-                    _this.city.buildBuilding(10001, true);
-                }
+                _this.city.buildBuilding(10001, parameter.numberBuildSpeedWithContextMenu, true);
                 //_this.city.buildBuilding(10000);
                 _this.update();
             });
@@ -503,16 +501,18 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                     }
                 }*/
         }
-        deleteFactory(id) {
+        deleteFactory(id, count) {
             var _this = this;
             var comp = _this.city.companies[id];
-            if (_this.city.tryRemoveBuildingInProgress(comp.productid)) {
+            if (_this.city.tryRemoveBuildingInProgress(comp.productid, count)) {
                 _this.update();
                 return;
             }
-            if (comp.buildings > 0) {
-                comp.buildings--;
-                _this.city.companies[id].workers -= parameter.workerInCompany;
+            for (var x = 0; x < count; x++) {
+                if (comp.buildings > 0) {
+                    comp.buildings--;
+                    _this.city.companies[id].workers -= parameter.workerInCompany;
+                }
             }
         }
         updateBuildings() {

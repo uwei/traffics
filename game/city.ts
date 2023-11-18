@@ -9,8 +9,9 @@ import { getLocalNumber, getRandomInt } from "game/tools";
 
 class QueueItem {
     typeid: number;
-    name: string;
+    name?: string;
     ready: number;
+    count?:number;
 }
 export class City {
     level=1;
@@ -252,25 +253,28 @@ export class City {
         //@ts-ignore
         $.notify("Congratulations. All building costs " + this.name + " are reset.");
     }
-    buildBuilding(typeid: number, before = false) {
-
+    buildBuilding(typeid: number,count:number, before = false) {
+        var buildingTime=(parameter.daysBuildBuilding * 1000 * 60 * 60 * 24) / (!this.buildingplaces ? 1 : (this.buildingplaces + 1));
 
         //shop should create at first
-        if (before && this.queueBuildings.length > 1) {
+        if (before && this.queueBuildings.length > 0) {
             var last = this.world.game.date.getTime();
-            last = this.queueBuildings[1].ready;
-            this.queueBuildings.splice(1, 0, { ready: last, typeid: typeid, name: "" });
+            last = this.queueBuildings[0].ready;
+            this.queueBuildings.splice(0, 0, { ready: last, typeid: typeid,count:count});
             //move others
-            for (var x = 2; x < this.queueBuildings.length; x++) {
-                last += (parameter.daysBuildBuilding * 1000 * 60 * 60 * 24) / (!this.buildingplaces ? 1 : (this.buildingplaces + 1));
+             var buildingTimeSum=buildingTime*count;
+            for (var x = 1; x < this.queueBuildings.length; x++) {
+                last += buildingTimeSum;
                 this.queueBuildings[x].ready = last;
             }
         } else {
             var last = this.world.game.date.getTime();
-            if (this.queueBuildings.length > 0)
-                last = this.queueBuildings[this.queueBuildings.length - 1].ready;
-            last += (parameter.daysBuildBuilding * 1000 * 60 * 60 * 24) / (!this.buildingplaces ? 1 : (this.buildingplaces + 1));
-            this.queueBuildings.push({ ready: last, typeid: typeid, name: "" });
+            if (this.queueBuildings.length > 0){
+                var entry=this.queueBuildings[this.queueBuildings.length - 1];
+                last = entry.ready+( entry.count?entry.count:0)*buildingTime;
+            }
+            //    last += buildingTime;//*this.queueBuildings[this.queueBuildings.length - 1].count;
+            this.queueBuildings.push({ ready: last+buildingTime, typeid: typeid,count:count});
         }
     }
     buildAirplane(typeid: number) {
@@ -380,21 +384,31 @@ export class City {
             this.companies[comps[winner]].workers++;
         }
     }
-    tryRemoveBuildingInProgress(typeid) {
+    tryRemoveBuildingInProgress(typeid,count:number) {
         var ret = false;
+        var countTODO=count;
+        var counsumed=false;
         for (var x = this.queueBuildings.length - 1; x > -1; x--) {
             if (this.queueBuildings[x].typeid === typeid) {
-                this.queueBuildings.splice(x, 1);
-                return true;
+                var has=this.queueBuildings[x].count?this.queueBuildings[x].count:1;
+                if(has>countTODO){
+                    this.queueBuildings[x].count-=countTODO;
+                    return true;
+                }else{
+                    countTODO-=this.queueBuildings[x].count;
+                     this.queueBuildings.splice(x, 1);
+                     counsumed=true;
+                }
             }
         }
-        return false;
+        return counsumed;
     }
     getBuildingInProgress(typeid) {
         var ret = 0;
         for (var x = 0; x < this.queueBuildings.length; x++) {
-            if (this.queueBuildings[x].typeid === typeid)
-                ret++;
+            if (this.queueBuildings[x].typeid === typeid){
+                ret=ret+(this.queueBuildings[x].count?this.queueBuildings[x].count:0);
+            }
         }
         return ret;
     }
@@ -405,6 +419,8 @@ export class City {
         }
     }
     updateBuildingQueue() {
+         var buildingTime=(parameter.daysBuildBuilding * 1000 * 60 * 60 * 24) / (!this.buildingplaces ? 1 : (this.buildingplaces + 1));
+
         while (this.queueBuildings.length > 0 && this.queueBuildings[0].ready <= this.world.game.date.getTime()) {
             if (this.queueBuildings[0].typeid === 10000) {
                 this.shops++;
@@ -419,8 +435,14 @@ export class City {
                     }
                 }
             }
+            if(this.queueBuildings[0].count){
+                this.queueBuildings[0].count--;
+                this.queueBuildings[0].ready+=buildingTime;
+            }
+            if(!this.queueBuildings[0].count)
+                this.queueBuildings.splice(0, 1);
             //this.newAirplane(this.queueAirplane[0].typeid);
-            this.queueBuildings.splice(0, 1);
+            
         }
     }
     getScore(): number {
