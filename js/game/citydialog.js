@@ -8,7 +8,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
     };
     class CityDialog {
         constructor() {
-            this.maxCompanies = 12;
+            this.maxCompanies = 14;
             this.hasPaused = false;
             this.create();
         }

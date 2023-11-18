@@ -15,7 +15,7 @@ window.city = function () {
 }
 
 export class CityDialog {
-    maxCompanies=12;
+    maxCompanies=14;
     dom: HTMLDivElement;
     city: City;
     hasPaused = false;

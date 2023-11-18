@@ -704,6 +704,15 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                 acolor = "blueviolet";
             }
             if (this.people > 3500000) {
+                acolor = "Chartreuse";
+            }
+            if (this.people > 4000000) {
+                acolor = "SlateGray";
+            }
+            if (this.people > 4500000) {
+                acolor = "Sienna";
+            }
+            if (this.people > 5000000) {
                 acolor = "Wheat";
             }
             //green GoldenRod 

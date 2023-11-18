@@ -768,7 +768,17 @@ export class City {
         if (this.people > 3000000) {
             acolor = "blueviolet";
         }
+
          if (this.people > 3500000) {
+            acolor = "Chartreuse";
+        }
+        if (this.people > 4000000) {
+            acolor = "SlateGray";
+        }
+        if (this.people > 4500000) {
+            acolor = "Sienna";
+        }
+        if (this.people > 5000000) {
             acolor = "Wheat";
         }
 
