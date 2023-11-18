@@ -1,4 +1,4 @@
-define(["require", "exports", "game/icons"], function (require, exports, icons_1) {
+define(["require", "exports", "game/icons", "game/tools"], function (require, exports, icons_1, tools_1) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.DiagramDialog = void 0;
@@ -110,8 +110,8 @@ define(["require", "exports", "game/icons"], function (require, exports, icons_1
                         <tr>
                             <th>Name</th>
                             <th> </th>
-                            <th>Buildings</th>
-                            <th align=right>Rate Load</th>
+                            <th style="align:right">Rate Load</th>
+                            <th style="align:right">Buildings</th>
                             <th style="align:right">Consum.</th>
                             <th>Advertise</th>
                         </tr>
@@ -121,8 +121,8 @@ define(["require", "exports", "game/icons"], function (require, exports, icons_1
                     ret = ret + "<tr>";
                     ret = ret + "<td>" + parameter.allProducts[x].getIcon() + "</td>";
                     ret = ret + "<td>" + parameter.allProducts[x].name + "</td>";
-                    ret = ret + "<td>0</td>";
                     ret = ret + '<td align=right>100,00</td>';
+                    ret = ret + "<td align=right>0</td>";
                     ret = ret + '<td align=right>0</td>';
                     ret = ret + "<td>" + '<button id="diagram-advertise_' + x + '" class="mybutton"></button>' + "</td>";
                     ret = ret + "</tr>";
@@ -166,11 +166,11 @@ define(["require", "exports", "game/icons"], function (require, exports, icons_1
                 for (var y = 0; y < this.world.cities.length; y++) {
                     inprogr += this.world.cities[y].getBuildingInProgress(x);
                 }
-                var sh = buildings[x] === undefined ? "" : buildings[x];
+                var sh = buildings[x] === undefined ? "" : (0, tools_1.getLocalNumber)(buildings[x]);
                 if (inprogr) {
                     sh = sh + "(" + inprogr + icons_1.Icons.hammer + ")";
                 }
-                tr.children[2].innerHTML = sh;
+                tr.children[3].innerHTML = sh;
                 var suc = 0;
                 var unsuc = 0;
                 for (var t = 0; t < 7; t++) {
@@ -179,7 +179,7 @@ define(["require", "exports", "game/icons"], function (require, exports, icons_1
                 }
                 var ges = unsuc + suc;
                 var dif = ges - unsuc;
-                tr.children[3].innerHTML = (Math.round(10000 * dif / ges) / 100).toLocaleString(undefined, { maximumFractionDigits: 2 });
+                tr.children[2].innerHTML = (Math.round(10000 * dif / ges) / 100).toLocaleString(undefined, { maximumFractionDigits: 2 }) + "&nbsp;";
                 //tr.children[3].innerHTML = parameter.allProducts[x].dailyConsumtion.toLocaleString();
                 //var test1=parameter.allProducts[x].getAmountForPeople()/(parameter.workerInCompany*parameter.allProducts.length);
                 //var abw1=Math.round(1000*(parameter.allProducts[x].dailyConsumtion-test1)/parameter.allProducts[x].dailyConsumtion)/10;

@@ -50,6 +50,7 @@ export class CityDialog {
         var sdom = `
           <div>
           <div>
+            <button id="buy-companies-next" title="update all routes" class="mybutton">`+ "+"+Icons.factory+Icons.route +">"+ `</button>
             <button id="citydialog-capital" title="goto Capital" class="mybutton">`+ Icons.capital + `</button>
             <input style="width:30px" id="citydialog-prev" type="button" value="<"  class="mybutton"/>
             <input style="width:30px" id="citydialog-next" type="button" value=">"  class="mybutton"/>
@@ -60,7 +61,6 @@ export class CityDialog {
             <input type="checkbox" id="hide-busy" name="vehicle1">hide busy</input>
             <input type="checkbox" id="citydialog-shopinfo" title="show shop info beside the city" >info</input>
             <button id="update-all-routes" title="update all routes" class="mybutton">`+ Icons.route + `</button>
-            <button id="buy-companies-next" title="update all routes" class="mybutton">`+ "+"+Icons.factory+Icons.route +">"+ `</button>
             
           </div>
             <div id="citydialog-tabs">

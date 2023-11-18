@@ -35,6 +35,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
             var sdom = `
           <div>
           <div>
+            <button id="buy-companies-next" title="update all routes" class="mybutton">` + "+" + icons_1.Icons.factory + icons_1.Icons.route + ">" + `</button>
             <button id="citydialog-capital" title="goto Capital" class="mybutton">` + icons_1.Icons.capital + `</button>
             <input style="width:30px" id="citydialog-prev" type="button" value="<"  class="mybutton"/>
             <input style="width:30px" id="citydialog-next" type="button" value=">"  class="mybutton"/>
@@ -45,7 +46,6 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
             <input type="checkbox" id="hide-busy" name="vehicle1">hide busy</input>
             <input type="checkbox" id="citydialog-shopinfo" title="show shop info beside the city" >info</input>
             <button id="update-all-routes" title="update all routes" class="mybutton">` + icons_1.Icons.route + `</button>
-            <button id="buy-companies-next" title="update all routes" class="mybutton">` + "+" + icons_1.Icons.factory + icons_1.Icons.route + ">" + `</button>
             
           </div>
             <div id="citydialog-tabs">
