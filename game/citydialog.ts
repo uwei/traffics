@@ -516,7 +516,7 @@ export class CityDialog {
             }
         }
         var money = 20000 * routes.length / 2;
-        if (routes.length > 2 || this.city.world.game.getMoney() < 1000000) {
+        if ((this.city.world.game.getMoney()/money)<1000&&(routes.length > 2 || this.city.world.game.getMoney() < 1000000)) {
             if (nowarning)
                 return;
             if (!confirm("Update conumtion in all routes for " + money + "?")) {
@@ -532,21 +532,7 @@ export class CityDialog {
                 RouteDialog.loadFillConsumtion(routes[x], false);
             }
         }
-        /*    var money = 20000 * this.route.airplane.world.cities.length;
-            if (confirm("Update conumtion in all routes for " + money + "?")) {
-                this.route.airplane.world.game.changeMoney(-money,"update routes");
-                for (var a = 0; a < this.route.airplane.world.airplanes.length; a++) {
-                    var ap=this.route.airplane.world.airplanes[a];
-                    for (var x = 0; x < ap.route.length; x++) {
-                        if (ap.route[x].loadShopAmount[0] !== undefined) {
-                            RouteDialog.loadFillConsumtion(ap.route[x], true);
-                        }
-                        if (this.route.airplane.route[x].loadShopUntilAmount[0] !== undefined) {
-                            RouteDialog.loadFillConsumtion(ap.route[x], false);
-                        }
-                    }
-                }
-            }*/
+
     }
     deleteFactory(id: number, count: number) {
         var _this = this;

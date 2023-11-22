@@ -217,6 +217,7 @@ define(["require", "exports", "game/icons", "game/route", "game/routedialog"], f
                 for (var x = 0; x < this.airplane.world.cities.length; x++) {
                     try {
                         $(this.airplane.world.cities[x].dom).draggable('destroy');
+                        $(this.airplane.world.cities[x].domDesc).draggable('destroy');
                     }
                     catch (_a) {
                     }
@@ -239,6 +240,7 @@ define(["require", "exports", "game/icons", "game/route", "game/routedialog"], f
                 for (var x = 0; x < _this.airplane.world.cities.length; x++) {
                     if (this.airplane.world.cities[x].hasAirport === false) {
                         $(this.airplane.world.cities[x].dom).draggable('disable');
+                        $(this.airplane.world.cities[x].domDesc).draggable('disable');
                     }
                 }
             }

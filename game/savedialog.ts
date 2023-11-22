@@ -511,6 +511,13 @@ export class SaveDialog {
             }
             game.version = "4.1";
         }
+         if (parseFloat(ret.version) < 4.8) {
+            for (var x = 0; x < game.world.airplanes.length; x++) {
+                if(game.world.airplanes[x].speed>300)
+                    game.world.airplanes[x].speed=300;
+            }
+            game.version = "4.8";
+        }
         game.render(this.game.dom);
         game.resume();
     }
