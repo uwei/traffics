@@ -300,7 +300,7 @@ export class City {
         }
         maxNumber++;
         var ap = new Airplane(_this.world);
-        ap.speed = 200;
+        ap.speed = 100;
         ap.x = _this.x;
         ap.y = _this.y;
         ap.world = _this.world;

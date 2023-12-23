@@ -254,7 +254,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             }
             maxNumber++;
             var ap = new airplane_1.Airplane(_this.world);
-            ap.speed = 200;
+            ap.speed = 100;
             ap.x = _this.x;
             ap.y = _this.y;
             ap.world = _this.world;

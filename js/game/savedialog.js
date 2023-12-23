@@ -478,6 +478,13 @@ define(["require", "exports", "game/product", "game/airplane", "game/route", "ga
                 }
                 game.version = "4.8";
             }
+            if (parseFloat(ret.version) < 5.0) {
+                for (var x = 0; x < game.world.airplanes.length; x++) {
+                    if (game.world.airplanes[x].speed > 150)
+                        game.world.airplanes[x].speed = 150;
+                }
+                game.version = "5.0";
+            }
             game.render(this.game.dom);
             game.resume();
         }
