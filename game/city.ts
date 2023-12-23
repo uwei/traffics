@@ -163,6 +163,7 @@ export class City {
         this.dom = <any>document.createElement("img");
         this.dom.style.border = "1px solid black";
         this.dom.setAttribute("src", this.icon);
+        this.dom.style.cursor="url(https://www.w3schools.com/cssref/myBall.cur),auto";
         this.dom.setAttribute("cityid", cityid.toString());
         this.dom.style.position = "absolute";
         this.dom.classList.add("city");
@@ -178,7 +179,7 @@ export class City {
         });
         this.domStar.style.zIndex = "99999";
         this.world.dom.appendChild(this.domStar);
-        this.domDesc = <any>document.createRange().createContextualFragment('<span style="position:absolute;top:' + (30 + this.y) +
+        this.domDesc = <any>document.createRange().createContextualFragment('<span style="cursor:url(https://www.w3schools.com/cssref/myBall.cur),auto;position:absolute;top:' + (30 + this.y) +
             'px;left:' + (this.x - 20) + 'px;font-size:12px;"></span>').children[0];
         this.domDesc.setAttribute("cityid", cityid.toString());
         this.domDesc["city"] = this;

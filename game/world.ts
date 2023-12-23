@@ -91,12 +91,14 @@ export class World {
         this.selection?.unselect();
         if (th.target === this.dom) {
             try {
-                CityDialog.getInstance().close();
+                if (parameter.autoCloseDialog)
+                    CityDialog.getInstance().close();
             } catch {
 
             }
             try {
-                AirplaneDialog.getInstance().close();
+                if (parameter.autoCloseDialog)
+                    AirplaneDialog.getInstance().close();
 
             } catch {
 
@@ -112,7 +114,8 @@ export class World {
 
             }
             try {
-                DiagramDialog.getInstance().close();
+                if (parameter.autoCloseDialog)
+                    DiagramDialog.getInstance().close();
             } catch {
 
             }
@@ -300,10 +303,10 @@ export class World {
                 $(sel).draggable("destroy");
                 var city: City = (<any>event.target).city;
                 setTimeout(() => {
-                    if(parameter.hideFlags)
-                    _this.makeCityMovable(city.domDesc);
+                    if (parameter.hideFlags)
+                        _this.makeCityMovable(city.domDesc);
                     else
-                    _this.makeCityMovable(city.dom);
+                        _this.makeCityMovable(city.dom);
 
                 }, 400);
                 var x = parseInt((<any>event.target).style.left.replace("px", ""));
@@ -333,10 +336,10 @@ export class World {
         domStar.addEventListener("click", (ev: MouseEvent) => {
             domStar.style.display = "none";
             if (confirm("Do you want to move a city (drag and drop)")) {
-                if(parameter.hideFlags)
-                _this.makeCityMovable(".citydesc");
+                if (parameter.hideFlags)
+                    _this.makeCityMovable(".citydesc");
                 else
-                _this.makeCityMovable(".city");
+                    _this.makeCityMovable(".city");
             }
             return undefined;
         });
@@ -378,15 +381,15 @@ export class World {
                 for (var c = 0; c < _this.cities[x].companies.length; c++) {
                     var comp = _this.cities[x].companies[c];
                     if (comp.productid === prod.id) {
-                        if(comp.buildingsWithoutCosts===undefined)
-                            comp.buildingsWithoutCosts=0;
+                        if (comp.buildingsWithoutCosts === undefined)
+                            comp.buildingsWithoutCosts = 0;
                         var diff = Math.round((comp.buildings - comp.buildingsWithoutCosts) / 2);
-                        comp.buildingsWithoutCosts=comp.buildingsWithoutCosts + diff;
+                        comp.buildingsWithoutCosts = comp.buildingsWithoutCosts + diff;
                     }
                 }
             }
             //@ts-ignore
-            $.notify("Reduced building costs of " +prod.name);
+            $.notify("Reduced building costs of " + prod.name);
             return undefined;
         });
         setTimeout(() => {

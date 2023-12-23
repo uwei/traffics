@@ -69,12 +69,14 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
             (_a = this.selection) === null || _a === void 0 ? void 0 : _a.unselect();
             if (th.target === this.dom) {
                 try {
-                    citydialog_1.CityDialog.getInstance().close();
+                    if (parameter.autoCloseDialog)
+                        citydialog_1.CityDialog.getInstance().close();
                 }
                 catch (_b) {
                 }
                 try {
-                    airplanedialog_1.AirplaneDialog.getInstance().close();
+                    if (parameter.autoCloseDialog)
+                        airplanedialog_1.AirplaneDialog.getInstance().close();
                 }
                 catch (_c) {
                 }
@@ -89,7 +91,8 @@ define(["require", "exports", "game/city", "game/airplane", "game/citydialog", "
                 catch (_e) {
                 }
                 try {
-                    diagramdialog_1.DiagramDialog.getInstance().close();
+                    if (parameter.autoCloseDialog)
+                        diagramdialog_1.DiagramDialog.getInstance().close();
                 }
                 catch (_f) {
                 }

@@ -40,6 +40,10 @@ define(["require", "exports", "game/icons", "game/tools"], function (require, ex
                 // _this.city.renderShopinfo(en);
                 //  _this.update();
             });
+            document.getElementById("autoCloseDialog").addEventListener("click", (e) => {
+                var en = document.getElementById("autoCloseDialog").checked;
+                parameter.autoCloseDialog = en;
+            });
             for (var x = 0; x < parameter.allProducts.length; x++) {
                 document.getElementById("diagram-advertise_" + x).addEventListener("click", (evt) => {
                     var sid = evt.target.id;
@@ -85,6 +89,7 @@ define(["require", "exports", "game/icons", "game/tools"], function (require, ex
                        build shops with contextmenu: <input id="buildShopsWithOneClick"  value="""/><br/>
                        build speed with contextmenu: <input id="buildSpeedWithOneClick"  value="""/><br/>
                        <input type="checkbox" id="hideFlags" title="hide flags" >hide flags</input>
+                       <input type="checkbox" id="autoCloseDialog" title="auto close dialog" >auto close dialog</input>
                 </div>
             </div>
            </div> 
@@ -141,6 +146,8 @@ define(["require", "exports", "game/icons", "game/tools"], function (require, ex
                 document.getElementById("buildSpeedWithOneClick").value = "" + parameter.numberBuildSpeedWithContextMenu;
             if (document.getElementById("hideFlags").checked !== parameter.hideFlags)
                 document.getElementById("hideFlags").checked = parameter.hideFlags;
+            if (document.getElementById("autoCloseDialog").checked !== parameter.autoCloseDialog)
+                document.getElementById("autoCloseDialog").checked = parameter.autoCloseDialog;
             try {
                 if (!$(this.dom).dialog('isOpen')) {
                     return;

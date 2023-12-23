@@ -12,7 +12,7 @@ import { Product } from "game/product";
 import { DiagramDialog } from "game/diagramdialog";
 import { SaveDialog } from "game/savedialog";
 import { getLocalNumber } from "game/tools";
-var gameversion = "4.8";
+var gameversion = "4.9";
 window.onbeforeunload = function () {
   return "Do you want to exit?";
 
@@ -69,6 +69,7 @@ export class Parameter {
   numberBuildShopsWithContextMenu = 1;
   numberBuildSpeedWithContextMenu = 1;
   hideFlags=false;
+  autoCloseDialog=true;
   startMoney = 250000;
   allAirplaneTypes = [
     { typeid: 0, model: "Airplane", speed: 200, capacity: 200, costs: 60, buildDays: 20, buildingCosts: 20000, buildingMaterial: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
@@ -136,7 +137,7 @@ export class Game {
   domHeader: HTMLDivElement;
   domWorld: HTMLDivElement;
   _money;
-  version = "4.8";
+  version = "4.9";
   date: Date;
   lastUpdate: number;
   speed: number;
