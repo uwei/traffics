@@ -39,9 +39,9 @@ define(["require", "exports", "game/airplanedialog"], function (require, exports
         }
         upgrade() {
             this.typeid++;
-            this.speed = Math.round(this.speed * 1.02);
-            if (this.speed > 300)
-                this.speed = 300;
+            this.speed = Math.round(this.speed * 1.01);
+            if (this.speed > 150)
+                this.speed = 150;
             this.capacity = Math.round(this.capacity * 1.5);
             this.world.game.changeMoney(-this.typeid * 10000, "upgrade airplane");
             this.costs = Math.round(this.costs * 1.5);
