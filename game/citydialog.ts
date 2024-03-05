@@ -254,7 +254,7 @@ export class CityDialog {
                 return;
             count++;
         }
-        _this.city.buildBuilding(comp.productid, count);
+        _this.city.buildBuilding(id,comp.productid, count);
 
         //comp.buildings++;
         _this.update();
@@ -425,7 +425,7 @@ export class CityDialog {
             if (!_this.city.commitBuildingCosts(15000 * parameter.numberBuildShopsWithContextMenu, [], "buy building"))
                 return;
             // for (var x = 0; x < parameter.numberBuildShopsWithContextMenu; x++) {
-            _this.city.buildBuilding(10000, parameter.numberBuildShopsWithContextMenu, true);
+            _this.city.buildBuilding(10000,10000, parameter.numberBuildShopsWithContextMenu, true);
             // }
             _this.update();
         });
@@ -457,7 +457,7 @@ export class CityDialog {
 
 
             //_this.city.buildingplaces= parameter.numberBuildSpeedWithContextMenu+_this.city.buildingplaces;
-            _this.city.buildBuilding(10001, parameter.numberBuildSpeedWithContextMenu, true);
+            _this.city.buildBuilding(10001,10001, parameter.numberBuildSpeedWithContextMenu, true);
             //_this.city.buildBuilding(10000);
             _this.update();
         });

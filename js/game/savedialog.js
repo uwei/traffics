@@ -485,6 +485,24 @@ define(["require", "exports", "game/product", "game/airplane", "game/route", "ga
                 }
                 game.version = "5.0";
             }
+            if (parseFloat(ret.version) < 5.2) {
+                for (var x = 0; x < game.world.cities.length; x++) {
+                    var city = game.world.cities[x];
+                    for (var y = 0; y < city.queueBuildings.length; y++) {
+                        if (city.queueBuildings[y].typeid >= 1000) {
+                            city.queueBuildings[y].cid = city.queueBuildings[y].typeid;
+                        }
+                        else {
+                            for (var z = 0; z < city.companies.length; z++) {
+                                if (city.queueBuildings[y].typeid === city.companies[z].productid) {
+                                    city.queueBuildings[y].cid = z;
+                                }
+                            }
+                        }
+                    }
+                }
+                game.version = "5.2";
+            }
             game.render(this.game.dom);
             game.resume();
         }

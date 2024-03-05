@@ -12,6 +12,7 @@ class QueueItem {
     name?: string;
     ready: number;
     count?:number;
+    cid:number;
 }
 export class City {
     level=1;
@@ -254,14 +255,14 @@ export class City {
         //@ts-ignore
         $.notify("Congratulations. All building costs " + this.name + " are reset.");
     }
-    buildBuilding(typeid: number,count:number, before = false) {
+    buildBuilding(companyid:number,typeid: number,count:number, before = false) {
         var buildingTime=(parameter.daysBuildBuilding * 1000 * 60 * 60 * 24) / (!this.buildingplaces ? 1 : (this.buildingplaces + 1));
 
         //shop should create at first
         if (before && this.queueBuildings.length > 0) {
             var last = this.world.game.date.getTime();
             last = this.queueBuildings[0].ready;
-            this.queueBuildings.splice(0, 0, { ready: last, typeid: typeid,count:count});
+            this.queueBuildings.splice(0, 0, {cid:companyid, ready: last, typeid: typeid,count:count});
             //move others
              var buildingTimeSum=buildingTime*count;
             for (var x = 1; x < this.queueBuildings.length; x++) {
@@ -275,7 +276,7 @@ export class City {
                 last = entry.ready+( entry.count?entry.count:0)*buildingTime;
             }
             //    last += buildingTime;//*this.queueBuildings[this.queueBuildings.length - 1].count;
-            this.queueBuildings.push({ ready: last+buildingTime, typeid: typeid,count:count});
+            this.queueBuildings.push({ cid:companyid, ready: last+buildingTime, typeid: typeid,count:count});
         }
     }
     buildAirplane(typeid: number) {
@@ -283,7 +284,7 @@ export class City {
         if (this.queueAirplane.length > 0)
             last = this.queueAirplane[this.buildAirplane.length - 1].ready;
         last += parameter.allAirplaneTypes[typeid].buildDays * 1000 * 60 * 60 * 24;
-        this.queueAirplane.push({ ready: last, typeid: typeid, name: parameter.allAirplaneTypes[typeid].model });
+        this.queueAirplane.push({cid:10002,  ready: last, typeid: typeid, name: parameter.allAirplaneTypes[typeid].model });
     }
     newAirplane(typeid: number) {
         var _this = this;
@@ -422,24 +423,32 @@ export class City {
     updateBuildingQueue() {
          var buildingTime=(parameter.daysBuildBuilding * 1000 * 60 * 60 * 24) / (!this.buildingplaces ? 1 : (this.buildingplaces + 1));
 
-        while (this.queueBuildings.length > 0 && this.queueBuildings[0].ready <= this.world.game.date.getTime()) {
-            if (this.queueBuildings[0].typeid === 10000) {
-                this.shops++;
-            } else if (this.queueBuildings[0].typeid === 10001) {
-                this.buildingplaces++;
+        if (this.queueBuildings.length > 0 && this.queueBuildings[0].ready <= this.world.game.date.getTime()) {
+            var diff= this.world.game.date.getTime()-this.queueBuildings[0].ready;
+            var queue=this.queueBuildings[0];
+            const readyBuildings =Math.min(1+Math.floor(diff/buildingTime),queue.count);
+            const timeLeft = diff % buildingTime;
+            queue.ready=this.world.game.date.getTime()+timeLeft;
+            queue.count-=readyBuildings;
+            if (queue.typeid === 10000) {
+                this.shops=this.shops+readyBuildings;
+            } else if (queue.typeid === 10001) {
+                this.buildingplaces= this.buildingplaces+readyBuildings;
             } else {
-                for (var x = 0; x < this.companies.length; x++) {
+                this.companies[queue.cid].buildings=this.companies[queue.cid].buildings+readyBuildings;
+                this.companies[queue.cid].workers =this.companies[queue.cid].workers+ parameter.workerInCompany*readyBuildings;
+                /*for (var x = 0; x < this.companies.length; x++) {
                     if (this.companies[x].productid === this.queueBuildings[0].typeid) {
                         this.companies[x].buildings++;
                         this.companies[x].workers += parameter.workerInCompany;
                         break;
                     }
-                }
+                }*/
             }
-            if(this.queueBuildings[0].count){
+          /*  if(this.queueBuildings[0].count){
                 this.queueBuildings[0].count--;
                 this.queueBuildings[0].ready+=buildingTime;
-            }
+            }*/
             if(!this.queueBuildings[0].count)
                 this.queueBuildings.splice(0, 1);
             //this.newAirplane(this.queueAirplane[0].typeid);
