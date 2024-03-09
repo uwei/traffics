@@ -749,7 +749,10 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             return acolor;
         }
         checkUpgrade() {
-            if (this.people > (this.level * 500000)) {
+            var upgr = 500000;
+            if (this.people > 500000)
+                upgr = 1000000;
+            if (this.people > (this.level * upgr)) {
                 this.level++;
                 if (this.companies.length < citydialog_1.CityDialog.getInstance().maxCompanies)
                     this.addNewCompany();

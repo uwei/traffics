@@ -12,7 +12,7 @@ import { Product } from "game/product";
 import { DiagramDialog } from "game/diagramdialog";
 import { SaveDialog } from "game/savedialog";
 import { getLocalNumber } from "game/tools";
-var gameversion = "5.2";
+var gameversion = "5.3";
 window.onbeforeunload = function () {
   return "Do you want to exit?";
 
@@ -137,7 +137,7 @@ export class Game {
   domHeader: HTMLDivElement;
   domWorld: HTMLDivElement;
   _money;
-  version = "5.2";
+  version = "5.3";
   date: Date;
   lastUpdate: number;
   speed: number;
