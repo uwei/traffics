@@ -750,13 +750,13 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
         }
         checkUpgrade() {
             var upgr = 500000;
-            if (this.people > 500000)
-                upgr = 1000000;
             if (this.people > (this.level * upgr)) {
                 this.level++;
-                if (this.companies.length < citydialog_1.CityDialog.getInstance().maxCompanies)
-                    this.addNewCompany();
-                this.resetBuildingsWithoutCosts();
+                if (this.people <= 5000000 || this.level % 2 === 0) { //upgrade on 500.000 and if >5.000.000  1.000.000
+                    if (this.companies.length < citydialog_1.CityDialog.getInstance().maxCompanies)
+                        this.addNewCompany();
+                    this.resetBuildingsWithoutCosts();
+                }
                 this.domAirport.style.color = this.getAirportColor();
             }
         }
