@@ -822,7 +822,7 @@ export class City {
        
         if (this.people >(this.level* upgr)) {
             this.level++;
-            if(this.people<=5000000||this.level%2===0){//upgrade on 500.000 and if >5.000.000  1.000.000
+            if(this.people<=5000000||this.level%2===1){//upgrade on 500.000 and if >5.000.000  1.000.000
                 if(this.companies.length<CityDialog.getInstance().maxCompanies)
                     this.addNewCompany();
                 this.resetBuildingsWithoutCosts();
