@@ -1,1 +1,5315 @@
-function a0_0x4bc0(_0x3fb131,_0x2f2e6f){var _0x513f0c=a0_0x3023();return a0_0x4bc0=function(_0x3b7b08,_0x2728cb){_0x3b7b08=_0x3b7b08-0xea;var _0x302357=_0x513f0c[_0x3b7b08];return _0x302357;},a0_0x4bc0(_0x3fb131,_0x2f2e6f);}var a0_0x979828=a0_0x4bc0;(function(_0x57aeae,_0x3ab4f0){var _0xaab7ea=a0_0x4bc0,_0x5cc177=_0x57aeae();while(!![]){try{var _0x1a3870=parseInt(_0xaab7ea(0x12e))/0x1+-parseInt(_0xaab7ea(0x339))/0x2*(-parseInt(_0xaab7ea(0x358))/0x3)+-parseInt(_0xaab7ea(0x388))/0x4+parseInt(_0xaab7ea(0x2bb))/0x5*(parseInt(_0xaab7ea(0x3cc))/0x6)+-parseInt(_0xaab7ea(0x3d9))/0x7+-parseInt(_0xaab7ea(0x239))/0x8+-parseInt(_0xaab7ea(0x2e4))/0x9*(-parseInt(_0xaab7ea(0x389))/0xa);if(_0x1a3870===_0x3ab4f0)break;else _0x5cc177['push'](_0x5cc177['shift']());}catch(_0x2ff593){_0x5cc177['push'](_0x5cc177['shift']());}}}(a0_0x3023,0xe1dd5));var a0_0x2728cb=(function(){var _0x5a4122=!![];return function(_0x5d8432,_0x5b883f){var _0x10fd06=_0x5a4122?function(){var _0x4e50f0=a0_0x4bc0;if(_0x5b883f){var _0x58f757=_0x5b883f[_0x4e50f0(0x351)](_0x5d8432,arguments);return _0x5b883f=null,_0x58f757;}}:function(){};return _0x5a4122=![],_0x10fd06;};}()),a0_0x3b7b08=a0_0x2728cb(this,function(){var _0x48bd1d=a0_0x4bc0;return a0_0x3b7b08[_0x48bd1d(0x259)]()[_0x48bd1d(0x34a)](_0x48bd1d(0x49e))['toString']()[_0x48bd1d(0x3dc)](a0_0x3b7b08)[_0x48bd1d(0x34a)](_0x48bd1d(0x49e));});a0_0x3b7b08();function a0_0x3023(){var _0x5410ff=['shop-min-stock_','slide','white','World','</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li\x20\x20id=\x22airplanedialog-route-tab\x22><a\x20href=\x22#airplanedialog-route\x22\x20class=\x22airplanedialog-tabs\x22>','max','pricePurchase','2244660BPYNNM','4611470mDmKOz','getIcon','\x20Holz\x20gefunden\x20oder\x20kein\x20Bautransport\x20gefunden,\x20der\x20','deg)','#SaveDialog-tabs','.citydialog-tabs','upgrade-squadron',')\x20f&uuml;r\x20Soldaten\x20erreicht.\x20Es\x20k&ouml;nnen\x20keine\x20weitere\x20Soldaten\x20produziert\x20werden.','\x22>need\x20a\x20shop\x20to\x20produce</div>','nextY','Milch','init','idlevel','getActiveItem','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22citydialog-score\x22>','\x20nicht\x20definiert\x20bei\x20','getElementOffset','readOnly','save-delete','lastPriceChange','createObjectURL','game.css','showInfo','nextX','update\x20routes','Modify\x20Squadron','tryRemoveBuildingInProgress','route-unload-warehous-fill','arrived','airplanedialog','refresh','inedit','<span\x20\x20class=\x27mdi\x20\x20mdi-airport\x27></span>','<span\x20id=\x22city-buildingplaces\x22>','Route','SquadronDialog','routedialog-route-next','Fisch','decorate','<div\x20id=\x22no-shop_','edit','updateBuildings','updateTitle','#shop-buy-slider_','getBuildingCostsAsIcon','load-shop-amount_','icon','resume','sellOrBuy','<button\x20id=\x22delete-factory_','Level','.ui-dialog-titlebar-close','delete-buildingplace','getBuildingInProgress','out-add-worker','disable','<span\x20\x20class=\x27mdi\x20\x20mdi-numeric-9-plus-circle-outline\x27></span>','delete-airplane','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22route-load-fill-consumtion-until\x22\x20title=\x22fill\x20consumtion\x22>','\x22\x20title=\x22','buildShopsWithOneClick','game/citydialogmarket','</div></td>','input1Amount','citydialog-shop-table','maxPeople','media','5856TgWMKe','</tr>','no\x20airplanes\x20in\x20city','maxValue','\x20Holz\x20transportieren\x20kann.','people','<span\x20\x20class=\x27mdi\x20mdi-city-variant-outline\x27></span>','Der\x20Transport\x20kann\x20nicht\x20zerstört\x20werden,\x20solange\x20noch\x20Helfer\x20unterwegs\x20sind.','removeAttribute','calcPrice','defaults','getTransportedProduct','_airplane','11046308bNJfok','sortable','Schwein.png','constructor','Holz','unloadShopAmount','\x22\x20class=\x22ui-state-default\x22><img\x20style=\x22width:20px;\x22\x20src=\x22','buildingLimit','load','\x22\x20width=\x2230\x22\x20height=\x2230\x22\x20title=\x22','getBuildTransport','sqadron-add','sqadron-del','soldierGoHome','Eierlikoer.png','airplanes-in-city','game/tools','changeProduct','gamedate','show','#DAF7A6\x20','toLocaleString','dom','\x20Stein\x20transportieren\x20kann.','<td\x20align=right>100,00</td>','</td>','timer','domHeader','food','exports','\x22></span></td>','#citydialog-tabs','companyID','queueAirplane','companydialog-production-tab','commitBuildingCosts','.ui-dialog-title','<span\x20\x20class=\x27mdi\x20\x20mdi-arrow-right-bold-outline\x27></span>','domInput','findSoldier','Helfer.png','stringify','\x20👤','tickCount','updateSquadron','fillDown','nextCity','updateConstruction','getCompleteAmount','allLevels','not\x20all\x20building\x20costs\x20are\x20available','citydialog-market-table-target','airport','#diagramdialog-tabs','getCurrentCity','\x20<div\x20id=\x22companydialog-build-','bindActions','calcNewPosition','setProductsInGate','onclick','new-airplane_','load-shop-until-amount_','\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><b><span\x20id=\x22workersOut\x22>1</span></b></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22out-add-worker\x22\x20\x20class=\x22mybutton\x22>+1👤\x20</button>\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22out-remove-worker\x22\x20\x20class=\x22mybutton\x22>-1👤\x20</button>\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>Produktion&nbsp;</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><span\x20id=\x22workers\x22>1</span></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22add-worker\x22\x20\x20class=\x22mybutton\x22>+1👤\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22remove-worker\x22\x20\x20class=\x22mybutton\x22>-1👤\x20</button>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>Rohstoffe&nbsp;</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><span\x20id=\x22workersIn\x22>1</span></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22in-add-worker\x22\x20\x20class=\x22mybutton\x22>+1👤\x20</button>\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22in-remove-worker\x22\x20\x20class=\x22mybutton\x22>-1👤\x20</button>\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>Mehl</td>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22','<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Modelname</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Finished</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th></th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22transport-del\x22\x20\x20class=\x22mybutton\x22>','Wasser','transport-remove-worker','$Action','getLocalNumber','upgrade','updateBuild','Eisenerz','score','stonesComming','<span\x20\x20class=\x27mdi\x20\x20mdi-minus-circle-outline\x27></span>','route-select','changeSlider','\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22buy-buildingplace\x22\x20\x20class=\x22mybutton\x22>+','<span\x20\x20class=\x27mdi\x20\x20mdi-content-copy\x27></span>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20hidden\x20id=\x22citydialog\x22\x20class=\x22citydialog\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','application/json','updateUI','workersInComming','\x22\x20class=\x22mybutton\x22>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22companydialog-conquer\x22>','Schwert','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20style=\x22font-size:14px\x22\x20\x20id=\x22delete-route\x22\x20class=\x22mybutton\x22>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22companydialog-tabs\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#companydialog-production\x22\x20id=\x22companydialog-production-tab\x22\x20class=\x22companydialog-tabs\x22>Produktion</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#companydialog-transport\x22\x20id=\x22companydialog-transport-tab\x22\x20\x20class=\x22companydialog-tabs\x22>Transport</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#companydialog-conquer\x22\x20id=\x22companydialog-conquer-tab\x22\x20\x20class=\x22companydialog-tabs\x22>Erobern</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#companydialog-build\x22\x20id=\x22companydialog-build-tab\x22\x20\x20class=\x22companydialog-tabs\x22>Bauen</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#companydialog-delete\x22\x20id=\x22companydialog-delete-tab\x22\x20\x20class=\x22companydialog-tabs\x22>❌</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22companydialog-production\x22>\x20','getSliderValue','Beeren','ratePriceMax','route','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22hide-busy\x22\x20name=\x22vehicle1\x22>hide\x20busy</input>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22citydialog-shopinfo\x22\x20title=\x22show\x20shop\x20info\x20beside\x20the\x20city\x22\x20>info</input>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22update-all-routes\x22\x20title=\x22update\x20all\x20routes\x22\x20class=\x22mybutton\x22>','\x22\x20height=\x22','allAirplaneTypes','&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;','addEventListener','yesterday','<span\x20\x20class=\x27mdi\x20mdi-arrow-expand-all\x27></span>',';left:','isCrosingRight','stopPropagation','Baustelle.png','Tor.png','airplanes','__decorate','src','Bil','getElementsByTagName','<td>0</td>','</button><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Airlanes\x20in\x20Squadron\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul\x20id=\x22airplanes-in-squadron\x22\x20class=\x22mylist\x20boxborder\x22\x20style=\x22height:\x20250px;width:150px\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','removeWorker','MyShop','game/product','soldiersToConquer','&nbsp;','fly\x20to\x20','lastAction','citydialog-market-info_','game/citydialogshop','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20hidden\x20id=\x22SaveDialog\x22\x20class=\x22SaveDialog\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','updateName','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22save-game\x22\x20\x20class=\x22mybutton\x22>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22citydialog-shop-info\x22><span>','Kann\x20Gebäude\x20nicht\x20zerstören,\x20solange\x20noch\x20Helfer\x20unterwegs\x20sind.','contains','game/companydialog','slider','buildingMaterial','style','save-filename','<tr>','toJson','isPaused','<span\x20style=\x27color:darkgreen\x27\x20class=\x27mdi\x20mdi-cash-100\x27></span>','wrench','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22companydialog-delete\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Soll\x20das\x20Geb&auml;ude\x20abgerissen\x20werden?<br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22destroy-building\x22\x20\x20class=\x22mybutton\x22>\x20Ja\x20❌\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','nextTargetY','rotate(0deg)','domIcon','<div\x20id=\x22shop-sell-slider_','removeItem','game/squadrondialog','createScore','workerInCompany','left','</button>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22gamedate\x22></span>\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22game-faster\x22\x20\x20class=\x22mybutton\x22>','<span\x20title=\x22Load\x22','save','innerHTML','nextAirplane','changeMoney','createBuildings','body','metadata','download','style=\x22width:\x2050px;\x22','rateCostsAirplaine','</button><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22companydialog-transport-list\x22\x20size=\x2210\x22\x20class=\x22mylist\x20boxborder\x22\x20style=\x22height:\x20250px;width:180px\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Auswahl\x20&auml;ndern<br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22transport-add-worker\x22\x20\x20class=\x22mybutton\x22\x20style=\x22width:70px\x22\x20>+1👤</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22transport-remove-worker\x22\x20\x20class=\x22mybutton\x22\x20style=\x22width:70px\x22>-1👤</button><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22companydialog-transport-productlist\x22\x20\x20size=\x2210\x22\x20style=\x22width:150px\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','Gold','Wrong\x20position','city','domProduced','airplane','mousedown','workers','hasLicense','allProducts','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22companydialog-transport\x22>','createProductionTab','domWorld','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22airplanedialog-route\x22\x20style=\x22min-height:80px\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22route-active\x22>\x20active</input>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20style=\x22font-size:14px\x22\x20id=\x22edit-route\x22\x20class=\x22mybutton\x22>','airplanedialog-type','<li><a\x20href=\x22#companydialog-build-','companydialog','successfulLoad','citydialog-shop-table-target','game/icons','action','game/startgame','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22world\x22\x20style=\x22position:absolute;top:20px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20','createElement','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22text-align:\x20right\x22>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20id=\x22airplanedialog-prev\x22\x20type=\x22button\x22\x20value=\x22<\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20id=\x22airplanedialog-next\x22\x20type=\x22button\x22\x20value=\x22>\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22airplanedialog-tabs\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#airplanedialog-products\x22\x20class=\x22airplanedialog-tabs\x22>','deleteAirplane','transport-add','nextRoute','Schwet.png','TransferInfo','shopMinStock','click','out-remove-worker','buildSpeedWithOneClick','show-diagram','shop-sell-slider_','<span\x20\x20class=\x27mdi\x20\x20mdi-delete-forever-outline\x27></span>','<input\x20type=\x22number\x22\x20min=\x220\x22\x20class=\x22load-shop-until-amount\x22\x20id=\x22load-shop-until-amount_','(((.+)+)+)+$','citydialog-shop-tab','</button>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22idpeople\x22></span>','position','findCompanyThatConsumes','\x22\x20title=\x22Baustelle\x22\x20width=\x22','autodeliver','<td>','game/routedialog','maxSoldiers','Kakao','<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>Total</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22text-align:\x20right\x22>','airplanedialog-speed','updateProduction','active-listitem','factory','<img\x20style=\x22float:\x20right\x22\x20id=\x22citydialog-icon\x22\x20src=\x22','<img\x20style=\x22float:\x20right\x22\x20id=\x22companydialog-icon\x22\x20src=\x22','\x22\x20\x20height=\x2225\x22></img>','Speed:\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Filename:\x20<input\x20id=\x22save-filename\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22vertical-align:\x20top;width:100%\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul\x20style=\x22width:100%\x22\x20class=\x22mylist\x20boxborder\x22\x20id=\x22save-files\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22file\x22\x20id=\x22save-import\x22\x20name=\x22files[]\x22\x20accept=\x22application/json\x22\x20style=\x22display:\x20none;\x22\x20\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22save-save\x22\x20title=\x22save\x22\x20style=\x22width:100%\x22\x20class=\x22mybutton\x22>Save</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22save-load\x22\x20title=\x22save\x22\x20style=\x22width:100%\x22\x20class=\x22mybutton\x22>Load</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22save-delete\x22\x20title=\x22save\x22\x20style=\x22width:100%\x22\x20class=\x22mybutton\x22>Delete</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22save-export\x22\x20title=\x22save\x22\x20style=\x22width:100%\x22\x20class=\x22mybutton\x22>Export</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22save-doupload\x22\x20title=\x22save\x22\x20style=\x22width:100%\x22\x20class=\x22mybutton\x22\x20onclick=\x22document.getElementById(\x27save-import\x27).click();\x22>Import</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22save-cancel\x22\x20title=\x22save\x22\x20style=\x22width:100%\x22\x20class=\x22mybutton\x22>Cancel</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x20\x20\x20\x20\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','notify','capacityShop','touchstart','diagram','no-shop_','<span\x20\x20style=\x22font-size:7pt;top:','none','level','transport-del','nextTargetX','droppable','title','copyRoute','citydialog-construction-tab',';position:absolute\x22\x20class=\x22company\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<polygon\x20points=\x22','advertising','top','mapWidth','save-import','capacityPerHelper','hideFlags','jassijs/base/Actions','companydialog-transport-productlist','update-all-routes','\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22infonextlevel\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Die\x20Produktion\x20wird\x20erst\x20im\x20naechsten\x20Level\x20freigeschaltet.\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','newGame','transport-add-worker','<span\x20\x20class=\x27mdi\x20\x20mdi-content-save-outline\x27></span>','capital','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22citydialog-shop\x22>','route-load-fill-consumtion',';width:','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22diagramdialog-refresh\x22\x20title=\x22refresh\x20data\x22\x20\x20class=\x22mybutton\x22>','changeCompanyTaget','domDesc','buildCompanies','soldiersComing','numberBuildWithContextMenu','company','productCount','getCapacity','#shop-sell-slider_','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20id=\x22routedialog-airplane-prev\x22\x20type=\x22button\x22\x20value=\x22<\x22\x20class=\x22mybutton\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22routedialog-airplane-name\x22\x20style=\x22display:inline;width:50px\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20id=\x22routedialog-airplane-next\x22\x20type=\x22button\x22\x20value=\x22>\x22\x20class=\x22mybutton\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22route-select\x22\x20>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20id=\x22routedialog-route-next\x22\x20type=\x22button\x22\x20value=\x22>\x22\x20class=\x22mybutton\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22routedialog-tabs\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22routedialog-load\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20id=\x22routedialog-load-table\x22\x20style=\x22height:100%;weight:100%;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr\x20>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Name</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th></th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>unload<br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22route-unload-warehous-fill\x22\x20title=\x22fill\x20first\x20row\x20down\x22>','minus','\x22\x20width=\x2220\x22\x20height=\x2220\x22>\x20</button>\x20\x20<br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','</div>','updateData','all','lightblue','hidden','link','activeElement','route-active','companydialog-build-tabs','soldiercount','oncontextmenu','#airplanedialog-route-tab','buy\x20building','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20hidden\x20id=\x22squadrondialog\x22\x20class=\x22squadrondialog\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20style=\x22top:','Wolle.png','$ActionProvider','#delete-route','workersIn','upgrade\x20airplane','984651GniRBa','default','consume','\x20Capacity\x20','Stein','updateUIID','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22sqadron-del\x22\x20\x20class=\x22mybutton\x22>','buildBuilding','airplane_lazy','Kaese.png','transports','<div>','updateScore','<td\x20style=\x22text-align:\x20right\x22>0</td>','<table\x20id=\x22diagramdialog-buildings-table\x22\x20style=\x22height:100%;weight:100%;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Name</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>\x20</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th\x20style=\x22align:right\x22>Rate\x20Load</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th\x20style=\x22align:right\x22>Buildings</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th\x20style=\x22align:right\x22>Consum.</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Advertise</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','widget','input1','curStep','toLocaleDateString','400px','<li\x20id=\x22route-','\x22\x20style=\x22overflow:float;position:absolute;height:1px;top:5px;width:\x2066px\x22\x20><div>','Mehl','companydialog-build-tab','\x22></td>','shop','parse','workersComming','count-shops','companydialog-build-product_','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>','loadContent','edit-route','css','Eierlikör','random','statistic','LightPink','isPositionHome','products','enable','sqrt','Werkzeug.png','<td></td>','game/diagramdialog','<span\x20\x20class=\x27mdi\x20\x20mdi-elevator-down\x27></span>','Gras','canBuild','airplanedialog-capacity','citydialog','routedialog-airplane-prev','min','citydialog-next','Panel','Torte','object','updateRoute','<span\x20\x20class=\x27mdi\x20\x20mdi-square-edit-outline\x27></span>','loadFillAllConsumtion','</button>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20','<span\x20\x20class=\x27mdi\x20mdi-arrow-up\x27></span>','save-export','function','<span\x20\x20class=\x27mdi\x20\x20mdi-table-large\x27></span>','#buy-slider_','close','Ruestung.png','buy-license_','removeChild','localStorage','Pizza.png','Stoff.png','tabs','dialog','Kohle.png','minPeople','\x20\x20\x20\x20\x20<td>','getItem','autoCloseDialog','\x22>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;','test',',0\x20','unsuccessfulLoad','_intervall','startsWith','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22diagramdialog-balance\x22>\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20id=\x22diagramdialog-balance-table\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22diagramdialog-settings\x22>\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20build\x20company\x20with\x20one\x20click:\x20<input\x20id=\x22buildWithOneClick\x22\x20\x20value=\x22\x22\x22/><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20build\x20shops\x20with\x20contextmenu:\x20<input\x20id=\x22buildShopsWithOneClick\x22\x20\x20value=\x22\x22\x22/><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20build\x20speed\x20with\x20contextmenu:\x20<input\x20id=\x22buildSpeedWithOneClick\x22\x20\x20value=\x22\x22\x22/><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22hideFlags\x22\x20title=\x22hide\x20flags\x22\x20>hide\x20flags</input>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22autoCloseDialog\x22\x20title=\x22auto\x20close\x20dialog\x22\x20>auto\x20close\x20dialog</input>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','targetY','<span\x20\x20class=\x27mdi\x20\x20mdi-hammer-wrench\x27></span>','Schmuck','Bier','createTransportTab','isOpen','setItem','companydialog-transport-tab','Brot','\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20id=\x22citydialog-constructionqueue-table\x22\x20style=\x22height:100%;weight:100%;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','getProductsToBuildForLevel','lastgame','transport-up','move','\x22\x20style=\x22fill:none;stroke:white;stroke-width:1;\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','.city','absolute','\x20gebaut\x20werden.','#companydialog-tabs','1.0','productHelper','Tisch','</option>','loadedCount','<option\x20class=\x22bgpicture\x22\x20style=\x22background-image:url(','getSelectedTransport','Game','buy-companies-next','game/airplane','selectCity','<option\x20value=\x22','hasAirport','productid','.airplanedialog-tabs','<span\x20\x20class=\x27mdi\x20\x20mdi-star\x27></span>','design:type','loadFillConsumtion','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul\x20style=\x22min-heigt:40px\x22\x20class=\x22mylist\x22\x20id=\x22route-list\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','Beeren.png','</a></li>','flyTo','loadShopUntilAmount','#airplanedialog-route','infonextlevel','getInstance','load-shop-amount','split','Eisen.png','width','createContextualFragment','setAttribute','hammer','set\x20intervall','Error:Filename\x20is\x20empty','jassijs.base.ActionNode','push','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22height:15px;position:fixed;z-index:10000;background-color:lightblue;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Traffics\x20','Geschenk.png','squadron','Ei.png','Bautransport','filteredCities','readAsText','citydialog-score-table','CityDialogMarket','Brot.png','activeRoute','<br/>','dailyProduce','hasPaused','rotate(','<td\x20style=\x22width:40px\x22>0</td>','createConquerTab','cityid','active','game/game','height','citydialog-filter','stylesheet','Soldat','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22citydialog-capital\x22\x20title=\x22goto\x20Capital\x22\x20class=\x22mybutton\x22>',';position:absolute\x22>','until\x20','Kleidung','</button-->\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22show-diagram\x22\x20\x20class=\x22mybutton\x22>','zIndex','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22buy-companies-next\x22\x20title=\x22update\x20all\x20routes\x22\x20class=\x22mybutton\x22>','defineProperty','Airplane','DiagramDialog','display','href','getDiffConsumtion','option','buildingplaces','findAirplane','#32CD32','delete-route','Product','companydialog-conquer-tab','workersOut','\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22transport-up\x22\x20class=\x22mybutton\x22>','getDailyCosts','children','<span\x20\x20class=\x27mdi\x20\x20mdi-chart-multiple\x27></span>','<td\x20style=\x27white-space:\x20nowrap;\x27></td>','<li\x20id=\x22route-dummy\x22>drag\x20and\x20drop<br/>\x20cities\x20here</li>','Parameter','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22citydialog-construction\x22>','disabled','_money','findCompanyThatProduces','</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','hasAttribute','Die\x20Produktion\x20wird\x20erst\x20im\x20n&auml;chsten\x20Level\x20freigeschaltet.<br/>','targetX','jassijs/remote/Registry','update','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Airplanes\x20in\x20city\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul\x20id=\x22airplanes-in-city\x22\x20class=\x22mylist\x20boxborder\x22\x20style=\x22height:\x20250px;width:150px\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li\x20value=\x22no\x20airplanes\x20in\x20city\x22>no\x20airplanes\x20in\x20city</li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22sqadron-add\x22\x20class=\x22mybutton\x22>','getRandomInt','createRange','\x22\x20style=\x22overflow:float;position:absolute;left:4px;height:1px;top:5px;width:\x2062px\x22\x20><div>','routedialog','Getreide.png','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>What</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Yesterday</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Today</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','route-load-shop-until-fill','abs','Yellow','classList','rawmaterials','game/company','files','replace','citydialog-prev','draggable','cityShowShopInfo','save-cancel','CityDialogShop','numberBuildSpeedWithContextMenu','<option\x20class=\x22bgpicture\x22\x20value=\x22','textContent','<li\x20value=\x22','<td\x20style=\x22width:40px;\x22><span>0</span><span\x20id=\x22citydialog-market-info_','deleteFactory','#companydialog-build-tabs','diagram-advertise_','SaveDialog','\x22\x20style=\x22overflow:float;position:absolute;left:4px;height:1px;top:5px;width:\x2092px\x22\x20><div>','buildingsWithoutCosts','Kakaomilch.png','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20hidden\x20id=\x22companydialog\x22\x20class=\x22companydialog\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','\x22\x20\x20height=\x2215\x22></img>\x20','diagramdialog-balance-table','Dummy.png','inproduction','domShopfull','__metadata','buy-shop','companies','export.json','diagramdialog-buildings-table','\x22>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>','updateSize','sort','Getreide','das\x20Gebiet\x20muss\x20entweder\x20erobert\x20werden\x20oder\x20ist\x20bereits\x20bebaut.','</span>','productGate','add-worker','info','buildingCosts','Brett','getAirplanesInCity','</button>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<!--button\x20id=\x22debug-game\x22\x20\x20class=\x22mybutton\x22>','for\x20','localeCompare',';position:absolute\x22></span>','showOrHideFlags','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','#routedialog-tabs','store','6722464Puotkk','head','Käse','input2','typeid','companydialog-production-table','#sell-slider_','woodsComming','__esModule','productSoldier','game/savedialog','Company','productStone','\x22\x20style=\x22overflow:float;position:absolute;height:1px;top:5px;width:\x2053px\x22\x20><div>','game-slower','select','background','Eisenerz.png','productFilter','game/citydialog','date','Kakao.png','round','parentNode','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</th>\x0a\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','workersOutComming','Burger.png','prevCity','\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22','invalid','idpeople','text','toString','Mrd','shop-buy-slider_','getBuildingCosts','Brett.png','find','<td\x20style=\x22width:20px\x22><div\x20style=\x22position:relative\x22>','buildingInProgress','RouteDialog','citydialog-score-tab','packArray','Gold.png','remove','stop\x20game','require','</button>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22delete-buildingplace\x22\x20\x20class=\x22mybutton\x22>-','getStore','<button\x20id=\x22diagram-advertise_','<option\x20value=\x22-1\x22>inaktiv</option>','Schmuck.png','<span\x20\x20class=\x27mdi\x20mdi-wrench-outline\x27></span>','CompanyDialog','input2Amount','unloadShop','<span\x20title=\x22Info\x22','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22route-unload-warehous-fill9\x22\x20title=\x22fill\x2099999999\x20down\x22>','Milch.png','save-save','value','shops','image','citydialog-shopinfo','updateTransport','parentElement','goHome','Soldat.png','Papier','</span>▤','Schwein','save-game','diagramdialog-refresh','floor','rateBuyAirplane','<span\x20\x20class=\x27mdi\x20mdi-factory\x27></span>','pow','<span\x20z-index:2;style=\x27font-size:20px;transform:rotate(0turn)\x27\x20class=\x27mdi\x20mdi-airplane\x27></span>','getElementById','Stoff','log','game/transport','nextTick','<table\x20id=\x22citydialog-construction-table\x22\x20style=\x22height:100%;weight:100%;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Model</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Speed</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Capacity</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Daily\x20Costs</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Build\x20days</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Action</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','length','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22transport-down\x22\x20\x20class=\x22mybutton\x22>','status','\x22\x20class=\x22companydialog-tabs\x22>','save-files','containment','<span\x20\x20class=\x27mdi\x20\x20mdi-plus-circle-outline\x27></span>','clear\x20intervall','game-faster','\x22\x20class=\x22ui-state-default\x22><img\x20style=\x22width:20px\x22\x20src=\x22','produced','game.PPanel','Gras.png','buy\x20licence','<br/>=\x20','appendChild','getName','route-unload-warehous-fill9','opacity','<button\x20id=\x22new-factoryX_','productWood','delete-factory_','jassijs/ui/Panel','#airplanedialog-tabs','<td\x20style=\x22width:30px;\x22><span\x20id=\x22citydialog-shop-info_','refreshLoadedCount','ratePriceMin','speed','findComponent','getBuildingMaterial','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22diagramdialog-tabs\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#diagramdialog-buildings\x22\x20id=\x22diagramdialog-buildings-tab\x22\x20class=\x22diagramdialog-tabs\x22>Buildings</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#diagramdialog-balance\x22\x20id=\x22diagramdialog-balance-tab\x22\x20class=\x22diagramdialog-tabs\x22>Balance</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#diagramdialog-settings\x22\x20id=\x22diagramdialog-settings-tab\x22\x20class=\x22diagramdialog-tabs\x22>Settings</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22diagramdialog-buildings\x22>','buildWithOneClick','Statistics','maxCompanies','capacity','<td\x20align=right>0</td>','numberBuildShopsWithContextMenu','destroy','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20hidden\x20id=\x22airplanedialog\x22\x20class=\x22airplanedialog\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','Papier.png','route-load-shop-fill','<li\x20value=\x22no\x20airplanes\x20in\x20city\x22>no\x20airplanes\x20in\x20city</li>','transportCapacityPerHelper','<option\x20value=\x22-1\x22>Bautransport</option>','nicht\x20genug\x20Helfer','Eisen','4665rdsUiP','selectAirplace','Save\x20file','addWorker','Kakaomilch','bottom\x20right','fixed','game/airplanedialog','getAirplaneInMarket','money','<button\x20id=\x22companydialog-build-product_','world','instance','initial','getTime','create','unload','Update\x20conumtion\x20in\x20all\x20routes\x20for\x20','Helfer','Kein\x20','toright','companydialog-delete-tab','substring','diagramdialog-buildings-last-change','Rüstung','<span\x20\x20class=\x27mdi\x20mdi-shop\x27></span>','<option\x20value=\x22all\x22>All</option>','Mehl.png','<table\x20id=\x22citydialog-score-table\x22\x20style=\x22height:100%;weight:100%;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Name</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>\x20</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Produce</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Need</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Score</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','citydialog-market-table','route\x20',')\x20f&uuml;r\x20Helfer\x20erreicht.\x20Es\x20k&ouml;nnen\x20keine\x20weitere\x20Helfer\x20produziert\x20werden.','buildDays','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22companydialog-build-tabs\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul>','hasClass','<span\x20\x20class=\x27mdi\x20\x20mdi-arrow-left-bold-outline\x27></span>','parent','Kleidung.png','indexOf','buy-buildingplace','calcNextPoint','18aelyeg','dropCitiesEnabled','nicht\x20genug\x20Soldaten','loadShop','plus','down','Fleisch','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','ui-tabs-active','backgroundImage','companyTarget','Kohle','checkNextLevel','trash','airplane_fullloaded','toleft','getMoney','unpackArray','citydialog-shop-info','selection','<span\x20id=\x22production-info\x22\x20style=\x22color:red\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20id=\x22companydialog-production-table\x22\x20style=\x22height:100%;weight:100%;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>Lager&nbsp;</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20id=\x22companydialog-production-table-icon\x22\x20src=\x22','<span\x20title=\x22Route\x22','checked','forEach','stare','<img\x20src=\x22','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Level\x20<span\x20id=\x22idlevel\x22></span>','sell\x20or\x20buy\x20from\x20market','game/city','debug','airplanedialog-name','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22transport-add\x22\x20\x20class=\x22mybutton\x22>','mdi\x20\x20mdi-airplane','airplane_selected','count-buildingplaces','Wasser.png','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22companydialog-build\x22>','render','game','<span\x20\x20class=\x27mdi\x20mdi-arrow-down\x27></span>','loadShopAmount','\x22\x20style=\x22top:','remove-worker','nine','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>','routedialog-airplane-name','createConstruction','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22add-soldier\x22\x20\x20class=\x22mybutton\x22>+10\x20<img\x20src=\x22','Werkzeug','squadrondialog','onbeforeunload','\x200,','Tor','load-shop-until-amount','splice','<span\x20\x20class=\x27mdi\x20\x20mdi-refresh\x27></span>','in-add-worker','\x22\x20class=\x22companydialog-build-product\x22>+\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20\x20src=\x22','today','assign','<td\x20style=\x22width:110px\x22><div\x20style=\x22position:relative\x22>','<span\x20\x20class=\x27mdi\x20\x20mdi-bug-outline\x27></span>','cities','offsetLeft','name','route-list','mapHeight','target','destroy-building','temposcale','game/world','new-factoryX_','forpeoplelevel','unselect','citydialog-shop-info_','change','\x20(lev\x20','curVal','route-dummy','<span\x20\x20class=\x27mdi\x20\x20mdi-human-male\x27></span>','maxLoad','<span','Level-Limit\x20(','<span\x20\x20class=\x27mdi\x20\x20mdi-airplane\x27></span>','Wolle','10aBaNKZ','table','atan','</button>','transferInfo','unload-shop-amount','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20hidden\x20id=\x22routedialog\x22\x20class=\x22routedialog\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','buildTabActivated','Glückwunsch,\x20Du\x20hast\x20Level\x20','<span\x20\x20class=\x27mdi\x20\x20mdi-home-outline\x27></span>','parameter','currentTarget','add','Transport','<span\x20\x20class=\x27mdi\x20\x20mdi-folder-open-outline\x27></span>','createTextNode','getAttribute','search','isPositionTarget','backgroundColor','pause','buildings','</li>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22diagramdialog-buildings-last-change\x22></span>','apply','route-load-fill-consumtion-until','costs','\x20Shops:\x20<span\x20id=\x22count-shops\x22>0/0</span>\x20','#route-list','airplanedialog-next','transport-down','652263DvMilv','home','workertype','Torte.png','<div\x20id=\x22buy-slider_','airplanes-in-squadron','preventDefault','renderShopinfo','createBuildTab','\x22\x20</img>','<input\x20type=\x22number\x22\x20min=\x220\x22\x20class=\x22load-shop-amount\x22\x20id=\x22load-shop-amount_','prevAirplane','lastUpdate','updateInfo','no\x20route\x20defined','AirplaneDialog','market','unload-shop-amount_','Icons','<td\x20style=\x22width:40px\x22><div\x20style=\x22position:relative\x22>','zoomfactor','game/route','closest','type','Helm.png','design:paramtypes','\x20MyShop</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#citydialog-construction\x22\x20id=\x22citydialog-construction-tab\x22\x20class=\x22citydialog-tabs\x22>Construction</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#citydialog-score\x22\x20id=\x22citydialog-score-tab\x22\x20\x20class=\x22citydialog-tabs\x22>Score</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22citydialog-buildings\x22>\x20','<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>','transform','airplanedialog-costs','CityDialog','PPanel','add-soldier','forsoldierlevel','<input\x20type=\x22number\x22\x20min=\x220\x22\x20class=\x22unload-shop-amount\x22\x20id=\x22unload-shop-amount_','moveTo','an\x20airplane\x20with\x20name\x20','<div\x20style=\x22display:grid;grid-template-columns:\x2030px\x2030px\x2030px\x2030px;\x22>','enableDropCities','Daily\x20costs:','getImageUrl'];a0_0x3023=function(){return _0x5410ff;};return a0_0x3023();}var __decorate=this&&this[a0_0x979828(0x442)]||function(_0x49ba3a,_0x1cfe91,_0x59714e,_0x51a602){var _0x5a74e4=a0_0x979828,_0x480fd7=arguments[_0x5a74e4(0x28d)],_0x1d811a=_0x480fd7<0x3?_0x1cfe91:_0x51a602===null?_0x51a602=Object['getOwnPropertyDescriptor'](_0x1cfe91,_0x59714e):_0x51a602,_0x76a0a9;if(typeof Reflect===_0x5a74e4(0x165)&&typeof Reflect[_0x5a74e4(0x3af)]==='function')_0x1d811a=Reflect[_0x5a74e4(0x3af)](_0x49ba3a,_0x1cfe91,_0x59714e,_0x51a602);else{for(var _0x38a0db=_0x49ba3a['length']-0x1;_0x38a0db>=0x0;_0x38a0db--)if(_0x76a0a9=_0x49ba3a[_0x38a0db])_0x1d811a=(_0x480fd7<0x3?_0x76a0a9(_0x1d811a):_0x480fd7>0x3?_0x76a0a9(_0x1cfe91,_0x59714e,_0x1d811a):_0x76a0a9(_0x1cfe91,_0x59714e))||_0x1d811a;}return _0x480fd7>0x3&&_0x1d811a&&Object[_0x5a74e4(0x1db)](_0x1cfe91,_0x59714e,_0x1d811a),_0x1d811a;},__metadata=this&&this[a0_0x979828(0x220)]||function(_0x234263,_0x23bbb6){var _0x5dfb69=a0_0x979828;if(typeof Reflect===_0x5dfb69(0x165)&&typeof Reflect['metadata']===_0x5dfb69(0x16c))return Reflect[_0x5dfb69(0x473)](_0x234263,_0x23bbb6);};define('game/tools',[a0_0x979828(0x267),a0_0x979828(0x3f6)],function(_0x507703,_0xeb7ee7){'use strict';var _0x494b87=a0_0x979828;Object[_0x494b87(0x1db)](_0xeb7ee7,_0x494b87(0x241),{'value':!![]}),_0xeb7ee7[_0x494b87(0x41d)]=_0xeb7ee7['getRandomInt']=void 0x0;function _0x5d45ba(_0x26bc7a){var _0x4478aa=_0x494b87;return Math[_0x4478aa(0x282)](Math[_0x4478aa(0x151)]()*_0x26bc7a);}_0xeb7ee7[_0x494b87(0x1fb)]=_0x5d45ba;function _0x39cacb(_0x47f150){var _0x5c4996=_0x494b87;if(_0x47f150<0x2710)return _0x47f150[_0x5c4996(0x3ee)]();else{if(_0x47f150<0x989680)return Math[_0x5c4996(0x282)](_0x47f150/0x3e8)[_0x5c4996(0x3ee)]()+'T';else{if(_0x47f150<0x2540be400)return Math['floor'](_0x47f150/0xf4240)['toLocaleString']()+'M';else{if(_0x47f150<0x9184e72a000)return Math['floor'](_0x47f150/0x3b9aca00)[_0x5c4996(0x3ee)]()+_0x5c4996(0x25a);else return Math[_0x5c4996(0x282)](_0x47f150/0xe8d4a51000)[_0x5c4996(0x3ee)]()+_0x5c4996(0x444);}}}}_0xeb7ee7[_0x494b87(0x41d)]=_0x39cacb;}),define(a0_0x979828(0x44a),[a0_0x979828(0x267),a0_0x979828(0x3f6)],function(_0x25537f,_0x4d567c){'use strict';var _0x3b848f=a0_0x979828;Object[_0x3b848f(0x1db)](_0x4d567c,'__esModule',{'value':!![]}),_0x4d567c['test']=_0x4d567c[_0x3b848f(0x1e6)]=void 0x0;class _0x383e94{constructor(_0x4c0400=undefined,_0x17e330=undefined,_0xd72482=undefined,_0x14f2f8=undefined,_0xfa097e=undefined,_0x7d86cd=undefined){var _0x21b916=_0x3b848f;this[_0x21b916(0x36f)]=_0x21b916(0x1e6),this[_0x21b916(0x324)]=_0x4c0400,this[_0x21b916(0x277)]=_0x17e330,this[_0x21b916(0xf4)]=_0xd72482,this[_0x21b916(0x130)]=_0x14f2f8,this[_0x21b916(0x32c)]=_0xfa097e,this[_0x21b916(0x379)]=_0x7d86cd;}static[_0x3b848f(0x25e)](_0x3e40dc){var _0x51a12b=_0x3b848f,_0x5bbadb=undefined;for(var _0x37c91f=0x0;_0x37c91f<parameter[_0x51a12b(0x480)]['length'];_0x37c91f++){if(parameter[_0x51a12b(0x480)][_0x37c91f][_0x51a12b(0x324)]===_0x3e40dc)return parameter['allProducts'][_0x37c91f];}}static['findProductsForLevel'](_0x56dc58){var _0x10d581=_0x3b848f,_0x461493=[];for(var _0x445763=0x0;_0x445763<parameter[_0x10d581(0x480)][_0x10d581(0x28d)];_0x445763++){if(parameter[_0x10d581(0x480)][_0x445763][_0x10d581(0xf4)]===_0x56dc58)_0x461493[_0x10d581(0x1bb)](parameter[_0x10d581(0x480)][_0x445763]);}return _0x461493;}static[_0x3b848f(0x394)](_0x46df2d){var _0x4f4d14=_0x3b848f,_0x398119=[];for(var _0x219041=0x0;_0x219041<_0x46df2d[_0x4f4d14(0x28d)];_0x219041++){_0x398119[_0x4f4d14(0x1bb)](_0x46df2d[_0x219041][_0x4f4d14(0x324)]);}var _0x3dbead=[];for(var _0x219041=0x0;_0x219041<_0x46df2d[_0x4f4d14(0x28d)];_0x219041++){_0x3dbead['push'](_0x46df2d[_0x219041]['name']);if(_0x46df2d[_0x219041][_0x4f4d14(0x324)]===_0x4f4d14(0x2cd))_0x383e94[_0x4f4d14(0x198)]=_0x219041;if(_0x46df2d[_0x219041][_0x4f4d14(0x324)]===_0x4f4d14(0x1d3))_0x383e94[_0x4f4d14(0x242)]=_0x219041;if(_0x46df2d[_0x219041][_0x4f4d14(0x324)]===_0x4f4d14(0x132))_0x383e94[_0x4f4d14(0x245)]=_0x219041;if(_0x46df2d[_0x219041][_0x4f4d14(0x324)]===_0x4f4d14(0x3dd))_0x383e94[_0x4f4d14(0x2a1)]=_0x219041;if(_0x46df2d[_0x219041]['name']===_0x4f4d14(0x318))_0x383e94[_0x4f4d14(0x22b)]=_0x219041;for(var _0x309726=0x0;_0x309726<_0x46df2d[_0x219041][_0x4f4d14(0x130)][_0x4f4d14(0x28d)];_0x309726++){var _0x5a7a51=_0x46df2d[_0x219041]['consume'][_0x309726];_0x3dbead[_0x4f4d14(0x2e1)](_0x46df2d[_0x219041]['consume'][_0x309726])===-0x1&&console['log'](_0x5a7a51+_0x4f4d14(0x398)+_0x46df2d[_0x219041][_0x4f4d14(0x324)]),_0x46df2d[_0x219041][_0x4f4d14(0x130)][_0x309726]=_0x398119['indexOf'](_0x46df2d[_0x219041][_0x4f4d14(0x130)][_0x309726]);}_0x46df2d[_0x219041]['id']=_0x219041;}return _0x46df2d;}}_0x4d567c['Product']=_0x383e94,_0x383e94[_0x3b848f(0x198)]=0x0,_0x383e94[_0x3b848f(0x242)]=0x0,_0x383e94[_0x3b848f(0x2a1)]=0x0,_0x383e94[_0x3b848f(0x245)]=0x0,_0x383e94['productGate']=0x0;function _0x36d569(){}_0x4d567c[_0x3b848f(0x17e)]=_0x36d569;}),define('game/icons',[a0_0x979828(0x267),a0_0x979828(0x3f6)],function(_0x1d8211,_0x3af620){'use strict';var _0x2e8b2b=a0_0x979828;Object['defineProperty'](_0x3af620,'__esModule',{'value':!![]}),_0x3af620[_0x2e8b2b(0x36a)]=void 0x0;class _0x427462{}_0x3af620[_0x2e8b2b(0x36a)]=_0x427462,_0x427462[_0x2e8b2b(0x4ad)]=_0x2e8b2b(0x284),_0x427462[_0x2e8b2b(0x147)]=_0x2e8b2b(0x2d4),_0x427462[_0x2e8b2b(0x2c4)]=_0x2e8b2b(0x45f),_0x427462[_0x2e8b2b(0x359)]=_0x2e8b2b(0x342),_0x427462[_0x2e8b2b(0x3d1)]=_0x2e8b2b(0x333),_0x427462[_0x2e8b2b(0x33a)]=_0x2e8b2b(0x16d),_0x427462['route']='<span\x20\x20class=\x27mdi\x20\x20mdi-recycle-variant\x27></span>',_0x427462['info']='<span\x20\x20class=\x27mdi\x20\x20mdi-information-outline\x27></span>',_0x427462[_0x2e8b2b(0x2f1)]=_0x2e8b2b(0x49c),_0x427462[_0x2e8b2b(0x3b1)]=_0x2e8b2b(0x167),_0x427462[_0x2e8b2b(0x46d)]=_0x2e8b2b(0x108),_0x427462[_0x2e8b2b(0x3e1)]=_0x2e8b2b(0x347),_0x427462[_0x2e8b2b(0x301)]=_0x2e8b2b(0x321),_0x427462[_0x2e8b2b(0x2e8)]=_0x2e8b2b(0x293),_0x427462[_0x2e8b2b(0x118)]=_0x2e8b2b(0x423),_0x427462[_0x2e8b2b(0x406)]=_0x2e8b2b(0x15b),_0x427462[_0x2e8b2b(0x3f5)]='<span\x20\x20class=\x27mdi\x20\x20mdi-food-variant\x27></span>',_0x427462['copy']=_0x2e8b2b(0x427),_0x427462[_0x2e8b2b(0x47c)]=_0x2e8b2b(0x337),_0x427462[_0x2e8b2b(0x2cf)]=_0x2e8b2b(0x3fe),_0x427462[_0x2e8b2b(0x2f3)]=_0x2e8b2b(0x2de),_0x427462[_0x2e8b2b(0x265)]=_0x2e8b2b(0x49c),_0x427462[_0x2e8b2b(0x30f)]=_0x2e8b2b(0x3c1),_0x427462[_0x2e8b2b(0xf0)]=_0x2e8b2b(0x1ec),_0x427462['refresh']=_0x2e8b2b(0x31b),_0x427462[_0x2e8b2b(0x40d)]=_0x2e8b2b(0x3a9),_0x427462['hammer']=_0x2e8b2b(0x185),_0x427462[_0x2e8b2b(0x238)]='<span\x20\x20class=\x27mdi\x20\x20mdi-store\x27></span>',_0x427462[_0x2e8b2b(0x2fc)]=_0x2e8b2b(0x1a6),_0x427462[_0x2e8b2b(0x460)]=_0x2e8b2b(0x26d),_0x427462[_0x2e8b2b(0x191)]=_0x2e8b2b(0x43b),_0x427462['capital']=_0x2e8b2b(0x3d2),_0x427462['down']=_0x2e8b2b(0x30b),_0x427462['up']=_0x2e8b2b(0x16a);}),define(a0_0x979828(0x36d),[a0_0x979828(0x267),a0_0x979828(0x3f6)],function(_0x28bcd9,_0x5c52b4){'use strict';var _0x472207=a0_0x979828;Object[_0x472207(0x1db)](_0x5c52b4,_0x472207(0x241),{'value':!![]}),_0x5c52b4[_0x472207(0x3ab)]=void 0x0;class _0x618228{constructor(){var _0x246655=_0x472207;this['type']=_0x246655(0x3ab),this[_0x246655(0x3de)]=[],this[_0x246655(0x30c)]=[],this['loadShopUntilAmount']=[];for(var _0x7a1480=0x0;_0x7a1480<parameter[_0x246655(0x480)][_0x246655(0x28d)];_0x7a1480++){this['unloadShopAmount']['push'](undefined),this['loadShopAmount']['push'](undefined),this[_0x246655(0x1ad)]['push'](undefined);}}[_0x472207(0x270)](){var _0x3eefa7=_0x472207,_0x5cf612=this['airplane'][_0x3eefa7(0x2c6)][_0x3eefa7(0x322)][this[_0x3eefa7(0x1cd)]];for(var _0x1cd1ac=0x0;_0x1cd1ac<parameter[_0x3eefa7(0x480)][_0x3eefa7(0x28d)];_0x1cd1ac++){var _0xe7e373=this[_0x3eefa7(0x3de)][_0x1cd1ac];if(_0xe7e373!==undefined){_0xe7e373=Math['min'](_0xe7e373,this[_0x3eefa7(0x47c)][_0x3eefa7(0x155)][_0x1cd1ac]);if(_0xe7e373){var _0x1bf6d7=_0x5cf612[_0x3eefa7(0x276)]*parameter[_0x3eefa7(0xee)]-_0x5cf612[_0x3eefa7(0x409)]();if(_0x1bf6d7>0x0)_0xe7e373=Math[_0x3eefa7(0x161)](_0xe7e373,_0x1bf6d7);else _0xe7e373=0x0;this[_0x3eefa7(0x47c)][_0x3eefa7(0x155)][_0x1cd1ac]-=_0xe7e373,this[_0x3eefa7(0x47c)][_0x3eefa7(0x2a6)](),_0x5cf612[_0x3eefa7(0x147)][_0x1cd1ac]+=_0xe7e373,_0x1bf6d7=_0x5cf612[_0x3eefa7(0x276)]*parameter[_0x3eefa7(0xee)]-_0x5cf612[_0x3eefa7(0x409)](),_0x1bf6d7<=0x0&&(_0x5cf612[_0x3eefa7(0x21f)][_0x3eefa7(0x45a)][_0x3eefa7(0x1de)]='initial');}}}}[_0x472207(0x2e7)](){var _0x3604ad=_0x472207,_0x456770=this[_0x3604ad(0x47c)][_0x3604ad(0x2c6)]['cities'][this[_0x3604ad(0x1cd)]];for(var _0x25fbf0=0x0;_0x25fbf0<parameter[_0x3604ad(0x480)][_0x3604ad(0x28d)];_0x25fbf0++){var _0x3a2cbe=_0x456770[_0x3604ad(0x496)][_0x25fbf0]?_0x456770[_0x3604ad(0x496)][_0x25fbf0]:0x0,_0x58964b=this[_0x3604ad(0x1ad)][_0x25fbf0];if(_0x58964b===undefined){if(this[_0x3604ad(0x30c)][_0x25fbf0]){_0x58964b=this[_0x3604ad(0x30c)][_0x25fbf0];var _0x38dd8d=_0x456770[_0x3604ad(0x147)][_0x25fbf0]-_0x3a2cbe;if(_0x58964b!==0x0&&_0x58964b!==undefined&&_0x58964b>_0x38dd8d){if(_0x25fbf0===0x11)_0x58964b=_0x58964b;_0x58964b=_0x456770[_0x3604ad(0x147)][_0x25fbf0]-_0x3a2cbe;}var _0x1567a6=this[_0x3604ad(0x30c)][_0x25fbf0]-_0x58964b;this[_0x3604ad(0x47c)][_0x3604ad(0x2c6)][_0x3604ad(0x30a)][_0x3604ad(0x152)]['successfulLoad'][0x0][_0x25fbf0]+=_0x58964b,this[_0x3604ad(0x47c)][_0x3604ad(0x2c6)]['game']['statistic'][_0x3604ad(0x180)][0x0][_0x25fbf0]+=_0x1567a6;}}else _0x58964b=_0x456770[_0x3604ad(0x147)][_0x25fbf0]-(this[_0x3604ad(0x1ad)][_0x25fbf0]+_0x3a2cbe);if(_0x58964b<0x0)_0x58964b=0x0;this['maxLoad']!==undefined&&_0x58964b!==undefined&&(_0x58964b=Math[_0x3604ad(0x161)](this[_0x3604ad(0x334)]-this[_0x3604ad(0x47c)][_0x3604ad(0x155)][_0x25fbf0],_0x58964b));if(_0x58964b<0x0)_0x58964b=0x0;if(_0x58964b&&_0x58964b>this[_0x3604ad(0x47c)][_0x3604ad(0x2af)]-this[_0x3604ad(0x47c)][_0x3604ad(0x19b)])_0x58964b=this[_0x3604ad(0x47c)]['capacity']-this[_0x3604ad(0x47c)][_0x3604ad(0x19b)];_0x58964b&&(this['airplane']['products'][_0x25fbf0]+=_0x58964b,this[_0x3604ad(0x47c)]['refreshLoadedCount'](),_0x456770[_0x3604ad(0x147)][_0x25fbf0]-=_0x58964b);}}[_0x472207(0x3e1)](){var _0x820fc0=_0x472207;this[_0x820fc0(0x2e7)]();}[_0x472207(0x2cb)](){var _0x4613d2=_0x472207;this[_0x4613d2(0x270)]();}}_0x5c52b4[_0x472207(0x3ab)]=_0x618228;}),define(a0_0x979828(0x4a6),[a0_0x979828(0x267),a0_0x979828(0x3f6),a0_0x979828(0x48a)],function(_0x503695,_0x2be30a,_0x57f213){'use strict';var _0x2af26f=a0_0x979828;Object[_0x2af26f(0x1db)](_0x2be30a,'__esModule',{'value':!![]}),_0x2be30a[_0x2af26f(0x261)]=void 0x0;class _0x331d07{constructor(){var _0x246d64=_0x2af26f;this[_0x246d64(0x2e5)]=![],this[_0x246d64(0x2ca)]();}static[_0x2af26f(0x1b0)](){var _0x550094=_0x2af26f;if(_0x331d07['instance']===undefined)_0x331d07[_0x550094(0x2c7)]=new _0x331d07();return _0x331d07[_0x550094(0x2c7)];}['create'](){var _0x329746=_0x2af26f,_0x460902=_0x329746(0x33f);this[_0x329746(0x3ef)]=document[_0x329746(0x1fc)]()[_0x329746(0x1b5)](_0x460902)[_0x329746(0x1eb)][0x0];var _0x250382=document['getElementById'](_0x329746(0x1fe));_0x250382&&_0x250382[_0x329746(0x250)][_0x329746(0x172)](_0x250382);var _0x1058d9=this[_0x329746(0x47c)],_0x4d7913=parameter[_0x329746(0x480)],_0x55f8f7=this,_0x460902=_0x329746(0x117)+_0x57f213[_0x329746(0x36a)][_0x329746(0x406)]+_0x329746(0x272)+_0x57f213[_0x329746(0x36a)][_0x329746(0x30f)]+'</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>load<br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22route-load-shop-fill\x22\x20title=\x22fill\x20first\x20row\x20down\x22>'+_0x57f213[_0x329746(0x36a)][_0x329746(0x406)]+'</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22route-load-fill-consumtion\x22\x20title=\x22fill\x20consumtion\x22>'+_0x57f213['Icons'][_0x329746(0x3f5)]+'</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</th>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>load<br/>everything\x20except<br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22route-load-shop-until-fill\x22\x20title=\x22fill\x20first\x20row\x20down\x22>'+_0x57f213[_0x329746(0x36a)][_0x329746(0x406)]+_0x329746(0x3c3)+_0x57f213[_0x329746(0x36a)][_0x329746(0x3f5)]+(_0x329746(0x251)+function _0x44449b(){var _0x337ab9=_0x329746,_0x1042d2='';function _0xf9d7a6(_0x4f5afe,_0x1122c6){var _0x28e926=a0_0x4bc0;console[_0x28e926(0x289)](_0x4f5afe+'\x20'+_0x1122c6);}for(var _0x327cd9=0x0;_0x327cd9<parameter[_0x337ab9(0x480)][_0x337ab9(0x28d)];_0x327cd9++){_0x1042d2=_0x1042d2+'<tr>',_0x1042d2=_0x1042d2+_0x337ab9(0x4a5)+parameter[_0x337ab9(0x480)][_0x327cd9]['getIcon']()+'</td>',_0x1042d2=_0x1042d2+_0x337ab9(0x4a5)+parameter[_0x337ab9(0x480)][_0x327cd9]['name']+_0x337ab9(0x3f2),_0x1042d2=_0x1042d2+'<td>'+_0x337ab9(0x37a)+_0x327cd9+'\x22'+'style=\x22width:\x2050px;\x22'+_0x337ab9(0x146),_0x1042d2=_0x1042d2+_0x337ab9(0x4a5)+_0x337ab9(0x362)+_0x327cd9+'\x22'+_0x337ab9(0x475)+_0x337ab9(0x146),_0x1042d2=_0x1042d2+_0x337ab9(0x4a5)+_0x337ab9(0x49d)+_0x327cd9+'\x22'+_0x337ab9(0x475)+_0x337ab9(0x146),_0x1042d2=_0x1042d2+_0x337ab9(0x3cd);}return _0x1042d2;}()+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20'),_0x14b105=document[_0x329746(0x1fc)]()[_0x329746(0x1b5)](_0x460902)[_0x329746(0x1eb)][0x0];this[_0x329746(0x3ef)][_0x329746(0x172)](this[_0x329746(0x3ef)][_0x329746(0x1eb)][0x0]),this['dom'][_0x329746(0x29c)](_0x14b105),setTimeout(()=>{var _0x2a2c65=_0x329746;$(_0x2a2c65(0x237))[_0x2a2c65(0x176)]({});},0x64),document[_0x329746(0x472)][_0x329746(0x29c)](this[_0x329746(0x3ef)]),setTimeout(()=>{_0x55f8f7['bindActions']();},0x1f4);}[_0x2af26f(0x411)](){var _0x43898b=_0x2af26f,_0x1f92c5=this;for(var _0x60d7b2=0x0;_0x60d7b2<parameter[_0x43898b(0x480)][_0x43898b(0x28d)];_0x60d7b2++){document[_0x43898b(0x287)](_0x43898b(0x369)+_0x60d7b2)[_0x43898b(0x439)](_0x43898b(0x32f),_0x206a30=>{var _0x1f67b4=_0x43898b,_0x165187=_0x206a30[_0x1f67b4(0x327)],_0x324c14=parseInt(_0x165187['id'][_0x1f67b4(0x1b2)]('_')[0x1]);_0x1f92c5['route']['unloadShopAmount'][_0x324c14]=_0x165187['value']===''?undefined:parseInt(_0x165187[_0x1f67b4(0x275)]);}),document[_0x43898b(0x287)]('load-shop-amount_'+_0x60d7b2)[_0x43898b(0x439)](_0x43898b(0x32f),_0x1f83f5=>{var _0x1a3958=_0x43898b,_0x4c0e6f=_0x1f83f5[_0x1a3958(0x327)],_0x5ae361=parseInt(_0x4c0e6f['id'][_0x1a3958(0x1b2)]('_')[0x1]);_0x1f92c5['route'][_0x1a3958(0x30c)][_0x5ae361]=_0x4c0e6f['value']===''?undefined:parseInt(_0x4c0e6f[_0x1a3958(0x275)]);}),document[_0x43898b(0x287)](_0x43898b(0x416)+_0x60d7b2)[_0x43898b(0x439)](_0x43898b(0x32f),_0x2e57a7=>{var _0x823d98=_0x43898b,_0x670edb=_0x2e57a7[_0x823d98(0x327)],_0x21b091=parseInt(_0x670edb['id'][_0x823d98(0x1b2)]('_')[0x1]);_0x1f92c5[_0x823d98(0x434)][_0x823d98(0x1ad)][_0x21b091]=_0x670edb[_0x823d98(0x275)]===''?undefined:parseInt(_0x670edb[_0x823d98(0x275)]);});}document[_0x43898b(0x287)]('route-select')['addEventListener'](_0x43898b(0x32f),_0x1f65d0=>{var _0x34ce47=_0x43898b,_0x12f00f=document[_0x34ce47(0x287)]('route-select')[_0x34ce47(0x275)],_0x335719=parseInt(_0x12f00f);_0x1f92c5[_0x34ce47(0x434)]=_0x1f92c5[_0x34ce47(0x47c)]['route'][_0x335719],_0x1f92c5[_0x34ce47(0x1f9)]();}),document[_0x43898b(0x287)](_0x43898b(0x3a4))[_0x43898b(0x439)](_0x43898b(0x497),_0x40838c=>{var _0x336154=_0x43898b;for(var _0x4c4407=0x1;_0x4c4407<_0x1f92c5[_0x336154(0x434)][_0x336154(0x3de)][_0x336154(0x28d)];_0x4c4407++){this['route'][_0x336154(0x3de)][_0x4c4407]=this[_0x336154(0x434)][_0x336154(0x3de)][0x0];}_0x1f92c5[_0x336154(0x1f9)]();}),document[_0x43898b(0x287)](_0x43898b(0x29e))['addEventListener'](_0x43898b(0x497),_0x2ccdf7=>{var _0x722991=_0x43898b;for(var _0x513364=0x0;_0x513364<_0x1f92c5[_0x722991(0x434)][_0x722991(0x3de)][_0x722991(0x28d)];_0x513364++){this[_0x722991(0x434)][_0x722991(0x3de)][_0x513364]=0x2540be3ff;}_0x1f92c5[_0x722991(0x1f9)]();}),document[_0x43898b(0x287)](_0x43898b(0x2b5))[_0x43898b(0x439)](_0x43898b(0x497),_0x2dd827=>{var _0x551601=_0x43898b;for(var _0x491c1c=0x1;_0x491c1c<_0x1f92c5[_0x551601(0x434)][_0x551601(0x30c)][_0x551601(0x28d)];_0x491c1c++){this['route']['loadShopAmount'][_0x491c1c]=this[_0x551601(0x434)]['loadShopAmount'][0x0];}_0x1f92c5[_0x551601(0x1f9)]();}),document[_0x43898b(0x287)](_0x43898b(0x201))[_0x43898b(0x439)]('click',_0x287bea=>{var _0x1f1b4f=_0x43898b;for(var _0x5cf1d0=0x1;_0x5cf1d0<_0x1f92c5[_0x1f1b4f(0x434)][_0x1f1b4f(0x1ad)][_0x1f1b4f(0x28d)];_0x5cf1d0++){this[_0x1f1b4f(0x434)][_0x1f1b4f(0x1ad)][_0x5cf1d0]=this[_0x1f1b4f(0x434)]['loadShopUntilAmount'][0x0];}_0x1f92c5[_0x1f1b4f(0x1f9)]();}),document['getElementById'](_0x43898b(0x10b))[_0x43898b(0x439)](_0x43898b(0x497),_0x166690=>{var _0x220b0b=_0x43898b;_0x331d07[_0x220b0b(0x1a8)](_0x1f92c5[_0x220b0b(0x434)],!![]),_0x1f92c5['update']();}),document[_0x43898b(0x287)](_0x43898b(0x352))[_0x43898b(0x439)]('click',_0x5f2817=>{var _0x18ed93=_0x43898b;_0x331d07[_0x18ed93(0x1a8)](this['route'],![]),_0x1f92c5[_0x18ed93(0x1f9)]();}),document[_0x43898b(0x287)](_0x43898b(0x160))[_0x43898b(0x439)](_0x43898b(0x497),_0x522d88=>{var _0x24ff16=_0x43898b;_0x1f92c5[_0x24ff16(0x363)]();}),document[_0x43898b(0x287)]('routedialog-airplane-next')[_0x43898b(0x439)](_0x43898b(0x497),_0x2e06db=>{var _0x15e1f0=_0x43898b;_0x1f92c5[_0x15e1f0(0x46f)]();}),document[_0x43898b(0x287)](_0x43898b(0x3ad))[_0x43898b(0x439)](_0x43898b(0x497),_0x4d126f=>{var _0x5ed299=_0x43898b;_0x1f92c5[_0x5ed299(0x493)]();});}[_0x2af26f(0x363)](){var _0x341b8a=_0x2af26f,_0x552990=this,_0x1585b3=_0x552990[_0x341b8a(0x47c)][_0x341b8a(0x2c6)][_0x341b8a(0x441)][_0x341b8a(0x2e1)](_0x552990[_0x341b8a(0x47c)]);_0x1585b3--;if(_0x1585b3===0x0)_0x1585b3=_0x552990[_0x341b8a(0x47c)][_0x341b8a(0x2c6)][_0x341b8a(0x441)][_0x341b8a(0x28d)]-0x1;_0x552990[_0x341b8a(0x47c)]=_0x552990['airplane'][_0x341b8a(0x2c6)]['airplanes'][_0x1585b3],_0x552990[_0x341b8a(0x434)]=undefined;if(_0x552990[_0x341b8a(0x47c)][_0x341b8a(0x2c6)][_0x341b8a(0x441)][_0x1585b3][_0x341b8a(0x434)]['length']===0x0){_0x552990[_0x341b8a(0x434)]=undefined,this[_0x341b8a(0x363)]();return;}_0x552990[_0x341b8a(0x434)]=_0x552990[_0x341b8a(0x47c)][_0x341b8a(0x2c6)]['airplanes'][_0x1585b3]['route'][0x0],_0x552990[_0x341b8a(0x1f9)](!![]);}[_0x2af26f(0x46f)](){var _0x25a037=_0x2af26f,_0x5f389e=this,_0x359191=_0x5f389e[_0x25a037(0x47c)]['world']['airplanes'][_0x25a037(0x2e1)](_0x5f389e[_0x25a037(0x47c)]);_0x359191++;if(_0x359191>=_0x5f389e[_0x25a037(0x47c)][_0x25a037(0x2c6)][_0x25a037(0x441)][_0x25a037(0x28d)])_0x359191=0x0;_0x5f389e[_0x25a037(0x47c)]=_0x5f389e[_0x25a037(0x47c)]['world'][_0x25a037(0x441)][_0x359191];if(_0x5f389e['airplane'][_0x25a037(0x2c6)][_0x25a037(0x441)][_0x359191][_0x25a037(0x434)]['length']===0x0){_0x5f389e[_0x25a037(0x434)]=undefined,this[_0x25a037(0x46f)]();return;}_0x5f389e['route']=_0x5f389e[_0x25a037(0x47c)]['world'][_0x25a037(0x441)][_0x359191]['route'][0x0],_0x5f389e[_0x25a037(0x1f9)](!![]);}[_0x2af26f(0x493)](){var _0x41a2cc=_0x2af26f,_0x1d1188=this,_0x1c64ee=_0x1d1188[_0x41a2cc(0x47c)][_0x41a2cc(0x434)]['indexOf'](this[_0x41a2cc(0x434)]);_0x1c64ee++,_0x1c64ee===_0x1d1188[_0x41a2cc(0x47c)][_0x41a2cc(0x434)][_0x41a2cc(0x28d)]&&(_0x1c64ee=0x0),_0x1d1188[_0x41a2cc(0x434)]=_0x1d1188[_0x41a2cc(0x47c)][_0x41a2cc(0x434)][_0x1c64ee],_0x1d1188[_0x41a2cc(0x1f9)]();}[_0x2af26f(0xf9)](){var _0x3283bd=_0x2af26f,_0x40be46=this[_0x3283bd(0x434)][_0x3283bd(0x47c)][_0x3283bd(0x434)][_0x3283bd(0x2e1)](this[_0x3283bd(0x434)]);if(_0x40be46===0x0)return;_0x40be46--;var _0x44b1d7=this['route'][_0x3283bd(0x47c)][_0x3283bd(0x434)][_0x40be46];this[_0x3283bd(0x434)][_0x3283bd(0x334)]=_0x44b1d7[_0x3283bd(0x334)];for(var _0x42e245=0x0;_0x42e245<parameter[_0x3283bd(0x480)]['length'];_0x42e245++){this[_0x3283bd(0x434)][_0x3283bd(0x30c)][_0x42e245]=_0x44b1d7[_0x3283bd(0x30c)][_0x42e245],this[_0x3283bd(0x434)][_0x3283bd(0x1ad)][_0x42e245]=_0x44b1d7['loadShopUntilAmount'][_0x42e245],this[_0x3283bd(0x434)][_0x3283bd(0x3de)][_0x42e245]=_0x44b1d7[_0x3283bd(0x3de)][_0x42e245];}this[_0x3283bd(0x1f9)]();}static[_0x2af26f(0x1a8)](_0x36e044,_0x48531f){var _0x3d10be=_0x2af26f,_0xafa902=this,_0x5bd39f=_0x36e044[_0x3d10be(0x47c)][_0x3d10be(0x434)],_0x4a072e=0x0,_0x3d747a=undefined;for(var _0x179762=0x0;_0x179762<_0x5bd39f[_0x3d10be(0x28d)];_0x179762++){var _0x21ec01=_0x36e044[_0x3d10be(0x47c)][_0x3d10be(0x2c6)][_0x3d10be(0x322)][_0x5bd39f[_0x179762][_0x3d10be(0x1cd)]];if(_0x3d747a===undefined){_0x3d747a=[_0x21ec01['x'],_0x21ec01['y']];var _0x3220ee=_0x36e044[_0x3d10be(0x47c)]['world'][_0x3d10be(0x322)][_0x5bd39f[_0x5bd39f['length']-0x1][_0x3d10be(0x1cd)]],_0x54b8fb=Math['round'](Math[_0x3d10be(0x157)](Math[_0x3d10be(0x285)](_0x3d747a[0x0]-_0x3220ee['x'],0x2)+Math['pow'](_0x3d747a[0x1]-_0x3220ee['y'],0x2)));_0x4a072e+=_0x54b8fb;}else{var _0x54b8fb=Math[_0x3d10be(0x24f)](Math[_0x3d10be(0x157)](Math[_0x3d10be(0x285)](_0x3d747a[0x0]-_0x21ec01['x'],0x2)+Math[_0x3d10be(0x285)](_0x3d747a[0x1]-_0x21ec01['y'],0x2)));_0x4a072e+=_0x54b8fb,_0x3d747a=[_0x21ec01['x'],_0x21ec01['y']];}}var _0x366769=_0x4a072e/_0x36e044['airplane'][_0x3d10be(0x2a8)],_0xd171f8=(Math[_0x3d10be(0x24f)](_0x366769*0x18)+0x1+_0x5bd39f['length']*0x3+_0x5bd39f[_0x3d10be(0x28d)]*0x3)/0x18;if(_0xd171f8<0x3)_0xd171f8=0x3;console[_0x3d10be(0x289)](_0xd171f8);var _0x4f26fa=_0x48531f?_0x36e044[_0x3d10be(0x30c)]:_0x36e044[_0x3d10be(0x1ad)];for(var _0x179762=0x0;_0x179762<parameter['allProducts'][_0x3d10be(0x28d)];_0x179762++){_0x4f26fa[_0x179762]=0x0;}for(var _0x179762=0x0;_0x179762<_0x5bd39f['length'];_0x179762++){var _0x21ec01=_0x36e044[_0x3d10be(0x47c)][_0x3d10be(0x2c6)]['cities'][_0x5bd39f[_0x179762][_0x3d10be(0x1cd)]],_0x276935;_0x48531f?_0x276935=_0x5bd39f[_0x179762][_0x3d10be(0x1cd)]!==_0x36e044[_0x3d10be(0x1cd)]:_0x276935=_0x5bd39f[_0x179762][_0x3d10be(0x1cd)]===_0x36e044[_0x3d10be(0x1cd)];if(_0x276935){var _0x3cb3d6=0x0;for(var _0x64b896=0x0;_0x64b896<_0x21ec01[_0x3d10be(0x222)][_0x3d10be(0x28d)];_0x64b896++){var _0x52a4e1=_0x21ec01[_0x3d10be(0x222)][_0x64b896][_0x3d10be(0x34e)];_0x52a4e1+=_0x21ec01[_0x3d10be(0x3be)](_0x21ec01[_0x3d10be(0x222)][_0x64b896][_0x3d10be(0x1a4)]),_0x3cb3d6+=_0x52a4e1*parameter[_0x3d10be(0x469)];var _0x331fe9=parameter['allProducts'][_0x21ec01[_0x3d10be(0x222)][_0x64b896]['productid']];if(_0x331fe9['input1'])_0x4f26fa[_0x331fe9[_0x3d10be(0x13e)]]+=Math[_0x3d10be(0x24f)](1.3*_0x52a4e1*_0x331fe9[_0x3d10be(0x3c8)]*_0xd171f8);if(_0x331fe9['input2'])_0x4f26fa[_0x331fe9[_0x3d10be(0x23c)]]+=Math[_0x3d10be(0x24f)](1.3*_0x52a4e1*_0x331fe9['input2Amount']*_0xd171f8);}for(var _0x536e1c=0x0;_0x536e1c<parameter[_0x3d10be(0x480)]['length'];_0x536e1c++){_0x4f26fa[_0x536e1c]+=Math['round'](1.3*_0xd171f8*parameter[_0x3d10be(0x480)][_0x536e1c]['dailyConsumtion']*(_0x3cb3d6+parameter['neutralStartPeople']));}}}}[_0x2af26f(0x1f9)](_0x48cfdc=![]){var _0x16a4c1=_0x2af26f;try{if(!$(this[_0x16a4c1(0x3ef)])[_0x16a4c1(0x177)](_0x16a4c1(0x189)))return;}catch(_0x43fc2d){return;}document[_0x16a4c1(0x287)](_0x16a4c1(0x311))[_0x16a4c1(0x46e)]=this[_0x16a4c1(0x47c)][_0x16a4c1(0x324)];var _0x21514a=document[_0x16a4c1(0x287)](_0x16a4c1(0x424));_0x21514a[_0x16a4c1(0x46e)]='';for(var _0x2c5cb1=0x0;_0x2c5cb1<this[_0x16a4c1(0x47c)][_0x16a4c1(0x434)]['length'];_0x2c5cb1++){var _0x17efe4=document[_0x16a4c1(0x48e)](_0x16a4c1(0x1e1)),_0x241eb3=this['airplane']['world'][_0x16a4c1(0x322)][this[_0x16a4c1(0x47c)][_0x16a4c1(0x434)][_0x2c5cb1][_0x16a4c1(0x1cd)]];_0x17efe4['value']=''+_0x2c5cb1,_0x17efe4[_0x16a4c1(0x258)]=_0x241eb3[_0x16a4c1(0x324)],_0x21514a[_0x16a4c1(0x29c)](_0x17efe4);}if(this[_0x16a4c1(0x434)])_0x21514a['value']=''+this[_0x16a4c1(0x47c)][_0x16a4c1(0x434)][_0x16a4c1(0x2e1)](this['route']);else{document[_0x16a4c1(0x287)](_0x16a4c1(0x33e))[_0x16a4c1(0x275)]='',document[_0x16a4c1(0x287)](_0x16a4c1(0x1b1))[_0x16a4c1(0x275)]='',document[_0x16a4c1(0x287)](_0x16a4c1(0x319))['value']='';return;}for(var _0x2c5cb1=0x0;_0x2c5cb1<parameter[_0x16a4c1(0x480)][_0x16a4c1(0x28d)];_0x2c5cb1++){if(document[_0x16a4c1(0x120)]!==document[_0x16a4c1(0x287)](_0x16a4c1(0x369)+_0x2c5cb1))document[_0x16a4c1(0x287)](_0x16a4c1(0x369)+_0x2c5cb1)[_0x16a4c1(0x275)]=this[_0x16a4c1(0x434)][_0x16a4c1(0x3de)][_0x2c5cb1]===undefined?'':this[_0x16a4c1(0x434)][_0x16a4c1(0x3de)][_0x2c5cb1]['toString']();if(document[_0x16a4c1(0x120)]!==document[_0x16a4c1(0x287)](_0x16a4c1(0x3b6)+_0x2c5cb1))document[_0x16a4c1(0x287)](_0x16a4c1(0x3b6)+_0x2c5cb1)[_0x16a4c1(0x275)]=this[_0x16a4c1(0x434)][_0x16a4c1(0x30c)][_0x2c5cb1]===undefined?'':this[_0x16a4c1(0x434)][_0x16a4c1(0x30c)][_0x2c5cb1]['toString']();if(document['activeElement']!==document['getElementById'](_0x16a4c1(0x416)+_0x2c5cb1))document[_0x16a4c1(0x287)](_0x16a4c1(0x416)+_0x2c5cb1)['value']=this[_0x16a4c1(0x434)][_0x16a4c1(0x1ad)][_0x2c5cb1]===undefined?'':this[_0x16a4c1(0x434)]['loadShopUntilAmount'][_0x2c5cb1][_0x16a4c1(0x259)]();}}[_0x2af26f(0x3ec)](){var _0xc970b1=_0x2af26f,_0x2db8c4=this;this[_0xc970b1(0x3ef)][_0xc970b1(0x3d4)]('hidden'),this[_0xc970b1(0x1f9)](),$(this[_0xc970b1(0x3ef)])[_0xc970b1(0x177)]({'width':_0xc970b1(0x141),'draggable':!![],'open':function(_0x4274d6,_0xb696e3){var _0x5f202d=_0xc970b1;_0x2db8c4[_0x5f202d(0x1f9)](!![]);},'close':function(){}})[_0xc970b1(0x177)](_0xc970b1(0x13d))['draggable']('option',_0xc970b1(0x292),_0xc970b1(0xf3)),$(this[_0xc970b1(0x3ef)])[_0xc970b1(0x2df)]()[_0xc970b1(0x14f)]({'position':_0xc970b1(0x2c1)});}[_0x2af26f(0x16f)](){var _0x44b7e5=_0x2af26f;$(this['dom'])[_0x44b7e5(0x177)](_0x44b7e5(0x16f));}}_0x2be30a['RouteDialog']=_0x331d07;}),define(a0_0x979828(0x467),[a0_0x979828(0x267),a0_0x979828(0x3f6),a0_0x979828(0x48a)],function(_0x220a4d,_0x4042a2,_0x29d406){'use strict';var _0x1338d7=a0_0x979828;Object['defineProperty'](_0x4042a2,'__esModule',{'value':!![]}),_0x4042a2['SquadronDialog']=void 0x0;class _0xf28324{constructor(){this['create']();}static[_0x1338d7(0x1b0)](){var _0xd539ed=_0x1338d7;if(_0xf28324[_0xd539ed(0x2c7)]===undefined)_0xf28324['instance']=new _0xf28324();return _0xf28324[_0xd539ed(0x2c7)];}[_0x1338d7(0x396)](_0xe6eed6){var _0x522fd9=_0x1338d7,_0x58b0a1=document[_0x522fd9(0x287)](_0xe6eed6);for(var _0x3e2885=0x0;_0x3e2885<_0x58b0a1[_0x522fd9(0x1eb)][_0x522fd9(0x28d)];_0x3e2885++){if(_0x58b0a1['children'][_0x3e2885][_0x522fd9(0x204)]['contains']('active-listitem'))return _0x58b0a1['children'][_0x3e2885]['getAttribute'](_0x522fd9(0x275));}return'';}[_0x1338d7(0x411)](){var _0xb95e80=_0x1338d7,_0x1af3a6=this;document[_0xb95e80(0x287)](_0xb95e80(0x3e8))[_0xb95e80(0x439)]('click',_0x1812d4=>{var _0xe4113c=_0xb95e80,_0x5e8997=_0x1812d4[_0xe4113c(0x327)];if(!(_0x5e8997 instanceof HTMLLIElement))return;var _0x2948a5=document[_0xe4113c(0x287)](_0xe4113c(0x3e8));for(var _0x203066=0x0;_0x203066<_0x2948a5[_0xe4113c(0x1eb)]['length'];_0x203066++){_0x2948a5[_0xe4113c(0x1eb)][_0x203066][_0xe4113c(0x204)]['remove'](_0xe4113c(0x4ac));}_0x5e8997['classList'][_0xe4113c(0x345)](_0xe4113c(0x4ac));}),document['getElementById'](_0xb95e80(0x35d))['addEventListener'](_0xb95e80(0x497),_0x1d2985=>{var _0x45dce9=_0xb95e80,_0x39f251=_0x1d2985[_0x45dce9(0x327)],_0x25aa68=document[_0x45dce9(0x287)](_0x45dce9(0x35d));for(var _0x1d781a=0x0;_0x1d781a<_0x25aa68[_0x45dce9(0x1eb)][_0x45dce9(0x28d)];_0x1d781a++){_0x25aa68[_0x45dce9(0x1eb)][_0x1d781a][_0x45dce9(0x204)][_0x45dce9(0x265)](_0x45dce9(0x4ac));}_0x39f251[_0x45dce9(0x204)][_0x45dce9(0x345)](_0x45dce9(0x4ac));}),document[_0xb95e80(0x287)](_0xb95e80(0x3e4))[_0xb95e80(0x439)](_0xb95e80(0x497),_0x1cb3bd=>{var _0xfce6e9=_0xb95e80,_0x4a5635=_0x1af3a6['getActiveItem'](_0xfce6e9(0x3e8));if(_0x4a5635===_0xfce6e9(0x3ce)||_0x4a5635==='')return;var _0xe7dacf=_0x1af3a6[_0xfce6e9(0x47c)][_0xfce6e9(0x2c6)][_0xfce6e9(0x1e3)](_0x4a5635),_0x3bf9f9=_0x1af3a6[_0xfce6e9(0x47c)]['world'][_0xfce6e9(0x441)][_0xfce6e9(0x2e1)](_0xe7dacf),_0x23893e=_0x1af3a6[_0xfce6e9(0x47c)][_0xfce6e9(0x2c6)][_0xfce6e9(0x441)]['indexOf'](_0xe7dacf);_0x1af3a6[_0xfce6e9(0x47c)][_0xfce6e9(0x2c6)]['airplanes'][_0xfce6e9(0x31a)](_0x3bf9f9,0x1),_0x1af3a6[_0xfce6e9(0x47c)][_0xfce6e9(0x1be)][_0xfce6e9(0x1bb)](_0xe7dacf),_0x1af3a6['airplane']['updateSquadron'](),_0xe7dacf['updateSquadron'](),_0x1af3a6[_0xfce6e9(0x47c)][_0xfce6e9(0x2c6)]['dom'][_0xfce6e9(0x172)](_0xe7dacf[_0xfce6e9(0x3ef)]),_0xe7dacf[_0xfce6e9(0x3ef)][_0xfce6e9(0x45a)][_0xfce6e9(0x1de)]='none',_0x1af3a6['update']();}),document[_0xb95e80(0x287)](_0xb95e80(0x3e5))[_0xb95e80(0x439)]('click',_0x4a9581=>{var _0x20c6ac=_0xb95e80,_0x2a3056=_0x1af3a6[_0x20c6ac(0x396)](_0x20c6ac(0x35d));if(_0x2a3056==='')return;var _0x10d45f=_0x1af3a6[_0x20c6ac(0x47c)][_0x20c6ac(0x2c6)][_0x20c6ac(0x1e3)](_0x2a3056),_0x1172a6=_0x1af3a6[_0x20c6ac(0x47c)][_0x20c6ac(0x1be)][_0x20c6ac(0x2e1)](_0x10d45f);_0x1af3a6[_0x20c6ac(0x47c)][_0x20c6ac(0x1be)][_0x20c6ac(0x31a)](_0x1172a6,0x1),_0x1af3a6[_0x20c6ac(0x47c)][_0x20c6ac(0x2c6)][_0x20c6ac(0x441)][_0x20c6ac(0x1bb)](_0x10d45f),_0x1af3a6['airplane']['updateSquadron'](),_0x10d45f[_0x20c6ac(0x405)](),_0x10d45f[_0x20c6ac(0x3ef)]===undefined?(_0x10d45f['world']=_0x1af3a6[_0x20c6ac(0x47c)]['world'],_0x10d45f['render']()):_0x10d45f[_0x20c6ac(0x3ef)][_0x20c6ac(0x45a)][_0x20c6ac(0x1de)]=_0x20c6ac(0x2c8),_0x1af3a6[_0x20c6ac(0x47c)][_0x20c6ac(0x2c6)]['dom'][_0x20c6ac(0x29c)](_0x10d45f[_0x20c6ac(0x3ef)]),_0x10d45f['x']=_0x1af3a6['airplane']['x'],_0x10d45f['y']=_0x1af3a6[_0x20c6ac(0x47c)]['y'],_0x1af3a6[_0x20c6ac(0x1f9)]();});}[_0x1338d7(0x2ca)](){var _0x592151=_0x1338d7,_0x2c5791=_0x592151(0x127);this[_0x592151(0x3ef)]=document[_0x592151(0x1fc)]()['createContextualFragment'](_0x2c5791)[_0x592151(0x1eb)][0x0];var _0x3a7402=document['getElementById'](_0x592151(0x315));_0x3a7402&&_0x3a7402[_0x592151(0x250)][_0x592151(0x172)](_0x3a7402);var _0x39a869=this[_0x592151(0x47c)],_0x171c35=parameter[_0x592151(0x480)],_0x2a177b=this,_0x2c5791=_0x592151(0x1fa)+_0x29d406[_0x592151(0x36a)]['toright']+_0x592151(0x134)+_0x29d406[_0x592151(0x36a)][_0x592151(0x2f3)]+(_0x592151(0x447)+function _0x522870(){var _0x1cc38b='';return _0x1cc38b;}()+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20'),_0x36b9dd=document['createRange']()['createContextualFragment'](_0x2c5791)[_0x592151(0x1eb)][0x0];this[_0x592151(0x3ef)][_0x592151(0x172)](this[_0x592151(0x3ef)][_0x592151(0x1eb)][0x0]),this[_0x592151(0x3ef)]['appendChild'](_0x36b9dd),document[_0x592151(0x472)][_0x592151(0x29c)](this[_0x592151(0x3ef)]),setTimeout(()=>{var _0x41552b=_0x592151;_0x2a177b[_0x41552b(0x411)]();},0x1f4);}[_0x1338d7(0x1f9)](){var _0x32bcea=_0x1338d7;try{if(!$(this[_0x32bcea(0x3ef)])[_0x32bcea(0x177)](_0x32bcea(0x189)))return;}catch(_0x1227f9){return;}var _0x5c5051=document[_0x32bcea(0x287)](_0x32bcea(0x3e8)),_0x4b4225=document[_0x32bcea(0x287)](_0x32bcea(0x35d)),_0x1e5af0=this['airplane']['getCurrentCity']();if(_0x1e5af0!==undefined){_0x5c5051[_0x32bcea(0x46e)]='';var _0x22a6cb=_0x1e5af0['getAirplanesInCity'](),_0x1e22de='';for(var _0x2f6d68=0x0;_0x2f6d68<_0x22a6cb[_0x32bcea(0x28d)];_0x2f6d68++){if(_0x22a6cb[_0x2f6d68]!==this[_0x32bcea(0x47c)]){var _0x1f1495=_0x22a6cb[_0x2f6d68];_0x1e22de+=_0x32bcea(0x211)+_0x1f1495[_0x32bcea(0x324)]+'\x22>'+_0x1f1495[_0x32bcea(0x324)]+'</li>';}}_0x5c5051['innerHTML']=_0x1e22de;}_0x5c5051[_0x32bcea(0x46e)]===''&&(_0x5c5051['innerHTML']=_0x32bcea(0x2b6));_0x4b4225[_0x32bcea(0x46e)]='';var _0x1e22de='';for(var _0x2f6d68=0x0;_0x2f6d68<this[_0x32bcea(0x47c)][_0x32bcea(0x1be)][_0x32bcea(0x28d)];_0x2f6d68++){var _0x1f1495=this['airplane']['squadron'][_0x2f6d68];_0x1e22de+='<li\x20value=\x22'+_0x1f1495[_0x32bcea(0x324)]+'\x22>'+_0x1f1495[_0x32bcea(0x324)]+_0x32bcea(0x34f);}_0x4b4225[_0x32bcea(0x46e)]=_0x1e22de;}[_0x1338d7(0x3ec)](){var _0x21bae1=_0x1338d7,_0x5deb8c=this;this[_0x21bae1(0x3ef)][_0x21bae1(0x3d4)](_0x21bae1(0x11e)),this[_0x21bae1(0x1f9)](),$(this[_0x21bae1(0x3ef)])[_0x21bae1(0x177)]({'title':_0x21bae1(0x3a2),'width':_0x21bae1(0x141),'draggable':!![],'open':function(_0x1bf65e,_0x2f6645){var _0x4b6606=_0x21bae1;_0x5deb8c[_0x4b6606(0x1f9)]();},'create':function(_0x5276c3){setTimeout(()=>{var _0x5b0edb=a0_0x4bc0;$(_0x5276c3[_0x5b0edb(0x327)])[_0x5b0edb(0x177)](_0x5b0edb(0x13d))[_0x5b0edb(0x25e)](_0x5b0edb(0x3bc))[0x0][_0x5b0edb(0x439)]('touchstart',_0x374fc6=>{_0x5deb8c['close']();});},0xc8);}})[_0x21bae1(0x177)]('widget')['draggable']('option',_0x21bae1(0x292),_0x21bae1(0xf3)),$(this[_0x21bae1(0x3ef)])[_0x21bae1(0x2df)]()[_0x21bae1(0x14f)]({'position':'fixed'});}['close'](){var _0xddda43=_0x1338d7;$(this[_0xddda43(0x3ef)])[_0xddda43(0x177)](_0xddda43(0x16f));}}_0x4042a2[_0x1338d7(0x3ac)]=_0xf28324;}),define(a0_0x979828(0x2c2),[a0_0x979828(0x267),a0_0x979828(0x3f6),a0_0x979828(0x48a),a0_0x979828(0x36d),a0_0x979828(0x4a6)],function(_0x266626,_0x406396,_0x557279,_0x4ac181,_0x49331d){'use strict';var _0x41e446=a0_0x979828;Object[_0x41e446(0x1db)](_0x406396,'__esModule',{'value':!![]}),_0x406396[_0x41e446(0x367)]=void 0x0,window['airplane']=function(){var _0x506883=_0x41e446;return _0x347276[_0x506883(0x1b0)]()[_0x506883(0x47c)];};class _0x347276{constructor(){var _0x5ddd70=_0x41e446;this[_0x5ddd70(0x1c9)]=![],this[_0x5ddd70(0x2e5)]=![],this['create']();}static[_0x41e446(0x1b0)](){var _0x57dc64=_0x41e446;if(_0x347276[_0x57dc64(0x2c7)]===undefined)_0x347276[_0x57dc64(0x2c7)]=new _0x347276();return _0x347276[_0x57dc64(0x2c7)];}set[_0x41e446(0x47c)](_0x1d6b56){var _0x36d7ca=_0x41e446;this[_0x36d7ca(0x3d8)]=_0x1d6b56,this[_0x36d7ca(0x166)]();}get[_0x41e446(0x47c)](){return this['_airplane'];}[_0x41e446(0x2ca)](){var _0xccd879=_0x41e446,_0x3b85d2=_0xccd879(0x2b3);this[_0xccd879(0x3ef)]=document[_0xccd879(0x1fc)]()[_0xccd879(0x1b5)](_0x3b85d2)['children'][0x0];var _0xf57e67=document[_0xccd879(0x287)](_0xccd879(0x3a6));_0xf57e67&&_0xf57e67['parentNode'][_0xccd879(0x172)](_0xf57e67);var _0x4980b3=this[_0xccd879(0x47c)],_0x36fb6f=window[_0xccd879(0x343)][_0xccd879(0x480)],_0x1a5e9f=this,_0x3b85d2=_0xccd879(0x490)+_0x557279[_0xccd879(0x36a)][_0xccd879(0x33a)][_0xccd879(0x208)](_0xccd879(0x335),_0xccd879(0x46c))+'</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#airplanedialog-info\x22\x20class=\x22airplanedialog-tabs\x22>'+_0x557279['Icons'][_0xccd879(0x22d)][_0xccd879(0x208)]('<span',_0xccd879(0x271))+_0xccd879(0x385)+_0x557279[_0xccd879(0x36a)]['route'][_0xccd879(0x208)](_0xccd879(0x335),_0xccd879(0x2f9))+'</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22airplanedialog-products\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22airplanedialog-products-list\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22airplanedialog-info\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22airplanedialog-name\x22>\x20</input>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22airplanedialog-type\x22>Type:</span><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22airplanedialog-speed\x22>Speed:</span><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22airplanedialog-capacity\x22>Capacity:</span><br/>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22airplanedialog-costs\x22>Daily\x20Costs:</span><br/>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20style=\x22font-size:14px\x22\x20id=\x22upgrade-squadron\x22\x20class=\x22mybutton\x22>Upgrade</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20style=\x22font-size:14px\x22\x20id=\x22delete-airplane\x22\x20class=\x22mybutton\x22>'+_0x557279[_0xccd879(0x36a)][_0xccd879(0x265)]+_0xccd879(0x484)+_0x557279[_0xccd879(0x36a)][_0xccd879(0x3b1)]+_0xccd879(0x42f)+_0x557279[_0xccd879(0x36a)][_0xccd879(0x265)]+_0xccd879(0x1a9),_0x479b1b=document[_0xccd879(0x1fc)]()['createContextualFragment'](_0x3b85d2)[_0xccd879(0x1eb)][0x0];this[_0xccd879(0x3ef)]['removeChild'](this[_0xccd879(0x3ef)][_0xccd879(0x1eb)][0x0]),this[_0xccd879(0x3ef)]['appendChild'](_0x479b1b),$(_0xccd879(0x2a4))['tabs']({}),setTimeout(()=>{var _0x11d212=_0xccd879;$(_0x11d212(0x2a4))[_0x11d212(0x176)]({});},0x64),document[_0xccd879(0x472)][_0xccd879(0x29c)](this[_0xccd879(0x3ef)]),setTimeout(()=>{var _0x5a44bd=_0xccd879;document['getElementById'](_0x5a44bd(0x356))[_0x5a44bd(0x439)]('click',_0x409771=>{var _0x2a77bc=_0x5a44bd,_0x47d8c1=_0x1a5e9f['airplane']['world']['airplanes'][_0x2a77bc(0x2e1)](_0x1a5e9f[_0x2a77bc(0x47c)]);_0x47d8c1++;if(_0x47d8c1>=_0x1a5e9f['airplane'][_0x2a77bc(0x2c6)]['airplanes'][_0x2a77bc(0x28d)])_0x47d8c1=0x0;_0x1a5e9f[_0x2a77bc(0x2bc)](_0x1a5e9f['airplane'][_0x2a77bc(0x2c6)][_0x2a77bc(0x441)][_0x47d8c1]);}),document[_0x5a44bd(0x287)]('airplanedialog-prev')[_0x5a44bd(0x439)]('click',_0x319388=>{var _0x2f22b5=_0x5a44bd,_0x3dcac7=_0x1a5e9f[_0x2f22b5(0x47c)][_0x2f22b5(0x2c6)][_0x2f22b5(0x441)]['indexOf'](_0x1a5e9f[_0x2f22b5(0x47c)]);_0x3dcac7--;if(_0x3dcac7===-0x1)_0x3dcac7=_0x1a5e9f[_0x2f22b5(0x47c)][_0x2f22b5(0x2c6)]['airplanes'][_0x2f22b5(0x28d)]-0x1;_0x1a5e9f['airplane']=_0x1a5e9f[_0x2f22b5(0x47c)][_0x2f22b5(0x2c6)][_0x2f22b5(0x441)][_0x3dcac7],_0x1a5e9f[_0x2f22b5(0x1f9)](!![]);}),document[_0x5a44bd(0x287)]('route-active')['addEventListener']('click',_0x2dbf36=>{var _0x18a5f3=_0x5a44bd,_0x5df0da=document['getElementById'](_0x18a5f3(0x121))['checked']?0x1:-0x1;if(_0x5df0da===-0x1&&_0x1a5e9f[_0x18a5f3(0x47c)]['activeRoute']===0x0)_0x1a5e9f[_0x18a5f3(0x47c)]['activeRoute']=-0x1;else _0x1a5e9f['airplane'][_0x18a5f3(0x1c6)]=_0x5df0da*Math[_0x18a5f3(0x202)](_0x1a5e9f[_0x18a5f3(0x47c)][_0x18a5f3(0x1c6)]),_0x1a5e9f['airplane'][_0x18a5f3(0x1ac)](_0x1a5e9f[_0x18a5f3(0x47c)][_0x18a5f3(0x2c6)]['cities'][_0x1a5e9f[_0x18a5f3(0x47c)][_0x18a5f3(0x434)][0x0]['cityid']]);}),document[_0x5a44bd(0x287)](_0x5a44bd(0x302))[_0x5a44bd(0x439)](_0x5a44bd(0x32f),_0x2899c3=>{var _0x4ba31d=_0x5a44bd,_0x94ae7a=_0x2899c3[_0x4ba31d(0x327)],_0x52c4cb=_0x94ae7a[_0x4ba31d(0x275)];if(this[_0x4ba31d(0x47c)][_0x4ba31d(0x2c6)][_0x4ba31d(0x1e3)](_0x52c4cb)!==undefined){alert(_0x4ba31d(0x37c)+_0x52c4cb+'\x20already\x20exists');return;}_0x1a5e9f[_0x4ba31d(0x47c)][_0x4ba31d(0x324)]=_0x52c4cb,_0x1a5e9f['update']();}),$(_0x5a44bd(0x1a5))[_0x5a44bd(0x497)](function(_0x5a2039){var _0x3d85b9=_0x5a44bd;_0x5a2039['target']['getAttribute'](_0x3d85b9(0x1df))===_0x3d85b9(0x1ae)||_0x5a2039['target'][_0x3d85b9(0x250)][_0x3d85b9(0x349)]('href')===_0x3d85b9(0x1ae)?_0x1a5e9f[_0x3d85b9(0x37e)](!![]):_0x1a5e9f[_0x3d85b9(0x37e)](![]);}),document[_0x5a44bd(0x287)](_0x5a44bd(0x14e))['addEventListener'](_0x5a44bd(0x497),_0x1e27bf=>{var _0xe521ca=_0x5a44bd;_0x1a5e9f[_0xe521ca(0x37e)](![]),_0x49331d[_0xe521ca(0x261)]['getInstance']()['airplane']=_0x1a5e9f[_0xe521ca(0x47c)],_0x49331d[_0xe521ca(0x261)][_0xe521ca(0x1b0)]()['route']=undefined;if(_0x1a5e9f['airplane'][_0xe521ca(0x434)][_0xe521ca(0x28d)]>0x0)_0x49331d[_0xe521ca(0x261)][_0xe521ca(0x1b0)]()[_0xe521ca(0x434)]=_0x1a5e9f[_0xe521ca(0x47c)][_0xe521ca(0x434)][0x0];else{alert(_0xe521ca(0x366));return;}_0x49331d['RouteDialog'][_0xe521ca(0x1b0)]()[_0xe521ca(0x3ec)]();}),document[_0x5a44bd(0x287)](_0x5a44bd(0x38f))[_0x5a44bd(0x439)](_0x5a44bd(0x497),_0x57971e=>{var _0x1454b1=_0x5a44bd;_0x1a5e9f[_0x1454b1(0x47c)][_0x1454b1(0x41e)](),_0x1a5e9f[_0x1454b1(0x1f9)]();}),document[_0x5a44bd(0x287)](_0x5a44bd(0x3c2))[_0x5a44bd(0x439)](_0x5a44bd(0x497),_0x6080f3=>{var _0x13010b=_0x5a44bd;confirm('Delete\x20the\x20the\x20entire\x20squadron?')&&_0x1a5e9f['deleteAirplane'](_0x1a5e9f[_0x13010b(0x47c)]);}),document[_0x5a44bd(0x287)](_0x5a44bd(0x1e5))['addEventListener'](_0x5a44bd(0x497),_0x531995=>{var _0x5e57af=_0x5a44bd,_0x5d8f05=document[_0x5e57af(0x287)](_0x5e57af(0x325));for(var _0x4c7f9d=0x0;_0x4c7f9d<_0x5d8f05['children'][_0x5e57af(0x28d)];_0x4c7f9d++){_0x5d8f05[_0x5e57af(0x1eb)][_0x4c7f9d]['classList'][_0x5e57af(0x456)]('active-listitem')&&$(_0x5d8f05[_0x5e57af(0x1eb)][_0x4c7f9d])['remove']();}_0x1a5e9f[_0x5e57af(0x11b)]();}),document[_0x5a44bd(0x287)](_0x5a44bd(0x325))[_0x5a44bd(0x439)](_0x5a44bd(0x497),_0x32733f=>{_0x1a5e9f['selectCity'](_0x32733f);}),document[_0x5a44bd(0x287)](_0x5a44bd(0x325))[_0x5a44bd(0x439)](_0x5a44bd(0xef),_0x49ce98=>{var _0x530d30=_0x5a44bd;_0x1a5e9f[_0x530d30(0x1a1)](_0x49ce98);}),$(_0x5a44bd(0x12b))[_0x5a44bd(0xf7)]({'drop':(_0x3adc98,_0x51cb36)=>{var _0xd1d61e=_0x5a44bd;$(_0x51cb36[_0xd1d61e(0x20a)][0x0])[_0xd1d61e(0x265)](),_0x1a5e9f['updateData']();}});},0x1f4);}['deleteAirplane'](_0x16cb6c){var _0x468478=_0x41e446,_0x4ab055;for(var _0x3efa12=0x0;_0x3efa12<_0x16cb6c[_0x468478(0x1be)]['length'];_0x3efa12++){this[_0x468478(0x491)](_0x16cb6c[_0x468478(0x1be)][_0x3efa12]),_0x16cb6c[_0x468478(0x1be)]=[];}var _0x71adaf=this[_0x468478(0x47c)][_0x468478(0x2c6)]['airplanes'][_0x468478(0x2e1)](_0x16cb6c);if(_0x71adaf!==-0x1)this[_0x468478(0x47c)][_0x468478(0x2c6)]['airplanes'][_0x468478(0x31a)](_0x71adaf,0x1);if((_0x4ab055=_0x16cb6c[_0x468478(0x3ef)])===null||_0x4ab055===void 0x0?void 0x0:_0x4ab055[_0x468478(0x45a)])_0x16cb6c['dom'][_0x468478(0x45a)][_0x468478(0x1de)]=_0x468478(0xf3);if(_0x16cb6c[_0x468478(0x3ef)])this[_0x468478(0x47c)][_0x468478(0x2c6)]['dom']['removeChild'](_0x16cb6c[_0x468478(0x3ef)]);this['update']();}['selectCity'](_0x375cd9){var _0x41a1a7=_0x41e446,_0x372c93=$(_0x375cd9[_0x41a1a7(0x327)])[_0x41a1a7(0x36e)]('li')[0x0];if(_0x372c93['id'][_0x41a1a7(0x1b2)]('-')[_0x41a1a7(0x28d)]>0x1){var _0x321e14=parseInt(_0x372c93['id'][_0x41a1a7(0x1b2)]('-')[0x1]),_0x1e8ccf=document['getElementById']('route-list');for(var _0x427d67=0x0;_0x427d67<_0x1e8ccf['children'][_0x41a1a7(0x28d)];_0x427d67++){_0x1e8ccf[_0x41a1a7(0x1eb)][_0x427d67][_0x41a1a7(0x204)][_0x41a1a7(0x265)](_0x41a1a7(0x4ac));}}_0x372c93[_0x41a1a7(0x204)]['add']('active-listitem');}[_0x41e446(0x37e)](_0x3bb72f){var _0x96a93f=_0x41e446,_0x2f69b9=this;console[_0x96a93f(0x289)](_0x96a93f(0x2d9)+(_0x3bb72f?'enable':_0x96a93f(0x3c0)));if(this[_0x96a93f(0x2e5)]&&!_0x3bb72f)for(var _0x2fe9fb=0x0;_0x2fe9fb<this[_0x96a93f(0x47c)]['world'][_0x96a93f(0x322)][_0x96a93f(0x28d)];_0x2fe9fb++){try{$(this['airplane']['world']['cities'][_0x2fe9fb][_0x96a93f(0x3ef)])[_0x96a93f(0x20a)](_0x96a93f(0x2b2)),$(this[_0x96a93f(0x47c)]['world'][_0x96a93f(0x322)][_0x2fe9fb][_0x96a93f(0x10f)])[_0x96a93f(0x20a)](_0x96a93f(0x2b2));}catch(_0x4e1c85){}}if(this['dropCitiesEnabled']===![]&&_0x3bb72f){var _0x2a1298={'connectToSortable':_0x96a93f(0x355),'helper':function(_0x3ebf78){var _0xa0ffa7=_0x96a93f,_0x2b55eb=parseInt(_0x3ebf78['target'][_0xa0ffa7(0x349)](_0xa0ffa7(0x1cd))?_0x3ebf78[_0xa0ffa7(0x327)][_0xa0ffa7(0x349)](_0xa0ffa7(0x1cd)):_0x3ebf78[_0xa0ffa7(0x327)][_0xa0ffa7(0x250)][_0xa0ffa7(0x349)](_0xa0ffa7(0x1cd))),_0xbc0763=_0x2f69b9[_0xa0ffa7(0x47c)][_0xa0ffa7(0x2c6)]['cities'][_0x2b55eb],_0x1699f6=_0xa0ffa7(0x142)+_0x2b55eb+_0xa0ffa7(0x296)+_0xbc0763[_0xa0ffa7(0x3b7)]+_0xa0ffa7(0x361)+_0xbc0763[_0xa0ffa7(0x324)]+_0xa0ffa7(0x34f);return $(_0x1699f6);},'revert':_0x96a93f(0x256)};$(_0x96a93f(0x193))['draggable'](_0x2a1298),$('.citydesc')['draggable'](_0x2a1298);for(var _0x2fe9fb=0x0;_0x2fe9fb<_0x2f69b9[_0x96a93f(0x47c)][_0x96a93f(0x2c6)][_0x96a93f(0x322)][_0x96a93f(0x28d)];_0x2fe9fb++){this[_0x96a93f(0x47c)][_0x96a93f(0x2c6)]['cities'][_0x2fe9fb][_0x96a93f(0x1a3)]===![]&&($(this[_0x96a93f(0x47c)][_0x96a93f(0x2c6)][_0x96a93f(0x322)][_0x2fe9fb]['dom'])[_0x96a93f(0x20a)](_0x96a93f(0x3c0)),$(this[_0x96a93f(0x47c)][_0x96a93f(0x2c6)]['cities'][_0x2fe9fb][_0x96a93f(0x10f)])[_0x96a93f(0x20a)](_0x96a93f(0x3c0)));}}this[_0x96a93f(0x2e5)]=_0x3bb72f;}[_0x41e446(0x11b)](){var _0x544d1b=_0x41e446,_0x5fa77d=this,_0x126b91=document[_0x544d1b(0x287)](_0x544d1b(0x325))[_0x544d1b(0x1eb)],_0x419e5f=[];for(var _0x396207=0x0;_0x396207<_0x5fa77d['airplane'][_0x544d1b(0x434)][_0x544d1b(0x28d)];_0x396207++){_0x419e5f[_0x544d1b(0x1bb)](_0x5fa77d[_0x544d1b(0x47c)]['route'][_0x396207]);}_0x5fa77d[_0x544d1b(0x47c)][_0x544d1b(0x434)]=[];for(var _0x396207=0x0;_0x396207<_0x126b91[_0x544d1b(0x28d)];_0x396207++){if(_0x126b91[_0x396207]['id']===_0x544d1b(0x332))continue;var _0x1f3b56=_0x126b91[_0x396207]['id'][_0x544d1b(0x1b2)]('-')[0x1],_0x39ec22=parseInt(_0x1f3b56),_0x8f088c=undefined;for(var _0x48eda8=0x0;_0x48eda8<_0x419e5f[_0x544d1b(0x28d)];_0x48eda8++){if(_0x419e5f[_0x48eda8][_0x544d1b(0x1cd)]===_0x39ec22){_0x8f088c=_0x419e5f[_0x48eda8],_0x419e5f[_0x544d1b(0x31a)](_0x48eda8,0x1);break;}}_0x8f088c===undefined&&(_0x8f088c=new _0x4ac181['Route'](),_0x8f088c[_0x544d1b(0x47c)]=_0x5fa77d[_0x544d1b(0x47c)],_0x8f088c[_0x544d1b(0x1cd)]=_0x39ec22),_0x5fa77d[_0x544d1b(0x47c)][_0x544d1b(0x434)][_0x544d1b(0x1bb)](_0x8f088c);}}[_0x41e446(0x166)](){var _0x43365d=_0x41e446,_0x497c88=this;if(document[_0x43365d(0x287)](_0x43365d(0x325))===null)return;var _0x2477e2='',_0xe643ec=[];for(var _0xbb693f=0x0;_0xbb693f<this[_0x43365d(0x47c)]['route'][_0x43365d(0x28d)];_0xbb693f++){var _0x499b2d=this['airplane'][_0x43365d(0x434)][_0xbb693f]['cityid'];_0x2477e2+=_0x43365d(0x142)+_0x499b2d+_0x43365d(0x3df)+this[_0x43365d(0x47c)][_0x43365d(0x2c6)]['cities'][_0x499b2d]['icon']+'\x22\x20</img>'+this['airplane']['world'][_0x43365d(0x322)][_0x499b2d][_0x43365d(0x324)]+_0x43365d(0x34f),_0xe643ec[_0x43365d(0x1bb)](this[_0x43365d(0x47c)][_0x43365d(0x434)][_0xbb693f][_0x43365d(0x1cd)]);}_0x2477e2+=_0x43365d(0x1ee),document[_0x43365d(0x287)](_0x43365d(0x325))['innerHTML']=_0x2477e2,$('#route-list')[_0x43365d(0x3da)]({'update':(_0x2fb54d,_0xb5a1ee)=>{var _0x28efdb=_0x43365d;_0x497c88[_0x28efdb(0x11b)](),setTimeout(()=>{var _0x3f6486=_0x28efdb;_0x497c88[_0x3f6486(0x166)]();},0x32);}});}[_0x41e446(0x2bc)](_0x2e3e1a){var _0x396e3d=_0x41e446,_0x628e6f;this[_0x396e3d(0x47c)]=_0x2e3e1a,(_0x628e6f=_0x2e3e1a[_0x396e3d(0x2c6)][_0x396e3d(0x2f7)])===null||_0x628e6f===void 0x0?void 0x0:_0x628e6f['unselect'](),_0x2e3e1a[_0x396e3d(0x2c6)][_0x396e3d(0x2f7)]=_0x2e3e1a,_0x2e3e1a[_0x396e3d(0x248)](),this['update'](!![]);}[_0x41e446(0x365)](){var _0x32794b=_0x41e446;if(document[_0x32794b(0x120)]!==document['getElementById']('airplanedialog-name'))document['getElementById']('airplanedialog-name')['value']=this['airplane']['name'];document[_0x32794b(0x287)](_0x32794b(0x485))[_0x32794b(0x46e)]='Type:\x20'+this[_0x32794b(0x47c)][_0x32794b(0x23d)],document[_0x32794b(0x287)](_0x32794b(0x4aa))[_0x32794b(0x46e)]=_0x32794b(0xeb)+this[_0x32794b(0x47c)]['speed'],document[_0x32794b(0x287)](_0x32794b(0x15e))[_0x32794b(0x46e)]='Capacity:'+this[_0x32794b(0x47c)][_0x32794b(0x19b)]+'/'+this[_0x32794b(0x47c)]['capacity'],document[_0x32794b(0x287)](_0x32794b(0x375))[_0x32794b(0x46e)]=_0x32794b(0x37f)+this['airplane'][_0x32794b(0x353)];}[_0x41e446(0x1f9)](_0x3e5b8b=![]){var _0x5eef53=_0x41e446,_0x4bd675=this;if(this[_0x5eef53(0x47c)]===undefined)return;try{if(!$(this['dom'])['dialog'](_0x5eef53(0x189)))return;}catch(_0x4da13a){return;}var _0x23fb29=_0x5eef53(0x37d);for(var _0x5bb3d0=0x0;_0x5bb3d0<parameter['allProducts'][_0x5eef53(0x28d)];_0x5bb3d0++){this[_0x5eef53(0x47c)][_0x5eef53(0x155)][_0x5bb3d0]!==0x0&&(_0x23fb29=_0x23fb29+_0x5eef53(0x139)+parameter[_0x5eef53(0x480)][_0x5bb3d0][_0x5eef53(0x38a)]()+'\x20'+this[_0x5eef53(0x47c)][_0x5eef53(0x155)][_0x5bb3d0]+'\x20'+_0x5eef53(0x11a));}_0x23fb29+=_0x5eef53(0x139),document['getElementById']('airplanedialog-products-list')[_0x5eef53(0x46e)]=_0x23fb29,this[_0x5eef53(0x3b3)](),document[_0x5eef53(0x287)](_0x5eef53(0x121))[_0x5eef53(0x2fa)]=this[_0x5eef53(0x47c)][_0x5eef53(0x1c6)]>-0x1,this[_0x5eef53(0x365)]();}['updateTitle'](){var _0x27db1f=_0x41e446,_0x30795a='';if($(this['dom'])[_0x27db1f(0x2df)]()[_0x27db1f(0x25e)](_0x27db1f(0x3fd))['length']>0x0)$(this[_0x27db1f(0x3ef)])[_0x27db1f(0x2df)]()[_0x27db1f(0x25e)](_0x27db1f(0x3fd))[0x0]['innerHTML']=this[_0x27db1f(0x47c)]['name']+'\x20'+this[_0x27db1f(0x47c)][_0x27db1f(0x28f)];}[_0x41e446(0x3ec)](){var _0x44ced6=_0x41e446,_0x59d281=this;this[_0x44ced6(0x3ef)][_0x44ced6(0x3d4)](_0x44ced6(0x11e)),this['update']();$(_0x44ced6(0x125))[_0x44ced6(0x2dd)](_0x44ced6(0x2ec))&&_0x59d281[_0x44ced6(0x37e)](!![]);var _0x587dae=$(this[_0x44ced6(0x3ef)])[_0x44ced6(0x177)]({'width':'190px','draggable':!![],'open':function(_0x2a984,_0xdfb01a){_0x59d281['update'](!![]);},'close':function(){var _0x1b6dda=_0x44ced6;_0x59d281[_0x1b6dda(0x16f)]();},'create':function(_0x26f953){setTimeout(()=>{var _0x408a02=a0_0x4bc0;$(_0x26f953[_0x408a02(0x327)])[_0x408a02(0x177)](_0x408a02(0x13d))[_0x408a02(0x25e)]('.ui-dialog-titlebar-close')[0x0][_0x408a02(0x439)](_0x408a02(0xef),_0x120f25=>{var _0x49d04e=_0x408a02;_0x59d281[_0x49d04e(0x16f)]();});},0xc8);},'resizable':![]});_0x587dae[_0x44ced6(0x177)](_0x44ced6(0x13d))[_0x44ced6(0x20a)](_0x44ced6(0x1e1),'containment',_0x44ced6(0xf3)),$(this[_0x44ced6(0x3ef)])[_0x44ced6(0x2df)]()[_0x44ced6(0x14f)]({'position':_0x44ced6(0x2c1)});}[_0x41e446(0x16f)](){var _0x1722c0=_0x41e446;this[_0x1722c0(0x37e)](![]),$(this['dom'])['dialog']('close');}}_0x406396[_0x41e446(0x367)]=_0x347276;}),define(a0_0x979828(0x28a),[a0_0x979828(0x267),'exports',a0_0x979828(0x206),'game/product'],function(_0x354955,_0x513eee,_0xb95725,_0x2b00af){'use strict';var _0x56d761=a0_0x979828;Object[_0x56d761(0x1db)](_0x513eee,_0x56d761(0x241),{'value':!![]}),_0x513eee['Transport']=_0x513eee[_0x56d761(0x495)]=void 0x0;class _0x114ab6{}_0x513eee[_0x56d761(0x495)]=_0x114ab6;class _0x14f25f{constructor(_0x11a8f7=undefined){var _0x2b0f52=_0x56d761;this[_0x2b0f52(0x2a8)]=0x190,this[_0x2b0f52(0x47e)]=0x0,this[_0x2b0f52(0x1ce)]=![],this[_0x2b0f52(0x36f)]=_0x2b0f52(0x346),this[_0x2b0f52(0x13f)]=0x0,this[_0x2b0f52(0x114)]=0x0,this['autodeliver']=![],this[_0x2b0f52(0x113)]=_0x11a8f7,this['world']=_0x11a8f7===null||_0x11a8f7===void 0x0?void 0x0:_0x11a8f7['world'],this['x']===undefined&&_0x11a8f7&&(this['x']=_0x11a8f7['x'],this[_0x2b0f52(0xf6)]=_0x11a8f7['x']),this['y']===undefined&&_0x11a8f7&&(this['y']=_0x11a8f7['y'],this[_0x2b0f52(0x462)]=_0x11a8f7['y']);}[_0x56d761(0x3d7)](){var _0x2bde87=_0x56d761,_0x49dc33=this['company'][_0x2bde87(0x1a4)];return parameter[_0x2bde87(0x480)][_0x49dc33];}[_0x56d761(0x309)](){var _0x2202dd=_0x56d761,_0x30a8b1,_0x36bfc0=this;this[_0x2202dd(0x3ef)]=document[_0x2202dd(0x1fc)]()[_0x2202dd(0x1b5)](_0x2202dd(0x286))['children'][0x0];var _0x3fe313=(_0x30a8b1=parameter[_0x2202dd(0x480)][this['company'][_0x2202dd(0x1a4)]])===null||_0x30a8b1===void 0x0?void 0x0:_0x30a8b1['image'];if(_0x3fe313!==undefined&&_0x3fe313!=='')this[_0x2202dd(0x3ef)]=document[_0x2202dd(0x1fc)]()['createContextualFragment']('<img\x20src=\x22'+_0xb95725[_0x2202dd(0x244)][_0x2202dd(0x380)](_0x3fe313)+'\x22\x20width=\x2220\x22\x20height=\x2220\x22>')[_0x2202dd(0x1eb)][0x0];this[_0x2202dd(0x3ef)]['style'][_0x2202dd(0x4a1)]=_0x2202dd(0x194),this[_0x2202dd(0x3ef)][_0x2202dd(0x45a)][_0x2202dd(0x1d9)]='10',this[_0x2202dd(0x3ef)][_0x2202dd(0x439)](_0x2202dd(0x497),_0x3c4052=>{return _0x36bfc0['onclick'](_0x3c4052),undefined;}),this['update'](),this[_0x2202dd(0x2c6)][_0x2202dd(0x3ef)][_0x2202dd(0x29c)](this[_0x2202dd(0x3ef)]);}[_0x56d761(0x43d)](){var _0x55ef26=_0x56d761;if(this['y']%0x2==0x0){if(this['x']%0x4==0x1)return![];if(this['x']%0x4==0x2)return!![];}else{if(this['x']%0x4==0x3)return![];if(this['x']%0x4==0x0)return!![];}throw _0x55ef26(0x479);}[_0x56d761(0x2e3)](){var _0x5bd725=_0x56d761,_0x49c28c=this[_0x5bd725(0xf6)]-this['x'],_0xb6e3a4=this[_0x5bd725(0x462)]-this['y'],_0x10a476=this[_0x5bd725(0x43d)]();if(!_0x10a476&&_0x49c28c>0x0)this[_0x5bd725(0x3a0)]=this['x']+0x1,this[_0x5bd725(0x392)]=this['y'];else{if(_0x10a476&&_0x49c28c<0x0)this['nextX']=this['x']-0x1,this[_0x5bd725(0x392)]=this['y'];else{if(_0x10a476&&_0x49c28c>0x0)_0xb6e3a4>0x0?(this[_0x5bd725(0x3a0)]=this['x']+0x1,this['nextY']=this['y']+0x1):(this[_0x5bd725(0x3a0)]=this['x']+0x1,this[_0x5bd725(0x392)]=this['y']-0x1);else!_0x10a476&&_0x49c28c<=0x0&&(_0xb6e3a4>0x0?(this[_0x5bd725(0x3a0)]=this['x']-0x1,this['nextY']=this['y']+0x1):(this[_0x5bd725(0x3a0)]=this['x']-0x1,this[_0x5bd725(0x392)]=this['y']-0x1));}}}[_0x56d761(0x115)](){var _0x32f984=_0x56d761;if(this[_0x32f984(0x113)][_0x32f984(0x1a4)]===_0x2b00af[_0x32f984(0x1e6)][_0x32f984(0x198)]||this['company']['productid']===_0x2b00af['Product'][_0x32f984(0x242)])return 0x1;return this['workers']*parameter[_0x32f984(0x2b7)];}['load'](){var _0x53558f=_0x56d761,_0x36f6cf,_0x4e0ae3,_0x13a597,_0x199d4e;if(this[_0x53558f(0x47e)]===0x0)return;if(this[_0x53558f(0x113)]['productid']===_0x2b00af[_0x53558f(0x1e6)][_0x53558f(0x198)]&&((_0x36f6cf=this[_0x53558f(0x33d)])===null||_0x36f6cf===void 0x0?void 0x0:_0x36f6cf[_0x53558f(0x27b)])){this[_0x53558f(0x113)]['produced']++,(_0x4e0ae3=this[_0x53558f(0x33d)])===null||_0x4e0ae3===void 0x0?!![]:delete _0x4e0ae3['goHome'],this['destroy'](this[_0x53558f(0x113)]['transports']);return;}if(this['company'][_0x53558f(0x1a4)]===_0x2b00af[_0x53558f(0x1e6)]['productSoldier']&&((_0x13a597=this[_0x53558f(0x33d)])===null||_0x13a597===void 0x0?void 0x0:_0x13a597[_0x53558f(0x27b)])){this[_0x53558f(0x113)][_0x53558f(0x297)]++,(_0x199d4e=this[_0x53558f(0x33d)])===null||_0x199d4e===void 0x0?!![]:delete _0x199d4e['goHome'],this[_0x53558f(0x2b2)](this[_0x53558f(0x113)][_0x53558f(0x138)]);return;}if(this[_0x53558f(0x113)][_0x53558f(0x297)]>0x0)this[_0x53558f(0x113)][_0x53558f(0x297)]=this['company']['produced'];var _0x496387=this[_0x53558f(0x115)]()-this['productCount'],_0x17e4ae=Math[_0x53558f(0x161)](_0x496387,this[_0x53558f(0x113)][_0x53558f(0x297)]);_0x17e4ae>0x0&&(this[_0x53558f(0x113)]['produced']-=_0x17e4ae,this[_0x53558f(0x114)]+=_0x17e4ae);if(this[_0x53558f(0x3ef)]){if(this['productCount']>0x0){if(this[_0x53558f(0x3ef)][_0x53558f(0x1f5)](_0x53558f(0x11e)))this['dom']['removeAttribute'](_0x53558f(0x11e));return!![];}if(!this['dom']['hasAttribute'](_0x53558f(0x11e)))this[_0x53558f(0x3ef)]['setAttribute'](_0x53558f(0x11e),'');}return![];}[_0x56d761(0x29d)](){var _0x5edbb8=_0x56d761,_0x375110=this['world']['companies'][this[_0x5edbb8(0x2ee)]];if(_0x375110===undefined){if(this[_0x5edbb8(0x4a4)])return _0x5edbb8(0x1c0);else return'inaktiv';}return _0x375110['name'];}[_0x56d761(0x10e)](_0x4e3df0){var _0xc7e436=_0x56d761;this[_0xc7e436(0x2ee)]=_0x4e3df0===-0x1?undefined:_0x4e3df0,(this[_0xc7e436(0x113)]['productid']===_0x2b00af['Product'][_0xc7e436(0x245)]||this[_0xc7e436(0x113)][_0xc7e436(0x1a4)]===_0x2b00af[_0xc7e436(0x1e6)]['productWood'])&&(this['companyTarget']===undefined?this[_0xc7e436(0x4a4)]=!![]:this[_0xc7e436(0x4a4)]=![]),this[_0xc7e436(0x37b)](this[_0xc7e436(0x113)]['companyID']);}[_0x56d761(0x2cb)](){var _0x2e3acc=_0x56d761,_0x353249,_0x3dc693,_0x45aeb7=this['world'][_0x2e3acc(0x222)][this['companyTarget']],_0x5c6026=this[_0x2e3acc(0x113)]['productid'];if(_0x45aeb7[_0x2e3acc(0x1a4)]===-0x2){if(_0x2b00af[_0x2e3acc(0x1e6)][_0x2e3acc(0x242)]===((_0x353249=this===null||this===void 0x0?void 0x0:this['transferInfo'])===null||_0x353249===void 0x0?void 0x0:_0x353249[_0x2e3acc(0x1a4)])){if(_0x45aeb7[_0x2e3acc(0x123)]>=parameter['soldiersToConquer'])return![];_0x45aeb7['soldiercount']++,this['destroy'](this[_0x2e3acc(0x113)][_0x2e3acc(0x138)]),_0x45aeb7[_0x2e3acc(0x123)]===parameter[_0x2e3acc(0x44b)]&&(delete _0x45aeb7[_0x2e3acc(0x111)],_0x45aeb7[_0x2e3acc(0x1a4)]=-0x1,_0x45aeb7['domIcon'][_0x2e3acc(0x443)]=_0xb95725[_0x2e3acc(0x244)][_0x2e3acc(0x380)](_0x2e3acc(0x43f)));}return!![];}if(this['transferInfo']){if(this[_0x2e3acc(0x33d)][_0x2e3acc(0x1a4)]===_0x2b00af[_0x2e3acc(0x1e6)][_0x2e3acc(0x198)]){if(this[_0x2e3acc(0x33d)]['workertype']===_0x2e3acc(0x47e)){_0x45aeb7[_0x2e3acc(0x47e)]++,_0x45aeb7['workersComming']--;if(!_0x45aeb7[_0x2e3acc(0x149)])delete _0x45aeb7['workersComming'];}else{if(this[_0x2e3acc(0x33d)][_0x2e3acc(0x35a)]===_0x2e3acc(0x12c)){_0x45aeb7[_0x2e3acc(0x12c)]++,_0x45aeb7['workersInComming']--;if(!_0x45aeb7[_0x2e3acc(0x42b)])delete _0x45aeb7[_0x2e3acc(0x42b)];}else{if(this['transferInfo'][_0x2e3acc(0x35a)]===_0x2e3acc(0x1e8)){_0x45aeb7[_0x2e3acc(0x1e8)]++,_0x45aeb7['workersOutComming']--;if(!_0x45aeb7[_0x2e3acc(0x252)])delete _0x45aeb7[_0x2e3acc(0x252)];}else{if((_0x3dc693=this[_0x2e3acc(0x33d)][_0x2e3acc(0x35a)])===null||_0x3dc693===void 0x0?void 0x0:_0x3dc693[_0x2e3acc(0x113)]){this[_0x2e3acc(0x33d)][_0x2e3acc(0x35a)][_0x2e3acc(0x47e)]++,this[_0x2e3acc(0x33d)][_0x2e3acc(0x35a)][_0x2e3acc(0x149)]--;if(!this[_0x2e3acc(0x33d)][_0x2e3acc(0x35a)][_0x2e3acc(0x149)])delete this['transferInfo'][_0x2e3acc(0x35a)][_0x2e3acc(0x149)];}}}}this[_0x2e3acc(0x113)][_0x2e3acc(0x138)][_0x2e3acc(0x31a)](this['company'][_0x2e3acc(0x138)]['indexOf'](this),0x1),this['world'][_0x2e3acc(0x3ef)][_0x2e3acc(0x172)](this[_0x2e3acc(0x3ef)]);}if(this[_0x2e3acc(0x4a4)]){if(this[_0x2e3acc(0x113)][_0x2e3acc(0x1a4)]===_0x2b00af[_0x2e3acc(0x1e6)][_0x2e3acc(0x2a1)]||this[_0x2e3acc(0x113)]['productid']===_0x2b00af['Product'][_0x2e3acc(0x245)]){var _0x406698=Math[_0x2e3acc(0x161)](this[_0x2e3acc(0x114)],parameter['allProducts'][_0x45aeb7[_0x2e3acc(0x260)]][_0x2e3acc(0xf4)]);if(this[_0x2e3acc(0x113)][_0x2e3acc(0x1a4)]===_0x2b00af[_0x2e3acc(0x1e6)][_0x2e3acc(0x2a1)])_0x45aeb7[_0x2e3acc(0x240)]-=_0x406698;if(this[_0x2e3acc(0x113)][_0x2e3acc(0x1a4)]===_0x2b00af['Product'][_0x2e3acc(0x245)])_0x45aeb7[_0x2e3acc(0x422)]-=_0x406698;return this['productCount']-=_0x406698,_0x45aeb7[_0x2e3acc(0x422)]===0x0&&_0x45aeb7[_0x2e3acc(0x240)]===0x0&&(delete _0x45aeb7[_0x2e3acc(0x422)],delete _0x45aeb7[_0x2e3acc(0x240)],delete _0x45aeb7[_0x2e3acc(0x260)],_0x45aeb7[_0x2e3acc(0x3ea)](this[_0x2e3acc(0x33d)][_0x2e3acc(0x1a4)]),(this[_0x2e3acc(0x33d)][_0x2e3acc(0x1a4)]===_0x2b00af[_0x2e3acc(0x1e6)][_0x2e3acc(0x198)]||this['transferInfo']['productid']===_0x2b00af[_0x2e3acc(0x1e6)][_0x2e3acc(0x242)])&&(_0x45aeb7[_0x2e3acc(0x47e)]=0x174876e7ff,_0x45aeb7[_0x2e3acc(0x1e8)]=0x174876e7ff),this[_0x2e3acc(0x33d)]=undefined),this[_0x2e3acc(0x2ee)]=undefined,!![];}}}var _0x12da96=parameter['allProducts'][_0x45aeb7['productid']][_0x2e3acc(0x130)][_0x2e3acc(0x2e1)](_0x5c6026),_0x18bac6=_0x45aeb7[_0x2e3acc(0x12c)]*parameter[_0x2e3acc(0x2b7)]+parameter[_0x2e3acc(0x2b7)],_0x406698=Math[_0x2e3acc(0x161)](this[_0x2e3acc(0x114)],_0x18bac6-_0x45aeb7[_0x2e3acc(0x205)][_0x12da96]);_0x45aeb7[_0x2e3acc(0x205)][_0x12da96]+=_0x406698,this[_0x2e3acc(0x114)]-=_0x406698;}[_0x56d761(0x2b2)](_0x398608){var _0x43d0ae=_0x56d761;_0x398608[_0x43d0ae(0x31a)](_0x398608['indexOf'](this),0x1),this[_0x43d0ae(0x2c6)][_0x43d0ae(0x3ef)][_0x43d0ae(0x172)](this[_0x43d0ae(0x3ef)]);}[_0x56d761(0x34b)](){var _0x2f824f=_0x56d761,_0x1d7d53=this[_0x2f824f(0x2c6)]['companies'][this['companyTarget']];if(_0x1d7d53&&_0x1d7d53['x']===this['x']&&_0x1d7d53['y']===this['y'])return!![];return![];}['isPositionHome'](){var _0x19696e=_0x56d761,_0x44f5b3=this[_0x19696e(0x113)];if(_0x44f5b3&&_0x44f5b3['x']===this['x']&&_0x44f5b3['y']===this['y'])return!![];return![];}['nextTick'](){var _0x209041=_0x56d761;if(this[_0x209041(0xf6)]===undefined)return;if(this['x']===this[_0x209041(0xf6)]&&this['y']===this[_0x209041(0x462)]){this[_0x209041(0x1ce)]&&this['isPositionTarget']()&&(this[_0x209041(0x2cb)](),this['moveTo'](this['company'][_0x209041(0x3f9)]));if(this['active']&&this[_0x209041(0x154)]()){if(this[_0x209041(0x3e1)]()){if(this['companyTarget']!==undefined)this[_0x209041(0x37b)](this[_0x209041(0x2ee)]);}}return;}else{var _0x2f36d2=Math[_0x209041(0x386)](0x1,Math[_0x209041(0x24f)](0x3e8/this['speed']));if(this[_0x209041(0x13f)]===0x0)this['calcNextPoint'](),this[_0x209041(0x13f)]++;else{if(this['curStep']===_0x2f36d2)this[_0x209041(0x13f)]=0x0,this['x']=this['nextX'],this['y']=this[_0x209041(0x392)];else this[_0x209041(0x13f)]++;}}this['update']();}['moveTo'](_0x514094){var _0xe02a4a=_0x56d761;this[_0xe02a4a(0x3ef)]&&(_0x514094===this[_0xe02a4a(0x113)][_0xe02a4a(0x3f9)]?this['dom'][_0xe02a4a(0x45a)][_0xe02a4a(0x29f)]='0.5':this[_0xe02a4a(0x3ef)][_0xe02a4a(0x45a)][_0xe02a4a(0x29f)]='1'),this['nextTargetX']=this[_0xe02a4a(0x2c6)][_0xe02a4a(0x222)][_0x514094]['x'],this[_0xe02a4a(0x462)]=this['world'][_0xe02a4a(0x222)][_0x514094]['y'],this[_0xe02a4a(0x1ce)]=!![],this[_0xe02a4a(0x28f)]=0x1;}[_0x56d761(0x248)](){var _0x545f64=_0x56d761;if(this[_0x545f64(0x3ef)])this[_0x545f64(0x3ef)]['classList']['add'](_0x545f64(0x305));}[_0x56d761(0x32d)](){var _0x4ee5b9=_0x56d761;if(this[_0x4ee5b9(0x3ef)])this[_0x4ee5b9(0x3ef)][_0x4ee5b9(0x204)][_0x4ee5b9(0x265)](_0x4ee5b9(0x305));}['update'](){var _0x449c58=_0x56d761;if(!this[_0x449c58(0x3ef)])return;var _0x317e49=parameter[_0x449c58(0x36c)],_0x3193b9=_0x317e49*this['x']-0xa,_0xdf2396=_0x317e49*this['y']-0xa,_0x329caa=Math['max'](0x1,Math[_0x449c58(0x24f)](0x3e8/this[_0x449c58(0x2a8)]));this[_0x449c58(0x3a0)]!==undefined&&(_0x3193b9=Math[_0x449c58(0x24f)](-_0x317e49*(this['x']-this[_0x449c58(0x3a0)])*this[_0x449c58(0x13f)]/_0x329caa+_0x317e49*this['x'])-0xa,_0xdf2396=Math['round'](-_0x317e49*(this['y']-this['nextY'])*this['curStep']/_0x329caa+_0x317e49*this['y'])-0xa),this[_0x449c58(0x3ef)][_0x449c58(0x45a)][_0x449c58(0xfd)]=_0xdf2396+'px',this[_0x449c58(0x3ef)][_0x449c58(0x45a)][_0x449c58(0x46a)]=_0x3193b9+'px';}[_0x56d761(0x414)](_0x24b48f){var _0x16c350=_0x56d761,_0x4aa9f9;_0x24b48f[_0x16c350(0x35e)](),_0x24b48f[_0x16c350(0x43e)](),(_0x4aa9f9=this[_0x16c350(0x2c6)][_0x16c350(0x2f7)])===null||_0x4aa9f9===void 0x0?void 0x0:_0x4aa9f9[_0x16c350(0x32d)](),this[_0x16c350(0x2c6)]['selection']=this,this[_0x16c350(0x248)]();}}_0x513eee[_0x56d761(0x346)]=_0x14f25f;}),define(a0_0x979828(0x15a),['require','exports','game/icons',a0_0x979828(0x3e9)],function(_0x341809,_0x1a0db0,_0x3a02e4,_0x32a421){'use strict';var _0x172b00=a0_0x979828;Object[_0x172b00(0x1db)](_0x1a0db0,'__esModule',{'value':!![]}),_0x1a0db0['DiagramDialog']=void 0x0;class _0x41197b{constructor(){var _0x21b379=_0x172b00;this[_0x21b379(0x2ca)]();}static[_0x172b00(0x1b0)](){var _0x1d234b=_0x172b00;if(_0x41197b[_0x1d234b(0x2c7)]===undefined)_0x41197b[_0x1d234b(0x2c7)]=new _0x41197b();return _0x41197b[_0x1d234b(0x2c7)];}[_0x172b00(0x411)](){var _0x9cc85=_0x172b00,_0x500599=this;document[_0x9cc85(0x287)](_0x9cc85(0x281))[_0x9cc85(0x439)](_0x9cc85(0x497),_0x14bea9=>{var _0x3d3b01=_0x9cc85;_0x500599[_0x3d3b01(0x1f9)]();}),document[_0x9cc85(0x287)](_0x9cc85(0x2ac))[_0x9cc85(0x439)](_0x9cc85(0x32f),_0x28bb6c=>{var _0x32a4d6=_0x9cc85,_0x110d7b=parseInt(document[_0x32a4d6(0x287)](_0x32a4d6(0x2ac))['value']);parameter[_0x32a4d6(0x112)]=_0x110d7b,_0x500599[_0x32a4d6(0x1f9)]();}),document[_0x9cc85(0x287)](_0x9cc85(0x3c5))[_0x9cc85(0x439)](_0x9cc85(0x32f),_0x1be911=>{var _0x6e1d90=_0x9cc85,_0xcae24=parseInt(document[_0x6e1d90(0x287)](_0x6e1d90(0x3c5))['value']);parameter['numberBuildShopsWithContextMenu']=_0xcae24,_0x500599[_0x6e1d90(0x1f9)]();}),document['getElementById'](_0x9cc85(0x499))[_0x9cc85(0x439)]('change',_0x230694=>{var _0x2d5b01=_0x9cc85,_0x1bcca9=parseInt(document['getElementById'](_0x2d5b01(0x499))[_0x2d5b01(0x275)]);parameter[_0x2d5b01(0x20e)]=_0x1bcca9,_0x500599[_0x2d5b01(0x1f9)]();}),document['getElementById'](_0x9cc85(0x101))[_0x9cc85(0x439)]('click',_0x30a328=>{var _0x3ba5dd=_0x9cc85,_0x4f0374=document['getElementById'](_0x3ba5dd(0x101))['checked'];parameter[_0x3ba5dd(0x101)]=_0x4f0374;for(var _0x25fc7f=0x0;_0x25fc7f<_0x500599[_0x3ba5dd(0x2c6)][_0x3ba5dd(0x322)][_0x3ba5dd(0x28d)];_0x25fc7f++){_0x500599['world']['cities'][_0x25fc7f][_0x3ba5dd(0x235)]();}}),document['getElementById'](_0x9cc85(0x17c))['addEventListener'](_0x9cc85(0x497),_0x5ce6f6=>{var _0x2c0fd5=_0x9cc85,_0x5ee512=document[_0x2c0fd5(0x287)](_0x2c0fd5(0x17c))['checked'];parameter[_0x2c0fd5(0x17c)]=_0x5ee512;});for(var _0x338cb2=0x0;_0x338cb2<parameter[_0x9cc85(0x480)]['length'];_0x338cb2++){document['getElementById'](_0x9cc85(0x215)+_0x338cb2)[_0x9cc85(0x439)](_0x9cc85(0x497),_0x15a153=>{var _0x44e64b=_0x9cc85,_0xf51a3b=_0x15a153[_0x44e64b(0x327)]['id'],_0x544e5e=Number(_0xf51a3b[_0x44e64b(0x1b2)]('_')[0x1]),_0x4c202e=_0x500599['world'][_0x44e64b(0x322)][_0x44e64b(0x28d)]*parameter['costsAdvertising'];_0x500599['world']['game'][_0x44e64b(0x470)](-_0x4c202e,_0x44e64b(0xfc)),_0x500599[_0x44e64b(0x2c6)]['advertising'][_0x544e5e]=new Date(_0x500599[_0x44e64b(0x2c6)][_0x44e64b(0x30a)][_0x44e64b(0x24d)]['getTime']()+0x1e*0x18*0x3c*0x3c*0x3e8)[_0x44e64b(0x2c9)](),_0x500599[_0x44e64b(0x1f9)]();});}}[_0x172b00(0x2ca)](){var _0x5b1a70=_0x172b00,_0x1e1bb7='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20hidden\x20id=\x22diagramdialog\x22\x20class=\x22diagramdialog\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20';this[_0x5b1a70(0x3ef)]=document['createRange']()[_0x5b1a70(0x1b5)](_0x1e1bb7)[_0x5b1a70(0x1eb)][0x0];var _0x1ef625=document[_0x5b1a70(0x287)]('diagramdialog');_0x1ef625&&_0x1ef625[_0x5b1a70(0x250)][_0x5b1a70(0x172)](_0x1ef625);var _0x585480=this,_0x1e1bb7=_0x5b1a70(0x10d)+_0x3a02e4[_0x5b1a70(0x36a)][_0x5b1a70(0x3a7)]+_0x5b1a70(0x2ab)+_0x585480[_0x5b1a70(0x471)]()+_0x5b1a70(0x183),_0x4e916c=document[_0x5b1a70(0x1fc)]()[_0x5b1a70(0x1b5)](_0x1e1bb7)['children'][0x0];this[_0x5b1a70(0x3ef)][_0x5b1a70(0x172)](this['dom'][_0x5b1a70(0x1eb)][0x0]),this[_0x5b1a70(0x3ef)][_0x5b1a70(0x29c)](_0x4e916c),document[_0x5b1a70(0x472)][_0x5b1a70(0x29c)](this[_0x5b1a70(0x3ef)]),$(_0x5b1a70(0x40e))[_0x5b1a70(0x176)]({}),setTimeout(()=>{var _0x40ffc9=_0x5b1a70;$(_0x40ffc9(0x40e))['tabs']({}),_0x585480['bindActions']();},0x1f4);}[_0x172b00(0x471)](){var _0x5f412f=_0x172b00;return _0x5f412f(0x13c)+function _0x24ade3(){var _0x45a920=_0x5f412f,_0x7b4ff='';for(var _0x10d063=0x0;_0x10d063<parameter[_0x45a920(0x480)]['length'];_0x10d063++){_0x7b4ff=_0x7b4ff+_0x45a920(0x45c),_0x7b4ff=_0x7b4ff+'<td>'+parameter[_0x45a920(0x480)][_0x10d063][_0x45a920(0x38a)]()+'</td>',_0x7b4ff=_0x7b4ff+_0x45a920(0x4a5)+parameter[_0x45a920(0x480)][_0x10d063][_0x45a920(0x324)]+_0x45a920(0x3f2),_0x7b4ff=_0x7b4ff+_0x45a920(0x3f1),_0x7b4ff=_0x7b4ff+_0x45a920(0x2b0),_0x7b4ff=_0x7b4ff+_0x45a920(0x2b0),_0x7b4ff=_0x7b4ff+'<td>'+_0x45a920(0x26a)+_0x10d063+'\x22\x20class=\x22mybutton\x22></button>'+'</td>',_0x7b4ff=_0x7b4ff+_0x45a920(0x3cd);}return _0x7b4ff;}()+_0x5f412f(0x350);}[_0x172b00(0x1f9)](){var _0x266350=_0x172b00;if(document[_0x266350(0x120)]!==document[_0x266350(0x287)](_0x266350(0x2ac)))document[_0x266350(0x287)](_0x266350(0x2ac))[_0x266350(0x275)]=''+parameter[_0x266350(0x112)];if(document[_0x266350(0x120)]!==document[_0x266350(0x287)](_0x266350(0x3c5)))document[_0x266350(0x287)]('buildShopsWithOneClick')[_0x266350(0x275)]=''+parameter[_0x266350(0x2b1)];if(document[_0x266350(0x120)]!==document['getElementById'](_0x266350(0x499)))document[_0x266350(0x287)](_0x266350(0x499))[_0x266350(0x275)]=''+parameter[_0x266350(0x20e)];if(document['getElementById']('hideFlags')[_0x266350(0x2fa)]!==parameter[_0x266350(0x101)])document[_0x266350(0x287)](_0x266350(0x101))[_0x266350(0x2fa)]=parameter[_0x266350(0x101)];if(document[_0x266350(0x287)](_0x266350(0x17c))[_0x266350(0x2fa)]!==parameter[_0x266350(0x17c)])document[_0x266350(0x287)](_0x266350(0x17c))['checked']=parameter[_0x266350(0x17c)];try{if(!$(this[_0x266350(0x3ef)])['dialog'](_0x266350(0x189)))return;}catch(_0x2b32fa){return;}var _0x17cc84=document[_0x266350(0x287)](_0x266350(0x224)),_0x33932c=[];for(var _0x573388=0x0;_0x573388<parameter[_0x266350(0x480)][_0x266350(0x28d)];_0x573388++){_0x33932c['push'](0x0);}for(var _0x573388=0x0;_0x573388<this[_0x266350(0x2c6)][_0x266350(0x322)][_0x266350(0x28d)];_0x573388++){for(var _0x33ecae=0x0;_0x33ecae<this[_0x266350(0x2c6)][_0x266350(0x322)][_0x573388][_0x266350(0x222)][_0x266350(0x28d)];_0x33ecae++){var _0x222a0f=this[_0x266350(0x2c6)][_0x266350(0x322)][_0x573388]['companies'][_0x33ecae];_0x33932c[_0x222a0f[_0x266350(0x1a4)]]+=_0x222a0f[_0x266350(0x34e)];}}for(var _0x573388=0x0;_0x573388<parameter[_0x266350(0x480)]['length'];_0x573388++){var _0x4609a9=_0x17cc84[_0x266350(0x1eb)][0x0][_0x266350(0x1eb)][_0x573388+0x1],_0x2f1b75=0x0;for(var _0x33ecae=0x0;_0x33ecae<this[_0x266350(0x2c6)][_0x266350(0x322)][_0x266350(0x28d)];_0x33ecae++){_0x2f1b75+=this['world']['cities'][_0x33ecae][_0x266350(0x3be)](_0x573388);}var _0x26fd82=_0x33932c[_0x573388]===undefined?'':(0x0,_0x32a421['getLocalNumber'])(_0x33932c[_0x573388]);_0x2f1b75&&(_0x26fd82=_0x26fd82+'('+_0x2f1b75+_0x3a02e4[_0x266350(0x36a)]['hammer']+')');_0x4609a9['children'][0x3]['innerHTML']=_0x26fd82;var _0x41ad90=0x0,_0x13ca06=0x0;for(var _0x494862=0x0;_0x494862<0x7;_0x494862++){_0x41ad90+=this[_0x266350(0x2c6)][_0x266350(0x30a)][_0x266350(0x152)][_0x266350(0x488)][_0x494862][_0x573388],_0x13ca06+=this['world']['game'][_0x266350(0x152)]['unsuccessfulLoad'][_0x494862][_0x573388];}var _0x44dffb=_0x13ca06+_0x41ad90,_0x5e5cba=_0x44dffb-_0x13ca06;_0x4609a9['children'][0x2][_0x266350(0x46e)]=(Math[_0x266350(0x24f)](0x2710*_0x5e5cba/_0x44dffb)/0x64)[_0x266350(0x3ee)](undefined,{'maximumFractionDigits':0x2})+'&nbsp;',_0x4609a9[_0x266350(0x1eb)][0x4][_0x266350(0x46e)]=(parameter['allProducts'][_0x573388][_0x266350(0x1e0)]()*0x64)[_0x266350(0x3ee)](undefined,{'maximumFractionDigits':0x1});var _0x2a727b=document['getElementById'](_0x266350(0x215)+_0x573388);this[_0x266350(0x2c6)][_0x266350(0xfc)][_0x573388]?(_0x2a727b[_0x266350(0x46e)]=_0x266350(0x1d6)+new Date(this[_0x266350(0x2c6)][_0x266350(0xfc)][_0x573388])[_0x266350(0x140)](),_0x2a727b[_0x266350(0x1b6)](_0x266350(0x1f1),'')):(_0x2a727b[_0x266350(0x3d4)]('disabled'),_0x2a727b[_0x266350(0x46e)]=_0x266350(0x232)+(this[_0x266350(0x2c6)][_0x266350(0x322)][_0x266350(0x28d)]*parameter['costsAdvertising'])[_0x266350(0x3ee)]()+'\x20'+_0x3a02e4[_0x266350(0x36a)][_0x266350(0x2c4)]);}var _0x17cc84=document[_0x266350(0x287)](_0x266350(0x21c)),_0x511d72=_0x266350(0x200),_0x1a8112=[];for(var _0x220dde in this[_0x266350(0x2c6)][_0x266350(0x30a)][_0x266350(0x152)][_0x266350(0x31e)]){if(_0x1a8112[_0x266350(0x2e1)](_0x220dde)===-0x1)_0x1a8112[_0x266350(0x1bb)](_0x220dde);}for(var _0x220dde in this[_0x266350(0x2c6)]['game'][_0x266350(0x152)]['yesterday']){if(_0x1a8112[_0x266350(0x2e1)](_0x220dde)===-0x1)_0x1a8112['push'](_0x220dde);}_0x1a8112[_0x266350(0x227)]((_0x498ff0,_0x3d9a90)=>_0x498ff0[_0x266350(0x233)](_0x3d9a90));var _0x106ac3=0x0,_0x267c52=0x0;for(var _0x573388=0x0;_0x573388<_0x1a8112['length'];_0x573388++){var _0x2b3e76=_0x1a8112[_0x573388];if(this[_0x266350(0x2c6)][_0x266350(0x30a)][_0x266350(0x152)][_0x266350(0x43a)][_0x2b3e76]!=0x0)_0x267c52+=this['world'][_0x266350(0x30a)][_0x266350(0x152)][_0x266350(0x43a)][_0x2b3e76];if(this['world'][_0x266350(0x30a)][_0x266350(0x152)][_0x266350(0x31e)][_0x2b3e76]!=0x0)_0x106ac3+=this[_0x266350(0x2c6)]['game'][_0x266350(0x152)]['today'][_0x2b3e76];_0x511d72+=_0x266350(0x373)+_0x2b3e76+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22text-align:\x20right\x22>'+_0x266350(0x44c)+(this[_0x266350(0x2c6)][_0x266350(0x30a)][_0x266350(0x152)][_0x266350(0x43a)][_0x2b3e76]===undefined?'':this[_0x266350(0x2c6)][_0x266350(0x30a)][_0x266350(0x152)][_0x266350(0x43a)][_0x2b3e76][_0x266350(0x3ee)]())+_0x266350(0x48f)+_0x266350(0x44c)+(this[_0x266350(0x2c6)]['game']['statistic'][_0x266350(0x31e)][_0x2b3e76]===undefined?'':this[_0x266350(0x2c6)]['game']['statistic'][_0x266350(0x31e)][_0x2b3e76][_0x266350(0x3ee)]())+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>';}_0x511d72+=_0x266350(0x4a9)+_0x266350(0x44c)+_0x267c52['toLocaleString']()+_0x266350(0x48f)+_0x266350(0x44c)+_0x106ac3[_0x266350(0x3ee)]()+_0x266350(0x14c),_0x17cc84['innerHTML']=_0x511d72,document[_0x266350(0x287)](_0x266350(0x2d2))['textContent']=this[_0x266350(0x2c6)][_0x266350(0x30a)][_0x266350(0x152)][_0x266350(0x39c)];}['show'](){var _0x12e4b1=_0x172b00,_0x339019=this;this[_0x12e4b1(0x3ef)][_0x12e4b1(0x3d4)](_0x12e4b1(0x11e)),this[_0x12e4b1(0x1f9)](),$(this['dom'])[_0x12e4b1(0x177)]({'title':_0x12e4b1(0x2ad),'width':_0x12e4b1(0x141),'draggable':!![],'open':function(_0x530113,_0x56c0b0){var _0x2bd413=_0x12e4b1;_0x339019[_0x2bd413(0x1f9)]();},'close':function(){},'create':function(_0x42aea4){setTimeout(()=>{var _0x44e379=a0_0x4bc0;$(_0x42aea4['target'])[_0x44e379(0x177)](_0x44e379(0x13d))['find'](_0x44e379(0x3bc))[0x0]['addEventListener'](_0x44e379(0xef),_0x11f585=>{_0x339019['close']();});},0xc8);},'resizable':![]})[_0x12e4b1(0x177)](_0x12e4b1(0x13d))['draggable']('option',_0x12e4b1(0x292),_0x12e4b1(0xf3)),$(this[_0x12e4b1(0x3ef)])['parent']()['css']({'position':_0x12e4b1(0x2c1)});}[_0x172b00(0x16f)](){var _0x31844e=_0x172b00;$(this[_0x31844e(0x3ef)])[_0x31844e(0x177)]('close');}}_0x1a0db0[_0x172b00(0x1dd)]=_0x41197b;}),define(a0_0x979828(0x243),[a0_0x979828(0x267),a0_0x979828(0x3f6),a0_0x979828(0x44a),'game/world',a0_0x979828(0x206),'game/transport'],function(_0x348058,_0x1a7a52,_0x24f17f,_0x1e54c9,_0x580130,_0x40033b){'use strict';var _0x2d1c70=a0_0x979828;Object[_0x2d1c70(0x1db)](_0x1a7a52,_0x2d1c70(0x241),{'value':!![]}),_0x1a7a52['test']=_0x1a7a52[_0x2d1c70(0x216)]=void 0x0;class _0x1c7221{constructor(){var _0x443415=_0x2d1c70;this[_0x443415(0x2ca)]();}static[_0x2d1c70(0x1b0)](){var _0x5ad238=_0x2d1c70;if(_0x1c7221[_0x5ad238(0x2c7)]===undefined)_0x1c7221[_0x5ad238(0x2c7)]=new _0x1c7221();return _0x1c7221[_0x5ad238(0x2c7)];}[_0x2d1c70(0x2ca)](){var _0x373249=_0x2d1c70,_0x20a62b=_0x373249(0x451);this['dom']=document['createRange']()[_0x373249(0x1b5)](_0x20a62b)['children'][0x0];var _0x7b51e3=document[_0x373249(0x287)]('SaveDialog');_0x7b51e3&&_0x7b51e3[_0x373249(0x250)][_0x373249(0x172)](_0x7b51e3);var _0x364e1c=this,_0x20a62b=_0x373249(0xec),_0xd7b4d1=document['createRange']()[_0x373249(0x1b5)](_0x20a62b)[_0x373249(0x1eb)][0x0];this[_0x373249(0x3ef)][_0x373249(0x172)](this[_0x373249(0x3ef)][_0x373249(0x1eb)][0x0]),this[_0x373249(0x3ef)][_0x373249(0x29c)](_0xd7b4d1),document['body'][_0x373249(0x29c)](this['dom']),setTimeout(()=>{var _0x373b9c=_0x373249;$(_0x373b9c(0x38d))[_0x373b9c(0x176)]({}),_0x364e1c[_0x373b9c(0x411)]();},0x1f4);}[_0x2d1c70(0x411)](){var _0x1a7e52=_0x2d1c70,_0x4f3c04=this,_0x51c28f=document['getElementById'](_0x1a7e52(0x45b));document['getElementById'](_0x1a7e52(0x20c))['addEventListener'](_0x1a7e52(0x497),_0x3a2078=>{var _0x555b90=_0x1a7e52;_0x4f3c04[_0x555b90(0x16f)]();}),document['getElementById'](_0x1a7e52(0x274))[_0x1a7e52(0x439)]('click',_0x226872=>{var _0xcfc01c=_0x1a7e52;if(_0x51c28f[_0xcfc01c(0x275)]===''){alert('Error:Filename\x20is\x20empty');return;}_0x4f3c04[_0xcfc01c(0x46d)](_0x51c28f[_0xcfc01c(0x275)]),_0x4f3c04['close']();}),document[_0x1a7e52(0x287)]('save-load')[_0x1a7e52(0x439)](_0x1a7e52(0x497),_0x7e6af2=>{var _0x1159d3=_0x1a7e52;if(_0x51c28f[_0x1159d3(0x275)]===''){alert(_0x1159d3(0x1b9));return;}_0x4f3c04[_0x1159d3(0x3e1)](_0x51c28f[_0x1159d3(0x275)]),_0x4f3c04[_0x1159d3(0x16f)]();}),document['getElementById'](_0x1a7e52(0x291))[_0x1a7e52(0x439)](_0x1a7e52(0x497),_0x1650e7=>{var _0x22777a=_0x1a7e52;_0x51c28f[_0x22777a(0x275)]=_0x1650e7[_0x22777a(0x327)][_0x22777a(0x349)]('value');var _0x3b9e1a=_0x1650e7[_0x22777a(0x327)],_0x3d170f=document[_0x22777a(0x287)]('save-files');for(var _0x4ecb36=0x0;_0x4ecb36<_0x3d170f[_0x22777a(0x1eb)][_0x22777a(0x28d)];_0x4ecb36++){_0x3d170f[_0x22777a(0x1eb)][_0x4ecb36]['classList'][_0x22777a(0x265)]('active-listitem');}_0x3b9e1a[_0x22777a(0x204)][_0x22777a(0x345)]('active-listitem');}),document[_0x1a7e52(0x287)](_0x1a7e52(0x39b))['addEventListener'](_0x1a7e52(0x497),_0x4c44e0=>{var _0x45a18a=_0x1a7e52;window['localStorage'][_0x45a18a(0x466)](_0x45a18a(0x46d)+_0x51c28f[_0x45a18a(0x275)]),_0x4f3c04[_0x45a18a(0x1f9)]();}),document['getElementById'](_0x1a7e52(0x16b))[_0x1a7e52(0x439)]('click',_0x4903d7=>{var _0x2ce13e=_0x1a7e52,_0x2ed4d2=_0x4f3c04[_0x2ce13e(0x45d)](),_0x309762=new Blob([_0x2ed4d2],{'type':_0x2ce13e(0x429)}),_0x3b7b9a=document[_0x2ce13e(0x48e)]('a');_0x3b7b9a['setAttribute'](_0x2ce13e(0x1df),URL[_0x2ce13e(0x39d)](_0x309762)),_0x3b7b9a[_0x2ce13e(0x1b6)](_0x2ce13e(0x474),_0x2ce13e(0x223)),_0x3b7b9a['appendChild'](document[_0x2ce13e(0x348)](_0x2ce13e(0x2bd))),document[_0x2ce13e(0x472)][_0x2ce13e(0x29c)](_0x3b7b9a),_0x3b7b9a[_0x2ce13e(0x497)](),_0x3b7b9a[_0x2ce13e(0x265)]();}),document[_0x1a7e52(0x287)](_0x1a7e52(0xff))['addEventListener']('change',function(_0xb1242b){var _0xb6eef8=_0x1a7e52,_0x1a6a17=_0xb1242b[_0xb6eef8(0x327)][_0xb6eef8(0x207)],_0x2074b3={},_0x137701=0x0,_0x583204=_0x1a6a17[0x0],_0x27e197=new FileReader();_0x27e197[_0xb6eef8(0x439)]('load',function(){var _0xe191d1=_0xb6eef8,_0x563016=_0x27e197['result'];_0x4f3c04[_0xe191d1(0x14d)](_0x563016);},![]),_0x27e197[_0xb6eef8(0x1c2)](_0x583204);});}['update'](){var _0x5039eb=_0x2d1c70,_0x44caf8=[],_0x3ea800='';for(var _0x20257e in window[_0x5039eb(0x173)]){_0x20257e[_0x5039eb(0x182)](_0x5039eb(0x46d))&&(_0x3ea800+='<li\x20value=\x22'+_0x20257e[_0x5039eb(0x2d1)](0x4)+'\x22>'+_0x20257e[_0x5039eb(0x2d1)](0x4)+_0x5039eb(0x34f));}document[_0x5039eb(0x287)](_0x5039eb(0x291))[_0x5039eb(0x46e)]=_0x3ea800;var _0x40e2fc=window['localStorage'][_0x5039eb(0x17b)](_0x5039eb(0x18f));if(_0x40e2fc)document[_0x5039eb(0x287)](_0x5039eb(0x45b))['value']=_0x40e2fc;}[_0x2d1c70(0x3ec)](){var _0x37adb9=_0x2d1c70,_0x236e57=this;this[_0x37adb9(0x3ef)]['removeAttribute']('hidden'),$(this[_0x37adb9(0x3ef)])[_0x37adb9(0x177)]({'title':'Statistics','width':'400px','draggable':!![],'open':function(_0x22e329,_0x4b58b1){var _0xf95b8c=_0x37adb9;_0x236e57[_0xf95b8c(0x1f9)]();},'close':function(){},'create':function(_0x3e4c97){setTimeout(()=>{var _0xc783ec=a0_0x4bc0;$(_0x3e4c97['target'])[_0xc783ec(0x177)](_0xc783ec(0x13d))[_0xc783ec(0x25e)](_0xc783ec(0x3bc))[0x0][_0xc783ec(0x439)](_0xc783ec(0xef),_0x406009=>{var _0x10071d=_0xc783ec;_0x236e57[_0x10071d(0x16f)]();});},0xc8);}})['dialog'](_0x37adb9(0x13d))[_0x37adb9(0x20a)]('option','containment','none'),$(this['dom'])[_0x37adb9(0x2df)]()[_0x37adb9(0x14f)]({'position':'fixed'});}['close'](){var _0x1544c0=_0x2d1c70;$(this[_0x1544c0(0x3ef)])['dialog']('close');}[_0x2d1c70(0x45d)](){var _0xd7c4a1=_0x2d1c70,_0x448dda=JSON[_0xd7c4a1(0x402)](this[_0xd7c4a1(0x30a)],(_0x32c61d,_0x52eb1f)=>{var _0x5427a4=_0xd7c4a1,_0xcc2afb,_0x316a36,_0x7c7aec,_0x192225,_0x31a319={};if(_0x52eb1f instanceof HTMLElement)return undefined;if(_0x32c61d===_0x5427a4(0x364))return undefined;if(((_0xcc2afb=_0x52eb1f===null||_0x52eb1f===void 0x0?void 0x0:_0x52eb1f[_0x5427a4(0x3dc)])===null||_0xcc2afb===void 0x0?void 0x0:_0xcc2afb[_0x5427a4(0x324)])==='World')return Object['assign'](_0x31a319,_0x52eb1f),delete _0x31a319[_0x5427a4(0x30a)],_0x31a319;if(((_0x316a36=_0x52eb1f===null||_0x52eb1f===void 0x0?void 0x0:_0x52eb1f['constructor'])===null||_0x316a36===void 0x0?void 0x0:_0x316a36[_0x5427a4(0x324)])==='Company')return Object[_0x5427a4(0x31f)](_0x31a319,_0x52eb1f),delete _0x31a319[_0x5427a4(0x2c6)],_0x31a319;if(((_0x7c7aec=_0x52eb1f===null||_0x52eb1f===void 0x0?void 0x0:_0x52eb1f['constructor'])===null||_0x7c7aec===void 0x0?void 0x0:_0x7c7aec[_0x5427a4(0x324)])==='Transport')return Object['assign'](_0x31a319,_0x52eb1f),delete _0x31a319['world'],delete _0x31a319[_0x5427a4(0x113)],_0x31a319;if(((_0x192225=_0x52eb1f===null||_0x52eb1f===void 0x0?void 0x0:_0x52eb1f['constructor'])===null||_0x192225===void 0x0?void 0x0:_0x192225['name'])===_0x5427a4(0x1e6))return Object['assign'](_0x31a319,_0x52eb1f),_0x31a319;return _0x52eb1f;});return _0x448dda;}[_0x2d1c70(0x46d)](_0x315a85){var _0x247218=_0x2d1c70;this[_0x247218(0x30a)]['pause']();var _0x26d16e=this[_0x247218(0x45d)]();window['localStorage'][_0x247218(0x18a)]('save'+_0x315a85,_0x26d16e),window[_0x247218(0x173)][_0x247218(0x18a)](_0x247218(0x18f),_0x315a85),console[_0x247218(0x289)](_0x26d16e),this[_0x247218(0x30a)]['resume']();}[_0x2d1c70(0x263)](_0x588b2c){var _0x3cbfd3=_0x2d1c70,_0x646740=_0x588b2c[0x0];for(var _0x1001b7=0x1;_0x1001b7<_0x588b2c[_0x3cbfd3(0x28d)];_0x1001b7++){if(_0x588b2c[_0x1001b7]!==_0x646740)return _0x588b2c;}return _0x646740;}[_0x2d1c70(0x2f5)](_0x3fb4dd){var _0x44a6bb=_0x2d1c70;if(Array['isArray'](_0x3fb4dd))return _0x3fb4dd;var _0x523814=[];for(var _0x2fac46=0x0;_0x2fac46<parameter[_0x44a6bb(0x480)][_0x44a6bb(0x28d)];_0x2fac46++){_0x523814['push'](_0x3fb4dd);}return _0x523814;}[_0x2d1c70(0x14d)](_0x2878cd){var _0x2cf1a4=_0x2d1c70;this['game'][_0x2cf1a4(0x16f)]();var _0x5a8630=JSON[_0x2cf1a4(0x148)](_0x2878cd,(_0x285af4,_0x2300e6)=>{var _0x41ba92=_0x2cf1a4,_0x425c1e=_0x2300e6;if(_0x2300e6===null)return undefined;if(_0x285af4===_0x41ba92(0x343)){Object[_0x41ba92(0x31f)](parameter,_0x2300e6);for(var _0x3c786b=0x0;_0x3c786b<parameter['allProducts']['length'];_0x3c786b++){var _0x28c5c9=parameter[_0x41ba92(0x480)][_0x3c786b];parameter['allProducts'][_0x3c786b]=new _0x24f17f['Product'](),Object['assign'](parameter['allProducts'][_0x3c786b],_0x28c5c9);}}if((_0x2300e6===null||_0x2300e6===void 0x0?void 0x0:_0x2300e6[_0x41ba92(0x36f)])==='Company')return _0x425c1e=new _0x580130[(_0x41ba92(0x244))](),Object[_0x41ba92(0x31f)](_0x425c1e,_0x2300e6),_0x425c1e;if((_0x2300e6===null||_0x2300e6===void 0x0?void 0x0:_0x2300e6[_0x41ba92(0x36f)])==='Product')return _0x425c1e=new _0x24f17f[(_0x41ba92(0x1e6))](),Object[_0x41ba92(0x31f)](_0x425c1e,_0x2300e6),_0x425c1e;if((_0x2300e6===null||_0x2300e6===void 0x0?void 0x0:_0x2300e6[_0x41ba92(0x36f)])===_0x41ba92(0x346))return _0x425c1e=new _0x40033b['Transport'](),Object[_0x41ba92(0x31f)](_0x425c1e,_0x2300e6),_0x425c1e;if((_0x2300e6===null||_0x2300e6===void 0x0?void 0x0:_0x2300e6[_0x41ba92(0x36f)])==='World')return delete _0x2300e6[_0x41ba92(0x181)],_0x425c1e=new _0x1e54c9[(_0x41ba92(0x384))](),Object[_0x41ba92(0x31f)](_0x425c1e,_0x2300e6),_0x425c1e;return _0x425c1e;}),_0x1dd078=this[_0x2cf1a4(0x30a)];delete _0x5a8630['timer'],delete _0x5a8630['updateUIID'],Object[_0x2cf1a4(0x31f)](this[_0x2cf1a4(0x30a)],_0x5a8630),_0x1dd078[_0x2cf1a4(0x2c6)]['game']=_0x1dd078,_0x1dd078[_0x2cf1a4(0x24d)]=new Date(_0x1dd078[_0x2cf1a4(0x24d)]);for(var _0x288690=0x0;_0x288690<_0x1dd078['world'][_0x2cf1a4(0x222)][_0x2cf1a4(0x28d)];_0x288690++){_0x1dd078[_0x2cf1a4(0x2c6)]['companies'][_0x288690][_0x2cf1a4(0x2c6)]=_0x1dd078[_0x2cf1a4(0x2c6)];for(var _0xc9f922=0x0;_0xc9f922<_0x1dd078[_0x2cf1a4(0x2c6)][_0x2cf1a4(0x222)][_0x288690]['transports']['length'];_0xc9f922++){_0x1dd078[_0x2cf1a4(0x2c6)][_0x2cf1a4(0x222)][_0x288690][_0x2cf1a4(0x138)][_0xc9f922][_0x2cf1a4(0x2c6)]=_0x1dd078['world'],_0x1dd078['world'][_0x2cf1a4(0x222)][_0x288690][_0x2cf1a4(0x138)][_0xc9f922][_0x2cf1a4(0x113)]=_0x1dd078[_0x2cf1a4(0x2c6)][_0x2cf1a4(0x222)][_0x288690];}}_0x1dd078[_0x2cf1a4(0x309)](this[_0x2cf1a4(0x30a)][_0x2cf1a4(0x3ef)]),_0x1dd078['resume']();}[_0x2d1c70(0x3e1)](_0x39e892){var _0x54a3d4=_0x2d1c70;this['game'][_0x54a3d4(0x34d)]();var _0x161b1d=window[_0x54a3d4(0x173)][_0x54a3d4(0x17b)]('save'+_0x39e892);this[_0x54a3d4(0x14d)](_0x161b1d),window[_0x54a3d4(0x173)][_0x54a3d4(0x18a)](_0x54a3d4(0x18f),_0x39e892);}}_0x1a7a52[_0x2d1c70(0x216)]=_0x1c7221;function _0x3b5655(){var _0x261228=_0x2d1c70;_0x1c7221[_0x261228(0x1b0)]()['show']();}_0x1a7a52[_0x2d1c70(0x17e)]=_0x3b5655;}),define(a0_0x979828(0x1cf),['require','exports',a0_0x979828(0x32a),a0_0x979828(0x48a),a0_0x979828(0x44a),a0_0x979828(0x15a),a0_0x979828(0x243),a0_0x979828(0x3e9),a0_0x979828(0x457)],function(_0x162a4e,_0x221eea,_0x26d389,_0x5ada24,_0x2feb69,_0x35d502,_0x5784b3,_0x2ebf58,_0x4c3031){'use strict';var _0x1456a8=a0_0x979828;Object['defineProperty'](_0x221eea,_0x1456a8(0x241),{'value':!![]}),_0x221eea[_0x1456a8(0x17e)]=_0x221eea[_0x1456a8(0x19e)]=_0x221eea[_0x1456a8(0x1ef)]=_0x221eea['Level']=void 0x0;var _0x2b3a00=_0x1456a8(0x197);window[_0x1456a8(0x316)]=function(){return'Do\x20you\x20want\x20to\x20exit?';},$['notify'][_0x1456a8(0x3d6)]({'position':_0x1456a8(0x2c0),'className':_0x1456a8(0x22d)});class _0x2ba05d{}_0x221eea[_0x1456a8(0x3bb)]=_0x2ba05d;class _0x63620f{constructor(){var _0x451eee=_0x1456a8;this[_0x451eee(0x17c)]=!![],this[_0x451eee(0x36c)]=0x1e,this[_0x451eee(0x1b4)]=0x8,this['height']=0x14,this[_0x451eee(0x44b)]=0xa,this[_0x451eee(0x2b7)]=0x1,this['capacityPerHelper']=0x1;}}_0x221eea[_0x1456a8(0x1ef)]=_0x63620f;function _0x3dedc5(){var _0x112ffa=_0x1456a8;return window['parameter']=new _0x63620f(),globalThis[_0x112ffa(0x343)]=new _0x63620f(),parameter['allProducts']=_0x2feb69[_0x112ffa(0x1e6)]['init']([new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x318),_0x112ffa(0x440),0x1,[]),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x41a),_0x112ffa(0x307),0x1,[]),new _0x2feb69['Product']('Beeren',_0x112ffa(0x1aa),0x1,[_0x112ffa(0x41a)],0x1),new _0x2feb69['Product'](_0x112ffa(0x2cd),_0x112ffa(0x401),0x1,[_0x112ffa(0x432)]),new _0x2feb69[(_0x112ffa(0x1e6))]('Soldat',_0x112ffa(0x27c),0x1,[_0x112ffa(0x187)]),new _0x2feb69['Product'](_0x112ffa(0x132),'Stein.png',0x1,['Beeren']),new _0x2feb69['Product']('Holz','Holz.png',0x1,[_0x112ffa(0x432)]),new _0x2feb69['Product'](_0x112ffa(0x228),_0x112ffa(0x1ff),0x2,[_0x112ffa(0x41a)]),new _0x2feb69['Product'](_0x112ffa(0x144),_0x112ffa(0x2d6),0x2,[_0x112ffa(0x228)]),new _0x2feb69['Product']('Brot',_0x112ffa(0x1c5),0x2,['Mehl',_0x112ffa(0x3dd)]),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x27f),_0x112ffa(0x3db),0x2,[_0x112ffa(0x228),_0x112ffa(0x41a)]),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x2ea),'Fleisch.png',0x2,[_0x112ffa(0x27f)]),new _0x2feb69['Product']('Burger',_0x112ffa(0x253),0x2,[_0x112ffa(0x18c),_0x112ffa(0x2ea),_0x112ffa(0x3dd)],0x2),new _0x2feb69[(_0x112ffa(0x1e6))]('Bier','Bier.png',0x2,[_0x112ffa(0x228),'Wasser'],undefined,0x2),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x15c),_0x112ffa(0x299),0x3,[_0x112ffa(0x41a)]),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x393),_0x112ffa(0x273),0x3,[_0x112ffa(0x15c)]),new _0x2feb69['Product'](_0x112ffa(0x3ae),'Fisch.png',0x3,[_0x112ffa(0x432)]),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x4a8),_0x112ffa(0x24e),0x3,[_0x112ffa(0x187),_0x112ffa(0x3ae)]),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x2ef),_0x112ffa(0x178),0x3,[_0x112ffa(0x2ea)]),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x2bf),_0x112ffa(0x219),0x3,[_0x112ffa(0x393),_0x112ffa(0x4a8)],0x3),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x420),_0x112ffa(0x24a),0x3,['Brot']),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x2ba),_0x112ffa(0x1b3),0x3,[_0x112ffa(0x420),_0x112ffa(0x2ef)]),new _0x2feb69['Product'](_0x112ffa(0x42e),_0x112ffa(0x494),0x3,[_0x112ffa(0x2ba),'Holz'],undefined,0x3),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x22f),_0x112ffa(0x25d),0x4,[_0x112ffa(0x3dd)]),new _0x2feb69['Product'](_0x112ffa(0x314),_0x112ffa(0x158),0x4,[_0x112ffa(0x2ba),_0x112ffa(0x22f)]),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x199),'Tisch.png',0x4,[_0x112ffa(0x22f),_0x112ffa(0x314)],0x4),new _0x2feb69[(_0x112ffa(0x1e6))]('Wolle',_0x112ffa(0x129),0x4,[_0x112ffa(0x15c),_0x112ffa(0x41a)]),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x288),_0x112ffa(0x175),0x4,[_0x112ffa(0x338)]),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x1d7),_0x112ffa(0x2e0),0x4,['Stoff']),new _0x2feb69['Product'](_0x112ffa(0x2d3),_0x112ffa(0x170),0x4,[_0x112ffa(0x1d7),'Eisen',_0x112ffa(0x2ef),_0x112ffa(0x314)],undefined,0x4),new _0x2feb69[(_0x112ffa(0x1e6))]('Käse',_0x112ffa(0x137),0x5,[_0x112ffa(0x393)]),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x27d),_0x112ffa(0x2b4),0x5,[_0x112ffa(0x3dd)]),new _0x2feb69[(_0x112ffa(0x1e6))]('Pizza',_0x112ffa(0x174),0x5,['Fleisch',_0x112ffa(0x23b),_0x112ffa(0x144),'Papier'],0x5),new _0x2feb69['Product']('Ei',_0x112ffa(0x1bf),0x6,[_0x112ffa(0x15c),_0x112ffa(0x228)]),new _0x2feb69['Product'](_0x112ffa(0x164),_0x112ffa(0x35b),0x6,[_0x112ffa(0x144),_0x112ffa(0x432),'Ei']),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x478),_0x112ffa(0x264),0x6,[_0x112ffa(0x164)]),new _0x2feb69['Product'](_0x112ffa(0x186),_0x112ffa(0x26c),0x6,[_0x112ffa(0x478)]),new _0x2feb69[(_0x112ffa(0x1e6))](_0x112ffa(0x150),_0x112ffa(0x3e7),0x6,['Ei',_0x112ffa(0x393)]),new _0x2feb69['Product']('Geschenk',_0x112ffa(0x1bd),0x6,[_0x112ffa(0x186),_0x112ffa(0x150),'Papier'],0x6),new _0x2feb69[(_0x112ffa(0x1e6))]('Helm',_0x112ffa(0x370),0x6,['Eisen',_0x112ffa(0x2ef),_0x112ffa(0x338),_0x112ffa(0x186)],undefined,0x6)]),parameter[_0x112ffa(0x40a)]=[{'maxPeople':0x1e,'maxSoldiers':0x64,'maxPlaces':0xa,'buildingLimit':0x2},{'maxPeople':0x96,'maxSoldiers':0x32,'maxPlaces':0x14,'buildingLimit':0x3},{'maxPeople':0xb4,'maxSoldiers':0x32,'maxPlaces':0x28,'buildingLimit':0x3},{'maxPeople':0xf0,'maxSoldiers':0x32,'maxPlaces':0x3c,'buildingLimit':0x4},{'maxPeople':0x12c,'maxSoldiers':0x32,'maxPlaces':0x50,'buildingLimit':0x5},{'maxPeople':0x168,'maxSoldiers':0x32,'maxPlaces':0x64,'buildingLimit':0x5f5e0ff}],parameter;};class _0x1bdabd{constructor(){var _0x3b2f87=_0x1456a8;this['version']='5.4',this[_0x3b2f87(0xfe)]=0x3e8,this[_0x3b2f87(0x326)]=0x258,this[_0x3b2f87(0xf4)]=0x1,this[_0x3b2f87(0x3d1)]=0x0;var _0x5a8448=this;_0x1bdabd[_0x3b2f87(0x2c7)]=this,this['parameter']=_0x3dedc5(),this[_0x3b2f87(0x2a8)]=_0x1bdabd[_0x3b2f87(0x329)][0x6],this['lastUpdate']=Date['now'](),this['date']=new Date('Sat\x20Jan\x2001\x202000\x2000:00:00'),_0x4c3031[_0x3b2f87(0x26e)][_0x3b2f87(0x2c7)]=undefined,this[_0x3b2f87(0x133)]=setTimeout(()=>{var _0x5de29c=_0x3b2f87;_0x5a8448[_0x5de29c(0x28b)]();},0x64),console[_0x3b2f87(0x289)](_0x3b2f87(0x1b8)+this[_0x3b2f87(0x133)]);}[_0x1456a8(0x3b3)](){var _0x1e7ed6=_0x1456a8;try{var _0x426610=this['people'];if(document[_0x1e7ed6(0x287)](_0x1e7ed6(0x257))[_0x1e7ed6(0x210)]!==(0x0,_0x2ebf58[_0x1e7ed6(0x41d)])(_0x426610))document[_0x1e7ed6(0x287)](_0x1e7ed6(0x257))[_0x1e7ed6(0x210)]=(0x0,_0x2ebf58[_0x1e7ed6(0x41d)])(_0x426610);if(document[_0x1e7ed6(0x287)](_0x1e7ed6(0x395))[_0x1e7ed6(0x210)]!==this[_0x1e7ed6(0xf4)][_0x1e7ed6(0x259)]())document[_0x1e7ed6(0x287)]('idlevel')[_0x1e7ed6(0x210)]=this[_0x1e7ed6(0xf4)]['toString']();}catch(_0xc95156){console[_0x1e7ed6(0x289)](_0x1e7ed6(0x266));return;}}static[_0x1456a8(0x39f)](_0x340114){var _0xcaff4a=_0x1456a8;$[_0xcaff4a(0xed)](_0x340114);}[_0x1456a8(0x2f0)](){var _0x351d9e=_0x1456a8,_0x427426=parameter[_0x351d9e(0x40a)][this[_0x351d9e(0xf4)]-0x1],_0x250a45=this[_0x351d9e(0x2c6)]['getProductsToBuildForLevel'](this['level']);if(_0x250a45['length']===0x0){var _0x31d5e8=this[_0x351d9e(0x2c6)]['findCompanyThatProduces'](_0x2feb69['Product'][_0x351d9e(0x22b)])[0x0],_0x4197be=!![];_0x31d5e8[_0x351d9e(0x205)][_0x351d9e(0x2fb)](_0x115003=>{_0x115003<_0x31d5e8['workersIn']&&(_0x4197be=![]);});if(!_0x4197be||_0x31d5e8[_0x351d9e(0x205)][_0x351d9e(0x28d)]===0x0)return;this[_0x351d9e(0xf4)]++;var _0x413a9f=parameter[_0x351d9e(0x480)][_0x2feb69[_0x351d9e(0x1e6)][_0x351d9e(0x198)]],_0x2e999c=parameter[_0x351d9e(0x480)][_0x2feb69[_0x351d9e(0x1e6)][_0x351d9e(0x242)]];for(var _0x51b402=0x0;_0x51b402<parameter[_0x351d9e(0x480)][_0x351d9e(0x28d)];_0x51b402++){var _0x34fda2=parameter[_0x351d9e(0x480)][_0x51b402];_0x34fda2[_0x351d9e(0x32c)]===this['level']&&_0x413a9f[_0x351d9e(0x130)]['indexOf'](_0x34fda2['id'])===-0x1&&(_0x413a9f[_0x351d9e(0x130)]['push'](_0x34fda2['id']),this[_0x351d9e(0x2c6)][_0x351d9e(0x1f3)](_0x2feb69[_0x351d9e(0x1e6)][_0x351d9e(0x198)])[_0x351d9e(0x2fb)](_0x3d1a74=>_0x3d1a74[_0x351d9e(0x205)][_0x351d9e(0x1bb)](0x0))),_0x34fda2['forsoldierlevel']===this[_0x351d9e(0xf4)]&&_0x2e999c[_0x351d9e(0x130)]['indexOf'](_0x34fda2['id'])===-0x1&&(_0x2e999c[_0x351d9e(0x130)][_0x351d9e(0x1bb)](_0x34fda2['id']),this[_0x351d9e(0x2c6)]['findCompanyThatProduces'](_0x2feb69[_0x351d9e(0x1e6)][_0x351d9e(0x242)])[_0x351d9e(0x2fb)](_0x19a83e=>_0x19a83e[_0x351d9e(0x205)][_0x351d9e(0x1bb)](0x0)));}if(this['level']===0x2)var _0xc8b176=this[_0x351d9e(0x2c6)]['findCompanyThatProduces'](_0x2feb69[_0x351d9e(0x1e6)][_0x351d9e(0x242)])[_0x351d9e(0x2fb)](_0x5c5708=>{});alert(_0x351d9e(0x341)+this[_0x351d9e(0xf4)]+'\x20erreicht.\x20Weitere\x20Gebäude\x20wurden\x20freigeschaltet.');}this[_0x351d9e(0x3b3)](),this[_0x351d9e(0x413)]();}[_0x1456a8(0x413)](){var _0x16416f=_0x1456a8,_0x31eb7c=this[_0x16416f(0x2c6)][_0x16416f(0x1f3)](_0x2feb69['Product']['productGate'])[0x0],_0x257b51=this[_0x16416f(0x2c6)][_0x16416f(0x1f3)](_0x2feb69[_0x16416f(0x1e6)][_0x16416f(0x198)])[0x0],_0x39c2ff=this['world'][_0x16416f(0x1f3)](_0x2feb69['Product']['productSoldier'])[0x0],_0x3d5fd5=parameter[_0x16416f(0x480)][_0x2feb69['Product']['productGate']],_0x4df3f7=parameter[_0x16416f(0x480)][_0x2feb69['Product'][_0x16416f(0x198)]],_0x21d17b=parameter[_0x16416f(0x480)][_0x2feb69[_0x16416f(0x1e6)]['productSoldier']];_0x31eb7c[_0x16416f(0x205)]=[],_0x3d5fd5['consume']=[],_0x31eb7c['workersIn']=this[_0x16416f(0x2c6)][_0x16416f(0x18e)](this[_0x16416f(0xf4)]+0x1)[_0x16416f(0x28d)]*0xa-0x1,parameter[_0x16416f(0x480)][_0x16416f(0x2fb)](_0x1f2d23=>{var _0xd7f79e=_0x16416f;this['level']===_0x1f2d23[_0xd7f79e(0x32c)]&&(_0x3d5fd5['consume'][_0xd7f79e(0x1bb)](_0x1f2d23['id']),_0x31eb7c['rawmaterials'][_0xd7f79e(0x1bb)](this['world'][_0xd7f79e(0x18e)](this[_0xd7f79e(0xf4)]+0x1)[_0xd7f79e(0x28d)]*0x5)),this[_0xd7f79e(0xf4)]===_0x1f2d23[_0xd7f79e(0x379)]&&(_0x3d5fd5['consume'][_0xd7f79e(0x1bb)](_0x1f2d23['id']),_0x31eb7c[_0xd7f79e(0x205)][_0xd7f79e(0x1bb)](0x0));}),parameter[_0x16416f(0x480)]['forEach'](_0x19283a=>{var _0x1e2389=_0x16416f;if(this['level']&&_0x19283a[_0x1e2389(0x32c)]){var _0x291dca=_0x4df3f7[_0x1e2389(0x130)][_0x1e2389(0x2e1)](_0x19283a['id']);_0x257b51[_0x1e2389(0x205)][_0x291dca]=this['world'][_0x1e2389(0x18e)](this[_0x1e2389(0xf4)])['length']*0x5;}if(this['level']&&_0x19283a[_0x1e2389(0x379)]){var _0x291dca=_0x21d17b[_0x1e2389(0x130)][_0x1e2389(0x2e1)](_0x19283a['id']);_0x39c2ff[_0x1e2389(0x205)][_0x291dca]=this[_0x1e2389(0x2c6)][_0x1e2389(0x18e)](this['level'])[_0x1e2389(0x28d)]*0xa;}});}[_0x1456a8(0x28b)](){var _0x12bb1a=_0x1456a8,_0x336306=this;this[_0x12bb1a(0x2f0)](),this['world'][_0x12bb1a(0x28b)](),this['updateUIID']=setTimeout(()=>{var _0x3c28ea=_0x12bb1a;_0x336306[_0x3c28ea(0x28b)]();},0x64),_0x4c3031[_0x12bb1a(0x26e)][_0x12bb1a(0x1b0)]()[_0x12bb1a(0x1f9)](),this[_0x12bb1a(0x3b3)]();}[_0x1456a8(0x226)](){var _0x3f891e=_0x1456a8;this[_0x3f891e(0x483)]['style'][_0x3f891e(0x1b4)]=this['mapWidth']+0x50+'px',this['domWorld'][_0x3f891e(0x45a)][_0x3f891e(0x1d0)]=this[_0x3f891e(0x326)]+0x64+'px',this['domWorld'][_0x3f891e(0x250)][_0x3f891e(0x45a)]['width']=this['mapWidth']+0x50+'px',this[_0x3f891e(0x483)]['parentNode'][_0x3f891e(0x45a)]['height']=this[_0x3f891e(0x326)]+0x64+'px';}[_0x1456a8(0x106)](){var _0x4c8a91=_0x1456a8;this[_0x4c8a91(0x2c6)]=new _0x26d389[(_0x4c8a91(0x384))](),this[_0x4c8a91(0x2c6)][_0x4c8a91(0x30a)]=this,this[_0x4c8a91(0x2c6)]['newGame']();}[_0x1456a8(0x2f4)](){var _0x305531=_0x1456a8;return this[_0x305531(0x1f2)];}[_0x1456a8(0x470)](_0xb4b83,_0x152255,_0x36e884=undefined){this['_money']+=_0xb4b83;}[_0x1456a8(0x309)](_0x3ff18a){var _0x5e0fac=_0x1456a8,_0x1b2917=this;_0x3ff18a[_0x5e0fac(0x46e)]='',_0x3ff18a[_0x5e0fac(0x45a)][_0x5e0fac(0x34c)]=_0x5e0fac(0x11d),this[_0x5e0fac(0x3ef)]=_0x3ff18a;var _0x11eaad=_0x5e0fac(0x1bc)+_0x2b3a00+'\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22game-slower\x22\x20\x20class=\x22mybutton\x22>'+_0x5ada24[_0x5e0fac(0x36a)][_0x5e0fac(0x118)]+_0x5e0fac(0x46b)+_0x5ada24[_0x5e0fac(0x36a)][_0x5e0fac(0x2e8)]+_0x5e0fac(0x4a0)+'👤'+_0x5e0fac(0x2fe)+_0x5e0fac(0x453)+_0x5ada24['Icons'][_0x5e0fac(0x46d)]+_0x5e0fac(0x231)+_0x5ada24[_0x5e0fac(0x36a)][_0x5e0fac(0x301)]+_0x5e0fac(0x1d8)+_0x5ada24[_0x5e0fac(0x36a)][_0x5e0fac(0xf0)]+_0x5e0fac(0x169);this[_0x5e0fac(0x3f4)]=document[_0x5e0fac(0x1fc)]()[_0x5e0fac(0x1b5)](_0x11eaad)[_0x5e0fac(0x1eb)][0x0];var _0x1cf7d6=_0x5e0fac(0x48d);this['domWorld']=document['createRange']()[_0x5e0fac(0x1b5)](_0x1cf7d6)['children'][0x0],this[_0x5e0fac(0x3ef)]['appendChild'](this[_0x5e0fac(0x3f4)]),this[_0x5e0fac(0x3ef)]['appendChild'](this['domWorld']),this[_0x5e0fac(0x2c6)][_0x5e0fac(0x309)](this[_0x5e0fac(0x483)]),this[_0x5e0fac(0x226)](),setTimeout(()=>{_0x1b2917['bindActions']();},0x1f4);}[_0x1456a8(0x411)](){var _0x278e4a=_0x1456a8,_0x385113=this;document[_0x278e4a(0x287)](_0x278e4a(0x3eb))[_0x278e4a(0x439)](_0x278e4a(0x47d),()=>{var _0x66f354=_0x278e4a;console[_0x66f354(0x289)]('down');}),document[_0x278e4a(0x287)](_0x278e4a(0x280))[_0x278e4a(0x439)](_0x278e4a(0x497),()=>{var _0x475615=_0x278e4a;_0x5784b3[_0x475615(0x216)][_0x475615(0x1b0)]()[_0x475615(0x30a)]=_0x385113,_0x5784b3[_0x475615(0x216)][_0x475615(0x1b0)]()[_0x475615(0x3ec)]();}),document['getElementById'](_0x278e4a(0x49a))['addEventListener']('click',()=>{var _0x1c7904=_0x278e4a;_0x35d502[_0x1c7904(0x1dd)][_0x1c7904(0x1b0)]()[_0x1c7904(0x2c6)]=this[_0x1c7904(0x2c6)],_0x35d502[_0x1c7904(0x1dd)][_0x1c7904(0x1b0)]()['show']();}),document[_0x278e4a(0x287)](_0x278e4a(0x247))[_0x278e4a(0x439)](_0x278e4a(0x497),()=>{var _0x756033=_0x278e4a;if(_0x385113['speed']===_0x1bdabd['temposcale'][0x0]){_0x385113[_0x756033(0x34d)](),console['log'](_0x756033(0x34d));return;}var _0x213ab1=_0x1bdabd[_0x756033(0x329)]['indexOf'](_0x385113[_0x756033(0x2a8)]);_0x213ab1--;if(_0x213ab1==-0x1)return;_0x385113[_0x756033(0x2a8)]=_0x1bdabd[_0x756033(0x329)][_0x213ab1],_0x385113[_0x756033(0x34d)](),_0x385113['resume']();}),document[_0x278e4a(0x287)](_0x278e4a(0x295))['addEventListener'](_0x278e4a(0x497),()=>{var _0x2d3901=_0x278e4a;if(_0x385113['isPaused']()){_0x385113[_0x2d3901(0x3b8)]();return;}var _0x2ed03a=_0x1bdabd[_0x2d3901(0x329)][_0x2d3901(0x2e1)](_0x385113[_0x2d3901(0x2a8)]);_0x2ed03a++;if(_0x2ed03a>=_0x1bdabd[_0x2d3901(0x329)][_0x2d3901(0x28d)]){console[_0x2d3901(0x289)](_0x2d3901(0x386));return;}_0x385113['speed']=_0x1bdabd[_0x2d3901(0x329)][_0x2ed03a],_0x385113[_0x2d3901(0x34d)](),_0x385113[_0x2d3901(0x3b8)]();});}['resume'](){}[_0x1456a8(0x45e)](){return this['timer']===0x0;}['pause'](){var _0x3ddb6d=_0x1456a8;clearTimeout(this['timer']),this[_0x3ddb6d(0x3f3)]=0x0;}[_0x1456a8(0x2b2)](){var _0x4d10c1=_0x1456a8;this['world']['destroy'](),clearTimeout(this[_0x4d10c1(0x3f3)]),clearTimeout(this['updateUIID']),console[_0x4d10c1(0x289)](_0x4d10c1(0x294)+this[_0x4d10c1(0x133)]);}[_0x1456a8(0x16f)](){}}_0x221eea['Game']=_0x1bdabd,_0x1bdabd[_0x1456a8(0x329)]=[0.01,0.5,0x1,0x2,0x4,0x8,0x10,0x20,0x40,0x80,0x100];function _0x337569(){}_0x221eea['test']=_0x337569;}),define('game/companydialog',[a0_0x979828(0x267),a0_0x979828(0x3f6),a0_0x979828(0x48a),a0_0x979828(0x206),'game/product',a0_0x979828(0x28a),a0_0x979828(0x1cf)],function(_0x1fd264,_0x3a2b10,_0x2f238,_0x186537,_0x356c7b,_0x40f139,_0x251ca4){'use strict';var _0x3cbfa0=a0_0x979828;Object[_0x3cbfa0(0x1db)](_0x3a2b10,'__esModule',{'value':!![]}),_0x3a2b10[_0x3cbfa0(0x26e)]=void 0x0,window['company']=function(){var _0x2952c4=_0x3cbfa0;return _0x34ee76['getInstance']()[_0x2952c4(0x113)];};class _0x34ee76{constructor(){var _0x397dc2=_0x3cbfa0;this[_0x397dc2(0x2ae)]=0xe,this['hasPaused']=![],this[_0x397dc2(0x2ca)]();}static[_0x3cbfa0(0x1b0)](){var _0x3841fe=_0x3cbfa0;if(_0x34ee76[_0x3841fe(0x2c7)]===undefined)_0x34ee76[_0x3841fe(0x2c7)]=new _0x34ee76();return _0x34ee76[_0x3841fe(0x2c7)];}[_0x3cbfa0(0x2ca)](){var _0x3eda14=_0x3cbfa0,_0x2a44ce=_0x3eda14(0x21a);this[_0x3eda14(0x3ef)]=document[_0x3eda14(0x1fc)]()[_0x3eda14(0x1b5)](_0x2a44ce)[_0x3eda14(0x1eb)][0x0];var _0x4d71ce=document[_0x3eda14(0x287)](_0x3eda14(0x487));_0x4d71ce&&_0x4d71ce[_0x3eda14(0x250)][_0x3eda14(0x172)](_0x4d71ce);var _0x562ae8=parameter[_0x3eda14(0x480)],_0x3e6408=this,_0x8dbe16=_0x3e6408[_0x3eda14(0x113)],_0x2a44ce=_0x3eda14(0x430)+this[_0x3eda14(0x482)]()+_0x3eda14(0x481)+this[_0x3eda14(0x188)]()+_0x3eda14(0x42d)+this['createConquerTab']()+_0x3eda14(0x308)+this['createBuildTab']()+_0x3eda14(0x461),_0x413ce9=document['createRange']()[_0x3eda14(0x1b5)](_0x2a44ce)[_0x3eda14(0x1eb)][0x0];this[_0x3eda14(0x3ef)][_0x3eda14(0x172)](this['dom'][_0x3eda14(0x1eb)][0x0]),this['dom'][_0x3eda14(0x29c)](_0x413ce9),$(_0x3eda14(0x196))['tabs']({}),$(_0x3eda14(0x214))['tabs']({'beforeActivate':function(_0x12e25a,_0x2609d7){var _0x4f506a=_0x3eda14;_0x3e6408[_0x4f506a(0x340)](_0x12e25a,_0x2609d7);}}),setTimeout(()=>{var _0x2f61eb=_0x3eda14;$('#companydialog-tabs')[_0x2f61eb(0x176)]({}),$(_0x2f61eb(0x214))[_0x2f61eb(0x176)]({'beforeActivate':function(_0x5ae978,_0x5209af){_0x3e6408['buildTabActivated'](_0x5ae978,_0x5209af);}});},0x64),document[_0x3eda14(0x472)]['appendChild'](this[_0x3eda14(0x3ef)]),setTimeout(()=>{_0x3e6408['bindActions']();},0x1f4);}[_0x3cbfa0(0x340)](_0x4d6f2f,_0x478fbb){var _0x4cdebd=_0x3cbfa0,_0x2bcd7a=parseInt(_0x4d6f2f[_0x4cdebd(0x344)]['id'][_0x4cdebd(0x1b2)]('_')[0x1])+0x1;this[_0x4cdebd(0x113)][_0x4cdebd(0x2c6)][_0x4cdebd(0x30a)][_0x4cdebd(0xf4)]<_0x2bcd7a-0x1&&_0x251ca4[_0x4cdebd(0x19e)][_0x4cdebd(0x39f)]('kann\x20erst\x20ab\x20Level\x20'+(_0x2bcd7a+0x1)+_0x4cdebd(0x195));}[_0x3cbfa0(0x1cc)](){var _0x584b8c=_0x3cbfa0,_0x5e96ee=this;return _0x584b8c(0x313)+_0x186537[_0x584b8c(0x244)][_0x584b8c(0x380)](parameter['allProducts'][_0x356c7b[_0x584b8c(0x1e6)][_0x584b8c(0x242)]][_0x584b8c(0x277)])+_0x584b8c(0x119);}[_0x3cbfa0(0x360)](){var _0x416a5c=_0x3cbfa0,_0xea69f3=this,_0x2e5848='',_0x533948='',_0x3f09b9=[];for(var _0x1fb4a0=0x0;_0x1fb4a0<parameter['allLevels']['length'];_0x1fb4a0++){_0x3f09b9[_0x416a5c(0x1bb)]([]);}for(var _0x1fb4a0=0x0;_0x1fb4a0<parameter[_0x416a5c(0x480)][_0x416a5c(0x28d)];_0x1fb4a0++){var _0x587a6a=parameter[_0x416a5c(0x480)][_0x1fb4a0];_0x3f09b9[_0x587a6a['level']-0x1]['push'](_0x587a6a);}for(var _0x1fb4a0=0x0;_0x1fb4a0<parameter[_0x416a5c(0x40a)][_0x416a5c(0x28d)];_0x1fb4a0++){_0x2e5848=_0x2e5848+(_0x416a5c(0x486)+_0x1fb4a0+'\x22\x20id=\x22companydialog-bild-tab_'+_0x1fb4a0+_0x416a5c(0x290)+(_0x1fb4a0+0x1)+_0x416a5c(0x1ab));var _0x5ed40f='';for(var _0x556c0a=0x0;_0x556c0a<_0x3f09b9[_0x1fb4a0][_0x416a5c(0x28d)];_0x556c0a++){var _0x587a6a=_0x3f09b9[_0x1fb4a0][_0x556c0a];_0x5ed40f+=_0x416a5c(0x2c5)+_0x587a6a['id']+_0x416a5c(0x31d)+_0x186537[_0x416a5c(0x244)]['getImageUrl'](_0x587a6a[_0x416a5c(0x277)])+_0x416a5c(0x3e2)+_0x587a6a[_0x416a5c(0x324)]+_0x416a5c(0x225);}_0x533948=_0x533948+(_0x416a5c(0x410)+_0x1fb4a0+'\x22>')+_0x5ed40f+'</div>';}return _0x416a5c(0x2dc)+_0x2e5848+_0x416a5c(0x1f4)+_0x533948+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';}['createProductionTab'](){var _0x2bab4=_0x3cbfa0,_0x362216=this;return _0x2bab4(0x2f8)+_0x186537[_0x2bab4(0x244)][_0x2bab4(0x380)](parameter[_0x2bab4(0x480)][0x0][_0x2bab4(0x277)])+_0x2bab4(0x417)+_0x186537['Company'][_0x2bab4(0x380)](parameter[_0x2bab4(0x480)][0x0]['image'])+_0x2bab4(0x255)+_0x186537[_0x2bab4(0x244)][_0x2bab4(0x380)](parameter[_0x2bab4(0x480)][0x0][_0x2bab4(0x277)])+'\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22'+_0x186537[_0x2bab4(0x244)][_0x2bab4(0x380)](parameter['allProducts'][0x0][_0x2bab4(0x277)])+'\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22'+_0x186537[_0x2bab4(0x244)][_0x2bab4(0x380)](parameter[_0x2bab4(0x480)][0x0]['image'])+'\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22'+_0x186537['Company'][_0x2bab4(0x380)](parameter[_0x2bab4(0x480)][0x0]['image'])+_0x2bab4(0x255)+_0x186537[_0x2bab4(0x244)][_0x2bab4(0x380)](parameter[_0x2bab4(0x480)][0x0][_0x2bab4(0x277)])+_0x2bab4(0x255)+_0x186537[_0x2bab4(0x244)]['getImageUrl'](parameter[_0x2bab4(0x480)][0x0]['image'])+_0x2bab4(0x255)+_0x186537[_0x2bab4(0x244)][_0x2bab4(0x380)](parameter[_0x2bab4(0x480)][0x0]['image'])+_0x2bab4(0x255)+_0x186537[_0x2bab4(0x244)][_0x2bab4(0x380)](parameter[_0x2bab4(0x480)][0x0][_0x2bab4(0x277)])+_0x2bab4(0x255)+_0x186537[_0x2bab4(0x244)][_0x2bab4(0x380)](parameter[_0x2bab4(0x480)][0x0][_0x2bab4(0x277)])+_0x2bab4(0x255)+_0x186537[_0x2bab4(0x244)][_0x2bab4(0x380)](parameter['allProducts'][0x0][_0x2bab4(0x277)])+_0x2bab4(0x255)+_0x186537[_0x2bab4(0x244)][_0x2bab4(0x380)](parameter['allProducts'][0x0][_0x2bab4(0x277)])+_0x2bab4(0x255)+_0x186537[_0x2bab4(0x244)][_0x2bab4(0x380)](parameter['allProducts'][0x0]['image'])+_0x2bab4(0x255)+_0x186537['Company'][_0x2bab4(0x380)](parameter['allProducts'][0x0][_0x2bab4(0x277)])+_0x2bab4(0x255)+_0x186537[_0x2bab4(0x244)][_0x2bab4(0x380)](parameter[_0x2bab4(0x480)][0x0][_0x2bab4(0x277)])+_0x2bab4(0x255)+_0x186537[_0x2bab4(0x244)][_0x2bab4(0x380)](parameter[_0x2bab4(0x480)][0x0][_0x2bab4(0x277)])+_0x2bab4(0x105);}[_0x3cbfa0(0x188)](){var _0x2778eb=_0x3cbfa0,_0x3c858c=this;return _0x2778eb(0x1e9)+_0x2f238[_0x2778eb(0x36a)]['up']+_0x2778eb(0x28e)+_0x2f238['Icons'][_0x2778eb(0x2e9)]+_0x2778eb(0x303)+_0x2f238['Icons'][_0x2778eb(0x2e8)]+_0x2778eb(0x419)+_0x2f238['Icons'][_0x2778eb(0x265)]+_0x2778eb(0x477);}['bindActions'](){var _0x197c7e=_0x3cbfa0,_0x5d3466=this;document[_0x197c7e(0x287)](_0x197c7e(0x22c))[_0x197c7e(0x439)](_0x197c7e(0x497),_0x566356=>{var _0x14e3d6=_0x197c7e;_0x5d3466[_0x14e3d6(0x113)]['addWorker'](_0x14e3d6(0x47e));}),document['getElementById'](_0x197c7e(0x30e))[_0x197c7e(0x439)]('click',_0x284232=>{var _0x5855f5=_0x197c7e;_0x5d3466[_0x5855f5(0x113)]['removeWorker'](_0x5855f5(0x47e));}),document['getElementById'](_0x197c7e(0x328))['addEventListener']('click',_0x65f717=>{var _0x49cb2c=_0x197c7e,_0x2718a8=!![];if(_0x5d3466['company'][_0x49cb2c(0x149)]||_0x5d3466[_0x49cb2c(0x113)][_0x49cb2c(0x42b)]||this['company'][_0x49cb2c(0x252)])_0x2718a8=![];_0x5d3466[_0x49cb2c(0x113)]['transports'][_0x49cb2c(0x2fb)](_0x309de5=>{var _0xcbe5c6=_0x49cb2c;if(_0x309de5[_0xcbe5c6(0x149)])_0x2718a8=![];});if(!_0x2718a8){alert(_0x49cb2c(0x455));return;}if(parameter[_0x49cb2c(0x480)][_0x5d3466[_0x49cb2c(0x113)][_0x49cb2c(0x1a4)]][_0x49cb2c(0xf4)]===0x1&&_0x5d3466['company'][_0x49cb2c(0x2c6)]['findCompanyThatProduces'](_0x5d3466[_0x49cb2c(0x113)][_0x49cb2c(0x1a4)])[_0x49cb2c(0x28d)]===0x1){alert('Das\x20letzte\x20Gebäude\x20dieser\x20Art\x20kann\x20nicht\x20abgerissen\x20werden.');return;}_0x5d3466[_0x49cb2c(0x113)][_0x49cb2c(0x2b2)]();}),document[_0x197c7e(0x287)](_0x197c7e(0x31c))[_0x197c7e(0x439)](_0x197c7e(0x497),_0x451a7c=>{var _0x239944=_0x197c7e;_0x5d3466[_0x239944(0x113)]['addWorker'](_0x239944(0x12c));}),document[_0x197c7e(0x287)]('in-remove-worker')[_0x197c7e(0x439)]('click',_0x2686a5=>{var _0x4a0266=_0x197c7e;_0x5d3466[_0x4a0266(0x113)]['removeWorker']('workersIn');}),document['getElementById'](_0x197c7e(0x3bf))['addEventListener'](_0x197c7e(0x497),_0x2430f3=>{var _0x334d91=_0x197c7e;_0x5d3466[_0x334d91(0x113)][_0x334d91(0x2be)](_0x334d91(0x1e8));}),document[_0x197c7e(0x287)](_0x197c7e(0x498))[_0x197c7e(0x439)](_0x197c7e(0x497),_0x598ab8=>{var _0x45af32=_0x197c7e;_0x5d3466['company'][_0x45af32(0x448)](_0x45af32(0x1e8));}),document[_0x197c7e(0x287)](_0x197c7e(0x107))['addEventListener'](_0x197c7e(0x497),_0x8ff95d=>{var _0x379491=_0x197c7e,_0x16d26d=_0x5d3466[_0x379491(0x19d)]();_0x5d3466[_0x379491(0x113)][_0x379491(0x2be)](_0x16d26d),_0x5d3466[_0x379491(0x1f9)]();}),document[_0x197c7e(0x287)](_0x197c7e(0x41b))[_0x197c7e(0x439)](_0x197c7e(0x497),_0x3b5ce3=>{var _0x184fcd=_0x197c7e,_0x51d21f=this[_0x184fcd(0x19d)]();_0x5d3466[_0x184fcd(0x113)]['removeWorker'](_0x51d21f);}),document[_0x197c7e(0x287)](_0x197c7e(0xf5))[_0x197c7e(0x439)](_0x197c7e(0x497),_0x39b4fc=>{var _0x1a1fdf=_0x197c7e,_0xf56374=this[_0x1a1fdf(0x19d)]();if(_0xf56374[_0x1a1fdf(0x149)]){alert(_0x1a1fdf(0x3d3));return;}while(_0xf56374[_0x1a1fdf(0x47e)]>0x0){_0x5d3466[_0x1a1fdf(0x113)][_0x1a1fdf(0x448)](_0xf56374);}_0xf56374[_0x1a1fdf(0x2b2)](_0x5d3466[_0x1a1fdf(0x113)][_0x1a1fdf(0x138)]);}),document[_0x197c7e(0x287)](_0x197c7e(0x492))[_0x197c7e(0x439)](_0x197c7e(0x497),_0x50d912=>{var _0xb59653=_0x197c7e,_0x33bbb2=new _0x40f139[(_0xb59653(0x346))](this[_0xb59653(0x113)]);_0x33bbb2[_0xb59653(0x1ce)]=!![],_0x33bbb2[_0xb59653(0x309)]();(_0x5d3466[_0xb59653(0x113)][_0xb59653(0x1a4)]===_0x356c7b[_0xb59653(0x1e6)]['productStone']||_0x5d3466[_0xb59653(0x113)]['productid']===_0x356c7b['Product']['productWood'])&&(_0x33bbb2[_0xb59653(0x4a4)]=!![]);this[_0xb59653(0x113)][_0xb59653(0x138)][_0xb59653(0x1bb)](_0x33bbb2);if(_0x33bbb2)_0x5d3466[_0xb59653(0x113)]['addWorker'](_0x33bbb2);_0x5d3466[_0xb59653(0x1f9)]();}),document[_0x197c7e(0x287)]('add-soldier')[_0x197c7e(0x439)](_0x197c7e(0x497),_0x199b83=>{var _0x252c16=_0x197c7e,_0x8cd318=(_0x5831ca,_0xc39ee0)=>{var _0x2e22b0=a0_0x4bc0;setTimeout(()=>_0x5831ca[_0x2e22b0(0x1ce)]=!![],_0xc39ee0);},_0x593e61=_0x5d3466[_0x252c16(0x113)]['world']['findSoldier'](),_0x16894c=0x0;if(_0x593e61)_0x16894c=_0x593e61[_0x252c16(0x297)]-_0x593e61[_0x252c16(0x138)][_0x252c16(0x28d)];if(_0x16894c<parameter[_0x252c16(0x44b)]){_0x251ca4[_0x252c16(0x19e)][_0x252c16(0x39f)](_0x252c16(0x2e6));return;}for(var _0x147165=0x0;_0x147165<parameter[_0x252c16(0x44b)];_0x147165++){var _0x1b4aa6=new _0x40f139['Transport'](_0x593e61);_0x1b4aa6[_0x252c16(0x2ee)]=_0x5d3466[_0x252c16(0x113)][_0x252c16(0x3f9)],_0x1b4aa6[_0x252c16(0x47e)]=0x1,_0x1b4aa6['render'](),_0x1b4aa6[_0x252c16(0x33d)]={'productid':_0x593e61[_0x252c16(0x1a4)]},_0x8cd318(_0x1b4aa6,_0x147165*0x64),_0x593e61[_0x252c16(0x138)]['push'](_0x1b4aa6);}_0x5d3466[_0x252c16(0x113)]['soldiersComing']=!![],_0x5d3466[_0x252c16(0x1f9)](!![]);});for(var _0x58e801=0x0;_0x58e801<parameter['allProducts'][_0x197c7e(0x28d)];_0x58e801++){document[_0x197c7e(0x287)](_0x197c7e(0x14b)+_0x58e801)['addEventListener'](_0x197c7e(0x497),_0x25664c=>{var _0x191e89=_0x197c7e,_0x5f47fe=parseInt(_0x25664c[_0x191e89(0x344)]['id'][_0x191e89(0x1b2)]('_')[0x1]),_0x16002f='',_0x24a18b=parameter['allProducts'][_0x5f47fe][_0x191e89(0xf4)];;var _0x146bb6=_0x5d3466[_0x191e89(0x3e3)](_0x356c7b[_0x191e89(0x1e6)]['productWood'],_0x24a18b);if(!_0x146bb6)_0x16002f=_0x191e89(0x2ce)+_0x24a18b+_0x191e89(0x38b)+_0x24a18b+_0x191e89(0x3d0);var _0x10c43f=this['getBuildTransport'](_0x356c7b['Product'][_0x191e89(0x245)],_0x24a18b);if(!_0x10c43f)_0x16002f+=_0x191e89(0x2ce)+_0x24a18b+'\x20Stein\x20gefunden\x20oder\x20kein\x20Bautransport\x20gefunden,\x20der\x20'+_0x24a18b+_0x191e89(0x3f0);if(this[_0x191e89(0x113)][_0x191e89(0x1a4)]!==-0x1)_0x16002f=_0x191e89(0x229);if(_0x16002f!==''){_0x251ca4[_0x191e89(0x19e)][_0x191e89(0x39f)](_0x16002f);return;}else{_0x5d3466['company'][_0x191e89(0x260)]=_0x5f47fe;var _0x274abf={'productid':_0x5f47fe};_0x5d3466[_0x191e89(0x113)][_0x191e89(0x240)]=_0x24a18b,_0x5d3466[_0x191e89(0x113)][_0x191e89(0x422)]=_0x24a18b,_0x10c43f['companyTarget']=_0x5d3466[_0x191e89(0x113)][_0x191e89(0x3f9)],_0x10c43f[_0x191e89(0x1ce)]=!![],_0x10c43f[_0x191e89(0x33d)]=_0x274abf,_0x146bb6[_0x191e89(0x2ee)]=_0x5d3466[_0x191e89(0x113)]['companyID'],_0x146bb6[_0x191e89(0x1ce)]=!![],_0x146bb6[_0x191e89(0x33d)]=_0x274abf;}});}document[_0x197c7e(0x287)]('companydialog-transport-productlist')['addEventListener'](_0x197c7e(0x32f),_0x462b9d=>{var _0x452b7f=_0x197c7e,_0x3cd8b3=_0x5d3466[_0x452b7f(0x19d)](),_0x1dca07=parseInt(_0x462b9d[_0x452b7f(0x327)]['value']);_0x3cd8b3[_0x452b7f(0x10e)](_0x1dca07),_0x5d3466['update']();});}[_0x3cbfa0(0x19d)](){var _0x33cbb8=_0x3cbfa0,_0x17ce72=document[_0x33cbb8(0x287)]('companydialog-transport-list'),_0x848511=parseInt(_0x17ce72['value']===''?'-1':_0x17ce72[_0x33cbb8(0x275)]);return this['company'][_0x33cbb8(0x138)][_0x848511];}['getBuildTransport'](_0x15d60e,_0x467d6b){var _0x485e30=_0x3cbfa0,_0x4ca6f2=this[_0x485e30(0x113)][_0x485e30(0x2c6)][_0x485e30(0x1f3)](_0x15d60e);for(var _0x31d773=0x0;_0x31d773<_0x4ca6f2[_0x485e30(0x28d)];_0x31d773++){for(var _0x51508f=0x0;_0x51508f<_0x4ca6f2[_0x31d773][_0x485e30(0x138)]['length'];_0x51508f++){var _0x5cf706=_0x4ca6f2[_0x31d773][_0x485e30(0x138)][_0x51508f];if(_0x5cf706[_0x485e30(0x2ee)]===undefined&&_0x5cf706[_0x485e30(0x4a4)]&&_0x5cf706[_0x485e30(0x114)]>=_0x467d6b)return _0x5cf706;}}return undefined;}[_0x3cbfa0(0x41f)](){var _0x543429=_0x3cbfa0;for(var _0x31721c=0x0;_0x31721c<parameter[_0x543429(0x480)][_0x543429(0x28d)];_0x31721c++){var _0x5e74e4=document[_0x543429(0x287)](_0x543429(0x14b)+_0x31721c),_0x143075=parameter[_0x543429(0x480)][_0x31721c];if(this[_0x543429(0x113)]['world'][_0x543429(0x30a)][_0x543429(0xf4)]>=_0x143075[_0x543429(0xf4)]-0x1&&this[_0x543429(0x113)][_0x543429(0x2c6)][_0x543429(0x1f3)](_0x143075['id'],!![])[_0x543429(0x28d)]<parameter[_0x543429(0x40a)][this['company']['world']['game'][_0x543429(0xf4)]-0x1][_0x543429(0x3e0)]&&_0x5e74e4[_0x543429(0x1f1)])_0x5e74e4[_0x543429(0x1f1)]=![];else(this['company'][_0x543429(0x2c6)]['game'][_0x543429(0xf4)]<_0x143075[_0x543429(0xf4)]-0x1||this[_0x543429(0x113)]['world'][_0x543429(0x1f3)](_0x143075['id'],!![])[_0x543429(0x28d)]>=parameter['allLevels'][this[_0x543429(0x113)]['world']['game'][_0x543429(0xf4)]-0x1][_0x543429(0x3e0)])&&_0x5e74e4[_0x543429(0x1f1)]===![]&&(_0x5e74e4[_0x543429(0x1f1)]=!![]);}}['updateTransport'](){var _0x52a94e=_0x3cbfa0,_0x2c25fb,_0x14676d=document['getElementById']('companydialog-transport-list');if(_0x14676d[_0x52a94e(0x1eb)][_0x52a94e(0x28d)]!==this[_0x52a94e(0x113)][_0x52a94e(0x138)][_0x52a94e(0x28d)]){var _0x1fb040='';for(var _0x16c913=0x0;_0x16c913<this[_0x52a94e(0x113)][_0x52a94e(0x138)]['length'];_0x16c913++){_0x1fb040=_0x1fb040+_0x52a94e(0x20f)+_0x16c913+'\x22></option>';}_0x14676d['innerHTML']=_0x1fb040;}for(var _0x16c913=0x0;_0x16c913<this[_0x52a94e(0x113)][_0x52a94e(0x138)][_0x52a94e(0x28d)];_0x16c913++){var _0x1fb040='',_0x5a422e=this[_0x52a94e(0x113)][_0x52a94e(0x138)][_0x16c913],_0x4390fe=this[_0x52a94e(0x113)]['world']['companies'][_0x5a422e===null||_0x5a422e===void 0x0?void 0x0:_0x5a422e[_0x52a94e(0x2ee)]],_0x16dcdc=parameter[_0x52a94e(0x480)][_0x4390fe===null||_0x4390fe===void 0x0?void 0x0:_0x4390fe[_0x52a94e(0x1a4)]],_0x427045=_0x5a422e[_0x52a94e(0x114)]+'/'+_0x5a422e[_0x52a94e(0x115)]();_0x1fb040=_0x1fb040+_0x52a94e(0x438)+_0x5a422e[_0x52a94e(0x29d)]()+'\x20'+_0x5a422e[_0x52a94e(0x47e)]+(_0x5a422e[_0x52a94e(0x149)]?'+'+_0x5a422e[_0x52a94e(0x149)]:'')+'👤'+'</span><span>'+_0x427045+_0x52a94e(0x27e);var _0x56ee6c='url('+_0x186537[_0x52a94e(0x244)][_0x52a94e(0x380)]((_0x16dcdc===null||_0x16dcdc===void 0x0?void 0x0:_0x16dcdc['image'])===undefined?_0x52a94e(0x21d):_0x16dcdc[_0x52a94e(0x277)])+')',_0x1f8677=_0x14676d[_0x52a94e(0x1eb)][_0x16c913];if(_0x1f8677[_0x52a94e(0x45a)][_0x52a94e(0x2ed)]!==_0x56ee6c)_0x1f8677[_0x52a94e(0x45a)][_0x52a94e(0x2ed)]=_0x56ee6c;if(_0x1f8677['innerHTML']!==_0x1fb040)_0x1f8677[_0x52a94e(0x46e)]=_0x1fb040;}var _0x30dbb1=document[_0x52a94e(0x287)](_0x52a94e(0x103)),_0x1fb040='',_0xb8fea5=this['company']['world'][_0x52a94e(0x4a2)](this[_0x52a94e(0x113)][_0x52a94e(0x1a4)]);for(var _0x16c913=0x0;_0x16c913<_0xb8fea5[_0x52a94e(0x28d)];_0x16c913++){var _0x47a310=_0xb8fea5[_0x16c913],_0x16dcdc=parameter[_0x52a94e(0x480)][_0x47a310[_0x52a94e(0x1a4)]];_0x1fb040=_0x1fb040+(_0x52a94e(0x19c)+_0x186537['Company'][_0x52a94e(0x380)]((_0x16dcdc===null||_0x16dcdc===void 0x0?void 0x0:_0x16dcdc[_0x52a94e(0x277)])===undefined?'Dummy.png':_0x16dcdc[_0x52a94e(0x277)])+');\x22\x20value=\x22')+_0x47a310[_0x52a94e(0x3f9)]+(_0x52a94e(0x17d)+_0x47a310[_0x52a94e(0x324)]+_0x52a94e(0x19a));}if((_0x5a422e===null||_0x5a422e===void 0x0?void 0x0:_0x5a422e[_0x52a94e(0x29d)]())===_0x52a94e(0x1c0))_0x1fb040+=_0x52a94e(0x2b8);else _0x1fb040+=_0x52a94e(0x26b);_0x30dbb1[_0x52a94e(0x46e)]!==_0x1fb040&&(_0x30dbb1['innerHTML']=_0x1fb040);var _0x34c9f2=parseInt(_0x14676d[_0x52a94e(0x275)]===''?'-1':_0x14676d[_0x52a94e(0x275)]);_0x34c9f2===-0x1?(document[_0x52a94e(0x287)](_0x52a94e(0x103))[_0x52a94e(0x1b6)]('hidden',''),document['getElementById'](_0x52a94e(0x190))[_0x52a94e(0x1b6)](_0x52a94e(0x11e),''),document[_0x52a94e(0x287)](_0x52a94e(0x357))[_0x52a94e(0x1b6)](_0x52a94e(0x11e),''),document[_0x52a94e(0x287)](_0x52a94e(0x107))[_0x52a94e(0x1b6)](_0x52a94e(0x11e),''),document['getElementById'](_0x52a94e(0x41b))[_0x52a94e(0x1b6)]('hidden',''),document[_0x52a94e(0x287)]('transport-del')[_0x52a94e(0x1b6)]('hidden','')):(document[_0x52a94e(0x287)](_0x52a94e(0x103))['removeAttribute']('hidden'),document[_0x52a94e(0x287)](_0x52a94e(0x190))[_0x52a94e(0x3d4)]('hidden'),document['getElementById'](_0x52a94e(0x357))['removeAttribute'](_0x52a94e(0x11e)),document['getElementById'](_0x52a94e(0x107))[_0x52a94e(0x3d4)]('hidden'),document[_0x52a94e(0x287)](_0x52a94e(0x41b))[_0x52a94e(0x3d4)]('hidden'),document[_0x52a94e(0x287)](_0x52a94e(0xf5))[_0x52a94e(0x3d4)](_0x52a94e(0x11e)));if(this['company'][_0x52a94e(0x2c6)][_0x52a94e(0x404)]%0x5===0x0){var _0x507325=(_0x2c25fb=this[_0x52a94e(0x19d)]())===null||_0x2c25fb===void 0x0?void 0x0:_0x2c25fb[_0x52a94e(0x2ee)];if(_0x507325===undefined)_0x507325=-0x1;_0x30dbb1['value']!==(_0x507325===null||_0x507325===void 0x0?void 0x0:_0x507325[_0x52a94e(0x259)]())&&(_0x30dbb1[_0x52a94e(0x275)]=_0x507325===null||_0x507325===void 0x0?void 0x0:_0x507325['toString']());}}['updateProduction'](){var _0x5b1bcf=_0x3cbfa0,_0x23b57f,_0x3dcf62;if(((_0x23b57f=this[_0x5b1bcf(0x113)])===null||_0x23b57f===void 0x0?void 0x0:_0x23b57f[_0x5b1bcf(0x1a4)])===-0x1||((_0x3dcf62=this['company'])===null||_0x3dcf62===void 0x0?void 0x0:_0x3dcf62[_0x5b1bcf(0x1a4)])===-0x2)return;var _0x38f0a3=_0x186537[_0x5b1bcf(0x244)]['getImageUrl'](parameter[_0x5b1bcf(0x480)][this[_0x5b1bcf(0x113)][_0x5b1bcf(0x1a4)]][_0x5b1bcf(0x277)]);if(document['getElementById']('companydialog-production-table-icon')[_0x5b1bcf(0x443)]!==_0x38f0a3)document[_0x5b1bcf(0x287)]('companydialog-production-table-icon')[_0x5b1bcf(0x443)]=_0x38f0a3;document[_0x5b1bcf(0x287)]('workers')[_0x5b1bcf(0x210)]=this[_0x5b1bcf(0x113)][_0x5b1bcf(0x47e)][_0x5b1bcf(0x259)]()+(this[_0x5b1bcf(0x113)]['workersComming']?'+'+this[_0x5b1bcf(0x113)][_0x5b1bcf(0x149)]:'')+_0x5b1bcf(0x403);var _0x17b68e=0x0;for(var _0x1fba10=0x0;_0x1fba10<this[_0x5b1bcf(0x113)][_0x5b1bcf(0x205)][_0x5b1bcf(0x28d)];_0x1fba10++){if(this[_0x5b1bcf(0x113)][_0x5b1bcf(0x205)][_0x1fba10]>_0x17b68e)_0x17b68e=this[_0x5b1bcf(0x113)][_0x5b1bcf(0x205)][_0x1fba10];}document[_0x5b1bcf(0x287)]('workersIn')['textContent']=_0x17b68e+'/'+(this[_0x5b1bcf(0x113)]['workersIn']*parameter[_0x5b1bcf(0x100)]+parameter[_0x5b1bcf(0x100)])+(this[_0x5b1bcf(0x113)]['workersInComming']?'+'+this[_0x5b1bcf(0x113)][_0x5b1bcf(0x42b)]*parameter['capacityPerHelper']:'')+'▤\x20',document[_0x5b1bcf(0x287)](_0x5b1bcf(0x1e8))[_0x5b1bcf(0x210)]=this[_0x5b1bcf(0x113)]['produced']+'/'+(this['company'][_0x5b1bcf(0x1e8)]*parameter[_0x5b1bcf(0x100)]+parameter[_0x5b1bcf(0x100)])+(this['company']['workersOutComming']?'+'+this[_0x5b1bcf(0x113)][_0x5b1bcf(0x252)]*parameter[_0x5b1bcf(0x100)]:'')+'▤\x20';var _0x4d3070=document[_0x5b1bcf(0x287)]('companydialog-production-table'),_0x3575f4=parameter[_0x5b1bcf(0x480)][this[_0x5b1bcf(0x113)][_0x5b1bcf(0x1a4)]],_0x2dc36d=document[_0x5b1bcf(0x287)](_0x5b1bcf(0x23e));if(this[_0x5b1bcf(0x113)][_0x5b1bcf(0x2c6)][_0x5b1bcf(0x30a)]['level']<_0x3575f4[_0x5b1bcf(0xf4)]&&!_0x2dc36d['hasAttribute']('hidden'))_0x2dc36d[_0x5b1bcf(0x1b6)](_0x5b1bcf(0x11e),'');if(this[_0x5b1bcf(0x113)][_0x5b1bcf(0x2c6)][_0x5b1bcf(0x30a)]['level']>=_0x3575f4[_0x5b1bcf(0xf4)]&&_0x2dc36d['hasAttribute'](_0x5b1bcf(0x11e)))_0x2dc36d[_0x5b1bcf(0x3d4)](_0x5b1bcf(0x11e));var _0x2dc36d=document['getElementById'](_0x5b1bcf(0x1af));if(this['company'][_0x5b1bcf(0x2c6)][_0x5b1bcf(0x30a)][_0x5b1bcf(0xf4)]>=_0x3575f4[_0x5b1bcf(0xf4)]&&!_0x2dc36d[_0x5b1bcf(0x1f5)]('hidden'))_0x2dc36d[_0x5b1bcf(0x1b6)](_0x5b1bcf(0x11e),'');if(this['company'][_0x5b1bcf(0x2c6)][_0x5b1bcf(0x30a)]['level']<_0x3575f4[_0x5b1bcf(0xf4)]&&_0x2dc36d[_0x5b1bcf(0x1f5)](_0x5b1bcf(0x11e)))_0x2dc36d[_0x5b1bcf(0x3d4)]('hidden');if(this['company'][_0x5b1bcf(0x2c6)][_0x5b1bcf(0x30a)][_0x5b1bcf(0xf4)]<_0x3575f4[_0x5b1bcf(0xf4)]){var _0x3c19cb=_0x5b1bcf(0x1f6),_0x10b527=this[_0x5b1bcf(0x113)][_0x5b1bcf(0x2c6)][_0x5b1bcf(0x18e)](this[_0x5b1bcf(0x113)]['world'][_0x5b1bcf(0x30a)]['level']+0x1),_0x267fab='';for(var _0x1fba10=0x0;_0x1fba10<_0x10b527['length'];_0x1fba10++){var _0x3575f4=_0x10b527[_0x1fba10];_0x267fab+=_0x5b1bcf(0x2fd)+_0x186537[_0x5b1bcf(0x244)][_0x5b1bcf(0x380)](_0x3575f4[_0x5b1bcf(0x277)])+_0x5b1bcf(0xea);}var _0x24ebc4=parameter[_0x5b1bcf(0x40a)][this['company'][_0x5b1bcf(0x2c6)]['game'][_0x5b1bcf(0xf4)]-0x1][_0x5b1bcf(0x179)];_0x3c19cb+='\x20Um\x20in\x20den\x20n&auml;chsten\x20Level\x20zu\x20kommen,\x20muss\x20folgendes\x20erf&uuml;lt\x20werden:<br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ol>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>\x20\x20\x20\x20Diese\x20Geb&auml;de\x20m&uuml;ssen\x20noch\x20gebaut\x20werden:<br/><span>'+_0x267fab+'</span></LI>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li>\x20\x20\x20\x20'+_0x24ebc4+'👤\x20(Daf&uuml;r\x20m&uuml;ssen\x20Helfer\x20produziert\x20werden.)\x20</LI>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ol>',document[_0x5b1bcf(0x287)]('infonextlevel')['innerHTML']!==_0x3c19cb&&(document['getElementById'](_0x5b1bcf(0x1af))[_0x5b1bcf(0x46e)]=_0x3c19cb);}for(var _0x1fba10=0x0;_0x1fba10<this[_0x5b1bcf(0x113)]['rawmaterials']['length'];_0x1fba10++){var _0x172c27=_0x4d3070[_0x5b1bcf(0x1eb)][0x0][_0x5b1bcf(0x1eb)][_0x1fba10+0x3];if(_0x172c27[_0x5b1bcf(0x1f5)](_0x5b1bcf(0x11e)))_0x172c27[_0x5b1bcf(0x3d4)](_0x5b1bcf(0x11e));var _0x10adc9=parameter[_0x5b1bcf(0x480)][_0x3575f4[_0x5b1bcf(0x130)][_0x1fba10]],_0x1a45e0=_0x10adc9[_0x5b1bcf(0x324)],_0x4522fa=_0x186537[_0x5b1bcf(0x244)][_0x5b1bcf(0x380)](_0x10adc9[_0x5b1bcf(0x277)]),_0x2443b6=this[_0x5b1bcf(0x113)][_0x5b1bcf(0x205)][_0x1fba10]+'/'+(parameter[_0x5b1bcf(0x100)]+this[_0x5b1bcf(0x113)]['workersIn']*parameter[_0x5b1bcf(0x100)]);if(_0x172c27[_0x5b1bcf(0x1eb)][0x0]['textContent']!==_0x1a45e0)_0x172c27[_0x5b1bcf(0x1eb)][0x0][_0x5b1bcf(0x210)]=_0x1a45e0;if(_0x172c27[_0x5b1bcf(0x1eb)][0x1][_0x5b1bcf(0x1eb)][0x0]['src']!==_0x4522fa)_0x172c27['children'][0x1][_0x5b1bcf(0x1eb)][0x0][_0x5b1bcf(0x443)]=_0x4522fa;if(_0x172c27['children'][0x2]['textContent']!==_0x2443b6)_0x172c27[_0x5b1bcf(0x1eb)][0x2][_0x5b1bcf(0x210)]=_0x2443b6;}for(var _0x1fba10=this['company'][_0x5b1bcf(0x205)][_0x5b1bcf(0x28d)];_0x1fba10<0x10;_0x1fba10++){var _0x172c27=_0x4d3070['children'][0x0][_0x5b1bcf(0x1eb)][_0x1fba10+0x3];if(!_0x172c27[_0x5b1bcf(0x1f5)](_0x5b1bcf(0x11e)))_0x172c27['setAttribute'](_0x5b1bcf(0x11e),'');}var _0x1fd118=document[_0x5b1bcf(0x287)]('production-info'),_0x245944='';if(this[_0x5b1bcf(0x113)]['productid']===_0x356c7b['Product']['productHelper']&&this[_0x5b1bcf(0x113)][_0x5b1bcf(0x2c6)][_0x5b1bcf(0x30a)][_0x5b1bcf(0x3d1)]>=parameter[_0x5b1bcf(0x40a)][this[_0x5b1bcf(0x113)]['world'][_0x5b1bcf(0x30a)][_0x5b1bcf(0xf4)]-0x1][_0x5b1bcf(0x3ca)])_0x245944+=_0x5b1bcf(0x336)+parameter[_0x5b1bcf(0x40a)][this[_0x5b1bcf(0x113)][_0x5b1bcf(0x2c6)][_0x5b1bcf(0x30a)][_0x5b1bcf(0xf4)]-0x1][_0x5b1bcf(0x3ca)]+_0x5b1bcf(0x2da);var _0x476583=0x0,_0x3536b5=this[_0x5b1bcf(0x113)][_0x5b1bcf(0x2c6)]['findCompanyThatProduces'](_0x356c7b[_0x5b1bcf(0x1e6)][_0x5b1bcf(0x242)]);_0x3536b5['forEach'](_0x53ad91=>_0x476583=_0x476583+_0x53ad91['produced']);if(this[_0x5b1bcf(0x113)][_0x5b1bcf(0x1a4)]===_0x356c7b[_0x5b1bcf(0x1e6)][_0x5b1bcf(0x242)]&&_0x476583>=parameter[_0x5b1bcf(0x40a)][this[_0x5b1bcf(0x113)][_0x5b1bcf(0x2c6)][_0x5b1bcf(0x30a)][_0x5b1bcf(0xf4)]-0x1][_0x5b1bcf(0x4a7)])_0x245944+=_0x5b1bcf(0x336)+parameter[_0x5b1bcf(0x40a)][this[_0x5b1bcf(0x113)][_0x5b1bcf(0x2c6)]['game'][_0x5b1bcf(0xf4)]-0x1][_0x5b1bcf(0x4a7)]+_0x5b1bcf(0x390);if(_0x1fd118[_0x5b1bcf(0x46e)]!==_0x245944)_0x1fd118[_0x5b1bcf(0x46e)]=_0x245944;}[_0x3cbfa0(0x1f9)](_0x13c09f=![]){var _0x4066a2=_0x3cbfa0,_0xac635f,_0x4b3f67,_0x504f43,_0x226e43,_0x1ad16d,_0x557428,_0x4ef65d,_0x43bac0,_0x219511;if(!this[_0x4066a2(0x113)])return;try{if(!$(this[_0x4066a2(0x3ef)])[_0x4066a2(0x177)](_0x4066a2(0x189)))return;}catch(_0x323665){return;}this[_0x4066a2(0x3b3)]();var _0x39829c=[![],![],![],![],!![]],_0x15db45=[_0x4066a2(0x3fb),_0x4066a2(0x18b),_0x4066a2(0x1e7),_0x4066a2(0x145),_0x4066a2(0x2d0)];if(this[_0x4066a2(0x113)][_0x4066a2(0x1a4)]===-0x2){var _0x21defa=document[_0x4066a2(0x287)](_0x4066a2(0x378));if(this[_0x4066a2(0x113)]['soldiersComing']&&!_0x21defa[_0x4066a2(0x1f1)])_0x21defa[_0x4066a2(0x1f1)]=!![];if(!this[_0x4066a2(0x113)][_0x4066a2(0x111)]&&_0x21defa[_0x4066a2(0x1f1)])_0x21defa['disabled']=![];_0x39829c[0x2]=!![],_0x39829c[0x4]=![];}else this[_0x4066a2(0x113)][_0x4066a2(0x1a4)]===-0x1?(!this[_0x4066a2(0x113)][_0x4066a2(0x260)]&&document[_0x4066a2(0x287)]('companydialog-build-tabs')[_0x4066a2(0x1f5)]('hidden')&&document[_0x4066a2(0x287)](_0x4066a2(0x122))[_0x4066a2(0x3d4)]('hidden'),this[_0x4066a2(0x113)]['buildingInProgress']&&!document['getElementById'](_0x4066a2(0x122))[_0x4066a2(0x1f5)](_0x4066a2(0x11e))&&document[_0x4066a2(0x287)]('companydialog-build-tabs')[_0x4066a2(0x1b6)](_0x4066a2(0x11e),''),_0x39829c[0x3]=!![]):(_0x39829c[0x0]=!![],_0x39829c[0x1]=!![]);var _0x195753=-0x1;for(var _0x3e7a7e=0x0;_0x3e7a7e<_0x39829c[_0x4066a2(0x28d)];_0x3e7a7e++){if(_0x195753===-0x1&&_0x39829c[_0x3e7a7e])_0x195753=_0x3e7a7e;var _0x5f60a2=_0x15db45[_0x3e7a7e];_0x39829c[_0x3e7a7e]&&document['getElementById'](_0x5f60a2)[_0x4066a2(0x27a)][_0x4066a2(0x1f5)](_0x4066a2(0x11e))&&document[_0x4066a2(0x287)](_0x5f60a2)[_0x4066a2(0x27a)][_0x4066a2(0x3d4)](_0x4066a2(0x11e)),!_0x39829c[_0x3e7a7e]&&!document[_0x4066a2(0x287)](_0x5f60a2)[_0x4066a2(0x27a)][_0x4066a2(0x1f5)](_0x4066a2(0x11e))&&document[_0x4066a2(0x287)](_0x5f60a2)[_0x4066a2(0x27a)][_0x4066a2(0x1b6)](_0x4066a2(0x11e),'');}_0x39829c[$(_0x4066a2(0x196))['tabs']('option',_0x4066a2(0x1ce))]===![]&&$('#companydialog-tabs')[_0x4066a2(0x176)](_0x4066a2(0x1e1),_0x4066a2(0x1ce),_0x195753);if((_0x504f43=(_0x4b3f67=(_0xac635f=document[_0x4066a2(0x287)](_0x4066a2(0x3fb)))===null||_0xac635f===void 0x0?void 0x0:_0xac635f['parentElement'])===null||_0x4b3f67===void 0x0?void 0x0:_0x4b3f67[_0x4066a2(0x204)])===null||_0x504f43===void 0x0?void 0x0:_0x504f43[_0x4066a2(0x456)](_0x4066a2(0x2ec)))this[_0x4066a2(0x4ab)]();if((_0x557428=(_0x1ad16d=(_0x226e43=document['getElementById'](_0x4066a2(0x18b)))===null||_0x226e43===void 0x0?void 0x0:_0x226e43[_0x4066a2(0x27a)])===null||_0x1ad16d===void 0x0?void 0x0:_0x1ad16d[_0x4066a2(0x204)])===null||_0x557428===void 0x0?void 0x0:_0x557428['contains'](_0x4066a2(0x2ec)))this[_0x4066a2(0x279)]();if((_0x219511=(_0x43bac0=(_0x4ef65d=document[_0x4066a2(0x287)](_0x4066a2(0x145)))===null||_0x4ef65d===void 0x0?void 0x0:_0x4ef65d['parentElement'])===null||_0x43bac0===void 0x0?void 0x0:_0x43bac0['classList'])===null||_0x219511===void 0x0?void 0x0:_0x219511['contains'](_0x4066a2(0x2ec)))this[_0x4066a2(0x41f)]();}[_0x3cbfa0(0x3b3)](){var _0x6eaebe=_0x3cbfa0,_0x3adba7,_0x31459c=this;if($(this['dom'])[_0x6eaebe(0x2df)]()['find'](_0x6eaebe(0x3fd))['length']>0x0){var _0x4d5f5b=parameter[_0x6eaebe(0x480)][this[_0x6eaebe(0x113)][_0x6eaebe(0x1a4)]],_0x2787d7=_0x4d5f5b===null||_0x4d5f5b===void 0x0?void 0x0:_0x4d5f5b[_0x6eaebe(0x277)];$(this[_0x6eaebe(0x3ef)])['parent']()['find'](_0x6eaebe(0x3fd))[0x0]['innerHTML']=_0x6eaebe(0x4af)+_0x186537[_0x6eaebe(0x244)]['getImageUrl'](_0x2787d7)+_0x6eaebe(0x21b)+((_0x3adba7=this['company'])===null||_0x3adba7===void 0x0?void 0x0:_0x3adba7[_0x6eaebe(0x324)])+'('+this[_0x6eaebe(0x113)]['produced']+')';}}['show'](){var _0x26e704=_0x3cbfa0,_0x5381f7=this;this[_0x26e704(0x3ef)][_0x26e704(0x3d4)](_0x26e704(0x11e)),this[_0x26e704(0x1f9)](),$(this[_0x26e704(0x3ef)])[_0x26e704(0x177)]({'width':_0x26e704(0x141),'draggable':!![],'open':function(_0x4ddc62,_0x153f9e){var _0x4e5123=_0x26e704;_0x5381f7[_0x4e5123(0x1f9)](!![]);},'close':function(_0x22b2cf,_0x3e1d0e){var _0x4826b8=_0x26e704;_0x5381f7['hasPaused']&&_0x5381f7[_0x4826b8(0x113)][_0x4826b8(0x2c6)][_0x4826b8(0x30a)]['resume']();},'create':function(_0x58ed18){setTimeout(()=>{var _0x4aa297=a0_0x4bc0;$(_0x58ed18['target'])[_0x4aa297(0x177)](_0x4aa297(0x13d))['find'](_0x4aa297(0x3bc))[0x0][_0x4aa297(0x439)](_0x4aa297(0xef),_0x25d6a9=>{var _0x1767b3=_0x4aa297;_0x5381f7[_0x1767b3(0x16f)]();});},0xc8);},'resizable':![]})[_0x26e704(0x177)](_0x26e704(0x13d))[_0x26e704(0x20a)](_0x26e704(0x1e1),'containment',_0x26e704(0xf3)),$(this['dom'])[_0x26e704(0x2df)]()[_0x26e704(0x14f)]({'position':_0x26e704(0x2c1)});}['close'](){var _0xaaf445=_0x3cbfa0;$(this['dom'])[_0xaaf445(0x177)](_0xaaf445(0x16f));}}_0x3a2b10[_0x3cbfa0(0x26e)]=_0x34ee76;}),define(a0_0x979828(0x206),[a0_0x979828(0x267),a0_0x979828(0x3f6),a0_0x979828(0x457),a0_0x979828(0x28a),'game/product','game/game'],function(_0x4c4051,_0x2d82d8,_0x445ef2,_0x8ce193,_0x5961d9,_0x16449b){'use strict';var _0x1029fb=a0_0x979828;Object[_0x1029fb(0x1db)](_0x2d82d8,_0x1029fb(0x241),{'value':!![]}),_0x2d82d8[_0x1029fb(0x244)]=void 0x0;class _0x386b67{constructor(_0x429c70=undefined,_0x3a2ef3=undefined,_0x88b971=undefined,_0x21e45b=undefined,_0x3aa4e1=undefined,_0x839438=undefined,_0x501e63=undefined,_0x3f508f=undefined){var _0x20965e=_0x1029fb;this[_0x20965e(0x36f)]=_0x20965e(0x244),this[_0x20965e(0x297)]=0x0,this[_0x20965e(0x21e)]=0x0,this['speed']=0xa,this[_0x20965e(0x123)]=0x0,this[_0x20965e(0x205)]=[],this[_0x20965e(0x138)]=[],this[_0x20965e(0x3f9)]=_0x3a2ef3,this[_0x20965e(0x1a4)]=_0x88b971,this[_0x20965e(0x47e)]=_0x21e45b,this[_0x20965e(0x12c)]=_0x3aa4e1,this['workersOut']=_0x839438,this['x']=_0x501e63,this['y']=_0x3f508f,this[_0x20965e(0x2c6)]=_0x429c70,_0x3aa4e1=0x0,_0x88b971!==undefined&&this[_0x20965e(0x3ea)](_0x88b971);}[_0x1029fb(0x3ea)](_0x3daa8c){var _0x52381d=_0x1029fb;this[_0x52381d(0x1a4)]=_0x3daa8c;var _0x5a0aee=parameter['allProducts'][this[_0x52381d(0x1a4)]];if(_0x5a0aee){if(this['domIcon'])this[_0x52381d(0x464)][_0x52381d(0x443)]=_0x386b67['getImageUrl'](_0x5a0aee[_0x52381d(0x277)]);var _0x51570b=[];for(var _0x4ce213=0x0;_0x4ce213<_0x5a0aee[_0x52381d(0x130)][_0x52381d(0x28d)];_0x4ce213++){_0x51570b[_0x52381d(0x1bb)](0x0);}}this[_0x52381d(0x47e)]=0x0,this['workersIn']=0x0,this[_0x52381d(0x1e8)]=0x0,this[_0x52381d(0x205)]=_0x51570b,this['updateName']();}[_0x1029fb(0x452)](){var _0x4d734c=_0x1029fb,_0x44e711=parameter['allProducts'][this[_0x4d734c(0x1a4)]];if(_0x44e711){var _0x39eab1=[];for(var _0x331f61=0x0;_0x331f61<_0x44e711[_0x4d734c(0x130)][_0x4d734c(0x28d)];_0x331f61++){_0x39eab1[_0x4d734c(0x1bb)](0x0);}this[_0x4d734c(0x205)]=_0x39eab1;var _0x486cc5=0x0;for(var _0x1c8cc1=0x0;_0x1c8cc1<0x2710;_0x1c8cc1++){var _0x3b7314=_0x1c8cc1===0x0?_0x44e711[_0x4d734c(0x324)]:_0x44e711[_0x4d734c(0x324)]+_0x1c8cc1,_0x7ca1c5=![];for(var _0x331f61=0x0;_0x331f61<this[_0x4d734c(0x2c6)][_0x4d734c(0x222)][_0x4d734c(0x28d)];_0x331f61++){if(this[_0x4d734c(0x2c6)][_0x4d734c(0x222)][_0x331f61][_0x4d734c(0x324)]===_0x3b7314)_0x7ca1c5=!![];}if(!_0x7ca1c5){this['name']=_0x3b7314;break;}}}else this['name']='';}[_0x1029fb(0x28b)](){var _0x3ac60e=_0x1029fb;this[_0x3ac60e(0x1f9)]();for(var _0x40e585=0x0;_0x40e585<this[_0x3ac60e(0x138)]['length'];_0x40e585++){this['transports'][_0x40e585][_0x3ac60e(0x28b)]();}if(this['workers']===0x0)return;var _0x720f53=this[_0x3ac60e(0x1e8)]*parameter[_0x3ac60e(0x100)]+parameter['capacityPerHelper'];this[_0x3ac60e(0x21e)]=this[_0x3ac60e(0x21e)]+this[_0x3ac60e(0x47e)]*this[_0x3ac60e(0x2a8)];var _0x2c5d87=Math[_0x3ac60e(0x282)](this[_0x3ac60e(0x21e)]/0x3e8);_0x2c5d87=Math[_0x3ac60e(0x161)](_0x2c5d87,_0x720f53-this[_0x3ac60e(0x297)],...this[_0x3ac60e(0x205)]);if(this[_0x3ac60e(0x1a4)]===_0x5961d9[_0x3ac60e(0x1e6)][_0x3ac60e(0x198)]&&this[_0x3ac60e(0x2c6)]['game'][_0x3ac60e(0x3d1)]>=parameter['allLevels'][this['world'][_0x3ac60e(0x30a)]['level']-0x1][_0x3ac60e(0x3ca)])_0x2c5d87=0x0;var _0x49c0e1=0x0;this['world'][_0x3ac60e(0x1f3)](_0x5961d9['Product'][_0x3ac60e(0x242)])[_0x3ac60e(0x2fb)](_0x4fb38b=>_0x49c0e1+=_0x4fb38b['produced']);if(this['productid']===_0x5961d9['Product'][_0x3ac60e(0x242)]&&_0x49c0e1>=parameter[_0x3ac60e(0x40a)][this[_0x3ac60e(0x2c6)][_0x3ac60e(0x30a)][_0x3ac60e(0xf4)]-0x1][_0x3ac60e(0x4a7)])_0x2c5d87=0x0;if(_0x2c5d87>0x0){this[_0x3ac60e(0x21e)]=this[_0x3ac60e(0x21e)]%0x3e8,this[_0x3ac60e(0x297)]=this[_0x3ac60e(0x297)]+_0x2c5d87;for(var _0x40e585=0x0;_0x40e585<this[_0x3ac60e(0x205)][_0x3ac60e(0x28d)];_0x40e585++){this[_0x3ac60e(0x205)][_0x40e585]=this['rawmaterials'][_0x40e585]-_0x2c5d87;}this[_0x3ac60e(0x1a4)]===_0x5961d9[_0x3ac60e(0x1e6)][_0x3ac60e(0x198)]&&(this[_0x3ac60e(0x2c6)][_0x3ac60e(0x30a)][_0x3ac60e(0x3d1)]=this[_0x3ac60e(0x2c6)][_0x3ac60e(0x30a)][_0x3ac60e(0x3d1)]+_0x2c5d87);}this['update']();}[_0x1029fb(0x1f9)](){var _0x1d76ca=_0x1029fb;if(this[_0x1d76ca(0x47b)]){var _0x5d215d=this[_0x1d76ca(0x297)]===0x0?'':this['produced'][_0x1d76ca(0x259)]();if(this[_0x1d76ca(0x47b)][_0x1d76ca(0x210)]!==_0x5d215d)this[_0x1d76ca(0x47b)][_0x1d76ca(0x210)]=_0x5d215d;}}static[_0x1029fb(0x380)](_0x564d52){if(_0x564d52===undefined)return'';return'images/'+_0x564d52;}[_0x1029fb(0x309)](){var _0x55fb83=_0x1029fb,_0x3690b5=this,_0x5684bb='',_0x821a40=parameter[_0x55fb83(0x36c)],_0x2ca396=this[_0x55fb83(0x1a4)]===-0x1?undefined:parameter[_0x55fb83(0x480)][this['productid']],_0x31055d=_0x2ca396===undefined?'':_0x2ca396[_0x55fb83(0x324)];_0x5684bb=_0x55fb83(0x128)+((this['y']-0x1)*_0x821a40+'px')+_0x55fb83(0x43c)+((this['x']-0x3)*_0x821a40+'px')+_0x55fb83(0x10c)+_0x821a40*0x3+';height:'+_0x821a40*0x2+_0x55fb83(0xfb)+0x1*_0x821a40+_0x55fb83(0x17f)+0x2*_0x821a40+',0\x20'+0x3*_0x821a40+','+0x1*_0x821a40+'\x20'+0x2*_0x821a40+','+0x2*_0x821a40+'\x20'+0x1*_0x821a40+','+0x2*_0x821a40+_0x55fb83(0x317)+0x1*_0x821a40+_0x55fb83(0x192);var _0x6fe207='';if(this[_0x55fb83(0x1a4)]===-0x1)this['domIcon']=document[_0x55fb83(0x1fc)]()[_0x55fb83(0x1b5)]('<img\x20src=\x22'+_0x386b67[_0x55fb83(0x380)](_0x55fb83(0x43f))+_0x55fb83(0x4a3)+parameter[_0x55fb83(0x36c)]+_0x55fb83(0x436)+parameter['zoomfactor']+'\x22\x20style=\x22top:'+((this['y']-0x1)*_0x821a40+'px')+_0x55fb83(0x43c)+((this['x']-0x3)*_0x821a40+_0x821a40+'px')+_0x55fb83(0x1d5))[_0x55fb83(0x1eb)][0x0];else{if(_0x2ca396!==undefined&&_0x2ca396[_0x55fb83(0x277)]!=='')this[_0x55fb83(0x464)]=document[_0x55fb83(0x1fc)]()['createContextualFragment'](_0x55fb83(0x2fd)+_0x386b67[_0x55fb83(0x380)](_0x2ca396[_0x55fb83(0x277)])+_0x55fb83(0x3c4)+_0x2ca396[_0x55fb83(0x324)]+'\x22\x20width=\x22'+parameter[_0x55fb83(0x36c)]+_0x55fb83(0x436)+parameter[_0x55fb83(0x36c)]+_0x55fb83(0x30d)+((this['y']-0x1)*_0x821a40+'px')+_0x55fb83(0x43c)+((this['x']-0x3)*_0x821a40+_0x821a40+'px')+';position:absolute\x22>')['children'][0x0];else this['domIcon']=document[_0x55fb83(0x1fc)]()['createContextualFragment'](_0x55fb83(0x2fd)+_0x386b67['getImageUrl'](_0x55fb83(0x21d))+'\x22\x20title=\x22\x22\x20width=\x22'+parameter[_0x55fb83(0x36c)]+_0x55fb83(0x436)+parameter[_0x55fb83(0x36c)]+_0x55fb83(0x30d)+((this['y']-0x1)*_0x821a40+'px')+_0x55fb83(0x43c)+((this['x']-0x3)*_0x821a40+_0x821a40+'px')+_0x55fb83(0x1d5))[_0x55fb83(0x1eb)][0x0];}this[_0x55fb83(0x3ef)]=document[_0x55fb83(0x1fc)]()[_0x55fb83(0x1b5)](_0x5684bb)[_0x55fb83(0x1eb)][0x0],this[_0x55fb83(0x47b)]=document[_0x55fb83(0x1fc)]()[_0x55fb83(0x1b5)](_0x55fb83(0xf2)+((this['y']-0x1)*_0x821a40+0x28+'px')+_0x55fb83(0x43c)+((this['x']-0x3)*_0x821a40+0x28+'px')+_0x55fb83(0x234))[_0x55fb83(0x1eb)][0x0],this['domInput']=document['createRange']()['createContextualFragment']('<span\x20\x20style=\x22font-size:6pt;top:'+((this['y']-0x1)*_0x821a40+0xa+'px')+_0x55fb83(0x43c)+((this['x']-0x3)*_0x821a40+0x14+'px')+_0x55fb83(0x234))['children'][0x0],this['dom']['appendChild'](this[_0x55fb83(0x47b)]),this[_0x55fb83(0x3ef)][_0x55fb83(0x29c)](this[_0x55fb83(0x3ff)]),this[_0x55fb83(0x3ef)]['appendChild'](this[_0x55fb83(0x464)]),this[_0x55fb83(0x2c6)][_0x55fb83(0x3ef)][_0x55fb83(0x29c)](this[_0x55fb83(0x3ef)]),this[_0x55fb83(0x3ef)][_0x55fb83(0x1b6)]('companyid',this[_0x55fb83(0x3f9)][_0x55fb83(0x259)]()),this[_0x55fb83(0x3ef)]['addEventListener'](_0x55fb83(0x497),_0x45b940=>{var _0x450543=_0x55fb83;return _0x3690b5[_0x450543(0x414)](_0x45b940),undefined;}),this['dom'][_0x55fb83(0x113)]=this;for(var _0x5cba0f=0x0;_0x5cba0f<this['transports'][_0x55fb83(0x28d)];_0x5cba0f++){this[_0x55fb83(0x138)][_0x5cba0f][_0x55fb83(0x309)]();}}['addWorker'](_0x11d2a9){var _0x45b814=_0x1029fb,_0x53b47f='',_0xa029a7=this[_0x45b814(0x2c6)]['findCompanyThatProduces'](_0x5961d9['Product'][_0x45b814(0x198)])[0x0],_0x3e0a2f=_0xa029a7[_0x45b814(0x297)]-_0xa029a7['transports']['length'];if(_0x3e0a2f<0x1){_0x16449b[_0x45b814(0x19e)][_0x45b814(0x39f)](_0x45b814(0x2b9));return;}var _0x9ddfe4=new _0x8ce193[(_0x45b814(0x346))](_0xa029a7);_0x9ddfe4['workers']=0x1,_0x9ddfe4[_0x45b814(0x2ee)]=this['companyID'],_0x9ddfe4['active']=!![],_0x9ddfe4[_0x45b814(0x309)](),_0x9ddfe4[_0x45b814(0x33d)]={'productid':_0xa029a7[_0x45b814(0x1a4)],'workertype':_0x11d2a9},_0xa029a7['transports'][_0x45b814(0x1bb)](_0x9ddfe4);if(_0x11d2a9===_0x45b814(0x47e))this['workersComming']=this['workersComming']?this[_0x45b814(0x149)]+0x1:0x1;else{if(_0x11d2a9===_0x45b814(0x12c))this['workersInComming']=this[_0x45b814(0x42b)]?this['workersInComming']+0x1:0x1;else{if(_0x11d2a9===_0x45b814(0x1e8))this[_0x45b814(0x252)]=this[_0x45b814(0x252)]?this[_0x45b814(0x252)]+0x1:0x1;else _0x11d2a9[_0x45b814(0x149)]=_0x11d2a9[_0x45b814(0x149)]?_0x11d2a9['workersComming']+0x1:0x1;}}}[_0x1029fb(0x448)](_0x43a755){var _0x3f4deb=_0x1029fb,_0x1bda38=this[_0x3f4deb(0x2c6)]['findCompanyThatProduces'](_0x5961d9[_0x3f4deb(0x1e6)][_0x3f4deb(0x198)])[0x0],_0x4e193c=new _0x8ce193[(_0x3f4deb(0x346))](_0x1bda38);_0x4e193c[_0x3f4deb(0x47e)]=0x1,_0x4e193c['x']=this['x'],_0x4e193c['y']=this['y'];if(_0x43a755===_0x3f4deb(0x47e)){if(this[_0x3f4deb(0x47e)]===0x0)return;this[_0x3f4deb(0x47e)]--;}else{if(_0x43a755===_0x3f4deb(0x12c)){if(this[_0x3f4deb(0x12c)]===0x0)return;this[_0x3f4deb(0x12c)]--;}else{if(_0x43a755==='workersOut'){if(this[_0x3f4deb(0x1e8)]===0x0)return;this[_0x3f4deb(0x1e8)]--;}else{if(_0x43a755[_0x3f4deb(0x47e)]===0x0)return;_0x43a755['workers']--,_0x4e193c['x']=_0x43a755['x'],_0x4e193c['y']=_0x43a755['y'];}}}_0x4e193c[_0x3f4deb(0x1ce)]=!![],_0x4e193c[_0x3f4deb(0x33d)]={'goHome':!![],'productid':_0x5961d9[_0x3f4deb(0x1e6)]['productHelper']},_0x4e193c[_0x3f4deb(0x37b)](_0x1bda38[_0x3f4deb(0x3f9)]),_0x4e193c[_0x3f4deb(0x309)](),_0x1bda38[_0x3f4deb(0x138)][_0x3f4deb(0x1bb)](_0x4e193c);}[_0x1029fb(0x3e6)](){var _0x3afdcd=_0x1029fb,_0x3afacc=this[_0x3afdcd(0x2c6)][_0x3afdcd(0x1f3)](_0x5961d9[_0x3afdcd(0x1e6)][_0x3afdcd(0x242)])[0x0],_0x1d36b9=new _0x8ce193[(_0x3afdcd(0x346))](_0x3afacc);_0x1d36b9[_0x3afdcd(0x47e)]=0x1,_0x1d36b9['x']=this['x'],_0x1d36b9['y']=this['y'],_0x1d36b9['active']=!![],_0x1d36b9[_0x3afdcd(0x33d)]={'goHome':!![],'productid':_0x5961d9[_0x3afdcd(0x1e6)][_0x3afdcd(0x242)]},_0x1d36b9[_0x3afdcd(0x37b)](_0x3afacc[_0x3afdcd(0x3f9)]),_0x1d36b9[_0x3afdcd(0x309)](),_0x3afacc[_0x3afdcd(0x138)][_0x3afdcd(0x1bb)](_0x1d36b9);}[_0x1029fb(0x2b2)](){var _0x2080c6=_0x1029fb;for(var _0x4c217f=0x0;_0x4c217f<this[_0x2080c6(0x47e)];_0x4c217f++)this[_0x2080c6(0x448)]('workers');for(var _0x4c217f=0x0;_0x4c217f<this[_0x2080c6(0x12c)];_0x4c217f++)this[_0x2080c6(0x448)]('workersIn');for(var _0x4c217f=0x0;_0x4c217f<this[_0x2080c6(0x1e8)];_0x4c217f++)this[_0x2080c6(0x448)](_0x2080c6(0x1e8));for(var _0x4c217f=0x0;_0x4c217f<this['transports']['length'];_0x4c217f++){while(this[_0x2080c6(0x138)][_0x4c217f][_0x2080c6(0x47e)]>0x0){this[_0x2080c6(0x448)](this['transports'][_0x4c217f]);}}var _0x481eb5=this;for(var _0x4c217f=0x0;_0x4c217f<parameter[_0x2080c6(0x44b)];_0x4c217f++){setTimeout(()=>_0x481eb5[_0x2080c6(0x3e6)](),_0x4c217f*0x64);}this[_0x2080c6(0x1a4)]=-0x2,this[_0x2080c6(0x464)][_0x2080c6(0x443)]=_0x386b67['getImageUrl']('Dummy.png');}['onclick'](_0x2badee){var _0x2f9d33=_0x1029fb;_0x2badee[_0x2f9d33(0x35e)]();var _0x421f34=_0x445ef2[_0x2f9d33(0x26e)]['getInstance']();_0x421f34['company']=this,_0x421f34[_0x2f9d33(0x3ec)]();}}_0x2d82d8[_0x1029fb(0x244)]=_0x386b67;}),define('game/citydialogmarket',[a0_0x979828(0x267),a0_0x979828(0x3f6),a0_0x979828(0x24c)],function(_0x39ab6d,_0x4c3225,_0x2b6148){'use strict';var _0x439826=a0_0x979828;Object['defineProperty'](_0x4c3225,_0x439826(0x241),{'value':!![]}),_0x4c3225['CityDialogMarket']=void 0x0;var _0x4828cc=(function(){var _0x38c157=Math['log'];return function(_0x58646a,_0x469054){return _0x38c157(_0x58646a)/(_0x469054?_0x38c157(_0x469054):0x1);};}());class _0x3b50af{static['getInstance'](){var _0x1a9c0c=_0x439826;if(_0x3b50af[_0x1a9c0c(0x2c7)]===undefined)_0x3b50af['instance']=new _0x3b50af();return _0x3b50af[_0x1a9c0c(0x2c7)];}[_0x439826(0x2ca)](){var _0x251689=_0x439826;return'\x20<table\x20id=\x22citydialog-market-table\x22\x20style=\x22height:100%;weight:100%;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Name</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th></th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th></th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th\x20style=\x22width:50px\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Market\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Price</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th></th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>\x20<select\x20id=\x22citydialog-market-table-target\x22\x20style=\x22width:80px\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22placeholder\x22>placeholder</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+function _0x2efd6f(){var _0x5c7959=a0_0x4bc0,_0x280376='';function _0x32e155(_0x205147,_0x1f0d29){var _0xa885a0=a0_0x4bc0;console[_0xa885a0(0x289)](_0x205147+'\x20'+_0x1f0d29);}for(var _0x25e7e7=0x0;_0x25e7e7<window[_0x5c7959(0x343)]['allProducts'][_0x5c7959(0x28d)];_0x25e7e7++){_0x280376=_0x280376+'<tr\x20>',_0x280376=_0x280376+'<td>'+window[_0x5c7959(0x343)][_0x5c7959(0x480)][_0x25e7e7]['getIcon']()+'</td>',_0x280376=_0x280376+_0x5c7959(0x4a5)+window[_0x5c7959(0x343)][_0x5c7959(0x480)][_0x25e7e7][_0x5c7959(0x324)]+_0x5c7959(0x3f2),_0x280376=_0x280376+_0x5c7959(0x25f)+'<div\x20id=\x22sell-slider_'+_0x25e7e7+_0x5c7959(0x143)+_0x5c7959(0x3c7),_0x280376=_0x280376+'<td\x20>0</td>',_0x280376=_0x280376+_0x5c7959(0x212)+_0x25e7e7+'\x22></span></td>',_0x280376=_0x280376+_0x5c7959(0x25f)+_0x5c7959(0x35c)+_0x25e7e7+_0x5c7959(0x217)+_0x5c7959(0x3c7),_0x280376=_0x280376+'<td>0</td>',_0x280376=_0x280376+_0x5c7959(0x159),_0x280376=_0x280376+_0x5c7959(0x3cd);}return _0x280376;}()+_0x251689(0x310);}[_0x439826(0x411)](){var _0x29af27=_0x439826,_0x52a353=this,_0x3c4006=_0x2b6148[_0x29af27(0x376)][_0x29af27(0x1b0)]()[_0x29af27(0x47a)];document[_0x29af27(0x287)](_0x29af27(0x40c))[_0x29af27(0x439)](_0x29af27(0x32f),_0x4d70d7=>{var _0x466e2a=_0x29af27;_0x2b6148[_0x466e2a(0x376)]['getInstance']()[_0x466e2a(0x1f9)](!![]);}),$(_0x29af27(0x38e))[_0x29af27(0x497)](function(_0x1c1e81){var _0xec7a6b=_0x29af27;_0x2b6148['CityDialog'][_0xec7a6b(0x1b0)]()['update'](!![]);});for(var _0xa66367=0x0;_0xa66367<parameter[_0x29af27(0x480)][_0x29af27(0x28d)];_0xa66367++){$(_0x29af27(0x23f)+_0xa66367)[_0x29af27(0x458)]({'min':0x0,'max':0x28,'range':_0x29af27(0x161),'value':0x28,'slide':function(_0x36dede,_0x252160){_0x3b50af['slide'](_0x36dede,![],'citydialog-market-info_');},'change':function(_0xaf0e3f,_0x98539d){_0x3b50af['changeSlider'](_0xaf0e3f,!![],'citydialog-market-info_');},'stop':function(_0x53e661,_0x501ec7){setTimeout(()=>{var _0x6ee77c=a0_0x4bc0;_0x3b50af[_0x6ee77c(0x3a8)]=!![];var _0x1b9ed7=Number(_0x53e661[_0x6ee77c(0x327)]['id']['split']('_')[0x1]);document[_0x6ee77c(0x287)](_0x6ee77c(0x44f)+_0x1b9ed7)['innerHTML']='',$(_0x53e661[_0x6ee77c(0x327)])[_0x6ee77c(0x458)](_0x6ee77c(0x275),0x28),_0x3b50af[_0x6ee77c(0x3a8)]=![];},0xc8);}}),$(_0x29af27(0x16e)+_0xa66367)[_0x29af27(0x458)]({'min':0x0,'max':0x28,'range':_0x29af27(0x161),'value':0x0,'slide':function(_0x48f0d3,_0x35ce49){var _0x3e5259=_0x29af27;_0x3b50af[_0x3e5259(0x382)](_0x48f0d3,!![],_0x3e5259(0x44f));},'change':function(_0xb0ee04,_0x4b64f9){var _0x2c3ab4=_0x29af27;_0x3b50af[_0x2c3ab4(0x425)](_0xb0ee04,![],_0x2c3ab4(0x44f));},'stop':function(_0x55b29d,_0x1f6dc4){setTimeout(()=>{var _0x1d1e71=a0_0x4bc0;_0x3b50af['inedit']=!![];var _0x36f03c=Number(_0x55b29d['target']['id']['split']('_')[0x1]);document[_0x1d1e71(0x287)](_0x1d1e71(0x44f)+_0x36f03c)[_0x1d1e71(0x46e)]='',$(_0x55b29d[_0x1d1e71(0x327)])['slider'](_0x1d1e71(0x275),0x0),_0x3b50af[_0x1d1e71(0x3a8)]=![];},0xc8);}});}}static['changeSlider'](_0x12d26b,_0x2fe0e3,_0x507f75,_0x2bc1ec=!![]){var _0x4017a3=_0x439826,_0x422b9b;if(_0x3b50af['inedit'])return;var _0x2a4bf2=_0x12d26b[_0x4017a3(0x327)],_0x416d72=$(_0x2a4bf2)[_0x4017a3(0x458)](_0x4017a3(0x275)),_0x3c1cf4;if(_0x416d72===0x0||_0x416d72===0x28)_0x3c1cf4=_0x3b50af[_0x4017a3(0x431)](_0x2a4bf2);else _0x3c1cf4=parseInt(_0x2a4bf2[_0x4017a3(0x349)]('curVal'));if(_0x3c1cf4===0x0)return;_0x3b50af[_0x4017a3(0x3a8)]=!![];var _0x34b4f4=Number(_0x2a4bf2['id'][_0x4017a3(0x1b2)]('_')[0x1]);if(_0x2bc1ec)_0x3b50af[_0x4017a3(0x3b9)](_0x34b4f4,(_0x2fe0e3?-0x1:0x1)*_0x3c1cf4,_0x3b50af[_0x4017a3(0x3d5)](_0x2a4bf2,_0x3c1cf4),_0x3b50af[_0x4017a3(0x269)]('citydialog-market-table-target'),![]);else{var _0xa2991b=_0x2b6148[_0x4017a3(0x376)][_0x4017a3(0x1b0)]()['city'];_0xa2991b[_0x4017a3(0x147)][_0x34b4f4]-=(_0x2fe0e3?-0x1:0x1)*_0x3c1cf4;var _0x4a174c=_0x3b50af[_0x4017a3(0x269)](_0x4017a3(0x489));_0x4a174c[_0x34b4f4]+=(_0x2fe0e3?-0x1:0x1)*_0x3c1cf4,(_0x422b9b=this['getAirplaneInMarket']('citydialog-shop-table-target'))===null||_0x422b9b===void 0x0?void 0x0:_0x422b9b['refreshLoadedCount']();}document[_0x4017a3(0x287)](_0x507f75+_0x34b4f4)[_0x4017a3(0x46e)]='',$(_0x2a4bf2)[_0x4017a3(0x458)](_0x4017a3(0x275),0x28),_0x3b50af['inedit']=![],_0x2b6148[_0x4017a3(0x376)][_0x4017a3(0x1b0)]()[_0x4017a3(0x1f9)](!![]),_0x2b6148[_0x4017a3(0x376)][_0x4017a3(0x1b0)]()[_0x4017a3(0x47a)]['world'][_0x4017a3(0x30a)]['updateTitle']();}static['slide'](_0x540253,_0x24d4df,_0x4bb0f8,_0x3d4e51=!![]){var _0x8cdd37=_0x439826,_0x22c276=this,_0x11bf05=_0x540253[_0x8cdd37(0x327)],_0x4c9650=_0x3b50af[_0x8cdd37(0x431)](_0x11bf05);_0x11bf05[_0x8cdd37(0x1b6)](_0x8cdd37(0x331),_0x4c9650[_0x8cdd37(0x259)]()),console[_0x8cdd37(0x289)](_0x4c9650);var _0x24ab5b=0x0,_0x57abee=parseInt(_0x11bf05['id']['split']('_')[0x1]);if(_0x4c9650===0x0)document['getElementById'](_0x4bb0f8+_0x57abee)[_0x8cdd37(0x46e)]='';else{if(_0x3d4e51)_0x24ab5b=_0x3b50af['calcPrice'](_0x11bf05,_0x4c9650),document[_0x8cdd37(0x287)](_0x4bb0f8+_0x57abee)[_0x8cdd37(0x46e)]='x'+_0x4c9650+_0x8cdd37(0x29b)+(_0x24d4df?'-':'')+_0x4c9650*_0x24ab5b;else document[_0x8cdd37(0x287)](_0x4bb0f8+_0x57abee)[_0x8cdd37(0x46e)]=''+_0x4c9650;}if(_0x3d4e51)_0x11bf05[_0x8cdd37(0x250)][_0x8cdd37(0x250)][_0x8cdd37(0x250)]['children'][0x4][_0x8cdd37(0x1eb)][0x0]['innerHTML']=''+_0x24ab5b;}static[_0x439826(0x3b9)](_0x11d4b1,_0x3f7238,_0x343ae7,_0x2c435c,_0x2d0f31){var _0xb074fb=_0x439826,_0x3113cf,_0x5aca12,_0x119aeb=_0x2b6148[_0xb074fb(0x376)]['getInstance']()[_0xb074fb(0x47a)];_0x2d0f31?_0x119aeb['shop'][_0x11d4b1]-=_0x3f7238:(_0x119aeb['world']['game'][_0xb074fb(0x470)](-_0x3f7238*_0x343ae7,_0xb074fb(0x2ff),_0x119aeb),_0x119aeb[_0xb074fb(0x368)][_0x11d4b1]-=_0x3f7238),_0x2c435c[_0x11d4b1]+=_0x3f7238,(_0x3113cf=this[_0xb074fb(0x2c3)]('citydialog-market-table-target'))===null||_0x3113cf===void 0x0?void 0x0:_0x3113cf[_0xb074fb(0x2a6)](),(_0x5aca12=this[_0xb074fb(0x2c3)]('citydialog-shop-table-target'))===null||_0x5aca12===void 0x0?void 0x0:_0x5aca12['refreshLoadedCount'](),_0x2b6148['CityDialog'][_0xb074fb(0x1b0)]()[_0xb074fb(0x1f9)](!![]);}static[_0x439826(0x2c3)](_0x232798){var _0x2b108f=_0x439826,_0x399d7d=_0x2b6148[_0x2b108f(0x376)]['getInstance']()[_0x2b108f(0x47a)],_0x2aed9d=document[_0x2b108f(0x287)](_0x232798),_0xf1866b=_0x2aed9d['value'];if(_0xf1866b)for(var _0xaa4e6b=0x0;_0xaa4e6b<_0x399d7d[_0x2b108f(0x2c6)][_0x2b108f(0x441)][_0x2b108f(0x28d)];_0xaa4e6b++){if(_0xf1866b===_0x399d7d['world'][_0x2b108f(0x441)][_0xaa4e6b]['name'])return _0x399d7d[_0x2b108f(0x2c6)]['airplanes'][_0xaa4e6b];}return undefined;}static[_0x439826(0x269)](_0x3505e9){var _0x111e23=_0x439826,_0x1130b3,_0xb619e=_0x2b6148['CityDialog'][_0x111e23(0x1b0)]()[_0x111e23(0x47a)],_0x23fbea=document[_0x111e23(0x287)](_0x3505e9),_0x309cfd=_0x23fbea[_0x111e23(0x275)];if(_0x309cfd){if(_0xb619e[_0x111e23(0x276)]>0x0&&_0x309cfd==='MyShop')return _0xb619e[_0x111e23(0x147)];return(_0x1130b3=this[_0x111e23(0x2c3)](_0x3505e9))===null||_0x1130b3===void 0x0?void 0x0:_0x1130b3[_0x111e23(0x155)];}return undefined;}['update'](){var _0x3a9aeb=_0x439826,_0x8119=_0x2b6148['CityDialog'][_0x3a9aeb(0x1b0)]()[_0x3a9aeb(0x47a)];if(!_0x8119)return;var _0x426724=document[_0x3a9aeb(0x287)]('citydialog-market-table-target'),_0x40277a=_0x426724[_0x3a9aeb(0x275)];_0x426724[_0x3a9aeb(0x46e)]='';if(_0x8119[_0x3a9aeb(0x276)]>0x0){var _0x4a2cb9=document[_0x3a9aeb(0x48e)](_0x3a9aeb(0x1e1));_0x4a2cb9[_0x3a9aeb(0x275)]=_0x3a9aeb(0x449),_0x4a2cb9[_0x3a9aeb(0x258)]=_0x4a2cb9[_0x3a9aeb(0x275)],_0x426724[_0x3a9aeb(0x29c)](_0x4a2cb9);}var _0x2276f1=_0x8119[_0x3a9aeb(0x230)]();for(var _0x1e86ed=0x0;_0x1e86ed<_0x2276f1['length'];_0x1e86ed++){var _0x4a2cb9=document[_0x3a9aeb(0x48e)](_0x3a9aeb(0x1e1));_0x4a2cb9[_0x3a9aeb(0x275)]=_0x2276f1[_0x1e86ed][_0x3a9aeb(0x324)],_0x4a2cb9[_0x3a9aeb(0x258)]=_0x4a2cb9[_0x3a9aeb(0x275)],_0x426724[_0x3a9aeb(0x29c)](_0x4a2cb9);}_0x40277a!==''&&(_0x426724[_0x3a9aeb(0x275)]=_0x40277a);_0x2b6148[_0x3a9aeb(0x376)]['getInstance']()[_0x3a9aeb(0x3b3)]();var _0x799a97=_0x3b50af[_0x3a9aeb(0x269)](_0x3a9aeb(0x40c)),_0x251ebb=_0x8119['market'];for(var _0x1e86ed=0x0;_0x1e86ed<parameter[_0x3a9aeb(0x480)]['length'];_0x1e86ed++){var _0x44978b=document['getElementById'](_0x3a9aeb(0x2d8)),_0x4d73bf=_0x44978b[_0x3a9aeb(0x1eb)][0x0][_0x3a9aeb(0x1eb)][_0x1e86ed+0x1];_0x4d73bf[_0x3a9aeb(0x1eb)][0x3][_0x3a9aeb(0x46e)]=_0x251ebb[_0x1e86ed][_0x3a9aeb(0x259)]();var _0x30919d=document['getElementById']('buy-slider_'+_0x1e86ed),_0x4d0316=document['getElementById']('sell-slider_'+_0x1e86ed);_0x4d73bf[_0x3a9aeb(0x1eb)][0x4][_0x3a9aeb(0x1eb)][0x0]['innerHTML']=_0x3b50af[_0x3a9aeb(0x3d5)](_0x30919d,0x0)['toString']();if(_0x799a97){var _0x5772c2=_0x251ebb[_0x1e86ed],_0x4ee2c7=_0x3b50af[_0x3a9aeb(0x2c3)]('citydialog-market-table-target');if(_0x4ee2c7)_0x5772c2=Math[_0x3a9aeb(0x161)](_0x5772c2,_0x4ee2c7[_0x3a9aeb(0x2af)]-_0x4ee2c7[_0x3a9aeb(0x19b)]);else{var _0x469844=_0x8119[_0x3a9aeb(0x276)]*parameter[_0x3a9aeb(0xee)]-_0x8119[_0x3a9aeb(0x409)]();if(_0x469844>0x0)_0x5772c2=Math[_0x3a9aeb(0x161)](_0x5772c2,_0x469844);else _0x5772c2=0x0;}_0x30919d[_0x3a9aeb(0x39a)]=![],_0x30919d[_0x3a9aeb(0x1b6)]('maxValue',_0x5772c2[_0x3a9aeb(0x259)]()),_0x4d73bf[_0x3a9aeb(0x1eb)][0x6][_0x3a9aeb(0x46e)]=_0x799a97[_0x1e86ed][_0x3a9aeb(0x259)]();if(_0x799a97[_0x1e86ed]!==0x0)$(_0x4d0316)['slider'](_0x3a9aeb(0x156));else $(_0x4d0316)[_0x3a9aeb(0x458)](_0x3a9aeb(0x3c0));if(_0x5772c2!==0x0)$(_0x30919d)[_0x3a9aeb(0x458)](_0x3a9aeb(0x156));else $(_0x30919d)[_0x3a9aeb(0x458)](_0x3a9aeb(0x3c0));_0x4d0316[_0x3a9aeb(0x1b6)](_0x3a9aeb(0x3cf),_0x799a97[_0x1e86ed][_0x3a9aeb(0x259)]());}else _0x30919d[_0x3a9aeb(0x39a)]=!![],_0x4d73bf[_0x3a9aeb(0x1eb)][0x6][_0x3a9aeb(0x46e)]='',$(_0x30919d)[_0x3a9aeb(0x458)](_0x3a9aeb(0x3c0)),$(_0x4d0316)[_0x3a9aeb(0x458)](_0x3a9aeb(0x3c0));}_0x2b6148[_0x3a9aeb(0x376)][_0x3a9aeb(0x1b0)]()[_0x3a9aeb(0x3b3)]();}static[_0x439826(0x431)](_0x25e4e6){var _0x21e649=_0x439826,_0x513302=parseInt(_0x25e4e6[_0x21e649(0x349)](_0x21e649(0x3cf))),_0x2d0b7d=$(_0x25e4e6)['slider'](_0x21e649(0x275));if(_0x25e4e6['id'][_0x21e649(0x2e1)]('sell')>-0x1)_0x2d0b7d=0x28-_0x2d0b7d;if(_0x2d0b7d===0x0)return 0x0;if(_0x2d0b7d===0x28)return _0x513302;var _0x181bcd=Math[_0x21e649(0x24f)](_0x4828cc(_0x513302,0x28)*0x3e8)/0x3e8,_0x27ba23=Math[_0x21e649(0x24f)](Math[_0x21e649(0x285)](_0x2d0b7d,_0x181bcd));return _0x27ba23;}static['calcPrice'](_0x5f5c77,_0x4f325a){var _0x11355d=_0x439826,_0x34e8b0=_0x2b6148[_0x11355d(0x376)]['getInstance']()[_0x11355d(0x47a)],_0x459877=Number(_0x5f5c77['id'][_0x11355d(0x1b2)]('_')[0x1]),_0x1d93f9=![];for(var _0x2c0d83=0x0;_0x2c0d83<_0x34e8b0[_0x11355d(0x222)][_0x11355d(0x28d)];_0x2c0d83++){if(_0x34e8b0[_0x11355d(0x222)][_0x2c0d83][_0x11355d(0x1a4)]===_0x459877)_0x1d93f9=!![];}var _0x31df20=_0x1d93f9?parameter[_0x11355d(0x480)][_0x459877][_0x11355d(0x387)]:parameter['allProducts'][_0x459877]['priceSelling'];if(_0x5f5c77['id'][_0x11355d(0x2e1)]('sell')>-0x1)_0x4f325a=-_0x4f325a;var _0x26bfc9=parameter[_0x11355d(0x480)][_0x459877][_0x11355d(0x3d5)](_0x34e8b0['people'],_0x34e8b0[_0x11355d(0x368)][_0x459877]-_0x4f325a,_0x1d93f9),_0x3ead76=_0x11355d(0x1e4);if(_0x26bfc9>(0x0+_0x31df20)*((0x1-parameter[_0x11355d(0x2a7)])*0x2/0x4+parameter[_0x11355d(0x2a7)]))_0x3ead76=_0x11355d(0x3ed);if(_0x26bfc9>(0x0+_0x31df20)*((0x1-parameter['ratePriceMin'])*0x3/0x4+parameter['ratePriceMin']))_0x3ead76=_0x11355d(0x383);if(_0x26bfc9>(0x0+_0x31df20)*0x1)_0x3ead76=_0x11355d(0x203);if(_0x26bfc9>(0x0+_0x31df20)*((parameter[_0x11355d(0x433)]-0x1)*0x2/0x4+0x1))_0x3ead76=_0x11355d(0x153);try{_0x5f5c77['parentElement'][_0x11355d(0x27a)][_0x11355d(0x27a)]['children'][0x4][_0x11355d(0x45a)][_0x11355d(0x249)]=_0x3ead76;}catch(_0x54dfe1){}return _0x26bfc9;}}_0x4c3225['CityDialogMarket']=_0x3b50af;}),define(a0_0x979828(0x450),[a0_0x979828(0x267),a0_0x979828(0x3f6),a0_0x979828(0x24c),a0_0x979828(0x3c6)],function(_0x38a9a8,_0x8ca1aa,_0x4850db,_0x1c21a2){'use strict';var _0x52c4e3=a0_0x979828;Object[_0x52c4e3(0x1db)](_0x8ca1aa,_0x52c4e3(0x241),{'value':!![]}),_0x8ca1aa[_0x52c4e3(0x20d)]=void 0x0;var _0x43a360=(function(){var _0x2512f9=_0x52c4e3,_0x1bdea6=Math[_0x2512f9(0x289)];return function(_0x2d6fbe,_0x633768){return _0x1bdea6(_0x2d6fbe)/(_0x633768?_0x1bdea6(_0x633768):0x1);};}());class _0x288172{static[_0x52c4e3(0x1b0)](){var _0xcdb006=_0x52c4e3;if(_0x288172[_0xcdb006(0x2c7)]===undefined)_0x288172[_0xcdb006(0x2c7)]=new _0x288172();return _0x288172[_0xcdb006(0x2c7)];}[_0x52c4e3(0x2ca)](){var _0x2541cd=_0x52c4e3;return'<table\x20id=\x22citydialog-shop-table\x22\x20style=\x22height:100%;weight:100%;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th></th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Shop</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th></th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>#</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>\x20<select\x20id=\x22citydialog-shop-table-target\x22\x20style=\x22width:60px\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22placeholder\x22>placeholder</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th></th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Min<br/>Stock</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+function _0x5cc2f5(){var _0x58f224=a0_0x4bc0,_0x3791d4='';for(var _0x2eb929=0x0;_0x2eb929<parameter[_0x58f224(0x480)][_0x58f224(0x28d)];_0x2eb929++){_0x3791d4=_0x3791d4+_0x58f224(0x45c),_0x3791d4=_0x3791d4+_0x58f224(0x4a5)+parameter[_0x58f224(0x480)][_0x2eb929]['getIcon']()+'</td>',_0x3791d4=_0x3791d4+_0x58f224(0x13b),_0x3791d4=_0x3791d4+_0x58f224(0x320)+_0x58f224(0x465)+_0x2eb929+_0x58f224(0x246)+_0x58f224(0x3c7),_0x3791d4=_0x3791d4+_0x58f224(0x2a5)+_0x2eb929+_0x58f224(0x3f7),_0x3791d4=_0x3791d4+_0x58f224(0x36b)+'<div\x20id=\x22shop-buy-slider_'+_0x2eb929+_0x58f224(0x1fd)+_0x58f224(0x3c7),_0x3791d4=_0x3791d4+_0x58f224(0x1cb),_0x3791d4=_0x3791d4+'<td>'+'<input\x20type=\x22number\x22\x20min=\x220\x22\x20class=\x22shop-min-stock\x22\x20id=\x22shop-min-stock_'+_0x2eb929+'\x22'+_0x58f224(0x475)+_0x58f224(0x146),_0x3791d4=_0x3791d4+_0x58f224(0x3cd);}return _0x3791d4;}()+_0x2541cd(0x454);}['bindActions'](){var _0x19a6e0=_0x52c4e3,_0x5212b6=this;document[_0x19a6e0(0x287)]('citydialog-shop-table-target')[_0x19a6e0(0x439)](_0x19a6e0(0x32f),_0x503cdb=>{var _0x5a1ee0=_0x19a6e0;_0x4850db[_0x5a1ee0(0x376)][_0x5a1ee0(0x1b0)]()[_0x5a1ee0(0x1f9)](!![]);});for(var _0x9f089=0x0;_0x9f089<parameter[_0x19a6e0(0x480)][_0x19a6e0(0x28d)];_0x9f089++){document[_0x19a6e0(0x287)](_0x19a6e0(0x381)+_0x9f089)[_0x19a6e0(0x439)](_0x19a6e0(0x32f),_0x21abd8=>{var _0x8da5dd=_0x19a6e0,_0x447a61=_0x4850db[_0x8da5dd(0x376)][_0x8da5dd(0x1b0)]()['city'],_0x40ad9a=_0x21abd8[_0x8da5dd(0x327)],_0x21e50c=parseInt(_0x40ad9a['id'][_0x8da5dd(0x1b2)]('_')[0x1]);_0x447a61[_0x8da5dd(0x496)][_0x21e50c]=_0x40ad9a[_0x8da5dd(0x275)]===''?undefined:parseInt(_0x40ad9a[_0x8da5dd(0x275)]);});}for(var _0x9f089=0x0;_0x9f089<parameter['allProducts']['length'];_0x9f089++){$(_0x19a6e0(0x116)+_0x9f089)[_0x19a6e0(0x458)]({'min':0x0,'max':0x28,'range':_0x19a6e0(0x161),'value':0x28,'slide':function(_0x575bac,_0x9d9a48){var _0x13705f=_0x19a6e0;console[_0x13705f(0x289)](_0x13705f(0x382)),_0x1c21a2['CityDialogMarket'][_0x13705f(0x382)](_0x575bac,![],_0x13705f(0x32e),![]);},'change':function(_0x2dc139,_0x1fc0e2){var _0x5d0fe1=_0x19a6e0;_0x1c21a2[_0x5d0fe1(0x1c4)][_0x5d0fe1(0x425)](_0x2dc139,!![],'citydialog-shop-info_',![]);},'stop':function(_0x39158f,_0x5a697c){setTimeout(()=>{var _0x3917b3=a0_0x4bc0;_0x1c21a2[_0x3917b3(0x1c4)][_0x3917b3(0x3a8)]=!![];var _0x111c46=Number(_0x39158f[_0x3917b3(0x327)]['id']['split']('_')[0x1]);document[_0x3917b3(0x287)](_0x3917b3(0x32e)+_0x111c46)['innerHTML']='',$(_0x39158f['target'])[_0x3917b3(0x458)](_0x3917b3(0x275),0x28),_0x1c21a2['CityDialogMarket'][_0x3917b3(0x3a8)]=![];},0xc8);}}),$(_0x19a6e0(0x3b4)+_0x9f089)[_0x19a6e0(0x458)]({'min':0x0,'max':0x28,'range':_0x19a6e0(0x161),'value':0x0,'slide':function(_0x3cca8f,_0x1000b6){var _0x40bcf0=_0x19a6e0;_0x1c21a2[_0x40bcf0(0x1c4)][_0x40bcf0(0x382)](_0x3cca8f,!![],_0x40bcf0(0x32e),![]);},'change':function(_0x2fd227,_0x4c53ca){var _0x113c64=_0x19a6e0;_0x1c21a2[_0x113c64(0x1c4)]['changeSlider'](_0x2fd227,![],'citydialog-shop-info_',![]);},'stop':function(_0x4e842c,_0x4fc764){setTimeout(()=>{var _0x4f813e=a0_0x4bc0;_0x1c21a2[_0x4f813e(0x1c4)][_0x4f813e(0x3a8)]=!![];var _0x5d4218=Number(_0x4e842c['target']['id'][_0x4f813e(0x1b2)]('_')[0x1]);document[_0x4f813e(0x287)]('citydialog-shop-info_'+_0x5d4218)[_0x4f813e(0x46e)]='',$(_0x4e842c[_0x4f813e(0x327)])[_0x4f813e(0x458)](_0x4f813e(0x275),0x0),_0x1c21a2['CityDialogMarket'][_0x4f813e(0x3a8)]=![];},0xc8);}});}}['update'](){var _0xb77375=_0x52c4e3,_0x343a58=_0x4850db['CityDialog'][_0xb77375(0x1b0)]()[_0xb77375(0x47a)];if(!_0x343a58)return;var _0x3c8c42=document['getElementById'](_0xb77375(0x489)),_0x2783c1=_0x3c8c42['value'];if(document[_0xb77375(0x120)]!==document[_0xb77375(0x287)](_0xb77375(0x489))){_0x3c8c42['innerHTML']='';var _0x13f7c3=_0x343a58[_0xb77375(0x230)]();for(var _0x5e53df=0x0;_0x5e53df<_0x13f7c3['length'];_0x5e53df++){var _0x9c12dc=document[_0xb77375(0x48e)]('option');_0x9c12dc[_0xb77375(0x275)]=_0x13f7c3[_0x5e53df][_0xb77375(0x324)],_0x9c12dc['text']=_0x9c12dc[_0xb77375(0x275)],_0x3c8c42['appendChild'](_0x9c12dc);}_0x2783c1!==''&&(_0x3c8c42['value']=_0x2783c1);}_0x4850db[_0xb77375(0x376)][_0xb77375(0x1b0)]()['updateTitle']();var _0x32b25a=_0x1c21a2[_0xb77375(0x1c4)][_0xb77375(0x269)](_0xb77375(0x489)),_0x591530=_0x343a58[_0xb77375(0x147)],_0x52c843=0x0;for(var _0x5e53df=0x0;_0x5e53df<parameter[_0xb77375(0x480)][_0xb77375(0x28d)];_0x5e53df++){var _0x4f8acb=document['getElementById'](_0xb77375(0x3c9)),_0x3f36c9=_0x4f8acb[_0xb77375(0x1eb)][0x0][_0xb77375(0x1eb)][_0x5e53df+0x1];_0x52c843+=_0x591530[_0x5e53df],_0x3f36c9['children'][0x1][_0xb77375(0x46e)]=_0x343a58['shop'][_0x5e53df]['toLocaleString']();var _0x3fb62d=document[_0xb77375(0x287)](_0xb77375(0x25b)+_0x5e53df),_0xa09e9a=document[_0xb77375(0x287)](_0xb77375(0x49b)+_0x5e53df);if(document['activeElement']!==_0x3fb62d&&document[_0xb77375(0x120)]!==_0xa09e9a){if(_0x32b25a){var _0x56d475=_0x591530[_0x5e53df],_0x2deedf=_0x1c21a2[_0xb77375(0x1c4)]['getAirplaneInMarket'](_0xb77375(0x489));if(_0x2deedf)_0x56d475=Math[_0xb77375(0x161)](_0x56d475,_0x2deedf['capacity']-_0x2deedf[_0xb77375(0x19b)]);_0x3fb62d['readOnly']=![],_0x3fb62d[_0xb77375(0x1b6)](_0xb77375(0x3cf),_0x56d475[_0xb77375(0x259)]()),_0x3f36c9[_0xb77375(0x1eb)][0x5]['innerHTML']=_0x32b25a[_0x5e53df]['toString']();if(_0x32b25a[_0x5e53df]!==0x0)$(_0xa09e9a)['slider']('enable');else $(_0xa09e9a)[_0xb77375(0x458)](_0xb77375(0x3c0));if(_0x56d475!==0x0)$(_0x3fb62d)[_0xb77375(0x458)](_0xb77375(0x156));else $(_0x3fb62d)[_0xb77375(0x458)]('disable');var _0x134d78=_0x32b25a[_0x5e53df],_0x1611e6=_0x343a58[_0xb77375(0x276)]*parameter[_0xb77375(0xee)]-_0x343a58[_0xb77375(0x409)]();if(_0x1611e6>0x0)_0x134d78=Math['min'](_0x134d78,_0x1611e6);else _0x134d78=0x0;_0xa09e9a[_0xb77375(0x1b6)](_0xb77375(0x3cf),_0x134d78['toString']());}else _0x3fb62d[_0xb77375(0x39a)]=!![],_0x3f36c9['children'][0x5]['innerHTML']='',$(_0x3fb62d)['slider'](_0xb77375(0x3c0)),$(_0xa09e9a)[_0xb77375(0x458)](_0xb77375(0x3c0));}if(document[_0xb77375(0x120)]!==_0x3f36c9['children'][0x6][_0xb77375(0x1eb)][0x0])_0x3f36c9[_0xb77375(0x1eb)][0x6][_0xb77375(0x1eb)][0x0]['value']=_0x343a58[_0xb77375(0x496)][_0x5e53df]===undefined?'':_0x343a58[_0xb77375(0x496)][_0x5e53df][_0xb77375(0x259)]();}document['getElementById'](_0xb77375(0x2f6))[_0xb77375(0x46e)]='Shops:'+_0x343a58[_0xb77375(0x276)]+_0xb77375(0x131)+_0x52c843[_0xb77375(0x3ee)]()+'/'+(_0x343a58[_0xb77375(0x276)]*parameter[_0xb77375(0xee)])[_0xb77375(0x3ee)]();}}_0x8ca1aa['CityDialogShop']=_0x288172;}),define('game/citydialog',[a0_0x979828(0x267),a0_0x979828(0x3f6),a0_0x979828(0x300),a0_0x979828(0x48a),'game/citydialogshop',a0_0x979828(0x4a6),a0_0x979828(0x3e9)],function(_0x7136e6,_0xfe58a2,_0xc4c16e,_0x688228,_0x4dc62e,_0x30d6e4,_0x554207){'use strict';var _0x4b8b96=a0_0x979828;Object[_0x4b8b96(0x1db)](_0xfe58a2,'__esModule',{'value':!![]}),_0xfe58a2[_0x4b8b96(0x376)]=void 0x0,window[_0x4b8b96(0x47a)]=function(){var _0x4d20d3=_0x4b8b96;return _0x5b0bf6[_0x4d20d3(0x1b0)]()[_0x4d20d3(0x47a)];};class _0x5b0bf6{constructor(){var _0x201f04=_0x4b8b96;this[_0x201f04(0x2ae)]=0xe,this['hasPaused']=![],this[_0x201f04(0x2ca)]();}static[_0x4b8b96(0x1b0)](){var _0x2a0462=_0x4b8b96;if(_0x5b0bf6['instance']===undefined)_0x5b0bf6['instance']=new _0x5b0bf6();return _0x5b0bf6[_0x2a0462(0x2c7)];}[_0x4b8b96(0x2ca)](){var _0x353f35=_0x4b8b96,_0x2fdb3f=_0x353f35(0x428);this[_0x353f35(0x3ef)]=document[_0x353f35(0x1fc)]()['createContextualFragment'](_0x2fdb3f)['children'][0x0];var _0x1843fa=document[_0x353f35(0x287)](_0x353f35(0x15f));_0x1843fa&&_0x1843fa[_0x353f35(0x250)][_0x353f35(0x172)](_0x1843fa);var _0x2155ca=parameter[_0x353f35(0x480)],_0x497e21=this,_0x277706=_0x497e21['city'],_0x2fdb3f=_0x353f35(0x1da)+'+'+_0x688228[_0x353f35(0x36a)][_0x353f35(0x4ad)]+_0x688228['Icons'][_0x353f35(0x434)]+'>'+_0x353f35(0x1d4)+_0x688228[_0x353f35(0x36a)][_0x353f35(0x109)]+'</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20style=\x22width:30px\x22\x20id=\x22citydialog-prev\x22\x20type=\x22button\x22\x20value=\x22<\x22\x20\x20class=\x22mybutton\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20style=\x22width:30px\x22\x20id=\x22citydialog-next\x22\x20type=\x22button\x22\x20value=\x22>\x22\x20\x20class=\x22mybutton\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22citydialog-filter\x22\x20style=\x22width:80px\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+this[_0x353f35(0x24b)]()+_0x353f35(0x435)+_0x688228[_0x353f35(0x36a)][_0x353f35(0x434)]+'</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22citydialog-tabs\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#citydialog-buildings\x22\x20id=\x22citydialog-buildings-tab\x22\x20class=\x22citydialog-tabs\x22>Buildings</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#citydialog-shop\x22\x20id=\x22citydialog-shop-tab\x22\x20\x20class=\x22citydialog-tabs\x22>'+_0x688228[_0x353f35(0x36a)][_0x353f35(0x147)]+_0x353f35(0x372)+this[_0x353f35(0x471)]()+_0x353f35(0x10a)+_0x4dc62e[_0x353f35(0x20d)][_0x353f35(0x1b0)]()[_0x353f35(0x2ca)]()+_0x353f35(0x1f0)+this[_0x353f35(0x312)]()+_0x353f35(0x397)+this['createScore']()+_0x353f35(0x2eb),_0x48cef1=document['createRange']()[_0x353f35(0x1b5)](_0x2fdb3f)[_0x353f35(0x1eb)][0x0];this[_0x353f35(0x3ef)][_0x353f35(0x172)](this[_0x353f35(0x3ef)]['children'][0x0]),this[_0x353f35(0x3ef)][_0x353f35(0x29c)](_0x48cef1),$(_0x353f35(0x3f8))[_0x353f35(0x176)]({}),setTimeout(()=>{var _0x3b32a7=_0x353f35;$(_0x3b32a7(0x3f8))[_0x3b32a7(0x176)]({});},0x64),document[_0x353f35(0x472)][_0x353f35(0x29c)](this['dom']),setTimeout(()=>{var _0xa1c653=_0x353f35;_0x497e21[_0xa1c653(0x411)]();},0x1f4);}['productFilter'](){var _0x5339be=_0x4b8b96,_0x935a28=_0x5339be(0x2d5);for(var _0x2c0194=0x0;_0x2c0194<parameter[_0x5339be(0x480)][_0x5339be(0x28d)];_0x2c0194++){_0x935a28+=_0x5339be(0x1a2)+_0x2c0194+'\x22>'+parameter[_0x5339be(0x480)][_0x2c0194]['name']+_0x5339be(0x19a);}return _0x935a28;}[_0x4b8b96(0x471)](){var _0x2fc7dc=_0x4b8b96,_0x3b2382=this;return'<table\x20id=\x22citydialog-buildings-table\x22\x20style=\x22height:100%;weight:100%;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Produce</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>\x20</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Buildings</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Jobs</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Needs</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th></th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Actions</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+function _0x497d82(){var _0x8bf6d7=a0_0x4bc0,_0x2e83a2='';for(var _0x4c6503=0x0;_0x4c6503<_0x3b2382[_0x8bf6d7(0x2ae)];_0x4c6503++){_0x2e83a2=_0x2e83a2+_0x8bf6d7(0x45c),_0x2e83a2=_0x2e83a2+_0x8bf6d7(0x159),_0x2e83a2=_0x2e83a2+_0x8bf6d7(0x159),_0x2e83a2=_0x2e83a2+'<td></td>',_0x2e83a2=_0x2e83a2+'<td></td>',_0x2e83a2=_0x2e83a2+_0x8bf6d7(0x1ed),_0x2e83a2=_0x2e83a2+'<td></td>',_0x2e83a2=_0x2e83a2+_0x8bf6d7(0x4a5)+_0x8bf6d7(0x2a0)+_0x4c6503+_0x8bf6d7(0x42c)+'x\x20'+_0x688228[_0x8bf6d7(0x36a)][_0x8bf6d7(0x4ad)]+_0x8bf6d7(0x33c)+_0x8bf6d7(0x3ba)+_0x4c6503+_0x8bf6d7(0x42c)+'-\x20'+_0x688228[_0x8bf6d7(0x36a)][_0x8bf6d7(0x4ad)]+'</button>'+'<button\x20id=\x22buy-license_'+_0x4c6503+_0x8bf6d7(0x42c)+'buy\x20license\x20to\x20produce\x20for\x20'+(0x0,_0x554207['getLocalNumber'])(0xc350)+_0x688228[_0x8bf6d7(0x36a)][_0x8bf6d7(0x2c4)]+_0x8bf6d7(0x33c)+_0x8bf6d7(0x3b0)+_0x4c6503+_0x8bf6d7(0x391)+_0x8bf6d7(0x3f2),_0x2e83a2=_0x2e83a2+_0x8bf6d7(0x3cd);}return _0x2e83a2;}()+_0x2fc7dc(0x236)+_0x688228['Icons'][_0x2fc7dc(0x359)]+_0x2fc7dc(0x354)+'\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22buy-shop\x22\x20\x20class=\x22mybutton\x22>+'+_0x688228[_0x2fc7dc(0x36a)][_0x2fc7dc(0x147)]+'\x20'+(0x0,_0x554207[_0x2fc7dc(0x41d)])(0x3a98)+_0x688228[_0x2fc7dc(0x36a)][_0x2fc7dc(0x2c4)]+'</button>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22delete-shop\x22\x20\x20class=\x22mybutton\x22>-'+_0x688228[_0x2fc7dc(0x36a)]['shop']+_0x2fc7dc(0x33c)+'&nbsp;&nbsp;&nbsp;&nbsp;'+_0x2fc7dc(0x3aa)+_0x688228[_0x2fc7dc(0x36a)]['wrench']+'Speed:\x20<span\x20id=\x22count-buildingplaces\x22>0</span>\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x688228[_0x2fc7dc(0x36a)][_0x2fc7dc(0x2c4)]+_0x2fc7dc(0x426)+'\x20'+(0x0,_0x554207[_0x2fc7dc(0x41d)])(0x1312d00)+_0x688228[_0x2fc7dc(0x36a)][_0x2fc7dc(0x2c4)]+_0x2fc7dc(0x268)+_0x2fc7dc(0x33c)+_0x2fc7dc(0x22a);}[_0x4b8b96(0x468)](){var _0x503120=_0x4b8b96;return _0x503120(0x2d7)+function _0x3827de(){var _0x220829=_0x503120,_0x1cb1b2='';for(var _0xb73b4c=0x0;_0xb73b4c<parameter[_0x220829(0x480)][_0x220829(0x28d)];_0xb73b4c++){_0x1cb1b2=_0x1cb1b2+_0x220829(0x45c),_0x1cb1b2=_0x1cb1b2+_0x220829(0x4a5)+parameter['allProducts'][_0xb73b4c][_0x220829(0x38a)]()+'</td>',_0x1cb1b2=_0x1cb1b2+_0x220829(0x4a5)+parameter[_0x220829(0x480)][_0xb73b4c][_0x220829(0x324)]+_0x220829(0x3f2),_0x1cb1b2=_0x1cb1b2+_0x220829(0x446),_0x1cb1b2=_0x1cb1b2+_0x220829(0x446),_0x1cb1b2=_0x1cb1b2+_0x220829(0x446),_0x1cb1b2=_0x1cb1b2+_0x220829(0x3cd);}return _0x1cb1b2;}()+_0x503120(0x310);}[_0x4b8b96(0x312)](){var _0xdcd98e=_0x4b8b96;return _0xdcd98e(0x28c)+function _0x7c5f2(){var _0x35f501=_0xdcd98e,_0x5d99d5='';for(var _0x227d11=0x0;_0x227d11<0x1;_0x227d11++){_0x5d99d5=_0x5d99d5+_0x35f501(0x45c),_0x5d99d5=_0x5d99d5+'<td>'+parameter[_0x35f501(0x437)][_0x227d11]['model']+_0x35f501(0x3f2),_0x5d99d5=_0x5d99d5+_0x35f501(0x4a5)+parameter['allAirplaneTypes'][_0x227d11][_0x35f501(0x2a8)]+_0x35f501(0x3f2),_0x5d99d5=_0x5d99d5+_0x35f501(0x4a5)+parameter[_0x35f501(0x437)][_0x227d11]['capacity']+_0x35f501(0x3f2),_0x5d99d5=_0x5d99d5+_0x35f501(0x4a5)+parameter[_0x35f501(0x437)][_0x227d11][_0x35f501(0x353)]+_0x35f501(0x3f2),_0x5d99d5=_0x5d99d5+_0x35f501(0x4a5)+parameter[_0x35f501(0x437)][_0x227d11][_0x35f501(0x2db)]+_0x35f501(0x3f2),_0x5d99d5=_0x5d99d5+_0x35f501(0x4a5)+'<button\x20id=\x22new-airplane_'+_0x227d11+'\x22\x20class=\x22mybutton\x22>'+'+'+_0x688228[_0x35f501(0x36a)]['airplane']+'\x20'+_0xc4c16e['City']['getBuildingCostsAsIcon'](Math[_0x35f501(0x24f)](parameter[_0x35f501(0x437)][_0x227d11][_0x35f501(0x22e)]*parameter[_0x35f501(0x476)]),parameter['allAirplaneTypes'][_0x227d11][_0x35f501(0x459)])+'</button></td>',_0x5d99d5=_0x5d99d5+'</tr>';}return _0x5d99d5;}()+_0xdcd98e(0x18d);}[_0x4b8b96(0x407)](){var _0x4cf686=_0x4b8b96,_0xe41ca0=this;if(_0xe41ca0[_0x4cf686(0x1c1)]===undefined)_0xe41ca0[_0x4cf686(0x1c1)]=_0xe41ca0['city'][_0x4cf686(0x2c6)][_0x4cf686(0x322)];var _0x3d79f9=_0xe41ca0[_0x4cf686(0x1c1)]['indexOf'](_0xe41ca0[_0x4cf686(0x47a)]);_0x3d79f9++;if(_0x3d79f9>=_0xe41ca0[_0x4cf686(0x1c1)]['length'])_0x3d79f9=0x0;_0xe41ca0['city']=_0xe41ca0[_0x4cf686(0x1c1)][_0x3d79f9];if(_0xe41ca0['city']===undefined)_0xe41ca0[_0x4cf686(0x47a)]=_0xe41ca0[_0x4cf686(0x1c1)][0x0];if(!_0xe41ca0[_0x4cf686(0x47a)]['hasAirport'])this['nextCity']();_0xe41ca0[_0x4cf686(0x1f9)](!![]);}[_0x4b8b96(0x254)](){var _0x2dc7a3=_0x4b8b96,_0x35494e=this;if(this['filteredCities']===undefined)this[_0x2dc7a3(0x1c1)]=_0x35494e['city'][_0x2dc7a3(0x2c6)][_0x2dc7a3(0x322)];var _0x48b631=_0x35494e[_0x2dc7a3(0x1c1)][_0x2dc7a3(0x2e1)](_0x35494e[_0x2dc7a3(0x47a)]);_0x48b631--;if(_0x48b631===-0x1)_0x48b631=_0x35494e[_0x2dc7a3(0x1c1)][_0x2dc7a3(0x28d)]-0x1;_0x35494e[_0x2dc7a3(0x47a)]=_0x35494e[_0x2dc7a3(0x1c1)][_0x48b631];if(_0x35494e[_0x2dc7a3(0x47a)]===undefined)_0x35494e[_0x2dc7a3(0x47a)]=_0x35494e[_0x2dc7a3(0x1c1)][0x0];if(!_0x35494e[_0x2dc7a3(0x47a)][_0x2dc7a3(0x1a3)])this[_0x2dc7a3(0x254)]();_0x35494e[_0x2dc7a3(0x1f9)](!![]);}[_0x4b8b96(0x110)](_0xd95531){var _0x464706=_0x4b8b96,_0x7593b=this,_0x17c45a=_0xd95531[_0x464706(0x327)]['id'];if(_0x17c45a==='')_0x17c45a=_0xd95531[_0x464706(0x327)][_0x464706(0x250)]['id'];var _0x3149ec=Number(_0x17c45a[_0x464706(0x1b2)]('_')[0x1]),_0xa15f1c=_0x7593b['city'][_0x464706(0x222)][_0x3149ec],_0x1ef3f8=0x0;for(var _0x48cdb7=0x0;_0x48cdb7<parameter['numberBuildWithContextMenu'];_0x48cdb7++){if(!_0x7593b['city']['commitBuildingCosts'](_0xa15f1c[_0x464706(0x25c)](_0x48cdb7),_0xa15f1c[_0x464706(0x2aa)](),_0x464706(0x126),![]))return;_0x1ef3f8++;}_0x7593b[_0x464706(0x47a)]['buildBuilding'](_0x3149ec,_0xa15f1c['productid'],_0x1ef3f8),_0x7593b[_0x464706(0x1f9)](),_0x7593b[_0x464706(0x47a)][_0x464706(0x2c6)][_0x464706(0x30a)]['updateTitle']();}[_0x4b8b96(0x411)](){var _0x23dd50=_0x4b8b96,_0x19b71c=this;document[_0x23dd50(0x287)]('citydialog-capital')[_0x23dd50(0x439)]('click',_0x4f6ae6=>{var _0x3c90c7=_0x23dd50,_0xc44e15=0x0;for(var _0x13bf3a=0x0;_0x13bf3a<_0x19b71c[_0x3c90c7(0x47a)]['world']['cities']['length'];_0x13bf3a++){_0x19b71c[_0x3c90c7(0x47a)][_0x3c90c7(0x2c6)]['cities'][_0x13bf3a][_0x3c90c7(0x276)]>_0x19b71c['city'][_0x3c90c7(0x2c6)][_0x3c90c7(0x322)][_0xc44e15][_0x3c90c7(0x276)]&&(_0xc44e15=_0x13bf3a);}_0x19b71c[_0x3c90c7(0x47a)]=_0x19b71c['city']['world'][_0x3c90c7(0x322)][_0xc44e15],_0x19b71c[_0x3c90c7(0x1f9)](!![]);}),document[_0x23dd50(0x287)](_0x23dd50(0x162))['addEventListener'](_0x23dd50(0x497),_0x5b6faf=>{var _0x4c7787=_0x23dd50;_0x19b71c[_0x4c7787(0x407)]();}),document[_0x23dd50(0x287)](_0x23dd50(0x209))[_0x23dd50(0x439)]('click',_0x132a2c=>{var _0x5a0322=_0x23dd50;_0x19b71c[_0x5a0322(0x254)]();}),document[_0x23dd50(0x287)](_0x23dd50(0x1d1))[_0x23dd50(0x439)](_0x23dd50(0x32f),_0x330052=>{var _0x2f7c96=_0x23dd50,_0x21bbe4=document[_0x2f7c96(0x287)](_0x2f7c96(0x1d1))['value'],_0x2a86c5=document[_0x2f7c96(0x287)]('hide-busy')[_0x2f7c96(0x2fa)];if(_0x21bbe4===_0x2f7c96(0x11c))this[_0x2f7c96(0x1c1)]=_0x19b71c[_0x2f7c96(0x47a)]['world'][_0x2f7c96(0x322)];else{this['filteredCities']=[];for(var _0x74e150=0x0;_0x74e150<_0x19b71c['city'][_0x2f7c96(0x2c6)][_0x2f7c96(0x322)][_0x2f7c96(0x28d)];_0x74e150++){var _0x1c5d0d=_0x19b71c[_0x2f7c96(0x47a)][_0x2f7c96(0x2c6)]['cities'][_0x74e150];for(var _0x42d397=0x0;_0x42d397<_0x1c5d0d[_0x2f7c96(0x222)][_0x2f7c96(0x28d)];_0x42d397++){if(_0x1c5d0d['companies'][_0x42d397][_0x2f7c96(0x1a4)]===Number(_0x21bbe4)){if(_0x2a86c5&&_0x1c5d0d['queueBuildings']['length']>0x0){}else this[_0x2f7c96(0x1c1)][_0x2f7c96(0x1bb)](_0x1c5d0d);}}}this[_0x2f7c96(0x1c1)][_0x2f7c96(0x28d)]===0x0&&(this[_0x2f7c96(0x1c1)]=[_0x19b71c[_0x2f7c96(0x47a)]]),this['filteredCities'][_0x2f7c96(0x227)]((_0x5ee054,_0x302fce)=>{var _0x2b47e8=_0x2f7c96,_0x54a0ef,_0x487424;for(var _0x22143d=0x0;_0x22143d<_0x5ee054[_0x2b47e8(0x222)]['length'];_0x22143d++){_0x5ee054[_0x2b47e8(0x222)][_0x22143d][_0x2b47e8(0x1a4)]===Number(_0x21bbe4)&&(_0x54a0ef=_0x5ee054[_0x2b47e8(0x222)][_0x22143d][_0x2b47e8(0x34e)]-(_0x5ee054['companies'][_0x22143d][_0x2b47e8(0x218)]?_0x5ee054[_0x2b47e8(0x222)][_0x22143d][_0x2b47e8(0x218)]:0x0));}for(var _0x22143d=0x0;_0x22143d<_0x302fce['companies']['length'];_0x22143d++){_0x302fce[_0x2b47e8(0x222)][_0x22143d][_0x2b47e8(0x1a4)]===Number(_0x21bbe4)&&(_0x487424=_0x302fce[_0x2b47e8(0x222)][_0x22143d][_0x2b47e8(0x34e)]-(_0x302fce['companies'][_0x22143d][_0x2b47e8(0x218)]?_0x302fce['companies'][_0x22143d][_0x2b47e8(0x218)]:0x0));}return(_0x54a0ef-_0x487424)*0x3b9aca00+(_0x5ee054['people']-_0x302fce[_0x2b47e8(0x3d1)])/0x3e8;}),this['city']=this[_0x2f7c96(0x1c1)][this[_0x2f7c96(0x1c1)][_0x2f7c96(0x28d)]-0x1];}_0x19b71c[_0x2f7c96(0x407)]();}),document[_0x23dd50(0x287)](_0x23dd50(0x104))[_0x23dd50(0x439)](_0x23dd50(0x497),_0x2fa5e5=>{var _0x27bea7=_0x23dd50;_0x19b71c[_0x27bea7(0x168)]();}),document[_0x23dd50(0x287)]('buy-companies-next')['addEventListener'](_0x23dd50(0x497),_0x1a46f2=>{var _0x37f503=_0x23dd50,_0x168b95=document['getElementById']('citydialog-filter')['value'];if(_0x168b95==_0x37f503(0x11c))return;var _0x239c32=parseInt(_0x168b95);for(var _0x215e06=0x0;_0x215e06<_0x19b71c[_0x37f503(0x47a)][_0x37f503(0x222)]['length'];_0x215e06++){if(this[_0x37f503(0x47a)][_0x37f503(0x222)][_0x215e06]['productid']===_0x239c32){var _0x363f39=document[_0x37f503(0x287)](_0x37f503(0x32b)+_0x215e06);_0x363f39[_0x37f503(0x497)]();}}_0x19b71c[_0x37f503(0x168)](),_0x19b71c['nextCity']();}),document[_0x23dd50(0x287)](_0x23dd50(0x278))[_0x23dd50(0x439)](_0x23dd50(0x497),_0x448509=>{var _0x4ac656=_0x23dd50,_0xa0a87c=document[_0x4ac656(0x287)]('citydialog-shopinfo')[_0x4ac656(0x2fa)];_0x19b71c['city']['cityShowShopInfo']=_0xa0a87c,_0x19b71c['city'][_0x4ac656(0x35f)](_0xa0a87c);});for(var _0x4189bc=0x0;_0x4189bc<this['maxCompanies'];_0x4189bc++){document[_0x23dd50(0x287)](_0x23dd50(0x32b)+_0x4189bc)[_0x23dd50(0x439)]('click',_0x25e973=>{_0x19b71c['buildCompanies'](_0x25e973);}),document[_0x23dd50(0x287)](_0x23dd50(0x2a2)+_0x4189bc)[_0x23dd50(0x439)](_0x23dd50(0x497),_0x3d32b=>{var _0x272ca4=_0x23dd50;_0x3d32b['preventDefault']();var _0x4027a0=_0x3d32b[_0x272ca4(0x327)]['id'];if(_0x4027a0==='')_0x4027a0=_0x3d32b[_0x272ca4(0x327)][_0x272ca4(0x250)]['id'];var _0x5920e2=Number(_0x4027a0['split']('_')[0x1]);_0x19b71c['deleteFactory'](_0x5920e2,parameter['numberBuildWithContextMenu']),_0x19b71c[_0x272ca4(0x1f9)]();}),document[_0x23dd50(0x287)](_0x23dd50(0x171)+_0x4189bc)[_0x23dd50(0x439)]('click',_0x301dad=>{var _0x11a43f=_0x23dd50,_0x41ecc6=_0x301dad[_0x11a43f(0x327)]['id'];if(_0x41ecc6==='')_0x41ecc6=_0x301dad['target'][_0x11a43f(0x250)]['id'];var _0x21713a=Number(_0x41ecc6[_0x11a43f(0x1b2)]('_')[0x1]),_0x231297=_0x19b71c['city']['companies'][_0x21713a];if(!_0x19b71c[_0x11a43f(0x47a)][_0x11a43f(0x3fc)](0xc350,[],_0x11a43f(0x29a)))return;_0x231297[_0x11a43f(0x47f)]=!![],_0x19b71c[_0x11a43f(0x1f9)]();});}document[_0x23dd50(0x287)]('buy-shop')[_0x23dd50(0x439)](_0x23dd50(0x497),_0x26101c=>{var _0x31bdca=_0x23dd50;_0x26101c[_0x31bdca(0x35e)]();if(!_0x19b71c['city']['commitBuildingCosts'](0x3a98*parameter[_0x31bdca(0x2b1)],[],_0x31bdca(0x126)))return;_0x19b71c[_0x31bdca(0x47a)][_0x31bdca(0x135)](0x2710,0x2710,parameter[_0x31bdca(0x2b1)],!![]),_0x19b71c[_0x31bdca(0x1f9)]();}),document[_0x23dd50(0x287)]('delete-shop')[_0x23dd50(0x439)](_0x23dd50(0x497),_0x554d42=>{var _0x5f74dd=_0x23dd50;if(_0x19b71c[_0x5f74dd(0x47a)][_0x5f74dd(0x276)]===0x0)return;if(_0x19b71c[_0x5f74dd(0x47a)][_0x5f74dd(0x3a3)](0x2710,0x1)){_0x19b71c['update']();return;}_0x19b71c['city']['shops']--,_0x19b71c[_0x5f74dd(0x1f9)]();}),document[_0x23dd50(0x287)](_0x23dd50(0x2e2))['addEventListener'](_0x23dd50(0x497),_0x38e6ef=>{var _0x2bfb63=_0x23dd50;_0x38e6ef[_0x2bfb63(0x35e)]();if(!_0x19b71c[_0x2bfb63(0x47a)][_0x2bfb63(0x3fc)](0x1312d00*parameter['numberBuildSpeedWithContextMenu'],[],'buy\x20buildingplace'))return;_0x19b71c[_0x2bfb63(0x47a)][_0x2bfb63(0x135)](0x2711,0x2711,parameter[_0x2bfb63(0x20e)],!![]),_0x19b71c[_0x2bfb63(0x1f9)]();}),document['getElementById'](_0x23dd50(0x3bd))[_0x23dd50(0x439)](_0x23dd50(0x497),_0x16618b=>{var _0xd4fe0b=_0x23dd50;_0x19b71c['city']['buildingplaces']=_0x19b71c[_0xd4fe0b(0x47a)][_0xd4fe0b(0x1e2)]-parameter[_0xd4fe0b(0x20e)];if(_0x19b71c[_0xd4fe0b(0x47a)][_0xd4fe0b(0x1e2)]<0x0)_0x19b71c[_0xd4fe0b(0x47a)]['buildingplaces']=0x1;_0x19b71c[_0xd4fe0b(0x1f9)]();});for(var _0x4189bc=0x0;_0x4189bc<0x1;_0x4189bc++){document[_0x23dd50(0x287)]('new-airplane_'+_0x4189bc)[_0x23dd50(0x439)]('click',_0x4e6ff0=>{var _0x1c9e1b=_0x23dd50,_0x2840b3=_0x4e6ff0['target']['id'];if(_0x2840b3==='')_0x2840b3=_0x4e6ff0[_0x1c9e1b(0x327)][_0x1c9e1b(0x250)]['id'];var _0x36d65f=parseInt(_0x2840b3[_0x1c9e1b(0x1b2)]('_')[0x1]);if(!_0x19b71c[_0x1c9e1b(0x47a)][_0x1c9e1b(0x3fc)](Math['round'](parameter['allAirplaneTypes'][_0x36d65f][_0x1c9e1b(0x22e)]*parameter[_0x1c9e1b(0x283)]),parameter['allAirplaneTypes'][_0x36d65f]['buildingMaterial'],'buy\x20airplane'))return;_0x19b71c[_0x1c9e1b(0x47a)]['buildAirplane'](_0x36d65f),_0x19b71c[_0x1c9e1b(0x1f9)](!![]);});}_0x4dc62e[_0x23dd50(0x20d)][_0x23dd50(0x1b0)]()[_0x23dd50(0x411)]();}[_0x4b8b96(0x168)](_0x25e606=![]){var _0x178fab=_0x4b8b96,_0x4f2a84=[],_0x1ab607=this[_0x178fab(0x47a)][_0x178fab(0x2c6)]['cities'][_0x178fab(0x2e1)](this[_0x178fab(0x47a)]);for(var _0x1b2434=0x0;_0x1b2434<this['city'][_0x178fab(0x2c6)][_0x178fab(0x441)][_0x178fab(0x28d)];_0x1b2434++){var _0x3994ef=this[_0x178fab(0x47a)]['world'][_0x178fab(0x441)][_0x1b2434],_0x32c020=![];for(var _0x4d4b13=0x0;_0x4d4b13<_0x3994ef[_0x178fab(0x434)][_0x178fab(0x28d)];_0x4d4b13++){_0x3994ef[_0x178fab(0x434)][_0x4d4b13][_0x178fab(0x1cd)]===_0x1ab607&&(_0x32c020=!![]);}for(var _0x4d4b13=0x0;_0x4d4b13<_0x3994ef[_0x178fab(0x434)][_0x178fab(0x28d)];_0x4d4b13++){_0x32c020&&_0x4f2a84['push'](_0x3994ef[_0x178fab(0x434)][_0x4d4b13]);}}var _0x1d927a=0x4e20*_0x4f2a84[_0x178fab(0x28d)]/0x2;if(this[_0x178fab(0x47a)][_0x178fab(0x2c6)][_0x178fab(0x30a)][_0x178fab(0x2f4)]()/_0x1d927a<0x3e8&&(_0x4f2a84[_0x178fab(0x28d)]>0x2||this[_0x178fab(0x47a)][_0x178fab(0x2c6)][_0x178fab(0x30a)][_0x178fab(0x2f4)]()<0xf4240)){if(_0x25e606)return;if(!confirm(_0x178fab(0x2cc)+_0x1d927a+'?'))return;}this[_0x178fab(0x47a)][_0x178fab(0x2c6)][_0x178fab(0x30a)][_0x178fab(0x470)](-_0x1d927a,_0x178fab(0x3a1),this[_0x178fab(0x47a)]);for(var _0x4d4b13=0x0;_0x4d4b13<_0x4f2a84[_0x178fab(0x28d)];_0x4d4b13++){_0x4f2a84[_0x4d4b13]['loadShopAmount'][0x0]!==undefined&&_0x30d6e4[_0x178fab(0x261)][_0x178fab(0x1a8)](_0x4f2a84[_0x4d4b13],!![]),_0x4f2a84[_0x4d4b13][_0x178fab(0x1ad)][0x0]!==undefined&&_0x30d6e4[_0x178fab(0x261)]['loadFillConsumtion'](_0x4f2a84[_0x4d4b13],![]);}}[_0x4b8b96(0x213)](_0x4cc6d0,_0x19642e){var _0x265f9a=_0x4b8b96,_0x27d606=this,_0x29ed95=_0x27d606['city'][_0x265f9a(0x222)][_0x4cc6d0];if(_0x27d606[_0x265f9a(0x47a)][_0x265f9a(0x3a3)](_0x29ed95[_0x265f9a(0x1a4)],_0x19642e)){_0x27d606[_0x265f9a(0x1f9)]();return;}for(var _0x45edc7=0x0;_0x45edc7<_0x19642e;_0x45edc7++){_0x29ed95[_0x265f9a(0x34e)]>0x0&&(_0x29ed95['buildings']--,_0x27d606[_0x265f9a(0x47a)][_0x265f9a(0x222)][_0x4cc6d0]['workers']-=parameter['workerInCompany']);}}[_0x4b8b96(0x3b2)](){var _0x2579ae=_0x4b8b96,_0x544b61=this[_0x2579ae(0x47a)][_0x2579ae(0x222)],_0x377285=parameter[_0x2579ae(0x480)],_0x595566=document[_0x2579ae(0x287)](_0x2579ae(0x1d1))['value'];for(var _0x451372=0x0;_0x451372<_0x544b61['length'];_0x451372++){var _0x34cdb6=_0x544b61[_0x451372],_0x50332e=document['getElementById']('citydialog-buildings-table'),_0x39d0f8=_0x50332e[_0x2579ae(0x1eb)][0x0][_0x2579ae(0x1eb)][_0x451372+0x1],_0x2a93cf=_0x377285[_0x34cdb6[_0x2579ae(0x1a4)]],_0x3942a0=_0x34cdb6['getDailyProduce']();_0x39d0f8[_0x2579ae(0x1eb)][0x0]['innerHTML']=_0x3942a0+'\x20'+_0x2a93cf[_0x2579ae(0x38a)](),_0x39d0f8[_0x2579ae(0x1eb)][0x1][_0x2579ae(0x46e)]=_0x2a93cf[_0x2579ae(0x324)];var _0x13fbd2=(0x0,_0x554207[_0x2579ae(0x41d)])(_0x34cdb6['buildings']),_0x3fb02f=this[_0x2579ae(0x47a)][_0x2579ae(0x3be)](_0x34cdb6['productid']);_0x3fb02f&&(_0x13fbd2=_0x13fbd2+_0x2579ae(0x1c7)+_0x3fb02f+_0x688228[_0x2579ae(0x36a)][_0x2579ae(0x1b7)]+'');_0x39d0f8[_0x2579ae(0x1eb)][0x2][_0x2579ae(0x46e)]=_0x13fbd2,_0x39d0f8[_0x2579ae(0x1eb)][0x3][_0x2579ae(0x46e)]=(0x0,_0x554207[_0x2579ae(0x41d)])(_0x34cdb6[_0x2579ae(0x47e)]);var _0x531019='',_0x216c0e='';if(_0x2a93cf[_0x2579ae(0x13e)]!==undefined)_0x531019=''+_0x377285[_0x2a93cf['input1']][_0x2579ae(0x38a)]()+'\x20';_0x39d0f8[_0x2579ae(0x1eb)][0x4][_0x2579ae(0x46e)]=_0x531019;if(_0x2a93cf[_0x2579ae(0x23c)]!==undefined)_0x216c0e=_0x377285[_0x2a93cf[_0x2579ae(0x23c)]][_0x2579ae(0x38a)]();_0x39d0f8[_0x2579ae(0x1eb)][0x4][_0x2579ae(0x46e)]=_0x531019+'\x20'+_0x216c0e;_0x34cdb6[_0x2579ae(0x47f)]?document[_0x2579ae(0x287)](_0x2579ae(0x171)+_0x451372)[_0x2579ae(0x1b6)](_0x2579ae(0x11e),''):document[_0x2579ae(0x287)]('buy-license_'+_0x451372)[_0x2579ae(0x3d4)](_0x2579ae(0x11e));this[_0x2579ae(0x47a)][_0x2579ae(0x276)]===0x0?document['getElementById'](_0x2579ae(0xf1)+_0x451372)['removeAttribute']('hidden'):document[_0x2579ae(0x287)]('no-shop_'+_0x451372)[_0x2579ae(0x1b6)]('hidden','');var _0x5616da=![];if(_0x34cdb6['hasLicense']&&this[_0x2579ae(0x47a)]['shops']>0x0){document[_0x2579ae(0x287)]('new-factoryX_'+_0x451372)[_0x2579ae(0x46e)]='+'+_0x688228['Icons']['factory']+_0xc4c16e['City'][_0x2579ae(0x3b5)](_0x34cdb6[_0x2579ae(0x25c)](),_0x34cdb6[_0x2579ae(0x2aa)]()),document['getElementById'](_0x2579ae(0x32b)+_0x451372)[_0x2579ae(0x3d4)](_0x2579ae(0x11e)),document['getElementById'](_0x2579ae(0x2a2)+_0x451372)['removeAttribute'](_0x2579ae(0x11e));if(_0x34cdb6['productid']['toString']()===_0x595566)document[_0x2579ae(0x287)](_0x2579ae(0x19f))[_0x2579ae(0x3d4)](_0x2579ae(0x1f1));}else document[_0x2579ae(0x287)](_0x2579ae(0x32b)+_0x451372)[_0x2579ae(0x1b6)](_0x2579ae(0x11e),''),document['getElementById']('delete-factory_'+_0x451372)['setAttribute'](_0x2579ae(0x11e),''),_0x34cdb6[_0x2579ae(0x1a4)]['toString']()===_0x595566&&(_0x5616da=!![],document[_0x2579ae(0x287)]('buy-companies-next')['setAttribute'](_0x2579ae(0x1f1),''));var _0x3b8416=_0x34cdb6[_0x2579ae(0x2aa)]();if(this['city'][_0x2579ae(0x15d)](_0x34cdb6['getBuildingCosts'](),_0x34cdb6[_0x2579ae(0x2aa)]())!=''){if(_0x34cdb6[_0x2579ae(0x1a4)][_0x2579ae(0x259)]()===_0x595566)document[_0x2579ae(0x287)]('buy-companies-next')['setAttribute'](_0x2579ae(0x1f1),'');document['getElementById'](_0x2579ae(0x32b)+_0x451372)[_0x2579ae(0x1b6)](_0x2579ae(0x1f1),''),document['getElementById']('new-factoryX_'+_0x451372)[_0x2579ae(0x1b6)](_0x2579ae(0xf8),_0x2579ae(0x40b));}else{if(_0x34cdb6[_0x2579ae(0x1a4)][_0x2579ae(0x259)]()===_0x595566&&_0x5616da===![])document[_0x2579ae(0x287)](_0x2579ae(0x19f))[_0x2579ae(0x3d4)]('disabled');document[_0x2579ae(0x287)]('new-factoryX_'+_0x451372)['removeAttribute'](_0x2579ae(0x1f1)),document[_0x2579ae(0x287)](_0x2579ae(0x32b)+_0x451372)[_0x2579ae(0x3d4)](_0x2579ae(0xf8));}this[_0x2579ae(0x47a)][_0x2579ae(0x15d)](0xc350,[])===''?document[_0x2579ae(0x287)](_0x2579ae(0x171)+_0x451372)['removeAttribute'](_0x2579ae(0x1f1)):document[_0x2579ae(0x287)](_0x2579ae(0x171)+_0x451372)[_0x2579ae(0x1b6)](_0x2579ae(0x1f1),'');}for(var _0x451372=0x6;_0x451372<=this['maxCompanies'];_0x451372++){var _0x2a6816=_0x50332e[_0x2579ae(0x1eb)][0x0][_0x2579ae(0x1eb)][_0x451372];_0x451372>this[_0x2579ae(0x47a)][_0x2579ae(0x222)][_0x2579ae(0x28d)]&&_0x2a6816[_0x2579ae(0x45a)][_0x2579ae(0x1de)]!==_0x2579ae(0xf3)&&(_0x2a6816['style'][_0x2579ae(0x1de)]=_0x2579ae(0xf3)),_0x451372<=this[_0x2579ae(0x47a)][_0x2579ae(0x222)]['length']&&_0x2a6816['style'][_0x2579ae(0x1de)]===_0x2579ae(0xf3)&&(_0x2a6816['style'][_0x2579ae(0x1de)]='');}var _0x10ad56=(0x0,_0x554207[_0x2579ae(0x41d)])(this[_0x2579ae(0x47a)]['shops']),_0x3fb02f=this['city'][_0x2579ae(0x3be)](0x2710);_0x3fb02f&&(_0x10ad56=_0x10ad56+'('+_0x3fb02f+_0x688228[_0x2579ae(0x36a)][_0x2579ae(0x1b7)]+')');document[_0x2579ae(0x287)](_0x2579ae(0x14a))['innerHTML']=''+_0x10ad56,_0x10ad56=''+this[_0x2579ae(0x47a)][_0x2579ae(0x1e2)][_0x2579ae(0x3ee)]();var _0x3fb02f=this[_0x2579ae(0x47a)]['getBuildingInProgress'](0x2711);_0x3fb02f&&(_0x10ad56=_0x10ad56+'('+_0x3fb02f+_0x688228[_0x2579ae(0x36a)][_0x2579ae(0x1b7)]+')'),document[_0x2579ae(0x287)](_0x2579ae(0x306))[_0x2579ae(0x46e)]=''+_0x10ad56,this['city'][_0x2579ae(0x15d)](0x3a98,[])!==''?document['getElementById']('buy-shop')[_0x2579ae(0x1b6)](_0x2579ae(0x1f1),''):document[_0x2579ae(0x287)](_0x2579ae(0x221))[_0x2579ae(0x3d4)]('disabled'),this['city'][_0x2579ae(0x15d)](0x5f5e100,[])!==''?document[_0x2579ae(0x287)](_0x2579ae(0x2e2))[_0x2579ae(0x1b6)](_0x2579ae(0x1f1),''):document[_0x2579ae(0x287)](_0x2579ae(0x2e2))[_0x2579ae(0x3d4)](_0x2579ae(0x1f1));}[_0x4b8b96(0x408)](){var _0x1ca71a=_0x4b8b96;for(var _0x1a1918=0x0;_0x1a1918<0x1;_0x1a1918++){this[_0x1ca71a(0x47a)][_0x1ca71a(0x15d)](Math['round'](parameter[_0x1ca71a(0x437)][_0x1a1918][_0x1ca71a(0x22e)]*parameter[_0x1ca71a(0x476)]),parameter[_0x1ca71a(0x437)][_0x1a1918][_0x1ca71a(0x459)])===''?document[_0x1ca71a(0x287)](_0x1ca71a(0x415)+_0x1a1918)['removeAttribute']('disabled'):document[_0x1ca71a(0x287)](_0x1ca71a(0x415)+_0x1a1918)[_0x1ca71a(0x1b6)]('disabled','');}var _0x4831ed=document[_0x1ca71a(0x287)]('citydialog-constructionqueue-table'),_0x1b8e60=_0x1ca71a(0x418);for(var _0x1a1918=0x0;_0x1a1918<this[_0x1ca71a(0x47a)][_0x1ca71a(0x3fa)]['length'];_0x1a1918++){_0x1b8e60+='<tr><td\x20>'+this['city'][_0x1ca71a(0x3fa)][_0x1a1918][_0x1ca71a(0x324)]+'</td>',_0x1b8e60+=_0x1ca71a(0x17a)+new Date(this['city']['queueAirplane'][_0x1a1918]['ready'])[_0x1ca71a(0x140)]()+_0x1ca71a(0x3f2),_0x1b8e60+=_0x1ca71a(0x3cd);}_0x4831ed[_0x1ca71a(0x46e)]=_0x1b8e60;}[_0x4b8b96(0x13a)](){var _0x51038e=_0x4b8b96,_0x2cf4dc=[];for(var _0x870388=0x0;_0x870388<parameter['allProducts']['length'];_0x870388++){_0x2cf4dc[_0x51038e(0x1bb)](0x0);}for(var _0x123e40=0x0;_0x123e40<this[_0x51038e(0x47a)][_0x51038e(0x222)][_0x51038e(0x28d)];_0x123e40++){var _0x564853=parameter['allProducts'][this['city'][_0x51038e(0x222)][_0x123e40][_0x51038e(0x1a4)]];_0x564853[_0x51038e(0x13e)]!==undefined&&(_0x2cf4dc[_0x564853[_0x51038e(0x13e)]]+=Math['round'](this[_0x51038e(0x47a)]['companies'][_0x123e40]['workers']*_0x564853['input1Amount']/parameter[_0x51038e(0x469)])),_0x564853[_0x51038e(0x23c)]!==undefined&&(_0x2cf4dc[_0x564853[_0x51038e(0x23c)]]+=Math[_0x51038e(0x24f)](this[_0x51038e(0x47a)][_0x51038e(0x222)][_0x123e40][_0x51038e(0x47e)]*_0x564853[_0x51038e(0x26f)]/parameter[_0x51038e(0x469)]));}for(var _0x870388=0x0;_0x870388<parameter[_0x51038e(0x480)]['length'];_0x870388++){var _0x1863a0=document[_0x51038e(0x287)](_0x51038e(0x1c3)),_0x389537=_0x1863a0[_0x51038e(0x1eb)][0x0][_0x51038e(0x1eb)][_0x870388+0x1],_0x36ba6e='',_0x4ce5c4=parameter['allProducts'][_0x870388];for(var _0x123e40=0x0;_0x123e40<this[_0x51038e(0x47a)][_0x51038e(0x222)][_0x51038e(0x28d)];_0x123e40++){this[_0x51038e(0x47a)]['companies'][_0x123e40][_0x51038e(0x1a4)]===_0x870388&&(_0x36ba6e=Math['round'](this[_0x51038e(0x47a)][_0x51038e(0x222)][_0x123e40][_0x51038e(0x47e)]*_0x4ce5c4[_0x51038e(0x1c8)]/parameter['workerInCompany'])['toString']());}_0x389537[_0x51038e(0x1eb)][0x2][_0x51038e(0x46e)]=_0x36ba6e,_0x389537[_0x51038e(0x1eb)][0x3][_0x51038e(0x46e)]=_0x2cf4dc[_0x870388]===0x0?'':_0x2cf4dc[_0x870388],_0x389537[_0x51038e(0x1eb)][0x4][_0x51038e(0x46e)]=this[_0x51038e(0x47a)][_0x51038e(0x421)][_0x870388]+_0x51038e(0x3f2);}}[_0x4b8b96(0x1f9)](_0x16742b=![]){var _0x3bfd10=_0x4b8b96,_0x25cef9,_0x48dc0d,_0x1ad977,_0x32281a,_0x441a88,_0x57f782,_0x13488b,_0x29cc0a,_0x37381a,_0x39d70d,_0x41ab69,_0x47bdc0;if(!this['city'])return;try{if(!$(this['dom'])[_0x3bfd10(0x177)](_0x3bfd10(0x189)))return;}catch(_0xf0077b){return;}if(!this['city']['hasAirport'])return;this[_0x3bfd10(0x3b3)]();if((_0x1ad977=(_0x48dc0d=(_0x25cef9=document['getElementById']('citydialog-buildings-tab'))===null||_0x25cef9===void 0x0?void 0x0:_0x25cef9[_0x3bfd10(0x27a)])===null||_0x48dc0d===void 0x0?void 0x0:_0x48dc0d[_0x3bfd10(0x204)])===null||_0x1ad977===void 0x0?void 0x0:_0x1ad977[_0x3bfd10(0x456)](_0x3bfd10(0x2ec)))this['updateBuildings']();if(_0x16742b||((_0x57f782=(_0x441a88=(_0x32281a=document[_0x3bfd10(0x287)](_0x3bfd10(0x49f)))===null||_0x32281a===void 0x0?void 0x0:_0x32281a['parentElement'])===null||_0x441a88===void 0x0?void 0x0:_0x441a88[_0x3bfd10(0x204)])===null||_0x57f782===void 0x0?void 0x0:_0x57f782[_0x3bfd10(0x456)]('ui-tabs-active')))_0x4dc62e['CityDialogShop'][_0x3bfd10(0x1b0)]()['update']();if((_0x37381a=(_0x29cc0a=(_0x13488b=document['getElementById'](_0x3bfd10(0xfa)))===null||_0x13488b===void 0x0?void 0x0:_0x13488b[_0x3bfd10(0x27a)])===null||_0x29cc0a===void 0x0?void 0x0:_0x29cc0a[_0x3bfd10(0x204)])===null||_0x37381a===void 0x0?void 0x0:_0x37381a['contains'](_0x3bfd10(0x2ec)))this['updateConstruction']();if((_0x47bdc0=(_0x41ab69=(_0x39d70d=document[_0x3bfd10(0x287)](_0x3bfd10(0x262)))===null||_0x39d70d===void 0x0?void 0x0:_0x39d70d[_0x3bfd10(0x27a)])===null||_0x41ab69===void 0x0?void 0x0:_0x41ab69[_0x3bfd10(0x204)])===null||_0x47bdc0===void 0x0?void 0x0:_0x47bdc0[_0x3bfd10(0x456)](_0x3bfd10(0x2ec)))this[_0x3bfd10(0x13a)]();if(document[_0x3bfd10(0x287)](_0x3bfd10(0x278))[_0x3bfd10(0x2fa)]!==this[_0x3bfd10(0x47a)][_0x3bfd10(0x20b)])document[_0x3bfd10(0x287)]('citydialog-shopinfo')[_0x3bfd10(0x2fa)]=this['city']['cityShowShopInfo'];return;}[_0x4b8b96(0x3b3)](){var _0x5218b3=_0x4b8b96,_0x5e02dc='';if($(this[_0x5218b3(0x3ef)])[_0x5218b3(0x2df)]()[_0x5218b3(0x25e)](_0x5218b3(0x3fd))['length']>0x0)$(this[_0x5218b3(0x3ef)])[_0x5218b3(0x2df)]()[_0x5218b3(0x25e)](_0x5218b3(0x3fd))[0x0][_0x5218b3(0x46e)]=_0x5218b3(0x4ae)+this[_0x5218b3(0x47a)][_0x5218b3(0x3b7)]+_0x5218b3(0x21b)+this['city'][_0x5218b3(0x324)]+_0x5218b3(0x330)+this[_0x5218b3(0x47a)]['level']+')\x20'+this[_0x5218b3(0x47a)][_0x5218b3(0x3d1)]+'\x20'+_0x688228[_0x5218b3(0x36a)][_0x5218b3(0x3d1)];}['show'](){var _0x36fd10=_0x4b8b96,_0x582215=this;this[_0x36fd10(0x3ef)][_0x36fd10(0x3d4)](_0x36fd10(0x11e)),this[_0x36fd10(0x1f9)](),$(this[_0x36fd10(0x3ef)])[_0x36fd10(0x177)]({'width':'400px','draggable':!![],'open':function(_0x16be5c,_0x2b272a){var _0x3aa950=_0x36fd10;_0x582215[_0x3aa950(0x1f9)](!![]);},'close':function(_0x26b816,_0x129c0e){var _0x1b3c6c=_0x36fd10;_0x582215[_0x1b3c6c(0x1c9)]&&_0x582215[_0x1b3c6c(0x47a)][_0x1b3c6c(0x2c6)][_0x1b3c6c(0x30a)]['resume']();},'create':function(_0x1f7284){setTimeout(()=>{var _0x43489a=a0_0x4bc0;$(_0x1f7284[_0x43489a(0x327)])[_0x43489a(0x177)]('widget')[_0x43489a(0x25e)]('.ui-dialog-titlebar-close')[0x0][_0x43489a(0x439)](_0x43489a(0xef),_0x1b1a2e=>{var _0xa18281=_0x43489a;_0x582215[_0xa18281(0x16f)]();});},0xc8);},'resizable':![]})['dialog']('widget')[_0x36fd10(0x20a)](_0x36fd10(0x1e1),'containment',_0x36fd10(0xf3)),$(this['dom'])['parent']()[_0x36fd10(0x14f)]({'position':_0x36fd10(0x2c1)});}[_0x4b8b96(0x16f)](){var _0x186d7e=_0x4b8b96;$(this[_0x186d7e(0x3ef)])['dialog'](_0x186d7e(0x16f));}}_0xfe58a2[_0x4b8b96(0x376)]=_0x5b0bf6;}),define('game/world',[a0_0x979828(0x267),a0_0x979828(0x3f6),a0_0x979828(0x206),'game/product',a0_0x979828(0x3e9),'game/transport'],function(_0x3ba5bc,_0x4dbdfc,_0x30120f,_0x16ae7b,_0x2c9329,_0x34c524){'use strict';var _0x14007f=a0_0x979828;Object[_0x14007f(0x1db)](_0x4dbdfc,'__esModule',{'value':!![]}),_0x4dbdfc[_0x14007f(0x384)]=void 0x0;class _0x43ec94{constructor(){var _0x4aec70=_0x14007f;this[_0x4aec70(0x36f)]=_0x4aec70(0x384),this['lastUpdate']=undefined,this[_0x4aec70(0x404)]=0x0;var _0x142d48=this;}[_0x14007f(0x399)](_0x4a2430){var _0x160e54=_0x14007f;let _0x2d2a11=0x0,_0x35faee=0x0,_0x2de3ef=_0x4a2430;do{_0x2d2a11+=_0x2de3ef['offsetTop']||0x0,_0x35faee+=_0x2de3ef[_0x160e54(0x323)]||0x0,_0x2de3ef=_0x2de3ef['offsetParent'];}while(_0x2de3ef);return{'top':_0x2d2a11,'left':_0x35faee};}[_0x14007f(0x124)](_0x594859){var _0x54043c=_0x14007f;_0x594859[_0x54043c(0x35e)]();}[_0x14007f(0x414)](_0x2220ea){var _0xdd7f09=_0x14007f,_0x5bd219;console['log'](_0xdd7f09(0x16f)),(_0x5bd219=this['selection'])===null||_0x5bd219===void 0x0?void 0x0:_0x5bd219[_0xdd7f09(0x32d)]();}[_0x14007f(0x42a)](){}[_0x14007f(0x28b)](){var _0x5d9252=_0x14007f;this[_0x5d9252(0x404)]++;for(var _0x5e96ea=0x0;_0x5e96ea<this[_0x5d9252(0x222)][_0x5d9252(0x28d)];_0x5e96ea++){this[_0x5d9252(0x222)][_0x5e96ea]['nextTick']();}}[_0x14007f(0x18e)](_0x244f61){var _0x36e27b=_0x14007f,_0x4faab1=[];for(var _0x2edf26=0x0;_0x2edf26<parameter[_0x36e27b(0x480)][_0x36e27b(0x28d)];_0x2edf26++){var _0x20bfaa=parameter['allProducts'][_0x2edf26];_0x244f61===_0x20bfaa['level']&&(this[_0x36e27b(0x1f3)](_0x20bfaa['id'])[_0x36e27b(0x28d)]===0x0&&_0x4faab1[_0x36e27b(0x1bb)](_0x20bfaa));}return _0x4faab1;}[_0x14007f(0x106)](){var _0x3a1676=_0x14007f;this[_0x3a1676(0x222)]=[];var _0x3072bd=[];parameter[_0x3a1676(0x480)][_0x3a1676(0x2fb)](_0x13f2f8=>{var _0x595252=_0x3a1676;if(_0x13f2f8[_0x595252(0xf4)]===0x1)_0x3072bd[_0x595252(0x1bb)](_0x13f2f8['id']);});for(var _0x5b0578=_0x3072bd[_0x3a1676(0x28d)];_0x5b0578<parameter['width']*parameter[_0x3a1676(0x1d0)];_0x5b0578++){_0x3072bd[_0x3a1676(0x1bb)](-0x2);}for(var _0x5b0578=0x0;_0x5b0578<parameter['width']*parameter[_0x3a1676(0x1d0)]*0x5;_0x5b0578++){var _0x4cd658=(0x0,_0x2c9329[_0x3a1676(0x1fb)])(parameter[_0x3a1676(0x1b4)]*parameter[_0x3a1676(0x1d0)]),_0x413ef4=(0x0,_0x2c9329[_0x3a1676(0x1fb)])(parameter['width']*parameter['height']),_0x5a471b=_0x3072bd[_0x413ef4];_0x3072bd[_0x413ef4]=_0x3072bd[_0x4cd658],_0x3072bd[_0x4cd658]=_0x5a471b;}var _0x404af4=0x0;for(var _0x5b0578=0x1;_0x5b0578<=parameter[_0x3a1676(0x1b4)];_0x5b0578++){for(var _0x143fcd=0x1;_0x143fcd<=parameter[_0x3a1676(0x1d0)];_0x143fcd++){if(_0x143fcd%0x2===0x1)this['companies'][_0x3a1676(0x1bb)](new _0x30120f[(_0x3a1676(0x244))](this,_0x404af4,_0x3072bd[_0x404af4],0x0,0x0,0x0,_0x5b0578*0x4-0x1,_0x143fcd));else this[_0x3a1676(0x222)][_0x3a1676(0x1bb)](new _0x30120f[(_0x3a1676(0x244))](this,_0x404af4,_0x3072bd[_0x404af4],0x0,0x0,0x0,_0x5b0578*0x4+0x1,_0x143fcd));_0x404af4++;}}this[_0x3a1676(0x30a)][_0x3a1676(0x413)]();var _0x42ab3a=this['findCompanyThatProduces'](_0x16ae7b[_0x3a1676(0x1e6)]['productHelper'])[0x0],_0x78d05c=this[_0x3a1676(0x1f3)](_0x16ae7b['Product'][_0x3a1676(0x242)])[0x0];_0x42ab3a['workers']=0x1,_0x42ab3a[_0x3a1676(0x205)][0x0]=0x8,_0x42ab3a['produced']=0x0,this[_0x3a1676(0x30a)][_0x3a1676(0x3d1)]=0x4,_0x78d05c[_0x3a1676(0x47e)]=0x1,_0x78d05c[_0x3a1676(0x297)]=0x0;var _0x3470c9=this[_0x3a1676(0x1f3)](_0x16ae7b[_0x3a1676(0x1e6)]['productWood'])[0x0],_0x32dacc=new _0x34c524[(_0x3a1676(0x346))](_0x3470c9);_0x32dacc['active']=!![],_0x32dacc[_0x3a1676(0x47e)]=0x1,_0x32dacc[_0x3a1676(0x4a4)]=!![],_0x3470c9['transports'][_0x3a1676(0x1bb)](_0x32dacc);var _0x450ef3=this[_0x3a1676(0x1f3)](_0x16ae7b[_0x3a1676(0x1e6)][_0x3a1676(0x245)])[0x0],_0xe91d59=new _0x34c524[(_0x3a1676(0x346))](_0x450ef3);_0xe91d59['active']=!![],_0xe91d59['workers']=0x1,_0xe91d59[_0x3a1676(0x4a4)]=!![],_0x450ef3['transports'][_0x3a1676(0x1bb)](_0xe91d59);var _0x1b5b9a=this[_0x3a1676(0x1f3)](_0x16ae7b['Product']['productGate'])[0x0];}[_0x14007f(0x400)](){var _0x7f63b6=_0x14007f,_0x384f14=this[_0x7f63b6(0x1f3)](_0x16ae7b['Product'][_0x7f63b6(0x242)]);for(var _0x527e31=0x0;_0x527e31<_0x384f14[_0x7f63b6(0x28d)];_0x527e31++){if(_0x384f14[_0x527e31][_0x7f63b6(0x297)]>parameter[_0x7f63b6(0x44b)])return _0x384f14[_0x527e31];}return undefined;}['findCompanyThatProducesByName'](_0x4959db){var _0x4938d5=_0x14007f,_0x1dcda8=[],_0x26506a=-0x1;parameter[_0x4938d5(0x480)]['forEach'](_0x535f8c=>{var _0x1cb45d=_0x4938d5;if(_0x535f8c[_0x1cb45d(0x324)]===_0x4959db)_0x26506a=_0x535f8c['id'];});if(_0x26506a===-0x1)return[];return this[_0x4938d5(0x1f3)](_0x26506a);}[_0x14007f(0x1f3)](_0x1f4ab1,_0x59c6a0=![]){var _0x4c686a=_0x14007f,_0x4b2f33=[];for(var _0x38cb53=0x0;_0x38cb53<this[_0x4c686a(0x222)]['length'];_0x38cb53++){if(this[_0x4c686a(0x222)][_0x38cb53][_0x4c686a(0x1a4)]===_0x1f4ab1||_0x59c6a0===!![]&&this[_0x4c686a(0x222)][_0x38cb53][_0x4c686a(0x260)]===_0x1f4ab1)_0x4b2f33[_0x4c686a(0x1bb)](this['companies'][_0x38cb53]);}return _0x4b2f33;}[_0x14007f(0x4a2)](_0x277d3e){var _0x2fdd29=_0x14007f,_0x15edb2,_0x4afc16=[];for(var _0x5f264a=0x0;_0x5f264a<this[_0x2fdd29(0x222)][_0x2fdd29(0x28d)];_0x5f264a++){var _0x5f5887=parameter['allProducts'][this['companies'][_0x5f264a]['productid']];if(((_0x15edb2=_0x5f5887===null||_0x5f5887===void 0x0?void 0x0:_0x5f5887[_0x2fdd29(0x130)])===null||_0x15edb2===void 0x0?void 0x0:_0x15edb2[_0x2fdd29(0x2e1)](_0x277d3e))>-0x1)_0x4afc16[_0x2fdd29(0x1bb)](this['companies'][_0x5f264a]);}return _0x4afc16;}[_0x14007f(0x309)](_0x22c262){var _0x28a2cc=_0x14007f,_0x58a980=this;this['dom']=_0x22c262;for(var _0x5aed2d=0x0;_0x5aed2d<this['companies'][_0x28a2cc(0x28d)];_0x5aed2d++){this[_0x28a2cc(0x222)][_0x5aed2d][_0x28a2cc(0x309)]();}}[_0x14007f(0x2b2)](){}}_0x4dbdfc[_0x14007f(0x384)]=_0x43ec94;}),define(a0_0x979828(0x1a0),[a0_0x979828(0x267),'exports',a0_0x979828(0x2c2)],function(_0x401492,_0x5eebd1,_0x871d06){'use strict';var _0x3d2c5e=a0_0x979828;Object['defineProperty'](_0x5eebd1,'__esModule',{'value':!![]}),_0x5eebd1[_0x3d2c5e(0x1dc)]=void 0x0;class _0x1ed2e3{get[_0x3d2c5e(0x1be)](){return[];}set['squadron'](_0x4541b9){}constructor(_0x30ce9c){var _0x348478=_0x3d2c5e;this[_0x348478(0x28f)]='',this[_0x348478(0x19b)]=0x0,this[_0x348478(0x1c6)]=-0x1,this['type']='Airplane',this[_0x348478(0x2c6)]=_0x30ce9c,this['route']=[],this[_0x348478(0x155)]=[];for(var _0x5431ea=0x0;_0x5431ea<parameter[_0x348478(0x480)][_0x348478(0x28d)];_0x5431ea++){this[_0x348478(0x155)][_0x5431ea]=0x0;}this[_0x348478(0x23d)]=0x1,this[_0x348478(0x48b)]='';}[_0x3d2c5e(0x40f)](){var _0x246b97=_0x3d2c5e;for(var _0x37d1be=0x0;_0x37d1be<this[_0x246b97(0x2c6)][_0x246b97(0x322)][_0x246b97(0x28d)];_0x37d1be++){if(this[_0x246b97(0x2c6)][_0x246b97(0x322)][_0x37d1be]['x']===this['x']&&this['world'][_0x246b97(0x322)][_0x37d1be]['y']===this['y'])return this[_0x246b97(0x2c6)][_0x246b97(0x322)][_0x37d1be];}return undefined;}[_0x3d2c5e(0x41e)](){var _0x1fd36a=_0x3d2c5e;this[_0x1fd36a(0x23d)]++,this['speed']=Math[_0x1fd36a(0x24f)](this[_0x1fd36a(0x2a8)]*1.01);if(this[_0x1fd36a(0x2a8)]>0x96)this['speed']=0x96;this[_0x1fd36a(0x2af)]=Math[_0x1fd36a(0x24f)](this[_0x1fd36a(0x2af)]*1.5),this['world'][_0x1fd36a(0x30a)][_0x1fd36a(0x470)](-this[_0x1fd36a(0x23d)]*0x2710,_0x1fd36a(0x12d)),this[_0x1fd36a(0x353)]=Math[_0x1fd36a(0x24f)](this[_0x1fd36a(0x353)]*1.5);}[_0x3d2c5e(0x405)](){var _0x3f7fa5=_0x3d2c5e,_0x80c62f=parameter[_0x3f7fa5(0x437)][this['typeid']][_0x3f7fa5(0x2a8)],_0x105b71=parameter[_0x3f7fa5(0x437)][this[_0x3f7fa5(0x23d)]]['capacity'];for(var _0x5aea76=0x0;_0x5aea76<this[_0x3f7fa5(0x1be)][_0x3f7fa5(0x28d)];_0x5aea76++){_0x80c62f=Math['min'](this[_0x3f7fa5(0x1be)][_0x5aea76][_0x3f7fa5(0x2a8)],_0x80c62f),_0x105b71+=this[_0x3f7fa5(0x1be)][_0x5aea76]['capacity'];}this['speed']=_0x80c62f,this[_0x3f7fa5(0x2af)]=_0x105b71;}['render'](){var _0x497f74=_0x3d2c5e,_0x9953bc=this;this['dom']=document[_0x497f74(0x1fc)]()[_0x497f74(0x1b5)](_0x497f74(0x286))[_0x497f74(0x1eb)][0x0],this[_0x497f74(0x3ef)]['style'][_0x497f74(0x4a1)]=_0x497f74(0x194),this[_0x497f74(0x3ef)][_0x497f74(0x45a)]['zIndex']='10',this[_0x497f74(0x3ef)][_0x497f74(0x439)]('click',_0x198128=>{var _0x3c6190=_0x497f74;return _0x9953bc[_0x3c6190(0x414)](_0x198128),undefined;}),this['lastUpdate']=this[_0x497f74(0x2c6)]['game'][_0x497f74(0x24d)][_0x497f74(0x2c9)](),this[_0x497f74(0x1f9)]();}['refreshLoadedCount'](){var _0x1d04ed=_0x3d2c5e,_0x454ee0=0x0;for(var _0x17c30f=0x0;_0x17c30f<parameter[_0x1d04ed(0x480)][_0x1d04ed(0x28d)];_0x17c30f++){_0x454ee0+=this[_0x1d04ed(0x155)][_0x17c30f];}this[_0x1d04ed(0x19b)]=_0x454ee0;}['flyTo'](_0xee5e16){var _0x3cb96e=_0x3d2c5e,_0x285d45=_0xee5e16['x'],_0x568b76=_0xee5e16['y'];this['lastUpdate']=this[_0x3cb96e(0x2c6)][_0x3cb96e(0x30a)][_0x3cb96e(0x24d)][_0x3cb96e(0x2c9)](),this[_0x3cb96e(0x48b)]='fly',this[_0x3cb96e(0x28f)]=_0x3cb96e(0x44d)+_0xee5e16[_0x3cb96e(0x324)],this[_0x3cb96e(0x1f7)]=_0x285d45,this['targetY']=_0x568b76,this[_0x3cb96e(0x1f9)]();}[_0x3d2c5e(0x248)](){var _0x267170=_0x3d2c5e;if(this[_0x267170(0x3ef)])this[_0x267170(0x3ef)][_0x267170(0x204)][_0x267170(0x345)](_0x267170(0x305));}[_0x3d2c5e(0x32d)](){var _0x949c15=_0x3d2c5e;if(this[_0x949c15(0x3ef)])this['dom'][_0x949c15(0x204)][_0x949c15(0x265)](_0x949c15(0x305));}[_0x3d2c5e(0x3a5)](){var _0x4b886c=_0x3d2c5e;this['targetX']=undefined,this['targetY']=undefined,this[_0x4b886c(0x48b)]='',this[_0x4b886c(0x28f)]='',this[_0x4b886c(0x3ef)][_0x4b886c(0x45a)]['transform']=_0x4b886c(0x463),this[_0x4b886c(0x1c6)]!==-0x1&&(this[_0x4b886c(0x48b)]=_0x4b886c(0x2cb),this[_0x4b886c(0x28f)]=_0x4b886c(0x2cb),this['lastAction']=this[_0x4b886c(0x364)]);}[_0x3d2c5e(0x412)](){var _0x1fba4b=_0x3d2c5e,_0x39cbea=this,_0x2c3596=Math[_0x1fba4b(0x24f)](Math[_0x1fba4b(0x157)](Math[_0x1fba4b(0x285)](this[_0x1fba4b(0x1f7)]-this['x'],0x2)+Math[_0x1fba4b(0x285)](this[_0x1fba4b(0x184)]-this['y'],0x2))),_0x68e3b5=this['x'],_0x43627f=this['y'],_0x2ededc=0x0,_0x1e752b=this[_0x1fba4b(0x1f7)],_0x2f23b6=this[_0x1fba4b(0x184)],_0x585f85=_0x2c3596/this['speed'],_0x136582=_0x1e752b-_0x68e3b5,_0xf3a157=_0x2f23b6-_0x43627f,_0x41d0d1=_0x585f85-_0x2ededc,_0x54e8c1=(this[_0x1fba4b(0x2c6)][_0x1fba4b(0x30a)][_0x1fba4b(0x24d)][_0x1fba4b(0x2c9)]()-this['lastUpdate'])/(0x3e8*0x3c*0x3c*0x18),_0x4cb92c=Math['round'](_0x54e8c1/_0x41d0d1*_0x136582+_0x68e3b5),_0x2965c3=Math[_0x1fba4b(0x24f)](_0x54e8c1/_0x41d0d1*_0xf3a157+_0x43627f);if(_0x54e8c1>=_0x585f85)this['x']=this[_0x1fba4b(0x1f7)],this['y']=this[_0x1fba4b(0x184)],this[_0x1fba4b(0x3a5)]();else{var _0x49ce37=Math[_0x1fba4b(0x33b)]((_0x68e3b5-_0x1e752b)/(_0x43627f-_0x2f23b6)),_0x4ec72b=0x0;_0x43627f>_0x2f23b6?_0x4ec72b=0x168-_0x49ce37*0xb4/Math['PI']:_0x4ec72b=0xb4-_0x49ce37*0xb4/Math['PI'];var _0x3f0565=(''+_0x4ec72b)[_0x1fba4b(0x208)](',','.');_0x39cbea[_0x1fba4b(0x3ef)]['style'][_0x1fba4b(0x374)]=_0x1fba4b(0x1ca)+_0x3f0565+_0x1fba4b(0x38c),this['x']=_0x4cb92c,this['y']=_0x2965c3;}}[_0x3d2c5e(0x1f9)](){var _0x52075d=_0x3d2c5e;if(!this[_0x52075d(0x3ef)])return;this['loadedCount']===this[_0x52075d(0x2af)]&&!this['dom'][_0x52075d(0x204)][_0x52075d(0x456)](_0x52075d(0x2f2))&&this['dom'][_0x52075d(0x204)][_0x52075d(0x345)](_0x52075d(0x2f2));this['loadedCount']!==this[_0x52075d(0x2af)]&&this['dom'][_0x52075d(0x204)]['contains'](_0x52075d(0x2f2))&&this[_0x52075d(0x3ef)][_0x52075d(0x204)][_0x52075d(0x265)](_0x52075d(0x2f2));this[_0x52075d(0x28f)]===''&&!this['dom']['classList'][_0x52075d(0x456)](_0x52075d(0x136))&&this['dom']['classList'][_0x52075d(0x345)](_0x52075d(0x136));this[_0x52075d(0x28f)]!==''&&this[_0x52075d(0x3ef)][_0x52075d(0x204)][_0x52075d(0x456)]('airplane_lazy')&&this['dom'][_0x52075d(0x204)][_0x52075d(0x265)](_0x52075d(0x136));this[_0x52075d(0x1f7)]!==undefined&&this[_0x52075d(0x412)]();this[_0x52075d(0x364)]=this[_0x52075d(0x2c6)][_0x52075d(0x30a)][_0x52075d(0x24d)]['getTime'](),this[_0x52075d(0x3ef)][_0x52075d(0x45a)][_0x52075d(0xfd)]=this['y']+'px',this['dom'][_0x52075d(0x45a)]['left']=this['x']-0x12+'px';if(this[_0x52075d(0x1c6)]!==-0x1&&this[_0x52075d(0x434)][_0x52075d(0x28d)]>0x1){if(this[_0x52075d(0x48b)]===_0x52075d(0x2cb)&&this['lastUpdate']-this['lastAction']>0x3*0x3e8*0x3c*0x3c){this['action']='load',this[_0x52075d(0x28f)]=_0x52075d(0x3e1),this['lastAction']=this[_0x52075d(0x364)];if(this[_0x52075d(0x1c6)]>=this['route'][_0x52075d(0x28d)])this[_0x52075d(0x1c6)]=0x0;else this['route'][this[_0x52075d(0x1c6)]]['unload']();_0x871d06[_0x52075d(0x367)][_0x52075d(0x1b0)]()['update']();}if(this[_0x52075d(0x48b)]==='load'&&this[_0x52075d(0x364)]-this['lastAction']>0x3*0x3e8*0x3c*0x3c){this[_0x52075d(0x44e)]=this[_0x52075d(0x364)];if(this[_0x52075d(0x1c6)]>=this[_0x52075d(0x434)][_0x52075d(0x28d)])this['activeRoute']=0x0;else this[_0x52075d(0x434)][this[_0x52075d(0x1c6)]][_0x52075d(0x3e1)]();_0x871d06[_0x52075d(0x367)][_0x52075d(0x1b0)]()[_0x52075d(0x1f9)](),this[_0x52075d(0x1c6)]++;if(this[_0x52075d(0x1c6)]>=this[_0x52075d(0x434)][_0x52075d(0x28d)])this[_0x52075d(0x1c6)]=0x0;var _0x293ca6=this[_0x52075d(0x2c6)][_0x52075d(0x322)][this[_0x52075d(0x434)][this[_0x52075d(0x1c6)]][_0x52075d(0x1cd)]];this[_0x52075d(0x1ac)](_0x293ca6);}}}['onclick'](_0x1479dd){var _0x4c61d2=_0x3d2c5e,_0x2e418d;_0x1479dd[_0x4c61d2(0x35e)](),_0x1479dd[_0x4c61d2(0x43e)](),(_0x2e418d=this[_0x4c61d2(0x2c6)]['selection'])===null||_0x2e418d===void 0x0?void 0x0:_0x2e418d['unselect'](),this[_0x4c61d2(0x2c6)]['selection']=this,this[_0x4c61d2(0x248)]();var _0x6444e9=_0x871d06[_0x4c61d2(0x367)]['getInstance']();_0x6444e9[_0x4c61d2(0x47c)]=this,_0x6444e9[_0x4c61d2(0x3ec)]();}[_0x3d2c5e(0x1ea)](){return this['costs'];}}_0x5eebd1[_0x3d2c5e(0x1dc)]=_0x1ed2e3;}),define(a0_0x979828(0x48c),['require',a0_0x979828(0x3f6),a0_0x979828(0x2a3),'jassijs/base/Windows','game/game',a0_0x979828(0x102),a0_0x979828(0x1f8)],function(_0x76ae54,_0x19c85a,_0x5865c2,_0x1019de,_0x4deaf4,_0x86243f,_0x43f902){'use strict';var _0x110171=a0_0x979828;Object['defineProperty'](_0x19c85a,_0x110171(0x241),{'value':!![]}),_0x19c85a[_0x110171(0x17e)]=_0x19c85a[_0x110171(0x377)]=void 0x0;let _0x26ef63=class _0x296585 extends _0x5865c2[_0x110171(0x163)]{constructor(){var _0x1e7902=_0x110171;super(),this[_0x1e7902(0x30a)]=new _0x4deaf4[(_0x1e7902(0x19e))](),this[_0x1e7902(0x30a)][_0x1e7902(0x106)](),this[_0x1e7902(0x30a)][_0x1e7902(0x309)](this['dom']);}[_0x110171(0x2b2)](){var _0x9e9bd7=_0x110171;this[_0x9e9bd7(0x30a)][_0x9e9bd7(0x2b2)](),super[_0x9e9bd7(0x2b2)]();}static async[_0x110171(0x3ec)](){_0x5ac11f();}};__decorate([(0x0,_0x86243f[_0x110171(0x41c)])({'name':'Game','icon':_0x110171(0x304)}),__metadata(_0x110171(0x1a7),Function),__metadata(_0x110171(0x371),[]),__metadata('design:returntype',Promise)],_0x26ef63,'show',null),_0x26ef63=__decorate([(0x0,_0x86243f[_0x110171(0x12a)])(_0x110171(0x1ba)),(0x0,_0x43f902['$Class'])(_0x110171(0x298)),__metadata(_0x110171(0x371),[])],_0x26ef63),_0x19c85a['PPanel']=_0x26ef63;function _0x34ee2c(){var _0x10d2e7=_0x110171,_0x1cd8db=_0x10d2e7(0x39e);if(document[_0x10d2e7(0x287)](_0x1cd8db))document[_0x10d2e7(0x287)](_0x1cd8db)['parentNode']['removeChild'](document['getElementById'](_0x1cd8db));var _0xb01bc0=document[_0x10d2e7(0x445)](_0x10d2e7(0x23a))[0x0],_0x453a0a=document['createElement'](_0x10d2e7(0x11f));_0x453a0a['id']=_0x1cd8db,_0x453a0a['rel']=_0x10d2e7(0x1d2),_0x453a0a[_0x10d2e7(0x36f)]='text/css',_0x453a0a['href']='game/style.css',_0x453a0a[_0x10d2e7(0x3cb)]=_0x10d2e7(0x11c),_0xb01bc0[_0x10d2e7(0x29c)](_0x453a0a);}function _0x5ac11f(){var _0x50eb5a=_0x110171;_0x34ee2c();var _0x1c134a=new _0x26ef63(),_0x446d82=_0x1019de[_0x50eb5a(0x12f)][_0x50eb5a(0x2a9)]('Game');_0x446d82===null||_0x446d82===void 0x0?void 0x0:_0x446d82[_0x50eb5a(0x2b2)](),_0x1019de[_0x50eb5a(0x12f)]['add'](_0x1c134a,_0x50eb5a(0x19e));}_0x19c85a['test']=_0x5ac11f;});
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+define("game/tools", ["require", "exports"], function (require, exports) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.getLocalNumber = exports.getRandomInt = void 0;
+    function getRandomInt(max) {
+        return Math.floor(Math.random() * max);
+    }
+    exports.getRandomInt = getRandomInt;
+    function getLocalNumber(num) {
+        if (num < 10000)
+            return num.toLocaleString();
+        else if (num < 10000000)
+            return Math.floor(num / 1000).toLocaleString() + "T";
+        else if (num < 10000000000)
+            return Math.floor(num / 1000000).toLocaleString() + "M";
+        else if (num < 10000000000000)
+            return Math.floor(num / 1000000000).toLocaleString() + "Mrd";
+        else
+            return Math.floor(num / 1000000000000).toLocaleString() + "Bil";
+    }
+    exports.getLocalNumber = getLocalNumber;
+});
+define("game/product", ["require", "exports"], function (require, exports) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.test = exports.Product = void 0;
+    class Product {
+        constructor(name = undefined, image = undefined, level = undefined, consume = undefined, forpeoplelevel = undefined, forsodierlevel = undefined) {
+            this.type = "Product";
+            //Object.assign(this, prod);
+            this.name = name;
+            this.image = image;
+            this.level = level;
+            this.consume = consume;
+            this.forpeoplelevel = forpeoplelevel;
+            this.forsoldierlevel = forsodierlevel;
+        }
+        static find(prodname) {
+            var ret = undefined;
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                if (parameter.allProducts[x].name === prodname)
+                    return parameter.allProducts[x];
+            }
+        }
+        static findProductsForLevel(level) {
+            var ret = [];
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                if (parameter.allProducts[x].level === level)
+                    ret.push(parameter.allProducts[x]);
+            }
+            return ret;
+        }
+        static init(all) {
+            var keys = [];
+            for (var x = 0; x < all.length; x++) {
+                keys.push(all[x].name);
+            }
+            var tests = [];
+            for (var x = 0; x < all.length; x++) {
+                tests.push(all[x].name);
+                if (all[x].name === "Helfer")
+                    Product.productHelper = x;
+                if (all[x].name === "Soldat")
+                    Product.productSoldier = x;
+                if (all[x].name === "Stein")
+                    Product.productStone = x;
+                if (all[x].name === "Holz")
+                    Product.productWood = x;
+                if (all[x].name === "Tor")
+                    Product.productGate = x;
+                for (var y = 0; y < all[x].consume.length; y++) {
+                    var org = all[x].consume[y];
+                    if (tests.indexOf(all[x].consume[y]) === -1) {
+                        console.log(org + " nicht definiert bei " + all[x].name);
+                    }
+                    all[x].consume[y] = keys.indexOf(all[x].consume[y]); //move string to number
+                }
+                all[x].id = x; //setid
+            }
+            return all;
+        }
+    }
+    exports.Product = Product;
+    Product.productHelper = 0;
+    Product.productSoldier = 0;
+    Product.productWood = 0;
+    Product.productStone = 0;
+    Product.productGate = 0;
+    function test() {
+    }
+    exports.test = test;
+});
+define("game/icons", ["require", "exports"], function (require, exports) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.Icons = void 0;
+    class Icons {
+    }
+    exports.Icons = Icons;
+    Icons.factory = "<span  class='mdi mdi-factory'></span>";
+    Icons.shop = "<span  class='mdi mdi-shop'></span>";
+    Icons.money = "<span style='color:darkgreen' class='mdi mdi-cash-100'></span>";
+    Icons.home = "<span  class='mdi  mdi-home-outline'></span>";
+    Icons.people = "<span  class='mdi  mdi-human-male'></span>";
+    Icons.table = "<span  class='mdi  mdi-table-large'></span>";
+    Icons.route = "<span  class='mdi  mdi-recycle-variant'></span>";
+    Icons.info = "<span  class='mdi  mdi-information-outline'></span>";
+    Icons.trash = "<span  class='mdi  mdi-delete-forever-outline'></span>";
+    Icons.edit = "<span  class='mdi  mdi-square-edit-outline'></span>";
+    Icons.save = "<span  class='mdi  mdi-content-save-outline'></span>";
+    Icons.load = "<span  class='mdi  mdi-folder-open-outline'></span>";
+    Icons.debug = "<span  class='mdi  mdi-bug-outline'></span>";
+    Icons.plus = "<span  class='mdi  mdi-plus-circle-outline'></span>";
+    Icons.minus = "<span  class='mdi  mdi-minus-circle-outline'></span>";
+    Icons.fillDown = "<span  class='mdi  mdi-elevator-down'></span>";
+    Icons.food = "<span  class='mdi  mdi-food-variant'></span>";
+    Icons.copy = "<span  class='mdi  mdi-content-copy'></span>";
+    Icons.airplane = "<span  class='mdi  mdi-airplane'></span>";
+    Icons.toright = "<span  class='mdi  mdi-arrow-right-bold-outline'></span>";
+    Icons.toleft = "<span  class='mdi  mdi-arrow-left-bold-outline'></span>";
+    Icons.remove = "<span  class='mdi  mdi-delete-forever-outline'></span>";
+    Icons.nine = "<span  class='mdi  mdi-numeric-9-plus-circle-outline'></span>";
+    Icons.diagram = "<span  class='mdi  mdi-chart-multiple'></span>";
+    Icons.refresh = "<span  class='mdi  mdi-refresh'></span>";
+    Icons.airport = "<span  class='mdi  mdi-airport'></span>";
+    Icons.hammer = "<span  class='mdi  mdi-hammer-wrench'></span>";
+    Icons.store = "<span  class='mdi  mdi-store'></span>";
+    Icons.stare = "<span  class='mdi  mdi-star'></span>";
+    Icons.wrench = "<span  class='mdi mdi-wrench-outline'></span>";
+    Icons.move = "<span  class='mdi mdi-arrow-expand-all'></span>";
+    Icons.capital = "<span  class='mdi mdi-city-variant-outline'></span>";
+    Icons.down = "<span  class='mdi mdi-arrow-down'></span>";
+    Icons.up = "<span  class='mdi mdi-arrow-up'></span>";
+});
+define("game/route", ["require", "exports"], function (require, exports) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.Route = void 0;
+    class Route {
+        constructor() {
+            this.type = "Route";
+            this.unloadShopAmount = [];
+            this.loadShopAmount = [];
+            this.loadShopUntilAmount = [];
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                this.unloadShopAmount.push(undefined);
+                this.loadShopAmount.push(undefined);
+                this.loadShopUntilAmount.push(undefined);
+            }
+        }
+        /* unloadMarket() {
+             var city = this.airplane.world.cities[this.cityid];
+             for (var x = 0; x < parameter.allProducts.length; x++) {
+                 var max = this.airplane.products[x];
+     
+                 if (this.unloadMarketAmount[x] !== undefined) {
+                     max = Math.min(this.airplane.products[x], this.unloadMarketAmount[x]);
+                     if (max < 0)
+                         max = 0;
+                 } else
+                     max = 0;
+                 if (max) {
+                     for (var y = 0; y < max; y++) {
+                         var price = parameter.allProducts[x].calcPrice(city.people, city.market[x], false);//city.isProducedHere(x));
+                         if (price >= this.unloadMarketPrice[x]) {
+                             city.world.game.changeMoney(1 * price, "airplane sells from market", city);
+                             city.market[x] += 1;
+                             this.airplane.products[x] -= 1;
+                             this.airplane.refreshLoadedCount();
+                         } else {
+                             break;
+     
+                         }
+                     }
+     
+                 }
+             }
+         }*/
+        unloadShop() {
+            var city = this.airplane.world.cities[this.cityid];
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                var max = this.unloadShopAmount[x];
+                if (max !== undefined) {
+                    max = Math.min(max, this.airplane.products[x]);
+                    if (max) {
+                        var diff = city.shops * parameter.capacityShop - city.getCompleteAmount();
+                        if (diff > 0)
+                            max = Math.min(max, diff);
+                        else
+                            max = 0;
+                        this.airplane.products[x] -= max;
+                        this.airplane.refreshLoadedCount();
+                        city.shop[x] += max;
+                        diff = city.shops * parameter.capacityShop - city.getCompleteAmount();
+                        if (diff <= 0) {
+                            city.domShopfull.style.display = "initial";
+                        }
+                    }
+                }
+            }
+        }
+        loadShop() {
+            var city = this.airplane.world.cities[this.cityid];
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                var minStock = city.shopMinStock[x] ? city.shopMinStock[x] : 0;
+                var max = this.loadShopUntilAmount[x];
+                if (max === undefined) {
+                    if (this.loadShopAmount[x]) {
+                        max = this.loadShopAmount[x];
+                        //  if (x === 2)
+                        //    console.log(city.name + " " + city.shop[x] + "  min" + minStock);
+                        var tt = city.shop[x] - minStock;
+                        if (max !== 0 && max !== undefined && (max > tt)) {
+                            if (x === 17)
+                                max = max;
+                            max = city.shop[x] - minStock;
+                        }
+                        var notAvailable = this.loadShopAmount[x] - max;
+                        this.airplane.world.game.statistic.successfulLoad[0][x] += max;
+                        this.airplane.world.game.statistic.unsuccessfulLoad[0][x] += notAvailable;
+                    }
+                }
+                else {
+                    max = city.shop[x] - (this.loadShopUntilAmount[x] + minStock);
+                }
+                if (max < 0)
+                    max = 0;
+                if (this.maxLoad !== undefined && max !== undefined) {
+                    max = Math.min(this.maxLoad - this.airplane.products[x], max);
+                }
+                if (max < 0)
+                    max = 0;
+                if (max && max > (this.airplane.capacity - this.airplane.loadedCount))
+                    max = this.airplane.capacity - this.airplane.loadedCount;
+                if (max) {
+                    this.airplane.products[x] += max;
+                    this.airplane.refreshLoadedCount();
+                    city.shop[x] -= max;
+                }
+            }
+        }
+        /*  loadMarket() {
+              var city = this.airplane.world.cities[this.cityid];
+              for (var x = 0; x < parameter.allProducts.length; x++) {
+                  var max = this.loadMarketAmount[x];
+                  if (this.maxLoad !== undefined&&max) {
+                      max = Math.min(max,this.maxLoad - this.airplane.products[x]);
+                      if (max < 0)
+                          max = 0;
+                  }
+                  if (max && max > (this.airplane.capacity - this.airplane.loadedCount))
+                      max = this.airplane.capacity - this.airplane.loadedCount;
+                  if (max) {
+                      for (var y = 0; y < max; y++) {
+                          var price = parameter.allProducts[x].calcPrice(city.people, city.market[x] - 1, city.isProducedHere(x));
+                          if (price <= this.loadMarketPrice[x]) {
+                              city.world.game.changeMoney(-1 * price, "airplane buys from market", city);
+                              city.market[x] -= 1;
+                              this.airplane.products[x] += 1;
+                              this.airplane.refreshLoadedCount();
+                          } else {
+                              break;
+      
+                          }
+                      }
+      
+                  }
+              }
+          }*/
+        load() {
+            this.loadShop();
+            // this.loadMarket();
+        }
+        unload() {
+            //  this.unloadMarket();
+            this.unloadShop();
+        }
+    }
+    exports.Route = Route;
+});
+define("game/routedialog", ["require", "exports", "game/icons"], function (require, exports, icons_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.RouteDialog = void 0;
+    class RouteDialog {
+        constructor() {
+            this.dropCitiesEnabled = false;
+            this.create();
+        }
+        static getInstance() {
+            if (RouteDialog.instance === undefined)
+                RouteDialog.instance = new RouteDialog();
+            return RouteDialog.instance;
+        }
+        create() {
+            //template for code reloading
+            var sdom = `
+          <div hidden id="routedialog" class="routedialog">
+            <div></div>
+           </div>
+        `;
+            this.dom = document.createRange().createContextualFragment(sdom).children[0];
+            var old = document.getElementById("routedialog");
+            if (old) {
+                old.parentNode.removeChild(old);
+            }
+            var airplane = this.airplane;
+            var products = parameter.allProducts;
+            var _this = this;
+            var sdom = `
+          <div>
+          <div>
+            <input id="routedialog-airplane-prev" type="button" value="<" class="mybutton"/>
+            <div id="routedialog-airplane-name" style="display:inline;width:50px"></div>
+            <input id="routedialog-airplane-next" type="button" value=">" class="mybutton"/>
+            <select id="route-select" >
+            </select>
+            <input id="routedialog-route-next" type="button" value=">" class="mybutton"/>
+           
+                      
+          </div>
+          
+            <div id="routedialog-tabs">
+                <div id="routedialog-load">
+                
+                      <table id="routedialog-load-table" style="height:100%;weight:100%;">
+                        <tr >
+                            <th>Name</th>
+                            <th></th>
+                             <th>unload<br/>
+                                <button id="route-unload-warehous-fill" title="fill first row down">` + icons_1.Icons.fillDown + `</button>
+                                <button id="route-unload-warehous-fill9" title="fill 99999999 down">` + icons_1.Icons.nine + `</button>
+                            </th>
+                            <th>load<br/>
+                                <button id="route-load-shop-fill" title="fill first row down">` + icons_1.Icons.fillDown + `</button>
+                                <button id="route-load-fill-consumtion" title="fill consumtion">` + icons_1.Icons.food + `</button>
+                            </th>
+
+                            <th>load<br/>everything except<br/>
+                                <button id="route-load-shop-until-fill" title="fill first row down">` + icons_1.Icons.fillDown + `</button>
+                                <button id="route-load-fill-consumtion-until" title="fill consumtion">` + icons_1.Icons.food + `</button>
+                            </th>
+
+
+                        </tr>
+                       ${(function fun() {
+                var ret = "";
+                function price(id, change) {
+                    console.log(id + " " + change);
+                }
+                for (var x = 0; x < parameter.allProducts.length; x++) {
+                    ret = ret + "<tr>";
+                    ret = ret + "<td>" + parameter.allProducts[x].getIcon() + "</td>";
+                    ret = ret + "<td>" + parameter.allProducts[x].name + "</td>";
+                    ret = ret + '<td>' + '<input type="number" min="0" class="unload-shop-amount" id="unload-shop-amount_' + x + '"' +
+                        'style="width: 50px;"' + '"></td>';
+                    ret = ret + '<td>' + '<input type="number" min="0" class="load-shop-amount" id="load-shop-amount_' + x + '"' +
+                        'style="width: 50px;"' + '"></td>';
+                    ret = ret + '<td>' + '<input type="number" min="0" class="load-shop-until-amount" id="load-shop-until-amount_' + x + '"' +
+                        'style="width: 50px;"' + '"></td>';
+                    ret = ret + "</tr>";
+                }
+                return ret;
+            })()}
+                    </table>    
+                 </div>
+                <div>
+                
+            </div>
+          </div>
+        `;
+            var newdom = document.createRange().createContextualFragment(sdom).children[0];
+            this.dom.removeChild(this.dom.children[0]);
+            this.dom.appendChild(newdom);
+            setTimeout(() => {
+                $("#routedialog-tabs").tabs({
+                //collapsible: true
+                });
+                //  $( "#route-list" ).sortable();
+            }, 100);
+            document.body.appendChild(this.dom);
+            //        document.getElementById("citydialog-prev")
+            setTimeout(() => {
+                _this.bindActions();
+            }, 500);
+            //document.createElement("span");
+        }
+        bindActions() {
+            var _this = this;
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                document.getElementById("unload-shop-amount_" + x).addEventListener("change", (e) => {
+                    var ctrl = e.target;
+                    var id = parseInt(ctrl.id.split("_")[1]);
+                    _this.route.unloadShopAmount[id] = ctrl.value === "" ? undefined : parseInt(ctrl.value);
+                });
+                document.getElementById("load-shop-amount_" + x).addEventListener("change", (e) => {
+                    var ctrl = e.target;
+                    var id = parseInt(ctrl.id.split("_")[1]);
+                    _this.route.loadShopAmount[id] = ctrl.value === "" ? undefined : parseInt(ctrl.value);
+                });
+                document.getElementById("load-shop-until-amount_" + x).addEventListener("change", (e) => {
+                    var ctrl = e.target;
+                    var id = parseInt(ctrl.id.split("_")[1]);
+                    _this.route.loadShopUntilAmount[id] = ctrl.value === "" ? undefined : parseInt(ctrl.value);
+                });
+            }
+            document.getElementById("route-select").addEventListener("change", (e) => {
+                var val = document.getElementById("route-select").value;
+                var id = parseInt(val);
+                _this.route = _this.airplane.route[id];
+                _this.update();
+            });
+            document.getElementById("route-unload-warehous-fill").addEventListener("click", (e) => {
+                for (var x = 1; x < _this.route.unloadShopAmount.length; x++) {
+                    this.route.unloadShopAmount[x] = this.route.unloadShopAmount[0];
+                }
+                _this.update();
+            });
+            document.getElementById("route-unload-warehous-fill9").addEventListener("click", (e) => {
+                for (var x = 0; x < _this.route.unloadShopAmount.length; x++) {
+                    this.route.unloadShopAmount[x] = 9999999999;
+                }
+                _this.update();
+            });
+            document.getElementById("route-load-shop-fill").addEventListener("click", (e) => {
+                for (var x = 1; x < _this.route.loadShopAmount.length; x++) {
+                    this.route.loadShopAmount[x] = this.route.loadShopAmount[0];
+                }
+                _this.update();
+            });
+            document.getElementById("route-load-shop-until-fill").addEventListener("click", (e) => {
+                for (var x = 1; x < _this.route.loadShopUntilAmount.length; x++) {
+                    this.route.loadShopUntilAmount[x] = this.route.loadShopUntilAmount[0];
+                }
+                _this.update();
+            });
+            document.getElementById("route-load-fill-consumtion").addEventListener("click", (e) => {
+                RouteDialog.loadFillConsumtion(_this.route, true);
+                _this.update();
+            });
+            document.getElementById("route-load-fill-consumtion-until").addEventListener("click", (e) => {
+                RouteDialog.loadFillConsumtion(this.route, false);
+                _this.update();
+            });
+            document.getElementById("routedialog-airplane-prev").addEventListener("click", (e) => {
+                _this.prevAirplane();
+            });
+            document.getElementById("routedialog-airplane-next").addEventListener("click", (e) => {
+                _this.nextAirplane();
+            });
+            document.getElementById("routedialog-route-next").addEventListener("click", (e) => {
+                _this.nextRoute();
+            });
+        }
+        prevAirplane() {
+            var _this = this;
+            var pos = _this.airplane.world.airplanes.indexOf(_this.airplane);
+            pos--;
+            if (pos === 0)
+                pos = _this.airplane.world.airplanes.length - 1;
+            _this.airplane = _this.airplane.world.airplanes[pos];
+            _this.route = undefined;
+            if (_this.airplane.world.airplanes[pos].route.length === 0) {
+                _this.route = undefined;
+                this.prevAirplane();
+                return;
+            }
+            _this.route = _this.airplane.world.airplanes[pos].route[0];
+            _this.update(true);
+        }
+        nextAirplane() {
+            var _this = this;
+            var pos = _this.airplane.world.airplanes.indexOf(_this.airplane);
+            pos++;
+            if (pos >= _this.airplane.world.airplanes.length)
+                pos = 0;
+            _this.airplane = _this.airplane.world.airplanes[pos];
+            if (_this.airplane.world.airplanes[pos].route.length === 0) {
+                _this.route = undefined;
+                this.nextAirplane();
+                return;
+            }
+            _this.route = _this.airplane.world.airplanes[pos].route[0];
+            _this.update(true);
+        }
+        nextRoute() {
+            var _this = this;
+            var pos = _this.airplane.route.indexOf(this.route);
+            pos++;
+            if (pos === _this.airplane.route.length) {
+                pos = 0;
+            }
+            _this.route = _this.airplane.route[pos];
+            _this.update();
+        }
+        copyRoute() {
+            var pos = this.route.airplane.route.indexOf(this.route);
+            if (pos === 0)
+                return;
+            pos--;
+            var source = this.route.airplane.route[pos];
+            this.route.maxLoad = source.maxLoad;
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                this.route.loadShopAmount[x] = source.loadShopAmount[x];
+                this.route.loadShopUntilAmount[x] = source.loadShopUntilAmount[x];
+                this.route.unloadShopAmount[x] = source.unloadShopAmount[x];
+            }
+            this.update();
+        }
+        static loadFillConsumtion(route, allCities) {
+            var _this = this;
+            var all = route.airplane.route;
+            var lenpixel = 0;
+            var lastpos = undefined;
+            for (var x = 0; x < all.length; x++) {
+                var city = route.airplane.world.cities[all[x].cityid];
+                if (lastpos === undefined) {
+                    lastpos = [city.x, city.y];
+                    var lastcity = route.airplane.world.cities[all[all.length - 1].cityid];
+                    var dist = Math.round(Math.sqrt(Math.pow(lastpos[0] - lastcity.x, 2) + Math.pow(lastpos[1] - lastcity.y, 2))); //Pytharoras
+                    lenpixel += dist;
+                }
+                else {
+                    var dist = Math.round(Math.sqrt(Math.pow(lastpos[0] - city.x, 2) + Math.pow(lastpos[1] - city.y, 2))); //Pytharoras
+                    lenpixel += dist;
+                    lastpos = [city.x, city.y];
+                }
+            }
+            var days = lenpixel / route.airplane.speed; //t=s/v; in Tage
+            var totalDays = (Math.round(days * 24) + 1 + all.length * 3 + all.length * 3) / 24; //+4h load and unload
+            if (totalDays < 3)
+                totalDays = 3;
+            console.log(totalDays);
+            var store = allCities ? route.loadShopAmount : route.loadShopUntilAmount;
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                store[x] = 0;
+            }
+            for (var x = 0; x < all.length; x++) {
+                var city = route.airplane.world.cities[all[x].cityid];
+                var cause;
+                if (allCities) {
+                    cause = (all[x].cityid !== route.cityid);
+                }
+                else {
+                    cause = all[x].cityid === route.cityid;
+                }
+                if (cause) {
+                    var allPeople = 0;
+                    for (var c = 0; c < city.companies.length; c++) {
+                        var buildings = city.companies[c].buildings;
+                        buildings += city.getBuildingInProgress(city.companies[c].productid);
+                        allPeople += buildings * parameter.workerInCompany;
+                        var prod = parameter.allProducts[city.companies[c].productid];
+                        if (prod.input1)
+                            store[prod.input1] += Math.round((1.3 * buildings * prod.input1Amount * totalDays));
+                        if (prod.input2)
+                            store[prod.input2] += Math.round((1.3 * buildings * prod.input2Amount * totalDays));
+                    }
+                    for (var y = 0; y < parameter.allProducts.length; y++) {
+                        store[y] += Math.round(1.3 * totalDays * parameter.allProducts[y].dailyConsumtion * (allPeople + parameter.neutralStartPeople));
+                    }
+                }
+            }
+        }
+        update(force = false) {
+            try {
+                if (!$(this.dom).dialog('isOpen')) {
+                    return;
+                }
+            }
+            catch (_a) {
+                return;
+            }
+            document.getElementById("routedialog-airplane-name").innerHTML = this.airplane.name;
+            var select = document.getElementById("route-select");
+            select.innerHTML = "";
+            for (var x = 0; x < this.airplane.route.length; x++) {
+                var opt = document.createElement("option");
+                var city = this.airplane.world.cities[this.airplane.route[x].cityid];
+                opt.value = "" + x;
+                opt.text = city.name;
+                select.appendChild(opt);
+            }
+            if (this.route)
+                select.value = "" + this.airplane.route.indexOf(this.route);
+            else {
+                document.getElementById("unload-shop-amount").value = "";
+                document.getElementById("load-shop-amount").value = "";
+                document.getElementById("load-shop-until-amount").value = "";
+                return;
+            }
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                if (document.activeElement !== document.getElementById("unload-shop-amount_" + x))
+                    document.getElementById("unload-shop-amount_" + x).value = (this.route.unloadShopAmount[x] === undefined) ? "" : this.route.unloadShopAmount[x].toString();
+                if (document.activeElement !== document.getElementById("load-shop-amount_" + x))
+                    document.getElementById("load-shop-amount_" + x).value = (this.route.loadShopAmount[x] === undefined) ? "" : this.route.loadShopAmount[x].toString();
+                if (document.activeElement !== document.getElementById("load-shop-until-amount_" + x))
+                    document.getElementById("load-shop-until-amount_" + x).value = (this.route.loadShopUntilAmount[x] === undefined) ? "" : this.route.loadShopUntilAmount[x].toString();
+            }
+        }
+        show() {
+            var _this = this;
+            this.dom.removeAttribute("hidden");
+            this.update();
+            //ui-tabs-active
+            $(this.dom).dialog({
+                width: "400px",
+                draggable: true,
+                //     position:{my:"left top",at:"right top",of:$(document)} ,
+                open: function (event, ui) {
+                    _this.update(true);
+                },
+                close: function () {
+                }
+            }).dialog("widget").draggable("option", "containment", "none");
+            $(this.dom).parent().css({ position: "fixed" });
+        }
+        close() {
+            $(this.dom).dialog("close");
+        }
+    }
+    exports.RouteDialog = RouteDialog;
+});
+define("game/squadrondialog", ["require", "exports", "game/icons"], function (require, exports, icons_2) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.SquadronDialog = void 0;
+    class SquadronDialog {
+        constructor() {
+            this.create();
+        }
+        static getInstance() {
+            if (SquadronDialog.instance === undefined)
+                SquadronDialog.instance = new SquadronDialog();
+            return SquadronDialog.instance;
+        }
+        getActiveItem(list) {
+            var select = document.getElementById(list);
+            for (var x = 0; x < select.children.length; x++) {
+                if (select.children[x].classList.contains("active-listitem"))
+                    return select.children[x].getAttribute("value");
+            }
+            return "";
+        }
+        bindActions() {
+            var _this = this;
+            document.getElementById("airplanes-in-city").addEventListener("click", (ev) => {
+                var el = ev.target;
+                if (!(el instanceof HTMLLIElement))
+                    return;
+                var select = document.getElementById("airplanes-in-city");
+                for (var x = 0; x < select.children.length; x++) {
+                    select.children[x].classList.remove("active-listitem");
+                }
+                el.classList.add("active-listitem");
+            });
+            document.getElementById("airplanes-in-squadron").addEventListener("click", (ev) => {
+                var el = ev.target;
+                var select = document.getElementById("airplanes-in-squadron");
+                for (var x = 0; x < select.children.length; x++) {
+                    select.children[x].classList.remove("active-listitem");
+                }
+                el.classList.add("active-listitem");
+            });
+            document.getElementById("sqadron-add").addEventListener('click', (e) => {
+                var val = _this.getActiveItem("airplanes-in-city"); //(<HTMLSelectElement>document.getElementById("airplanes-in-city")).value;
+                if (val === "no airplanes in city" || val === "")
+                    return;
+                var ap = _this.airplane.world.findAirplane(val);
+                var pos = _this.airplane.world.airplanes.indexOf(ap);
+                var appos = _this.airplane.world.airplanes.indexOf(ap);
+                _this.airplane.world.airplanes.splice(pos, 1);
+                _this.airplane.squadron.push(ap);
+                _this.airplane.updateSquadron();
+                ap.updateSquadron();
+                _this.airplane.world.dom.removeChild(ap.dom);
+                ap.dom.style.display = "none";
+                _this.update();
+                // _this.airplane.
+            });
+            document.getElementById("sqadron-del").addEventListener('click', (e) => {
+                var val = _this.getActiveItem("airplanes-in-squadron");
+                //  var val = (<HTMLSelectElement>document.getElementById("airplanes-in-squadron")).value;
+                if (val === "")
+                    return;
+                var ap = _this.airplane.world.findAirplane(val);
+                var pos = _this.airplane.squadron.indexOf(ap);
+                _this.airplane.squadron.splice(pos, 1);
+                _this.airplane.world.airplanes.push(ap);
+                _this.airplane.updateSquadron();
+                ap.updateSquadron();
+                if (ap.dom === undefined) {
+                    ap.world = _this.airplane.world;
+                    ap.render();
+                }
+                else {
+                    ap.dom.style.display = "initial";
+                }
+                _this.airplane.world.dom.appendChild(ap.dom);
+                ap.x = _this.airplane.x;
+                ap.y = _this.airplane.y;
+                _this.update();
+            });
+        }
+        create() {
+            //template for code reloading
+            var sdom = `
+          <div hidden id="squadrondialog" class="squadrondialog">
+            <div></div>
+           </div>
+        `;
+            this.dom = document.createRange().createContextualFragment(sdom).children[0];
+            var old = document.getElementById("squadrondialog");
+            if (old) {
+                old.parentNode.removeChild(old);
+            }
+            var airplane = this.airplane;
+            var products = parameter.allProducts;
+            var _this = this;
+            var sdom = `
+          <div>
+                <table>
+                    <tr>
+                        <td>
+                            Airplanes in city
+                           <ul id="airplanes-in-city" class="mylist boxborder" style="height: 250px;width:150px">
+                                <li value="no airplanes in city">no airplanes in city</li>
+                            </ul>
+                        </td>
+                        <td>
+                             <button id="sqadron-add" class="mybutton">` + icons_2.Icons.toright + `</button>
+                             <button id="sqadron-del"  class="mybutton">` + icons_2.Icons.toleft + `</button><br/>
+                        </td>
+                        <td>
+                            Airlanes in Squadron
+                           <ul id="airplanes-in-squadron" class="mylist boxborder" style="height: 250px;width:150px">
+                                
+                            </ul>
+                        </td>
+                        
+                    </tr>
+                </table>
+                       ${(function fun() {
+                var ret = "";
+                return ret;
+            })()}
+            
+          </div>
+        `;
+            var newdom = document.createRange().createContextualFragment(sdom).children[0];
+            this.dom.removeChild(this.dom.children[0]);
+            this.dom.appendChild(newdom);
+            document.body.appendChild(this.dom);
+            //        document.getElementById("citydialog-prev")
+            setTimeout(() => {
+                _this.bindActions();
+            }, 500);
+            //document.createElement("span");
+        }
+        update() {
+            try {
+                if (!$(this.dom).dialog('isOpen')) {
+                    return;
+                }
+            }
+            catch (_a) {
+                return;
+            }
+            var selectCity = document.getElementById("airplanes-in-city");
+            var selectSquadron = document.getElementById("airplanes-in-squadron");
+            var city = this.airplane.getCurrentCity();
+            if (city !== undefined) {
+                selectCity.innerHTML = "";
+                var aps = city.getAirplanesInCity();
+                var s = "";
+                for (var x = 0; x < aps.length; x++) {
+                    if (aps[x] !== this.airplane) {
+                        var toadd = aps[x];
+                        s += '<li value="' + toadd.name + '">' + toadd.name + '</li>';
+                    }
+                }
+                selectCity.innerHTML = s;
+            }
+            if (selectCity.innerHTML === "") {
+                selectCity.innerHTML = '<li value="no airplanes in city">no airplanes in city</li>';
+            }
+            selectSquadron.innerHTML = "";
+            //selectSquadron.appendChild(opt);
+            var s = "";
+            for (var x = 0; x < this.airplane.squadron.length; x++) {
+                var toadd = this.airplane.squadron[x];
+                s += '<li value="' + toadd.name + '">' + toadd.name + '</li>';
+            }
+            selectSquadron.innerHTML = s;
+        }
+        show() {
+            var _this = this;
+            this.dom.removeAttribute("hidden");
+            this.update();
+            //ui-tabs-active
+            $(this.dom).dialog({
+                title: "Modify Squadron",
+                width: "400px",
+                draggable: true,
+                //     position:{my:"left top",at:"right top",of:$(document)} ,
+                open: function (event, ui) {
+                    _this.update();
+                },
+                create: function (e) {
+                    setTimeout(() => {
+                        $(e.target).dialog("widget").find(".ui-dialog-titlebar-close")[0].addEventListener('touchstart', (e) => {
+                            _this.close();
+                        });
+                    }, 200);
+                }
+            }).dialog("widget").draggable("option", "containment", "none");
+            $(this.dom).parent().css({ position: "fixed" });
+        }
+        close() {
+            $(this.dom).dialog("close");
+        }
+    }
+    exports.SquadronDialog = SquadronDialog;
+});
+define("game/airplanedialog", ["require", "exports", "game/icons", "game/route", "game/routedialog"], function (require, exports, icons_3, route_1, routedialog_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.AirplaneDialog = void 0;
+    //@ts-ignore
+    window.airplane = function () {
+        return AirplaneDialog.getInstance().airplane;
+    };
+    class AirplaneDialog {
+        constructor() {
+            this.hasPaused = false;
+            this.dropCitiesEnabled = false;
+            this.create();
+        }
+        static getInstance() {
+            if (AirplaneDialog.instance === undefined)
+                AirplaneDialog.instance = new AirplaneDialog();
+            return AirplaneDialog.instance;
+        }
+        set airplane(value) {
+            this._airplane = value;
+            this.updateRoute();
+        }
+        get airplane() {
+            return this._airplane;
+        }
+        create() {
+            //template for code reloading
+            var sdom = `
+          <div hidden id="airplanedialog" class="airplanedialog">
+            <div></div>
+           </div>
+        `;
+            this.dom = document.createRange().createContextualFragment(sdom).children[0];
+            var old = document.getElementById("airplanedialog");
+            if (old) {
+                old.parentNode.removeChild(old);
+            }
+            var airplane = this.airplane;
+            var products = window.parameter.allProducts;
+            var _this = this;
+            var sdom = `
+          <div>
+          <div>
+            <input id="airplanedialog-prev" type="button" value="<"/>
+            <input id="airplanedialog-next" type="button" value=">"/>
+          </div>
+            <div id="airplanedialog-tabs">
+                <ul>
+                    <li><a href="#airplanedialog-products" class="airplanedialog-tabs">` + icons_3.Icons.table.replace('<span', '<span title="Load"') + `</a></li>
+                    <li><a href="#airplanedialog-info" class="airplanedialog-tabs">` + icons_3.Icons.info.replace('<span', '<span title="Info"') + `</a></li>
+                    <li  id="airplanedialog-route-tab"><a href="#airplanedialog-route" class="airplanedialog-tabs">` + icons_3.Icons.route.replace('<span', '<span title="Route"') + `</a></li>
+                </ul>
+                <div id="airplanedialog-products">
+                    <div id="airplanedialog-products-list">
+                            
+                    </div>         
+                </div>
+                <div id="airplanedialog-info">
+                    <input type="text" id="airplanedialog-name"> </input>
+                    <span id="airplanedialog-type">Type:</span><br/>
+                    <span id="airplanedialog-speed">Speed:</span><br/>
+                    <span id="airplanedialog-capacity">Capacity:</span><br/> 
+                    <span id="airplanedialog-costs">Daily Costs:</span><br/> 
+                    <button style="font-size:14px" id="upgrade-squadron" class="mybutton">Upgrade</button>
+                    <button style="font-size:14px" id="delete-airplane" class="mybutton">` + icons_3.Icons.remove + `</button>
+                 </div>
+                 <div id="airplanedialog-route" style="min-height:80px">
+                    
+                    <input type="checkbox" id="route-active"> active</input>
+                    <button style="font-size:14px" id="edit-route" class="mybutton">` + icons_3.Icons.edit + `</button>
+                    <button style="font-size:14px"  id="delete-route" class="mybutton">` + icons_3.Icons.remove + `</button>
+                    <ul style="min-heigt:40px" class="mylist" id="route-list">
+                     
+           
+                    </ul>
+                <div>
+                
+            </div>
+          </div>
+        `;
+            var newdom = document.createRange().createContextualFragment(sdom).children[0];
+            this.dom.removeChild(this.dom.children[0]);
+            this.dom.appendChild(newdom);
+            $("#airplanedialog-tabs").tabs({
+            //collapsible: true
+            });
+            setTimeout(() => {
+                $("#airplanedialog-tabs").tabs({
+                //collapsible: true
+                });
+                //  $( "#route-list" ).sortable();
+            }, 100);
+            document.body.appendChild(this.dom);
+            //        document.getElementById("citydialog-prev")
+            setTimeout(() => {
+                document.getElementById("airplanedialog-next").addEventListener("click", (ev) => {
+                    var pos = _this.airplane.world.airplanes.indexOf(_this.airplane);
+                    pos++;
+                    if (pos >= _this.airplane.world.airplanes.length)
+                        pos = 0;
+                    _this.selectAirplace(_this.airplane.world.airplanes[pos]);
+                });
+                document.getElementById("airplanedialog-prev").addEventListener("click", (ev) => {
+                    var pos = _this.airplane.world.airplanes.indexOf(_this.airplane);
+                    pos--;
+                    if (pos === -1)
+                        pos = _this.airplane.world.airplanes.length - 1;
+                    _this.airplane = _this.airplane.world.airplanes[pos];
+                    _this.update(true);
+                });
+                document.getElementById("route-active").addEventListener('click', (e) => {
+                    var act = (document.getElementById("route-active").checked ? 1 : -1);
+                    if (act === -1 && _this.airplane.activeRoute === 0)
+                        _this.airplane.activeRoute = -1;
+                    else {
+                        _this.airplane.activeRoute = act * Math.abs(_this.airplane.activeRoute);
+                        _this.airplane.flyTo(_this.airplane.world.cities[_this.airplane.route[0].cityid]);
+                    }
+                });
+                document.getElementById("airplanedialog-name").addEventListener("change", (e) => {
+                    var t = e.target;
+                    var val = t.value;
+                    if (this.airplane.world.findAirplane(val) !== undefined) {
+                        alert("an airplane with name " + val + " already exists");
+                        return;
+                    }
+                    _this.airplane.name = val;
+                    _this.update();
+                });
+                $('.airplanedialog-tabs').click(function (event) {
+                    if (event.target.getAttribute("href") === "#airplanedialog-route" ||
+                        event.target.parentNode.getAttribute("href") === "#airplanedialog-route") {
+                        _this.enableDropCities(true);
+                    }
+                    else {
+                        _this.enableDropCities(false);
+                    }
+                });
+                document.getElementById("edit-route").addEventListener('click', (e) => {
+                    _this.enableDropCities(false);
+                    routedialog_1.RouteDialog.getInstance().airplane = _this.airplane;
+                    routedialog_1.RouteDialog.getInstance().route = undefined;
+                    if (_this.airplane.route.length > 0)
+                        routedialog_1.RouteDialog.getInstance().route = _this.airplane.route[0];
+                    else {
+                        alert("no route defined");
+                        return;
+                    }
+                    routedialog_1.RouteDialog.getInstance().show();
+                });
+                document.getElementById("upgrade-squadron").addEventListener('click', (e) => {
+                    _this.airplane.upgrade();
+                    _this.update();
+                    //SquadronDialog.getInstance().airplane = _this.airplane;
+                    //SquadronDialog.getInstance().show();
+                });
+                document.getElementById("delete-airplane").addEventListener('click', (e) => {
+                    if (confirm(`Delete the the entire squadron?`)) {
+                        _this.deleteAirplane(_this.airplane);
+                    }
+                });
+                document.getElementById("delete-route").addEventListener('click', (e) => {
+                    var select = document.getElementById("route-list");
+                    for (var x = 0; x < select.children.length; x++) {
+                        if (select.children[x].classList.contains("active-listitem")) {
+                            $(select.children[x]).remove();
+                        }
+                    }
+                    _this.updateData();
+                });
+                document.getElementById("route-list").addEventListener('click', (e) => {
+                    _this.selectCity(e);
+                });
+                document.getElementById("route-list").addEventListener('touchstart', (e) => {
+                    _this.selectCity(e);
+                });
+                $("#delete-route").droppable({
+                    drop: (e, e2) => {
+                        $(e2.draggable[0]).remove();
+                        _this.updateData();
+                    }
+                });
+            }, 500);
+            //document.createElement("span");
+        }
+        deleteAirplane(ap) {
+            var _a;
+            for (var x = 0; x < ap.squadron.length; x++) {
+                this.deleteAirplane(ap.squadron[x]);
+                ap.squadron = [];
+            }
+            var pos = this.airplane.world.airplanes.indexOf(ap);
+            if (pos !== -1)
+                this.airplane.world.airplanes.splice(pos, 1);
+            if ((_a = ap.dom) === null || _a === void 0 ? void 0 : _a.style)
+                ap.dom.style.display = "none";
+            if (ap.dom)
+                this.airplane.world.dom.removeChild(ap.dom);
+            this.update();
+        }
+        selectCity(e) {
+            var el = $(e.target).closest('li')[0];
+            if (el.id.split("-").length > 1) {
+                var id = parseInt(el.id.split("-")[1]);
+                var select = document.getElementById("route-list");
+                for (var x = 0; x < select.children.length; x++) {
+                    select.children[x].classList.remove("active-listitem");
+                }
+            }
+            el.classList.add("active-listitem");
+        }
+        enableDropCities(enable) {
+            var _this = this;
+            console.log("route " + (enable ? "enable" : "disable"));
+            if (this.dropCitiesEnabled && !enable) {
+                for (var x = 0; x < this.airplane.world.cities.length; x++) {
+                    try {
+                        $(this.airplane.world.cities[x].dom).draggable('destroy');
+                        $(this.airplane.world.cities[x].domDesc).draggable('destroy');
+                    }
+                    catch (_a) {
+                    }
+                }
+            }
+            if (this.dropCitiesEnabled === false && enable) {
+                var config = {
+                    connectToSortable: '#route-list',
+                    helper: function (event) {
+                        var id = parseInt(event.target.getAttribute("cityid") ? event.target.getAttribute("cityid") : event.target.parentNode.getAttribute("cityid"));
+                        var city = _this.airplane.world.cities[id];
+                        var ret = '<li id="route-' + id + '" class="ui-state-default"><img style="width:20px" src="' + city.icon + '" </img>' + city.name + "</li>";
+                        return $(ret);
+                        // return helper._position.dom;
+                    },
+                    revert: 'invalid'
+                };
+                $(".city").draggable(config);
+                $(".citydesc").draggable(config);
+                for (var x = 0; x < _this.airplane.world.cities.length; x++) {
+                    if (this.airplane.world.cities[x].hasAirport === false) {
+                        $(this.airplane.world.cities[x].dom).draggable('disable');
+                        $(this.airplane.world.cities[x].domDesc).draggable('disable');
+                    }
+                }
+            }
+            this.dropCitiesEnabled = enable;
+        }
+        updateData() {
+            var _this = this;
+            var childs = document.getElementById("route-list").children;
+            var old = [];
+            for (var x = 0; x < _this.airplane.route.length; x++) {
+                old.push(_this.airplane.route[x]);
+            }
+            _this.airplane.route = [];
+            for (var x = 0; x < childs.length; x++) {
+                if (childs[x].id === "route-dummy")
+                    continue;
+                var sid = childs[x].id.split("-")[1];
+                var id = parseInt(sid);
+                var found = undefined;
+                for (var y = 0; y < old.length; y++) {
+                    if (old[y].cityid === id) {
+                        found = old[y];
+                        old.splice(y, 1);
+                        break;
+                    }
+                }
+                if (found === undefined) {
+                    found = new route_1.Route();
+                    found.airplane = _this.airplane;
+                    found.cityid = id;
+                }
+                _this.airplane.route.push(found);
+            }
+        }
+        updateRoute() {
+            var _this = this;
+            if (document.getElementById("route-list") === null)
+                return;
+            var html = "";
+            //if (this.airplane.route.length === 0)
+            //  html = '<li id="route-dummy">drag and drop cities here</br></li>';
+            var ids = [];
+            for (var x = 0; x < this.airplane.route.length; x++) {
+                var id = this.airplane.route[x].cityid;
+                html += '<li id="route-' + id + '" class="ui-state-default"><img style="width:20px;" src="' + this.airplane.world.cities[id].icon + '" </img>' +
+                    this.airplane.world.cities[id].name + "</li>";
+                ids.push(this.airplane.route[x].cityid);
+                //var sdom;
+                //var dom:HTMLSpanElement= <any>document.createRange().createContextualFragment(sdom).children[0];
+            }
+            html += '<li id="route-dummy">drag and drop<br/> cities here</li>';
+            document.getElementById("route-list").innerHTML = html;
+            $("#route-list").sortable({
+                update: (event, ui) => {
+                    _this.updateData();
+                    setTimeout(() => {
+                        _this.updateRoute();
+                    }, 50);
+                }
+            });
+            //  $("airplanedialog-route").sortable
+            //                   <span>`+this.airplane.world.cities[0].icon+this.airplane.world.cities[0].name+`</span> 
+            //                 <span>`+this.airplane.world.cities[1].icon+this.airplane.world.cities[1].name+`</span> 
+            //               <span>`+this.airplane.world.cities[3].icon+this.airplane.world.cities[3].name+`</span> 
+        }
+        selectAirplace(ap) {
+            var _a;
+            this.airplane = ap;
+            (_a = ap.world.selection) === null || _a === void 0 ? void 0 : _a.unselect();
+            ap.world.selection = ap;
+            ap.select();
+            this.update(true);
+        }
+        updateInfo() {
+            if (document.activeElement !== document.getElementById("airplanedialog-name"))
+                document.getElementById("airplanedialog-name").value = this.airplane.name;
+            document.getElementById("airplanedialog-type").innerHTML = "Type: " + this.airplane.typeid;
+            document.getElementById("airplanedialog-speed").innerHTML = "Speed: " + this.airplane.speed;
+            document.getElementById("airplanedialog-capacity").innerHTML = "Capacity:" + this.airplane.loadedCount + "/" + this.airplane.capacity;
+            document.getElementById("airplanedialog-costs").innerHTML = "Daily costs:" + this.airplane.costs;
+        }
+        update(force = false) {
+            var _this = this;
+            if (this.airplane === undefined)
+                return;
+            try {
+                if (!$(this.dom).dialog('isOpen')) {
+                    return;
+                }
+            }
+            catch (_a) {
+                return;
+            }
+            var ret = '<div style="display:grid;grid-template-columns: 30px 30px 30px 30px;">';
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                if (this.airplane.products[x] !== 0) {
+                    ret = ret + '<div>' + parameter.allProducts[x].getIcon() + " " + this.airplane.products[x] + " " + "</div>";
+                }
+            }
+            ret += "<div>";
+            document.getElementById("airplanedialog-products-list").innerHTML = ret;
+            this.updateTitle();
+            document.getElementById("route-active").checked = (this.airplane.activeRoute > -1);
+            this.updateInfo();
+        }
+        updateTitle() {
+            var sicon = '';
+            if ($(this.dom).parent().find('.ui-dialog-title').length > 0)
+                $(this.dom).parent().find('.ui-dialog-title')[0].innerHTML = this.airplane.name + " " + this.airplane.status; //'<img style="float: right" id="citydialog-icon" src="' + this.city.icon + '"  height="15"></img> ' + this.city.name + " " + this.city.people;
+        }
+        show() {
+            var _this = this;
+            this.dom.removeAttribute("hidden");
+            this.update();
+            if ($("#airplanedialog-route-tab").hasClass("ui-tabs-active")) {
+                _this.enableDropCities(true);
+            }
+            //ui-tabs-active
+            var dlg = $(this.dom).dialog({
+                width: "190px",
+                draggable: true,
+                //     position:{my:"left top",at:"right top",of:$(document)} ,
+                open: function (event, ui) {
+                    _this.update(true);
+                },
+                close: function () {
+                    _this.close();
+                },
+                create: function (e) {
+                    setTimeout(() => {
+                        $(e.target).dialog("widget").find(".ui-dialog-titlebar-close")[0].addEventListener('touchstart', (e) => {
+                            _this.close();
+                        });
+                    }, 200);
+                },
+                resizable: false
+            });
+            dlg.dialog("widget").draggable("option", "containment", "none");
+            $(this.dom).parent().css({ position: "fixed" });
+        }
+        close() {
+            this.enableDropCities(false);
+            $(this.dom).dialog("close");
+        }
+    }
+    exports.AirplaneDialog = AirplaneDialog;
+});
+define("game/transport", ["require", "exports", "game/company", "game/product"], function (require, exports, company_1, product_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.Transport = exports.TransferInfo = void 0;
+    class TransferInfo {
+    }
+    exports.TransferInfo = TransferInfo;
+    //
+    class Transport {
+        constructor(company = undefined) {
+            this.speed = 400;
+            this.workers = 0;
+            this.active = false;
+            this.type = "Transport";
+            this.curStep = 0;
+            this.productCount = 0;
+            this.autodeliver = false;
+            this.company = company;
+            this.world = company === null || company === void 0 ? void 0 : company.world;
+            if (this.x === undefined && company) {
+                this.x = company.x;
+                this.nextTargetX = company.x;
+            }
+            if (this.y === undefined && company) {
+                this.y = company.y;
+                this.nextTargetY = company.y;
+            }
+        }
+        getTransportedProduct() {
+            var p = this.company.productid;
+            return parameter.allProducts[p];
+        }
+        render() {
+            var _a;
+            var _this = this;
+            this.dom = document.createRange().createContextualFragment("<span z-index:2;style='font-size:20px;transform:rotate(0turn)' class='mdi mdi-airplane'></span>").children[0]; //document.createElement("span");
+            var im = (_a = parameter.allProducts[this.company.productid]) === null || _a === void 0 ? void 0 : _a.image;
+            if (im !== undefined && im !== "")
+                this.dom = document.createRange().createContextualFragment(`<img src="${company_1.Company.getImageUrl(im)}" width="20" height="20">`).children[0];
+            this.dom.style.position = "absolute";
+            this.dom.style.zIndex = "10";
+            this.dom.addEventListener("click", (ev) => {
+                _this.onclick(ev);
+                return undefined;
+            });
+            this.update();
+            this.world.dom.appendChild(this.dom);
+        }
+        isCrosingRight() {
+            if (this.y % 2 == 0) {
+                if (this.x % 4 == 1)
+                    return false;
+                if (this.x % 4 == 2)
+                    return true;
+            }
+            else {
+                if (this.x % 4 == 3)
+                    return false;
+                if (this.x % 4 == 0)
+                    return true;
+            }
+            throw "Wrong position";
+        }
+        calcNextPoint() {
+            var diffX = this.nextTargetX - this.x;
+            var diffY = this.nextTargetY - this.y;
+            var isCrosing = this.isCrosingRight();
+            if (!isCrosing && diffX > 0) {
+                this.nextX = this.x + 1;
+                this.nextY = this.y;
+            }
+            else if (isCrosing && diffX < 0) {
+                this.nextX = this.x - 1;
+                this.nextY = this.y;
+            }
+            else if (isCrosing && diffX > 0) {
+                if (diffY > 0) {
+                    this.nextX = this.x + 1;
+                    this.nextY = this.y + 1;
+                }
+                else {
+                    this.nextX = this.x + 1;
+                    this.nextY = this.y - 1;
+                }
+            }
+            else if (!isCrosing && diffX <= 0) {
+                if (diffY > 0) {
+                    this.nextX = this.x - 1;
+                    this.nextY = this.y + 1;
+                }
+                else {
+                    this.nextX = this.x - 1;
+                    this.nextY = this.y - 1;
+                }
+            }
+        }
+        getCapacity() {
+            if (this.company.productid === product_1.Product.productHelper || this.company.productid === product_1.Product.productSoldier)
+                return 1;
+            return this.workers * parameter.transportCapacityPerHelper;
+        }
+        load() {
+            var _a, _b, _c, _d;
+            if (this.workers === 0)
+                return;
+            if (this.company.productid === product_1.Product.productHelper && ((_a = this.transferInfo) === null || _a === void 0 ? void 0 : _a.goHome)) { //Helper go home
+                this.company.produced++;
+                (_b = this.transferInfo) === null || _b === void 0 ? true : delete _b.goHome;
+                this.destroy(this.company.transports);
+                return;
+            }
+            if (this.company.productid === product_1.Product.productSoldier && ((_c = this.transferInfo) === null || _c === void 0 ? void 0 : _c.goHome)) { //Helper go home
+                this.company.produced++;
+                (_d = this.transferInfo) === null || _d === void 0 ? true : delete _d.goHome;
+                this.destroy(this.company.transports);
+                return;
+            }
+            if (this.company.produced > 0)
+                this.company.produced = this.company.produced;
+            var canadd = this.getCapacity() - this.productCount;
+            var add = Math.min(canadd, this.company.produced);
+            if (add > 0) {
+                this.company.produced -= add;
+                this.productCount += add;
+            }
+            if (this.dom) {
+                if (this.productCount > 0) {
+                    if (this.dom.hasAttribute("hidden"))
+                        this.dom.removeAttribute("hidden");
+                    return true;
+                }
+                if (!this.dom.hasAttribute("hidden"))
+                    this.dom.setAttribute("hidden", "");
+            }
+            return false;
+        }
+        getName() {
+            var comp = this.world.companies[this.companyTarget];
+            if (comp === undefined) {
+                if (this.autodeliver)
+                    return "Bautransport";
+                else
+                    return "inaktiv";
+            }
+            return comp.name;
+        }
+        changeCompanyTaget(companyTarget) {
+            this.companyTarget = companyTarget === -1 ? undefined : companyTarget;
+            if (this.company.productid === product_1.Product.productStone || this.company.productid === product_1.Product.productWood) {
+                if (this.companyTarget === undefined) {
+                    this.autodeliver = true;
+                }
+                else {
+                    this.autodeliver = false;
+                }
+            }
+            this.moveTo(this.company.companyID);
+        }
+        unload() {
+            var _a, _b;
+            var comp = this.world.companies[this.companyTarget];
+            var prodid = this.company.productid;
+            if (comp.productid === -2) {
+                if (product_1.Product.productSoldier === ((_a = this === null || this === void 0 ? void 0 : this.transferInfo) === null || _a === void 0 ? void 0 : _a.productid)) {
+                    if (comp.soldiercount >= parameter.soldiersToConquer)
+                        return false;
+                    comp.soldiercount++;
+                    this.destroy(this.company.transports);
+                    if (comp.soldiercount === parameter.soldiersToConquer) {
+                        delete comp.soldiersComing;
+                        comp.productid = -1;
+                        comp.domIcon.src = company_1.Company.getImageUrl("Baustelle.png");
+                    }
+                }
+                return true;
+            }
+            if (this.transferInfo) {
+                if (this.transferInfo.productid === product_1.Product.productHelper) {
+                    if (this.transferInfo.workertype === "workers") {
+                        comp.workers++;
+                        comp.workersComming--;
+                        if (!comp.workersComming)
+                            delete comp.workersComming;
+                    }
+                    else if (this.transferInfo.workertype === "workersIn") {
+                        comp.workersIn++;
+                        comp.workersInComming--;
+                        if (!comp.workersInComming)
+                            delete comp.workersInComming;
+                    }
+                    else if (this.transferInfo.workertype === "workersOut") {
+                        comp.workersOut++;
+                        comp.workersOutComming--;
+                        if (!comp.workersOutComming)
+                            delete comp.workersOutComming;
+                    }
+                    else if ((_b = this.transferInfo.workertype) === null || _b === void 0 ? void 0 : _b.company) { //
+                        this.transferInfo.workertype.workers++;
+                        this.transferInfo.workertype.workersComming--;
+                        if (!this.transferInfo.workertype.workersComming)
+                            delete this.transferInfo.workertype.workersComming;
+                    }
+                    this.company.transports.splice(this.company.transports.indexOf(this), 1);
+                    this.world.dom.removeChild(this.dom);
+                }
+                if (this.autodeliver) {
+                    if (this.company.productid === product_1.Product.productWood || this.company.productid === product_1.Product.productStone) { //buildtransport
+                        var transfer = Math.min(this.productCount, parameter.allProducts[comp.buildingInProgress].level);
+                        if (this.company.productid === product_1.Product.productWood)
+                            comp.woodsComming -= transfer;
+                        if (this.company.productid === product_1.Product.productStone)
+                            comp.stonesComming -= transfer;
+                        this.productCount -= transfer;
+                        if (comp.stonesComming === 0 && comp.woodsComming === 0) {
+                            delete comp.stonesComming;
+                            delete comp.woodsComming;
+                            delete comp.buildingInProgress;
+                            comp.changeProduct(this.transferInfo.productid);
+                            if (this.transferInfo.productid === product_1.Product.productHelper || this.transferInfo.productid === product_1.Product.productSoldier) {
+                                comp.workers = 99999999999;
+                                comp.workersOut = 99999999999;
+                            }
+                            this.transferInfo = undefined;
+                        }
+                        this.companyTarget = undefined;
+                        return true;
+                    }
+                }
+            }
+            var prodindex = parameter.allProducts[comp.productid].consume.indexOf(prodid);
+            var cap = comp.workersIn * parameter.transportCapacityPerHelper + parameter.transportCapacityPerHelper;
+            var transfer = Math.min(this.productCount, cap - comp.rawmaterials[prodindex]);
+            comp.rawmaterials[prodindex] += transfer;
+            this.productCount -= transfer;
+        }
+        destroy(parent) {
+            parent.splice(parent.indexOf(this), 1);
+            this.world.dom.removeChild(this.dom);
+        }
+        isPositionTarget() {
+            var t = this.world.companies[this.companyTarget];
+            if (t && t.x === this.x && t.y === this.y)
+                return true;
+            return false;
+        }
+        isPositionHome() {
+            var t = this.company;
+            if (t && t.x === this.x && t.y === this.y)
+                return true;
+            return false;
+        }
+        nextTick() {
+            if (this.nextTargetX === undefined)
+                return;
+            if (this.x === this.nextTargetX && this.y === this.nextTargetY) {
+                //console.log("arrived");
+                if (this.active && this.isPositionTarget()) {
+                    this.unload();
+                    this.moveTo(this.company.companyID);
+                }
+                if (this.active && this.isPositionHome()) {
+                    if (this.load()) {
+                        if (this.companyTarget !== undefined) //Bautransport
+                            this.moveTo(this.companyTarget);
+                    }
+                }
+                return;
+            }
+            else {
+                var max = Math.max(1, Math.round(1000 / this.speed));
+                if (this.curStep === 0) {
+                    this.calcNextPoint();
+                    this.curStep++;
+                }
+                else if (this.curStep === max) {
+                    this.curStep = 0;
+                    this.x = this.nextX;
+                    this.y = this.nextY;
+                }
+                else
+                    this.curStep++;
+            }
+            this.update();
+        }
+        moveTo(compid) {
+            if (this.dom) {
+                if (compid === this.company.companyID) {
+                    this.dom.style.opacity = "0.5";
+                }
+                else {
+                    this.dom.style.opacity = "1";
+                }
+            }
+            this.nextTargetX = this.world.companies[compid].x;
+            this.nextTargetY = this.world.companies[compid].y;
+            //console.log("drive to"+parameter.allProducts[this.world.companies[compid].productid].name+" "+this.nextTargetX+"/"+this.nextTargetY);
+            this.active = true;
+            this.status = 1;
+            //this.calcNextPoint();
+            /* var x = city.x;
+             var y = city.y;
+     
+             this.lastUpdate = this.world.game.date.getTime();
+             // console.log("fly to " + city.name)
+             this.action = "fly";
+             this.status = "fly to " + city.name;
+             this.targetX = x;
+             this.targetY = y;
+             this.update();*/
+        }
+        select() {
+            if (this.dom)
+                this.dom.classList.add("airplane_selected");
+        }
+        unselect() {
+            if (this.dom)
+                this.dom.classList.remove("airplane_selected");
+        }
+        update() {
+            if (!this.dom) {
+                return;
+            }
+            var fact = parameter.zoomfactor;
+            var x = fact * (this.x) - 10;
+            var y = ((fact * this.y) - 10);
+            var max = Math.max(1, Math.round(1000 / this.speed));
+            if (this.nextX !== undefined) {
+                x = Math.round(-fact * (this.x - this.nextX) * this.curStep / max + fact * this.x) - 10;
+                y = Math.round(-fact * (this.y - this.nextY) * this.curStep / max + fact * this.y) - 10;
+            }
+            this.dom.style.top = y + "px";
+            this.dom.style.left = x + "px";
+            /*  if (this.activeRoute !== -1 && this.route.length > 1) {
+                  if (this.action === "unload" && (this.lastUpdate - this.lastAction) > (3 * 1000 * 60 * 60)) {
+                      // console.log("load now");
+                      this.action = "load";
+                      this.status = "load";
+                      this.lastAction = this.lastUpdate;
+                       if(this.activeRoute>=this.route.length){
+                          this.activeRoute=0;
+                       }else
+                          this.route[this.activeRoute].unload();
+                      AirplaneDialog.getInstance().update();
+                  }
+                  if (this.action === "load" && (this.lastUpdate - this.lastAction) > (3 * 1000 * 60 * 60)) {
+      
+                      this.lastAction = this.lastUpdate;
+                      if(this.activeRoute>=this.route.length)
+                          this.activeRoute=0;
+                      else
+                          this.route[this.activeRoute].load();
+                      AirplaneDialog.getInstance().update();
+                      this.activeRoute++;
+                      if(this.activeRoute>=this.route.length)
+                          this.activeRoute=0;
+                      var city = this.world.cities[this.route[this.activeRoute].cityid];
+                      this.flyTo(city);
+      
+                  }
+              }*/
+        }
+        onclick(th) {
+            var _a;
+            th.preventDefault();
+            th.stopPropagation();
+            (_a = this.world.selection) === null || _a === void 0 ? void 0 : _a.unselect();
+            this.world.selection = this;
+            this.select();
+        }
+    }
+    exports.Transport = Transport;
+});
+//<span style='font-size:100px;'>&#9951;</span>
+define("game/diagramdialog", ["require", "exports", "game/icons", "game/tools"], function (require, exports, icons_4, tools_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.DiagramDialog = void 0;
+    class DiagramDialog {
+        constructor() {
+            this.create();
+        }
+        static getInstance() {
+            if (DiagramDialog.instance === undefined)
+                DiagramDialog.instance = new DiagramDialog();
+            return DiagramDialog.instance;
+        }
+        bindActions() {
+            var _this = this;
+            document.getElementById("diagramdialog-refresh").addEventListener('click', (e) => {
+                _this.update();
+            });
+            document.getElementById("buildWithOneClick").addEventListener('change', (e) => {
+                var num = parseInt(document.getElementById("buildWithOneClick").value);
+                parameter.numberBuildWithContextMenu = num;
+                _this.update();
+            });
+            document.getElementById("buildShopsWithOneClick").addEventListener('change', (e) => {
+                var num = parseInt(document.getElementById("buildShopsWithOneClick").value);
+                parameter.numberBuildShopsWithContextMenu = num;
+                _this.update();
+            });
+            document.getElementById("buildSpeedWithOneClick").addEventListener('change', (e) => {
+                var num = parseInt(document.getElementById("buildSpeedWithOneClick").value);
+                parameter.numberBuildSpeedWithContextMenu = num;
+                _this.update();
+            });
+            document.getElementById("hideFlags").addEventListener("click", (e) => {
+                var en = document.getElementById("hideFlags").checked;
+                parameter.hideFlags = en;
+                for (var x = 0; x < _this.world.cities.length; x++) {
+                    _this.world.cities[x].showOrHideFlags();
+                }
+                // _this.city.renderShopinfo(en);
+                //  _this.update();
+            });
+            document.getElementById("autoCloseDialog").addEventListener("click", (e) => {
+                var en = document.getElementById("autoCloseDialog").checked;
+                parameter.autoCloseDialog = en;
+            });
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                document.getElementById("diagram-advertise_" + x).addEventListener("click", (evt) => {
+                    var sid = evt.target.id;
+                    var id = Number(sid.split("_")[1]);
+                    var money = _this.world.cities.length * parameter.costsAdvertising;
+                    _this.world.game.changeMoney(-money, "advertising");
+                    _this.world.advertising[id] = new Date(_this.world.game.date.getTime() + 30 * 24 * 60 * 60 * 1000).getTime();
+                    _this.update();
+                });
+            }
+        }
+        create() {
+            //template for code reloading
+            var sdom = `
+          <div hidden id="diagramdialog" class="diagramdialog">
+            <div></div>
+           </div>
+        `;
+            this.dom = document.createRange().createContextualFragment(sdom).children[0];
+            var old = document.getElementById("diagramdialog");
+            if (old) {
+                old.parentNode.removeChild(old);
+            }
+            var _this = this;
+            var sdom = `
+          <div>
+            <button id="diagramdialog-refresh" title="refresh data"  class="mybutton">` + icons_4.Icons.refresh + `</button>
+                            
+            <div id="diagramdialog-tabs">
+                <ul>
+                    <li><a href="#diagramdialog-buildings" id="diagramdialog-buildings-tab" class="diagramdialog-tabs">Buildings</a></li>
+                    <li><a href="#diagramdialog-balance" id="diagramdialog-balance-tab" class="diagramdialog-tabs">Balance</a></li>
+                    <li><a href="#diagramdialog-settings" id="diagramdialog-settings-tab" class="diagramdialog-tabs">Settings</a></li>
+                </ul>
+                 <div id="diagramdialog-buildings">` + _this.createBuildings() + `
+                </div> 
+                <div id="diagramdialog-balance">   
+                    <table id="diagramdialog-balance-table">
+                    </table>         
+                </div>
+                 <div id="diagramdialog-settings">   
+                       build company with one click: <input id="buildWithOneClick"  value="""/><br/>
+                       build shops with contextmenu: <input id="buildShopsWithOneClick"  value="""/><br/>
+                       build speed with contextmenu: <input id="buildSpeedWithOneClick"  value="""/><br/>
+                       <input type="checkbox" id="hideFlags" title="hide flags" >hide flags</input>
+                       <input type="checkbox" id="autoCloseDialog" title="auto close dialog" >auto close dialog</input>
+                </div>
+            </div>
+           </div> 
+            `;
+            var newdom = document.createRange().createContextualFragment(sdom).children[0];
+            this.dom.removeChild(this.dom.children[0]);
+            this.dom.appendChild(newdom);
+            document.body.appendChild(this.dom);
+            $("#diagramdialog-tabs").tabs({
+            //collapsible: true
+            });
+            //        document.getElementById("citydialog-prev")
+            setTimeout(() => {
+                $("#diagramdialog-tabs").tabs({
+                //collapsible: true
+                });
+                _this.bindActions();
+            }, 500);
+            //document.createElement("span");
+        }
+        createBuildings() {
+            return `<table id="diagramdialog-buildings-table" style="height:100%;weight:100%;">
+                        <tr>
+                            <th>Name</th>
+                            <th> </th>
+                            <th style="align:right">Rate Load</th>
+                            <th style="align:right">Buildings</th>
+                            <th style="align:right">Consum.</th>
+                            <th>Advertise</th>
+                        </tr>
+                       ${(function fun() {
+                var ret = "";
+                for (var x = 0; x < parameter.allProducts.length; x++) {
+                    ret = ret + "<tr>";
+                    ret = ret + "<td>" + parameter.allProducts[x].getIcon() + "</td>";
+                    ret = ret + "<td>" + parameter.allProducts[x].name + "</td>";
+                    ret = ret + '<td align=right>100,00</td>';
+                    ret = ret + "<td align=right>0</td>";
+                    ret = ret + '<td align=right>0</td>';
+                    ret = ret + "<td>" + '<button id="diagram-advertise_' + x + '" class="mybutton"></button>' + "</td>";
+                    ret = ret + "</tr>";
+                }
+                return ret;
+            })()}
+                    </table>
+                    <span id="diagramdialog-buildings-last-change"></span>`;
+        }
+        update() {
+            if (document.activeElement !== document.getElementById("buildWithOneClick"))
+                document.getElementById("buildWithOneClick").value = "" + parameter.numberBuildWithContextMenu;
+            if (document.activeElement !== document.getElementById("buildShopsWithOneClick"))
+                document.getElementById("buildShopsWithOneClick").value = "" + parameter.numberBuildShopsWithContextMenu;
+            if (document.activeElement !== document.getElementById("buildSpeedWithOneClick"))
+                document.getElementById("buildSpeedWithOneClick").value = "" + parameter.numberBuildSpeedWithContextMenu;
+            if (document.getElementById("hideFlags").checked !== parameter.hideFlags)
+                document.getElementById("hideFlags").checked = parameter.hideFlags;
+            if (document.getElementById("autoCloseDialog").checked !== parameter.autoCloseDialog)
+                document.getElementById("autoCloseDialog").checked = parameter.autoCloseDialog;
+            try {
+                if (!$(this.dom).dialog('isOpen')) {
+                    return;
+                }
+            }
+            catch (_a) {
+                return;
+            }
+            var table = document.getElementById("diagramdialog-buildings-table");
+            var buildings = [];
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                buildings.push(0);
+            }
+            for (var x = 0; x < this.world.cities.length; x++) {
+                for (var y = 0; y < this.world.cities[x].companies.length; y++) {
+                    var comp = this.world.cities[x].companies[y];
+                    buildings[comp.productid] += comp.buildings;
+                }
+            }
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                var tr = table.children[0].children[x + 1];
+                var inprogr = 0;
+                for (var y = 0; y < this.world.cities.length; y++) {
+                    inprogr += this.world.cities[y].getBuildingInProgress(x);
+                }
+                var sh = buildings[x] === undefined ? "" : (0, tools_1.getLocalNumber)(buildings[x]);
+                if (inprogr) {
+                    sh = sh + "(" + inprogr + icons_4.Icons.hammer + ")";
+                }
+                tr.children[3].innerHTML = sh;
+                var suc = 0;
+                var unsuc = 0;
+                for (var t = 0; t < 7; t++) {
+                    suc += this.world.game.statistic.successfulLoad[t][x];
+                    unsuc += this.world.game.statistic.unsuccessfulLoad[t][x];
+                }
+                var ges = unsuc + suc;
+                var dif = ges - unsuc;
+                tr.children[2].innerHTML = (Math.round(10000 * dif / ges) / 100).toLocaleString(undefined, { maximumFractionDigits: 2 }) + "&nbsp;";
+                //tr.children[3].innerHTML = parameter.allProducts[x].dailyConsumtion.toLocaleString();
+                //var test1=parameter.allProducts[x].getAmountForPeople()/(parameter.workerInCompany*parameter.allProducts.length);
+                //var abw1=Math.round(1000*(parameter.allProducts[x].dailyConsumtion-test1)/parameter.allProducts[x].dailyConsumtion)/10;
+                tr.children[4].innerHTML = (parameter.allProducts[x].getDiffConsumtion() * 100).toLocaleString(undefined, { maximumFractionDigits: 1 });
+                var but = document.getElementById("diagram-advertise_" + x);
+                if (this.world.advertising[x]) {
+                    but.innerHTML = "until " + new Date(this.world.advertising[x]).toLocaleDateString();
+                    but.setAttribute("disabled", "");
+                }
+                else {
+                    but.removeAttribute("disabled");
+                    but.innerHTML = "for " + (this.world.cities.length * parameter.costsAdvertising).toLocaleString() + " " + icons_4.Icons.money;
+                }
+            }
+            //
+            var table = document.getElementById("diagramdialog-balance-table");
+            var content = `
+            <tr>
+                <th>What</th>
+                <th>Yesterday</th>
+                <th>Today</th>
+            </tr>
+        `;
+            var allKeys = [];
+            for (var key in this.world.game.statistic.today) {
+                if (allKeys.indexOf(key) === -1)
+                    allKeys.push(key);
+            }
+            for (var key in this.world.game.statistic.yesterday) {
+                if (allKeys.indexOf(key) === -1)
+                    allKeys.push(key);
+            }
+            allKeys.sort((a, b) => a.localeCompare(b));
+            var gest = 0;
+            var gesy = 0;
+            for (var x = 0; x < allKeys.length; x++) {
+                var k = allKeys[x];
+                if (this.world.game.statistic.yesterday[k] != 0)
+                    gesy += this.world.game.statistic.yesterday[k];
+                if (this.world.game.statistic.today[k] != 0)
+                    gest += this.world.game.statistic.today[k];
+                content += `<tr>
+                        <td>` + k + `</td>
+                        <td style="text-align: right">` + "&nbsp;" + (this.world.game.statistic.yesterday[k] === undefined ? "" : this.world.game.statistic.yesterday[k].toLocaleString()) + `</td>
+                        <td style="text-align: right">` + "&nbsp;" + (this.world.game.statistic.today[k] === undefined ? "" : this.world.game.statistic.today[k].toLocaleString()) + `</td>
+                      </tr>`;
+            }
+            content += `<tr>
+                        <td>Total</td>
+                        <td style="text-align: right">` + "&nbsp;" + gesy.toLocaleString() + `</td>
+                        <td style="text-align: right">` + "&nbsp;" + gest.toLocaleString() + `</td>
+                      </tr>`;
+            table.innerHTML = content;
+            document.getElementById("diagramdialog-buildings-last-change").textContent = this.world.game.statistic.lastPriceChange;
+        }
+        show() {
+            var _this = this;
+            this.dom.removeAttribute("hidden");
+            this.update();
+            //ui-tabs-active
+            $(this.dom).dialog({
+                title: "Statistics",
+                width: "400px",
+                draggable: true,
+                //     position:{my:"left top",at:"right top",of:$(document)} ,
+                open: function (event, ui) {
+                    _this.update();
+                },
+                close: function () {
+                },
+                create: function (e) {
+                    setTimeout(() => {
+                        $(e.target).dialog("widget").find(".ui-dialog-titlebar-close")[0].addEventListener('touchstart', (e) => {
+                            _this.close();
+                        });
+                    }, 200);
+                },
+                resizable: false
+            }).dialog("widget").draggable("option", "containment", "none");
+            $(this.dom).parent().css({ position: "fixed" });
+        }
+        close() {
+            $(this.dom).dialog("close");
+        }
+    }
+    exports.DiagramDialog = DiagramDialog;
+});
+define("game/savedialog", ["require", "exports", "game/product", "game/world", "game/company", "game/transport"], function (require, exports, product_2, world_1, company_2, transport_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.test = exports.SaveDialog = void 0;
+    class SaveDialog {
+        constructor() {
+            this.create();
+        }
+        static getInstance() {
+            if (SaveDialog.instance === undefined)
+                SaveDialog.instance = new SaveDialog();
+            return SaveDialog.instance;
+        }
+        create() {
+            //template for code reloading
+            var sdom = `
+          <div hidden id="SaveDialog" class="SaveDialog">
+            <div></div>
+           </div>
+        `;
+            this.dom = document.createRange().createContextualFragment(sdom).children[0];
+            var old = document.getElementById("SaveDialog");
+            if (old) {
+                old.parentNode.removeChild(old);
+            }
+            var _this = this;
+            var sdom = `
+          <div>
+            <table>
+                <tr>
+                    <td>
+                        Filename: <input id="save-filename"/>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="vertical-align: top;width:100%">
+                     <ul style="width:100%" class="mylist boxborder" id="save-files">
+                     
+           
+                    </ul>
+                      
+                    </td>
+                    <td>
+                        <input type="file" id="save-import" name="files[]" accept="application/json" style="display: none;"  />
+                        <button id="save-save" title="save" style="width:100%" class="mybutton">Save</button>
+                        <button id="save-load" title="save" style="width:100%" class="mybutton">Load</button>
+                        <button id="save-delete" title="save" style="width:100%" class="mybutton">Delete</button>
+                        <button id="save-export" title="save" style="width:100%" class="mybutton">Export</button>
+                        <button id="save-doupload" title="save" style="width:100%" class="mybutton" onclick="document.getElementById('save-import').click();">Import</button>
+                        <button id="save-cancel" title="save" style="width:100%" class="mybutton">Cancel</button>
+            
+                    </td>
+                </tr>    
+
+            </table>         
+           </div> 
+            `;
+            var newdom = document.createRange().createContextualFragment(sdom).children[0];
+            this.dom.removeChild(this.dom.children[0]);
+            this.dom.appendChild(newdom);
+            document.body.appendChild(this.dom);
+            //        document.getElementById("citydialog-prev")
+            setTimeout(() => {
+                $("#SaveDialog-tabs").tabs({
+                //collapsible: true
+                });
+                _this.bindActions();
+            }, 500);
+            //document.createElement("span");
+        }
+        bindActions() {
+            var _this = this;
+            var idfilename = document.getElementById("save-filename");
+            document.getElementById("save-cancel").addEventListener("click", (ev) => {
+                _this.close();
+            });
+            document.getElementById("save-save").addEventListener("click", (ev) => {
+                if (idfilename.value === "") {
+                    alert("Error:Filename is empty");
+                    return;
+                }
+                _this.save(idfilename.value);
+                _this.close();
+            });
+            document.getElementById("save-load").addEventListener("click", (ev) => {
+                if (idfilename.value === "") {
+                    alert("Error:Filename is empty");
+                    return;
+                }
+                _this.load(idfilename.value);
+                _this.close();
+            });
+            document.getElementById("save-files").addEventListener("click", (ev) => {
+                idfilename.value = ev.target.getAttribute("value"); //.substring(4);
+                var el = ev.target;
+                var select = document.getElementById("save-files");
+                for (var x = 0; x < select.children.length; x++) {
+                    select.children[x].classList.remove("active-listitem");
+                }
+                el.classList.add("active-listitem");
+            });
+            document.getElementById("save-delete").addEventListener("click", (ev) => {
+                window.localStorage.removeItem("save" + idfilename.value);
+                _this.update();
+            });
+            document.getElementById("save-export").addEventListener("click", (ev) => {
+                var text = _this.toJson();
+                var fileBlob = new Blob([text], { type: "application/json" });
+                var link = document.createElement("a");
+                link.setAttribute("href", URL.createObjectURL(fileBlob));
+                link.setAttribute("download", "export.json");
+                link.appendChild(document.createTextNode("Save file"));
+                document.body.appendChild(link);
+                link.click();
+                link.remove();
+            });
+            document.getElementById("save-import").addEventListener("change", function (evt) {
+                var files = evt.target["files"];
+                var data = {};
+                var downloaded = 0;
+                var file = files[0];
+                var reader = new FileReader();
+                reader.addEventListener("load", function () {
+                    var s = reader.result;
+                    _this.loadContent(s);
+                    //alert(s);
+                }, false);
+                reader.readAsText(file);
+            });
+        }
+        update() {
+            var list = [];
+            var ret = "";
+            for (var key in window.localStorage) {
+                if (key.startsWith("save")) {
+                    ret += '<li value="' + key.substring(4) + '">' + key.substring(4) + '</li>';
+                    //list.push();
+                }
+            }
+            document.getElementById("save-files").innerHTML = ret;
+            var last = window.localStorage.getItem("lastgame");
+            if (last)
+                document.getElementById("save-filename").value = last;
+        }
+        show() {
+            var _this = this;
+            this.dom.removeAttribute("hidden");
+            //ui-tabs-active
+            $(this.dom).dialog({
+                title: "Statistics",
+                width: "400px",
+                draggable: true,
+                //     position:{my:"left top",at:"right top",of:$(document)} ,
+                open: function (event, ui) {
+                    _this.update();
+                },
+                close: function () {
+                },
+                create: function (e) {
+                    setTimeout(() => {
+                        $(e.target).dialog("widget").find(".ui-dialog-titlebar-close")[0].addEventListener('touchstart', (e) => {
+                            _this.close();
+                        });
+                    }, 200);
+                }
+            }).dialog("widget").draggable("option", "containment", "none");
+            $(this.dom).parent().css({ position: "fixed" });
+        }
+        close() {
+            $(this.dom).dialog("close");
+        }
+        toJson() {
+            var sdata = JSON.stringify(this.game, (key, value) => {
+                var _a, _b, _c, _d;
+                var ret = {};
+                if (value instanceof HTMLElement) {
+                    return undefined;
+                }
+                if (key === "lastUpdate")
+                    return undefined;
+                if (((_a = value === null || value === void 0 ? void 0 : value.constructor) === null || _a === void 0 ? void 0 : _a.name) === "World") {
+                    Object.assign(ret, value);
+                    delete ret.game;
+                    return ret;
+                }
+                if (((_b = value === null || value === void 0 ? void 0 : value.constructor) === null || _b === void 0 ? void 0 : _b.name) === "Company") {
+                    Object.assign(ret, value);
+                    delete ret.world;
+                    return ret;
+                }
+                if (((_c = value === null || value === void 0 ? void 0 : value.constructor) === null || _c === void 0 ? void 0 : _c.name) === "Transport") {
+                    Object.assign(ret, value);
+                    delete ret.world;
+                    delete ret.company;
+                    return ret;
+                }
+                if (((_d = value === null || value === void 0 ? void 0 : value.constructor) === null || _d === void 0 ? void 0 : _d.name) === "Product") {
+                    Object.assign(ret, value);
+                    return ret;
+                }
+                return value;
+            });
+            return sdata;
+        }
+        save(filename) {
+            this.game.pause();
+            var sdata = this.toJson();
+            window.localStorage.setItem("save" + filename, sdata);
+            window.localStorage.setItem("lastgame", filename);
+            //this.load();
+            console.log(sdata);
+            this.game.resume();
+        }
+        packArray(arr) {
+            var test = arr[0];
+            for (var x = 1; x < arr.length; x++) {
+                if (arr[x] !== test)
+                    return arr;
+            }
+            return test;
+        }
+        unpackArray(value) {
+            if (Array.isArray(value))
+                return value;
+            var ret = [];
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                ret.push(value);
+            }
+            return ret;
+        }
+        loadContent(data) {
+            this.game.close();
+            var ret = JSON.parse(data, (key, value) => {
+                var r = value;
+                if (value === null)
+                    return undefined;
+                if (key === "parameter") {
+                    Object.assign(parameter, value);
+                    //return parameter;
+                    for (var x = 0; x < parameter.allProducts.length; x++) {
+                        var temp = parameter.allProducts[x];
+                        parameter.allProducts[x] = new product_2.Product(); //(parameter.allProducts[x]);
+                        Object.assign(parameter.allProducts[x], temp);
+                    }
+                }
+                if ((value === null || value === void 0 ? void 0 : value.type) === "Company") {
+                    r = new company_2.Company();
+                    Object.assign(r, value);
+                    return r;
+                }
+                if ((value === null || value === void 0 ? void 0 : value.type) === "Product") {
+                    r = new product_2.Product();
+                    Object.assign(r, value);
+                    return r;
+                }
+                if ((value === null || value === void 0 ? void 0 : value.type) === "Transport") {
+                    r = new transport_1.Transport();
+                    Object.assign(r, value);
+                    return r;
+                }
+                if ((value === null || value === void 0 ? void 0 : value.type) === "World") {
+                    delete value._intervall;
+                    r = new world_1.World();
+                    Object.assign(r, value);
+                    return r;
+                }
+                return r;
+            });
+            var game = this.game;
+            delete ret.timer;
+            delete ret.updateUIID;
+            Object.assign(this.game, ret);
+            game.world.game = game;
+            game.date = new Date(game.date);
+            /*for (var x = 0; x < game.world.airplanes.length; x++) {
+                game.world.airplanes[x].world = game.world;
+                for (var y = 0; y < game.world.airplanes[x].route.length; y++) {
+                    game.world.airplanes[x].route[y].airplane = game.world.airplanes[x];
+                }
+            }*/
+            for (var x = 0; x < game.world.companies.length; x++) {
+                game.world.companies[x].world = game.world;
+                for (var y = 0; y < game.world.companies[x].transports.length; y++) {
+                    game.world.companies[x].transports[y].world = game.world;
+                    game.world.companies[x].transports[y].company = game.world.companies[x];
+                }
+                //for(var y=0;y<this.world.cities[x].companies.length;y++){
+                //  this.world.cities[x].companies[y].
+                //}
+            }
+            /*  if (game.world.cities[1].people > 0) {
+                  //migration
+                  for (var x = 1; x < game.world.cities.length; x++) {
+                      game.world.cities[0].people += game.world.cities[x].people;
+                      game.world.cities[x].people = 0;
+                  }
+                  for (var x = 1; x < parameter.allProducts.length; x++) {
+                      game.world.cities[0].score[x] = 50;
+      
+                  }
+                  game.world.cities[0].people = Math.round(game.world.cities[0].people);
+                  game.world.cities[0].shops = game.world.cities[0].shops * 7;
+                  game.world.cities[0].houses = Math.round(game.world.cities[0].people / parameter.peopleInHouse);
+              }
+              console.log("People: " + game.world.cities[0].people.toLocaleString());
+      */
+            /* if (parseFloat(ret.version) <= 1.2) {
+                 game.parameter.allAirplaneTypes[0].buildingMaterial = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+             }*/
+            game.render(this.game.dom);
+            game.resume();
+        }
+        load(filename) {
+            this.game.pause();
+            var data = window.localStorage.getItem("save" + filename);
+            this.loadContent(data);
+            window.localStorage.setItem("lastgame", filename);
+        }
+    }
+    exports.SaveDialog = SaveDialog;
+    function test() {
+        SaveDialog.getInstance().show();
+    }
+    exports.test = test;
+});
+define("game/game", ["require", "exports", "game/world", "game/icons", "game/product", "game/diagramdialog", "game/savedialog", "game/tools", "game/companydialog"], function (require, exports, world_2, icons_5, product_3, diagramdialog_1, savedialog_1, tools_2, companydialog_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.test = exports.Game = exports.Parameter = exports.Level = void 0;
+    var gameversion = "1.0";
+    window.onbeforeunload = function () {
+        return "Do you want to exit?";
+    };
+    //@ts-ignore
+    $.notify.defaults({ position: "bottom right", className: "info" });
+    class Level {
+    }
+    exports.Level = Level;
+    class Parameter {
+        constructor() {
+            this.autoCloseDialog = true;
+            this.zoomfactor = 30;
+            this.width = 8;
+            this.height = 20;
+            this.soldiersToConquer = 10;
+            this.transportCapacityPerHelper = 1;
+            this.capacityPerHelper = 1;
+        }
+    }
+    exports.Parameter = Parameter;
+    function createParameter() {
+        window.parameter = new Parameter();
+        globalThis.parameter = new Parameter();
+        //7*6
+        parameter.allProducts = product_3.Product.init([
+            new product_3.Product("Tor", "Tor.png", 1, []),
+            new product_3.Product("Wasser", "Wasser.png", 1, []),
+            new product_3.Product("Beeren", "Beeren.png", 1, ["Wasser"], 1),
+            new product_3.Product("Helfer", "Helfer.png", 1, ["Beeren"]),
+            new product_3.Product("Soldat", "Soldat.png", 1, ["Bier"]),
+            new product_3.Product("Stein", "Stein.png", 1, ["Beeren"]),
+            new product_3.Product("Holz", "Holz.png", 1, ["Beeren"]),
+            new product_3.Product("Getreide", "Getreide.png", 2, ["Wasser"]),
+            new product_3.Product("Mehl", "Mehl.png", 2, ["Getreide"]),
+            new product_3.Product("Brot", "Brot.png", 2, ["Mehl", "Holz"]),
+            new product_3.Product("Schwein", "Schwein.png", 2, ["Getreide", "Wasser"]),
+            new product_3.Product("Fleisch", "Fleisch.png", 2, ["Schwein"]),
+            new product_3.Product("Burger", "Burger.png", 2, ["Brot", "Fleisch", "Holz"], 2),
+            new product_3.Product("Bier", "Bier.png", 2, ["Getreide", "Wasser"], undefined, 2),
+            new product_3.Product("Gras", "Gras.png", 3, ["Wasser"]),
+            new product_3.Product("Milch", "Milch.png", 3, ["Gras"]),
+            new product_3.Product("Fisch", "Fisch.png", 3, ["Beeren"]),
+            new product_3.Product("Kakao", "Kakao.png", 3, ["Bier", "Fisch"]),
+            new product_3.Product("Kohle", "Kohle.png", 3, ["Fleisch"]),
+            new product_3.Product("Kakaomilch", "Kakaomilch.png", 3, ["Milch", "Kakao"], 3),
+            new product_3.Product("Eisenerz", "Eisenerz.png", 3, ["Brot"]),
+            new product_3.Product("Eisen", "Eisen.png", 3, ["Eisenerz", "Kohle"]),
+            new product_3.Product("Schwert", "Schwet.png", 3, ["Eisen", "Holz"], undefined, 3),
+            new product_3.Product("Brett", "Brett.png", 4, ["Holz"]),
+            new product_3.Product("Werkzeug", "Werkzeug.png", 4, ["Eisen", "Brett"]),
+            new product_3.Product("Tisch", "Tisch.png", 4, ["Brett", "Werkzeug"], 4),
+            new product_3.Product("Wolle", "Wolle.png", 4, ["Gras", "Wasser"]),
+            new product_3.Product("Stoff", "Stoff.png", 4, ["Wolle"]),
+            new product_3.Product("Kleidung", "Kleidung.png", 4, ["Stoff"]),
+            new product_3.Product("Rüstung", "Ruestung.png", 4, ["Kleidung", "Eisen", "Kohle", "Werkzeug"], undefined, 4),
+            new product_3.Product("Käse", "Kaese.png", 5, ["Milch"]),
+            new product_3.Product("Papier", "Papier.png", 5, ["Holz"]),
+            new product_3.Product("Pizza", "Pizza.png", 5, ["Fleisch", "Käse", "Mehl", "Papier"], 5),
+            new product_3.Product("Ei", "Ei.png", 6, ["Gras", "Getreide"]),
+            new product_3.Product("Torte", "Torte.png", 6, ["Mehl", "Beeren", "Ei"]),
+            new product_3.Product("Gold", "Gold.png", 6, ["Torte"]),
+            new product_3.Product("Schmuck", "Schmuck.png", 6, ["Gold"]),
+            new product_3.Product("Eierlikör", "Eierlikoer.png", 6, ["Ei", "Milch"]),
+            new product_3.Product("Geschenk", "Geschenk.png", 6, ["Schmuck", "Eierlikör", "Papier"], 6),
+            new product_3.Product("Helm", "Helm.png", 6, ["Eisen", "Kohle", "Wolle", "Schmuck"], undefined, 6)
+            // new Product("Spielzeug",    "",         6,  ["Kleidung","Papier"])
+        ]);
+        parameter.allLevels = [
+            { maxPeople: 30, maxSoldiers: 100, maxPlaces: 10, buildingLimit: 2 },
+            { maxPeople: 150, maxSoldiers: 50, maxPlaces: 20, buildingLimit: 3 },
+            { maxPeople: 180, maxSoldiers: 50, maxPlaces: 40, buildingLimit: 3 },
+            { maxPeople: 240, maxSoldiers: 50, maxPlaces: 60, buildingLimit: 4 },
+            { maxPeople: 300, maxSoldiers: 50, maxPlaces: 80, buildingLimit: 5 },
+            { maxPeople: 360, maxSoldiers: 50, maxPlaces: 100, buildingLimit: 99999999 },
+        ];
+        return parameter;
+    }
+    ;
+    //global.parameter=new Parametetr();
+    class Game {
+        constructor() {
+            this.version = "5.4";
+            this.mapWidth = 1000;
+            this.mapHeight = 600;
+            this.level = 1;
+            this.people = 0;
+            var _this = this;
+            Game.instance = this;
+            this.parameter = createParameter();
+            this.speed = Game.temposcale[6];
+            this.lastUpdate = Date.now();
+            this.date = new Date("Sat Jan 01 2000 00:00:00");
+            companydialog_1.CompanyDialog.instance = undefined;
+            this.updateUIID = setTimeout(() => {
+                _this.nextTick();
+            }, 100);
+            console.log("set intervall" + this.updateUIID);
+        }
+        updateTitle() {
+            try {
+                var m = this.people;
+                if (document.getElementById("idpeople").textContent !== (0, tools_2.getLocalNumber)(m))
+                    document.getElementById("idpeople").textContent = (0, tools_2.getLocalNumber)(m);
+                if (document.getElementById("idlevel").textContent !== this.level.toString())
+                    document.getElementById("idlevel").textContent = this.level.toString();
+            }
+            catch (ex) {
+                console.log("stop game");
+                return;
+            }
+        }
+        static showInfo(info) {
+            //@ts-ignore
+            $.notify(info);
+        }
+        checkNextLevel() {
+            var lev = parameter.allLevels[this.level - 1];
+            var prods = this.world.getProductsToBuildForLevel(this.level);
+            if (prods.length === 0) {
+                var gate = this.world.findCompanyThatProduces(product_3.Product.productGate)[0];
+                var gatefull = true;
+                gate.rawmaterials.forEach(val => {
+                    if (val < gate.workersIn) {
+                        gatefull = false;
+                    }
+                });
+                if (!gatefull || gate.rawmaterials.length === 0)
+                    return;
+                this.level++;
+                var prodHelper = parameter.allProducts[product_3.Product.productHelper];
+                var productSoldier = parameter.allProducts[product_3.Product.productSoldier];
+                for (var x = 0; x < parameter.allProducts.length; x++) {
+                    var prod = parameter.allProducts[x];
+                    if (prod.forpeoplelevel === this.level && prodHelper.consume.indexOf(prod.id) === -1) {
+                        prodHelper.consume.push(prod.id);
+                        this.world.findCompanyThatProduces(product_3.Product.productHelper).forEach(p => p.rawmaterials.push(0));
+                    }
+                    if (prod.forsoldierlevel === this.level && productSoldier.consume.indexOf(prod.id) === -1) {
+                        productSoldier.consume.push(prod.id);
+                        this.world.findCompanyThatProduces(product_3.Product.productSoldier).forEach(p => p.rawmaterials.push(0));
+                    }
+                }
+                if (this.level === 2) {
+                    var soldier = this.world.findCompanyThatProduces(product_3.Product.productSoldier).forEach((sol) => {
+                    });
+                }
+                alert("Glückwunsch, Du hast Level " + this.level + " erreicht. Weitere Gebäude wurden freigeschaltet.");
+            }
+            this.updateTitle();
+            this.setProductsInGate();
+        }
+        setProductsInGate() {
+            var gate = this.world.findCompanyThatProduces(product_3.Product.productGate)[0];
+            var helper = this.world.findCompanyThatProduces(product_3.Product.productHelper)[0];
+            var soldier = this.world.findCompanyThatProduces(product_3.Product.productSoldier)[0];
+            var pgate = parameter.allProducts[product_3.Product.productGate];
+            var phelper = parameter.allProducts[product_3.Product.productHelper];
+            var psoldier = parameter.allProducts[product_3.Product.productSoldier];
+            gate.rawmaterials = [];
+            pgate.consume = [];
+            gate.workersIn = this.world.getProductsToBuildForLevel(this.level + 1).length * 10 - 1;
+            parameter.allProducts.forEach(p => {
+                if ((this.level) === p.forpeoplelevel) {
+                    pgate.consume.push(p.id);
+                    gate.rawmaterials.push(this.world.getProductsToBuildForLevel(this.level + 1).length * 5);
+                }
+                if ((this.level) === p.forsoldierlevel) {
+                    pgate.consume.push(p.id);
+                    gate.rawmaterials.push(0);
+                }
+            });
+            parameter.allProducts.forEach(p => {
+                if ((this.level) && p.forpeoplelevel) {
+                    var idx = phelper.consume.indexOf(p.id);
+                    helper.rawmaterials[idx] = this.world.getProductsToBuildForLevel(this.level).length * 5;
+                }
+                if ((this.level) && p.forsoldierlevel) {
+                    var idx = psoldier.consume.indexOf(p.id);
+                    soldier.rawmaterials[idx] = this.world.getProductsToBuildForLevel(this.level).length * 10;
+                }
+            });
+        }
+        nextTick() {
+            var _this = this;
+            this.checkNextLevel();
+            this.world.nextTick();
+            this.updateUIID = setTimeout(() => {
+                _this.nextTick();
+            }, 100);
+            companydialog_1.CompanyDialog.getInstance().update();
+            this.updateTitle();
+            //AirplaneDialog.getInstance().update();
+        }
+        updateSize() {
+            this.domWorld.style.width = (this.mapWidth + 80) + "px";
+            this.domWorld.style.height = (this.mapHeight + 100) + "px";
+            this.domWorld.parentNode.style.width = (this.mapWidth + 80) + "px";
+            this.domWorld.parentNode.style.height = (this.mapHeight + 100) + "px";
+        }
+        //never call this outside the timer - then would be 2 updates
+        /*private nevercallthisfunction() {
+          //var t=new Date().getTime();
+          var intervall = 1000 / this.speed;
+          var _this = this;
+          var diff = 1000 * 60 * 60;//update always at full clock//((Date.now() - this.lastUpdate)) * 60 * 60 * this.speed;
+          this.date = new Date(this.date.getTime() + diff);
+      
+          if (this.world)
+            this.world.nextTick();
+          this.lastUpdate = Date.now();
+          this.timer = setTimeout(() => {
+            _this.nevercallthisfunction();
+      
+          }, intervall);
+      
+        }
+      */
+        newGame() {
+            this.world = new world_2.World();
+            this.world.game = this;
+            this.world.newGame();
+        }
+        getMoney() {
+            return this._money;
+        }
+        changeMoney(change, why, city = undefined) {
+            this._money += change;
+            //  console.log(change+" "+why);
+        }
+        render(dom) {
+            var _this = this;
+            dom.innerHTML = "";
+            dom.style.backgroundColor = "lightblue";
+            this.dom = dom;
+            var sdomHeader = `
+          <div style="height:15px;position:fixed;z-index:10000;background-color:lightblue;">
+            Traffics ` + gameversion + ` 
+            <button id="game-slower"  class="mybutton">` + icons_5.Icons.minus + `</button> 
+            <span id="gamedate"></span>   
+            <button id="game-faster"  class="mybutton">` + icons_5.Icons.plus + `</button> 
+            <span id="idpeople"></span>` + "👤" + `
+            Level <span id="idlevel"></span>` + `
+            <button id="save-game"  class="mybutton">` + icons_5.Icons.save + `</button> 
+            <!--button id="debug-game"  class="mybutton">` + icons_5.Icons.debug + `</button--> 
+            <button id="show-diagram"  class="mybutton">` + icons_5.Icons.diagram + `</button> 
+          </div>  
+        `;
+            this.domHeader = document.createRange().createContextualFragment(sdomHeader).children[0];
+            var sdomWorld = `
+          <div id="world" style="position:absolute;top:20px;">
+          </div>  
+        `;
+            this.domWorld = document.createRange().createContextualFragment(sdomWorld).children[0];
+            this.dom.appendChild(this.domHeader);
+            // var headerPlaceeholder = <any>document.createRange().createContextualFragment('<div style="height:15px"></div>').children[0]
+            // this.dom.appendChild(headerPlaceeholder);
+            this.dom.appendChild(this.domWorld);
+            this.world.render(this.domWorld);
+            this.updateSize();
+            setTimeout(() => {
+                _this.bindActions();
+            }, 500);
+        }
+        bindActions() {
+            var _this = this;
+            document.getElementById("gamedate").addEventListener("mousedown", () => {
+                console.log("down");
+            });
+            document.getElementById("save-game").addEventListener("click", () => {
+                savedialog_1.SaveDialog.getInstance().game = _this;
+                savedialog_1.SaveDialog.getInstance().show();
+            });
+            /*  document.getElementById("debug-game").addEventListener("click", () => {
+                // _this.world.showMoveIcon();
+                //Product.randomUpdateConsumtion(_this.world,9,18,3,false);
+               Product.randomUpdateConsumtion(this.world);
+               });*/
+            document.getElementById("show-diagram").addEventListener("click", () => {
+                diagramdialog_1.DiagramDialog.getInstance().world = this.world;
+                diagramdialog_1.DiagramDialog.getInstance().show();
+            });
+            document.getElementById("game-slower").addEventListener("click", () => {
+                if (_this.speed === Game.temposcale[0]) {
+                    _this.pause();
+                    console.log("pause");
+                    return;
+                }
+                var pos = Game.temposcale.indexOf(_this.speed);
+                pos--;
+                if (pos == -1)
+                    return;
+                _this.speed = Game.temposcale[pos];
+                _this.pause();
+                _this.resume();
+            });
+            document.getElementById("game-faster").addEventListener("click", () => {
+                if (_this.isPaused()) {
+                    _this.resume();
+                    return;
+                }
+                var pos = Game.temposcale.indexOf(_this.speed);
+                pos++;
+                if (pos >= Game.temposcale.length) {
+                    console.log("max");
+                    return;
+                }
+                _this.speed = Game.temposcale[pos];
+                _this.pause();
+                _this.resume();
+            });
+        }
+        resume() {
+            //  if (this.timer === 0)
+            // this.nevercallthisfunction();
+        }
+        isPaused() {
+            return this.timer === 0;
+        }
+        pause() {
+            clearTimeout(this.timer);
+            this.timer = 0;
+        }
+        destroy() {
+            this.world.destroy();
+            clearTimeout(this.timer);
+            clearTimeout(this.updateUIID);
+            console.log("clear intervall" + this.updateUIID);
+        }
+        close() {
+            //clearInterval(this.updateUIID);
+            //  clearTimeout(this.timer);
+        }
+    }
+    exports.Game = Game;
+    Game.temposcale = [0.01, 0.5, 1, 2, 4, 8, 16, 32, 64, 128, 256];
+    function test() {
+    }
+    exports.test = test;
+});
+define("game/companydialog", ["require", "exports", "game/icons", "game/company", "game/product", "game/transport", "game/game"], function (require, exports, icons_6, company_3, product_4, transport_2, game_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.CompanyDialog = void 0;
+    //@ts-ignore
+    window.company = function () {
+        return CompanyDialog.getInstance().company;
+    };
+    class CompanyDialog {
+        constructor() {
+            this.maxCompanies = 14;
+            this.hasPaused = false;
+            this.create();
+        }
+        static getInstance() {
+            if (CompanyDialog.instance === undefined)
+                CompanyDialog.instance = new CompanyDialog();
+            return CompanyDialog.instance;
+        }
+        create() {
+            //template for code reloading
+            var sdom = `
+          <div hidden id="companydialog" class="companydialog">
+            <div></div>
+           </div>
+        `;
+            this.dom = document.createRange().createContextualFragment(sdom).children[0];
+            var old = document.getElementById("companydialog");
+            if (old) {
+                old.parentNode.removeChild(old);
+            }
+            var products = parameter.allProducts;
+            var _this = this;
+            var city = _this.company;
+            var sdom = `
+          <div>
+        
+            <div id="companydialog-tabs">
+                <ul>
+                    <li><a href="#companydialog-production" id="companydialog-production-tab" class="companydialog-tabs">Produktion</a></li>
+                    <li><a href="#companydialog-transport" id="companydialog-transport-tab"  class="companydialog-tabs">Transport</a></li>
+                    <li><a href="#companydialog-conquer" id="companydialog-conquer-tab"  class="companydialog-tabs">Erobern</a></li>
+                    <li><a href="#companydialog-build" id="companydialog-build-tab"  class="companydialog-tabs">Bauen</a></li>
+                    <li><a href="#companydialog-delete" id="companydialog-delete-tab"  class="companydialog-tabs">❌</a></li>
+                    
+                </ul>
+                <div id="companydialog-production"> ` + this.createProductionTab() + `
+                </div>
+                <div id="companydialog-transport">` + this.createTransportTab() + `
+                </div>
+                <div id="companydialog-conquer">` + this.createConquerTab() + `
+                </div>
+                 <div id="companydialog-build">` + this.createBuildTab() + `
+                </div>
+                 <div id="companydialog-delete">
+                    Soll das Geb&auml;ude abgerissen werden?<br/>
+                    <button id="destroy-building"  class="mybutton"> Ja ❌ </button>
+                </div>
+            </div>
+          </div>
+        `;
+            var newdom = document.createRange().createContextualFragment(sdom).children[0];
+            this.dom.removeChild(this.dom.children[0]);
+            this.dom.appendChild(newdom);
+            $("#companydialog-tabs").tabs({
+            //collapsible: true
+            });
+            $("#companydialog-build-tabs").tabs({ beforeActivate: function (event, ui) { _this.buildTabActivated(event, ui); } });
+            setTimeout(() => {
+                $("#companydialog-tabs").tabs({
+                //collapsible: true
+                });
+                $("#companydialog-build-tabs").tabs({ beforeActivate: function (event, ui) { _this.buildTabActivated(event, ui); } });
+            }, 100);
+            document.body.appendChild(this.dom);
+            //        document.getElementById("companydialog-prev")
+            setTimeout(() => { _this.bindActions(); }, 500);
+            //document.createElement("span");
+        }
+        buildTabActivated(evt, ui) {
+            var level = parseInt(evt.currentTarget.id.split("_")[1]) + 1;
+            if (this.company.world.game.level < (level - 1)) {
+                game_1.Game.showInfo("kann erst ab Level " + (level + 1) + " gebaut werden.");
+            }
+        }
+        createConquerTab() {
+            var _this = this;
+            return `
+               
+                    <button id="add-soldier"  class="mybutton">+10 <img src="${company_3.Company.getImageUrl(parameter.allProducts[product_4.Product.productSoldier].image)}" width="20" height="20"> </button>  <br/>
+               
+               
+               `;
+        }
+        createBuildTab() {
+            var _this = this;
+            var links = "";
+            var tabs = "";
+            var prods = [];
+            for (var x = 0; x < parameter.allLevels.length; x++) {
+                prods.push([]);
+            }
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                var p = parameter.allProducts[x];
+                prods[p.level - 1].push(p);
+            }
+            for (var x = 0; x < parameter.allLevels.length; x++) {
+                links = links + `<li><a href="#companydialog-build-${x}" id="companydialog-bild-tab_${x}" class="companydialog-tabs">${x + 1}</a></li>`;
+                var icons = "";
+                for (var i = 0; i < prods[x].length; i++) {
+                    var p = prods[x][i];
+                    icons += `<button id="companydialog-build-product_${p.id}" class="companydialog-build-product">+
+                            <img  src="${company_3.Company.getImageUrl(p.image)}" width="30" height="30" title="${p.name}"> 
+                        </button>`;
+                }
+                tabs = tabs + ` <div id="companydialog-build-${x}">` + icons + `</div>`;
+            }
+            /*                            ${for(var i=0;i<4;i++){
+            
+                                }}
+                                <li><a href="#companydialog-bild-1" id="companydialog-bild-tab-1" class="companydialog-tabs">1</a></li>
+                                <li><a href="#companydialog-bild-2" id="companydialog-bild-tab-2" class="companydialog-tabs">2</a></li>
+                                <li><a href="#companydialog-bild-3" id="companydialog-bild-tab-3" class="companydialog-tabs">3</a></li>
+                                <li><a href="#companydialog-bild-4" id="companydialog-bild-tab-4" class="companydialog-tabs">4</a></li>*/
+            return `
+             <div id="companydialog-build-tabs">
+                <ul>` + links +
+                `</ul>
+                ` + tabs + `
+                
+            </div>
+
+               
+               `;
+        }
+        createProductionTab() {
+            var _this = this;
+            return `<span id="production-info" style="color:red"></span>
+                <table id="companydialog-production-table" style="height:100%;weight:100%;">
+                        <tr>
+                            <td>Lager&nbsp;</td>
+                            <td><img id="companydialog-production-table-icon" src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td><b><span id="workersOut">1</span></b></td>
+                            <td>
+                                <button id="out-add-worker"  class="mybutton">+1👤 </button>  
+                                <button id="out-remove-worker"  class="mybutton">-1👤 </button>  
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Produktion&nbsp;</td>
+                            <td></td>
+                            <td><span id="workers">1</span></td>
+                            <td>
+                                <button id="add-worker"  class="mybutton">+1👤 </button>
+                                <button id="remove-worker"  class="mybutton">-1👤 </button> 
+                            </td>
+                         
+                        </tr>
+                      
+                        <tr>
+                            <td>Rohstoffe&nbsp;</td>
+                            <td></td>
+                            <td><span id="workersIn">1</span></td>
+                            <td>
+                                <button id="in-add-worker"  class="mybutton">+1👤 </button>  
+                                <button id="in-remove-worker"  class="mybutton">-1👤 </button>  
+                            </td>
+                              
+                                
+                            
+                        </tr>
+                         <tr>
+                            <td>Mehl</td> 
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                         <tr>
+                            <td>Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                         <tr>
+                            <td>Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                         <tr>
+                            <td>Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                         <tr>
+                            <td>Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                         <tr>
+                            <td>Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                         <tr>
+                            <td>Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                         <tr>
+                            <td>Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                         <tr>
+                            <td>Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                         <tr>
+                            <td>Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                         <tr>
+                            <td>Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                         <tr>
+                            <td>Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                         <tr>
+                            <td>Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                         <tr>
+                            <td>Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                         <tr>
+                            <td>Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                         <tr>
+                            <td>Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td>0/0</td>
+                        </tr>
+                </table>
+                <div id="infonextlevel">
+                    Die Produktion wird erst im naechsten Level freigeschaltet.
+                </div>
+               `;
+        }
+        createTransportTab() {
+            var _this = this;
+            return `
+
+                 <table>
+                    <tr>
+                        <td>
+                             <button id="transport-up" class="mybutton">` + icons_6.Icons.up + `</button>
+                             <button id="transport-down"  class="mybutton">` + icons_6.Icons.down + `</button>
+                             <button id="transport-add"  class="mybutton">` + icons_6.Icons.plus + `</button>
+                             <button id="transport-del"  class="mybutton">` + icons_6.Icons.remove + `</button><br/>
+                            <select id="companydialog-transport-list" size="10" class="mylist boxborder" style="height: 250px;width:180px">
+                            </select>
+                        </td>
+                        <td>
+                        <br/>
+                            Auswahl &auml;ndern<br/>
+                             <button id="transport-add-worker"  class="mybutton" style="width:70px" >+1👤</button>
+                             <button id="transport-remove-worker"  class="mybutton" style="width:70px">-1👤</button><br/>
+                             <select id="companydialog-transport-productlist"  size="10" style="width:150px">
+                            </select>
+                            <br/>
+                            
+                        </td>
+                    
+                        
+                    </tr>
+                </table>
+               `;
+        }
+        bindActions() {
+            var _this = this;
+            document.getElementById("add-worker").addEventListener("click", (ev) => {
+                _this.company.addWorker("workers");
+            });
+            document.getElementById("remove-worker").addEventListener("click", (ev) => {
+                _this.company.removeWorker("workers");
+            });
+            document.getElementById("destroy-building").addEventListener("click", (ev) => {
+                var candestroy = true;
+                if (_this.company.workersComming || _this.company.workersInComming || this.company.workersOutComming)
+                    candestroy = false;
+                _this.company.transports.forEach((t) => {
+                    if (t.workersComming)
+                        candestroy = false;
+                });
+                if (!candestroy) {
+                    alert("Kann Gebäude nicht zerstören, solange noch Helfer unterwegs sind.");
+                    return;
+                }
+                if (parameter.allProducts[_this.company.productid].level === 1 && _this.company.world.findCompanyThatProduces(_this.company.productid).length === 1) {
+                    alert("Das letzte Gebäude dieser Art kann nicht abgerissen werden.");
+                    return;
+                }
+                _this.company.destroy();
+            });
+            document.getElementById("in-add-worker").addEventListener("click", (ev) => {
+                _this.company.addWorker("workersIn");
+            });
+            document.getElementById("in-remove-worker").addEventListener("click", (ev) => {
+                _this.company.removeWorker("workersIn");
+            });
+            document.getElementById("out-add-worker").addEventListener("click", (ev) => {
+                _this.company.addWorker("workersOut");
+            });
+            document.getElementById("out-remove-worker").addEventListener("click", (ev) => {
+                _this.company.removeWorker("workersOut");
+            });
+            document.getElementById("transport-add-worker").addEventListener("click", (event) => {
+                var trans = _this.getSelectedTransport();
+                _this.company.addWorker(trans);
+                _this.update();
+            });
+            document.getElementById("transport-remove-worker").addEventListener("click", (event) => {
+                var selected = this.getSelectedTransport();
+                _this.company.removeWorker(selected);
+            });
+            document.getElementById("transport-del").addEventListener("click", (event) => {
+                var selected = this.getSelectedTransport();
+                if (selected.workersComming) {
+                    alert("Der Transport kann nicht zerstört werden, solange noch Helfer unterwegs sind.");
+                    return;
+                }
+                while (selected.workers > 0) {
+                    _this.company.removeWorker(selected);
+                }
+                selected.destroy(_this.company.transports);
+            });
+            document.getElementById("transport-add").addEventListener("click", (event) => {
+                var trans = new transport_2.Transport(this.company);
+                trans.active = true;
+                trans.render();
+                if (_this.company.productid === product_4.Product.productStone || _this.company.productid === product_4.Product.productWood) {
+                    trans.autodeliver = true;
+                }
+                this.company.transports.push(trans);
+                if (trans)
+                    _this.company.addWorker(trans);
+                _this.update();
+            });
+            document.getElementById("add-soldier").addEventListener("click", (ev) => {
+                var run = (trans, delay) => {
+                    setTimeout(() => trans.active = true, delay);
+                };
+                var company = _this.company.world.findSoldier(); // findCompanyThatProduces(Product.productSoldier)[0];
+                var max = 0;
+                if (company)
+                    max = company.produced - company.transports.length;
+                if (max < parameter.soldiersToConquer) {
+                    game_1.Game.showInfo("nicht genug Soldaten");
+                    return;
+                }
+                for (var x = 0; x < parameter.soldiersToConquer; x++) {
+                    var trans = new transport_2.Transport(company);
+                    trans.companyTarget = _this.company.companyID;
+                    trans.workers = 1;
+                    trans.render();
+                    trans.transferInfo = { productid: company.productid };
+                    run(trans, x * 100);
+                    company.transports.push(trans);
+                }
+                _this.company.soldiersComing = true;
+                //_this.company.workersOut++;
+                _this.update(true);
+            });
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                document.getElementById("companydialog-build-product_" + x).addEventListener("click", (evt) => {
+                    var id = parseInt(evt.currentTarget.id.split("_")[1]);
+                    var serror = "";
+                    var count = parameter.allProducts[id].level;
+                    ;
+                    var transwood = _this.getBuildTransport(product_4.Product.productWood, count);
+                    if (!transwood)
+                        serror = "Kein " + count + " Holz gefunden oder kein Bautransport gefunden, der " + count + " Holz transportieren kann.";
+                    var transstone = this.getBuildTransport(product_4.Product.productStone, count);
+                    if (!transstone)
+                        serror += "Kein " + count + " Stein gefunden oder kein Bautransport gefunden, der " + count + " Stein transportieren kann.";
+                    if (this.company.productid !== -1)
+                        serror = "das Gebiet muss entweder erobert werden oder ist bereits bebaut.";
+                    if (serror !== "") {
+                        game_1.Game.showInfo(serror);
+                        return;
+                    }
+                    else {
+                        _this.company.buildingInProgress = id;
+                        var transferInfo = {
+                            productid: id
+                        };
+                        _this.company.woodsComming = count;
+                        _this.company.stonesComming = count;
+                        transstone.companyTarget = _this.company.companyID;
+                        transstone.active = true;
+                        transstone.transferInfo = transferInfo;
+                        transwood.companyTarget = _this.company.companyID;
+                        transwood.active = true;
+                        transwood.transferInfo = transferInfo;
+                        // this.company.changeProduct(id);
+                    }
+                });
+            }
+            document.getElementById("companydialog-transport-productlist").addEventListener("change", (event) => {
+                var trans = _this.getSelectedTransport();
+                var comp = parseInt(event.target.value);
+                trans.changeCompanyTaget(comp);
+                _this.update();
+            });
+        }
+        getSelectedTransport() {
+            var list = document.getElementById("companydialog-transport-list");
+            var selectedtransport = parseInt(list.value === "" ? "-1" : list.value);
+            return this.company.transports[selectedtransport];
+        }
+        getBuildTransport(prodId, count) {
+            var wood = this.company.world.findCompanyThatProduces(prodId);
+            for (var i = 0; i < wood.length; i++) {
+                for (var j = 0; j < wood[i].transports.length; j++) {
+                    var trans = wood[i].transports[j];
+                    if (trans.companyTarget === undefined && trans.autodeliver && trans.productCount >= count) {
+                        return trans;
+                    }
+                }
+            }
+            return undefined;
+        }
+        updateBuild() {
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                var button = document.getElementById("companydialog-build-product_" + x);
+                var prod = parameter.allProducts[x];
+                if (this.company.world.game.level >= (prod.level - 1) &&
+                    this.company.world.findCompanyThatProduces(prod.id, true).length < parameter.allLevels[this.company.world.game.level - 1].buildingLimit &&
+                    button.disabled) {
+                    button.disabled = false;
+                }
+                else if ((this.company.world.game.level < (prod.level - 1) ||
+                    this.company.world.findCompanyThatProduces(prod.id, true).length >= parameter.allLevels[this.company.world.game.level - 1].buildingLimit)
+                    && button.disabled === false) {
+                    button.disabled = true;
+                }
+            }
+        }
+        updateTransport() {
+            var _a;
+            var list = document.getElementById("companydialog-transport-list");
+            if (list.children.length !== this.company.transports.length) {
+                var s = "";
+                for (var x = 0; x < this.company.transports.length; x++) {
+                    s = s + '<option class="bgpicture" value="' + x + `"></option>`;
+                }
+                list.innerHTML = s;
+            }
+            for (var x = 0; x < this.company.transports.length; x++) {
+                var s = "";
+                var trans = this.company.transports[x];
+                var target = this.company.world.companies[trans === null || trans === void 0 ? void 0 : trans.companyTarget];
+                var prod = parameter.allProducts[target === null || target === void 0 ? void 0 : target.productid];
+                var count = trans.productCount + "/" + trans.getCapacity();
+                s = s + "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + trans.getName() + " " + trans.workers + (trans.workersComming ? ("+" + trans.workersComming) : "") + "👤" + '</span><span>' + count + '</span>▤';
+                var im = `url(${company_3.Company.getImageUrl((prod === null || prod === void 0 ? void 0 : prod.image) === undefined ? "Dummy.png" : prod.image)})`;
+                var entr = list.children[x];
+                if (entr.style.backgroundImage !== im)
+                    entr.style.backgroundImage = im;
+                if (entr.innerHTML !== s)
+                    entr.innerHTML = s;
+            }
+            var list2 = document.getElementById("companydialog-transport-productlist");
+            var s = ``;
+            var companies = this.company.world.findCompanyThatConsumes(this.company.productid);
+            for (var x = 0; x < companies.length; x++) {
+                var comp = companies[x];
+                var prod = parameter.allProducts[comp.productid];
+                s = s + `<option class="bgpicture" style="background-image:url(${company_3.Company.getImageUrl((prod === null || prod === void 0 ? void 0 : prod.image) === undefined ? "Dummy.png" : prod.image)});" value="` + comp.companyID + `">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;${comp.name}</option>`;
+            }
+            if ((trans === null || trans === void 0 ? void 0 : trans.getName()) === "Bautransport")
+                s += `<option value="-1">Bautransport</option>`;
+            else
+                s += `<option value="-1">inaktiv</option>`;
+            if (list2.innerHTML !== s) {
+                list2.innerHTML = s;
+            }
+            var selectedtransport = parseInt(list.value === "" ? "-1" : list.value);
+            if (selectedtransport === -1) {
+                document.getElementById("companydialog-transport-productlist").setAttribute("hidden", "");
+                document.getElementById("transport-up").setAttribute("hidden", "");
+                document.getElementById("transport-down").setAttribute("hidden", "");
+                document.getElementById("transport-add-worker").setAttribute("hidden", "");
+                document.getElementById("transport-remove-worker").setAttribute("hidden", "");
+                document.getElementById("transport-del").setAttribute("hidden", "");
+            }
+            else {
+                document.getElementById("companydialog-transport-productlist").removeAttribute("hidden");
+                document.getElementById("transport-up").removeAttribute("hidden");
+                document.getElementById("transport-down").removeAttribute("hidden");
+                document.getElementById("transport-add-worker").removeAttribute("hidden");
+                document.getElementById("transport-remove-worker").removeAttribute("hidden");
+                document.getElementById("transport-del").removeAttribute("hidden");
+            }
+            if (this.company.world.tickCount % 5 === 0) { //selection of companyTarget not work
+                var tar = (_a = this.getSelectedTransport()) === null || _a === void 0 ? void 0 : _a.companyTarget;
+                if (tar === undefined)
+                    tar = -1;
+                if (list2.value !== (tar === null || tar === void 0 ? void 0 : tar.toString())) {
+                    list2.value = tar === null || tar === void 0 ? void 0 : tar.toString();
+                }
+            }
+            //if(list2.value!==
+        }
+        updateProduction() {
+            var _a, _b;
+            if (((_a = this.company) === null || _a === void 0 ? void 0 : _a.productid) === -1 || ((_b = this.company) === null || _b === void 0 ? void 0 : _b.productid) === -2)
+                return;
+            var srcicon = company_3.Company.getImageUrl(parameter.allProducts[this.company.productid].image);
+            if (document.getElementById("companydialog-production-table-icon").src !== srcicon)
+                document.getElementById("companydialog-production-table-icon").src = srcicon;
+            document.getElementById("workers").textContent = this.company.workers.toString() + (this.company.workersComming ? ("+" + this.company.workersComming) : "") + " 👤";
+            var maxprod = 0;
+            for (var x = 0; x < this.company.rawmaterials.length; x++) {
+                if (this.company.rawmaterials[x] > maxprod)
+                    maxprod = this.company.rawmaterials[x];
+            }
+            document.getElementById("workersIn").textContent = maxprod + "/" + (this.company.workersIn * parameter.capacityPerHelper + parameter.capacityPerHelper) +
+                (this.company.workersInComming ? ("+" + this.company.workersInComming * parameter.capacityPerHelper) : "") + "▤ ";
+            document.getElementById("workersOut").textContent =
+                this.company.produced + "/" + (this.company.workersOut * parameter.capacityPerHelper + parameter.capacityPerHelper) +
+                    (this.company.workersOutComming ? ("+" + this.company.workersOutComming * parameter.capacityPerHelper) : "") + "▤ ";
+            var table = document.getElementById("companydialog-production-table");
+            var prod = parameter.allProducts[this.company.productid];
+            var temp = document.getElementById("companydialog-production-table");
+            if (this.company.world.game.level < prod.level && !temp.hasAttribute("hidden"))
+                temp.setAttribute("hidden", "");
+            if (this.company.world.game.level >= prod.level && temp.hasAttribute("hidden"))
+                temp.removeAttribute("hidden");
+            var temp = document.getElementById("infonextlevel");
+            if (this.company.world.game.level >= prod.level && !temp.hasAttribute("hidden"))
+                temp.setAttribute("hidden", "");
+            if (this.company.world.game.level < prod.level && temp.hasAttribute("hidden"))
+                temp.removeAttribute("hidden");
+            /*if (this.company.productid === Product.productHelper || this.company.productid === Product.productSoldier) {
+                if (!table.children[0].children[0].hasAttribute("hidden")) {
+                    table.children[0].children[0].setAttribute("hidden", "");
+                    table.children[0].children[1].setAttribute("hidden", "");
+                }
+            } else {
+                if (table.children[0].children[0].hasAttribute("hidden")) {
+                    table.children[0].children[0].removeAttribute("hidden");
+                    table.children[0].children[1].removeAttribute("hidden");
+                }
+            }*/
+            if (this.company.world.game.level < prod.level) {
+                var info = "Die Produktion wird erst im n&auml;chsten Level freigeschaltet.<br/>";
+                var prods = this.company.world.getProductsToBuildForLevel(this.company.world.game.level + 1);
+                // if (prods.length > 0) {
+                var sgeb = "";
+                for (var x = 0; x < prods.length; x++) {
+                    var prod = prods[x];
+                    sgeb += '<img src="' + company_3.Company.getImageUrl(prod.image) + '"  height="25"></img>';
+                }
+                var minpeople = parameter.allLevels[this.company.world.game.level - 1].minPeople;
+                info += ` Um in den n&auml;chsten Level zu kommen, muss folgendes erf&uuml;lt werden:<br/>
+                        <ol>
+                            <li>    Diese Geb&auml;de m&uuml;ssen noch gebaut werden:<br/><span>${sgeb}</span></LI>
+                            <li>    ${minpeople}👤 (Daf&uuml;r m&uuml;ssen Helfer produziert werden.) </LI>
+                        </ol>`;
+                //  }
+                if (document.getElementById("infonextlevel").innerHTML !== info) {
+                    document.getElementById("infonextlevel").innerHTML = info;
+                }
+            }
+            for (var x = 0; x < this.company.rawmaterials.length; x++) {
+                var tr = table.children[0].children[x + 3];
+                if (tr.hasAttribute("hidden"))
+                    tr.removeAttribute("hidden");
+                var pconsume = parameter.allProducts[prod.consume[x]];
+                var sname = pconsume.name;
+                var icon = company_3.Company.getImageUrl(pconsume.image);
+                var count = this.company.rawmaterials[x] + "/" + (parameter.capacityPerHelper + this.company.workersIn * parameter.capacityPerHelper);
+                if (tr.children[0].textContent !== sname)
+                    tr.children[0].textContent = sname;
+                if (tr.children[1].children[0].src !== icon)
+                    tr.children[1].children[0].src = icon;
+                if (tr.children[2].textContent !== count)
+                    tr.children[2].textContent = count;
+            }
+            for (var x = this.company.rawmaterials.length; x < 16; x++) {
+                var tr = table.children[0].children[x + 3];
+                if (!tr.hasAttribute("hidden"))
+                    tr.setAttribute("hidden", "");
+            }
+            var prodinfo = document.getElementById("production-info");
+            var sprodinfo = "";
+            if (this.company.productid === product_4.Product.productHelper && this.company.world.game.people >= parameter.allLevels[this.company.world.game.level - 1].maxPeople)
+                sprodinfo += "Level-Limit (" + parameter.allLevels[this.company.world.game.level - 1].maxPeople + ") f&uuml;r Helfer erreicht. Es k&ouml;nnen keine weitere Helfer produziert werden.";
+            var sold = 0;
+            var csold = this.company.world.findCompanyThatProduces(product_4.Product.productSoldier);
+            csold.forEach(s => sold = sold + s.produced);
+            if (this.company.productid === product_4.Product.productSoldier && sold >= parameter.allLevels[this.company.world.game.level - 1].maxSoldiers)
+                sprodinfo += "Level-Limit (" + parameter.allLevels[this.company.world.game.level - 1].maxSoldiers + ") f&uuml;r Soldaten erreicht. Es k&ouml;nnen keine weitere Soldaten produziert werden.";
+            if (prodinfo.innerHTML !== sprodinfo)
+                prodinfo.innerHTML = sprodinfo;
+        }
+        update(force = false) {
+            var _a, _b, _c, _d, _e, _f, _g, _h, _j;
+            if (!this.company)
+                return;
+            try {
+                if (!$(this.dom).dialog('isOpen')) {
+                    return;
+                }
+            }
+            catch (_k) {
+                return;
+            }
+            this.updateTitle();
+            //production,transport,conquer,build
+            var tabs = [false, false, false, false, true];
+            var tabnames = ["companydialog-production-tab", "companydialog-transport-tab", "companydialog-conquer-tab", "companydialog-build-tab", "companydialog-delete-tab"];
+            if (this.company.productid === -2) {
+                var button = document.getElementById("add-soldier");
+                if (this.company.soldiersComing && !button.disabled)
+                    button.disabled = true;
+                if (!this.company.soldiersComing && button.disabled)
+                    button.disabled = false;
+                tabs[2] = true;
+                tabs[4] = false;
+            }
+            else if (this.company.productid === -1) {
+                if (!this.company.buildingInProgress && document.getElementById("companydialog-build-tabs").hasAttribute("hidden")) {
+                    document.getElementById("companydialog-build-tabs").removeAttribute("hidden");
+                }
+                if (this.company.buildingInProgress && !document.getElementById("companydialog-build-tabs").hasAttribute("hidden")) {
+                    document.getElementById("companydialog-build-tabs").setAttribute("hidden", "");
+                }
+                tabs[3] = true;
+            }
+            else {
+                tabs[0] = true;
+                tabs[1] = true;
+            }
+            var active = -1;
+            for (var x = 0; x < tabs.length; x++) {
+                if (active === -1 && tabs[x])
+                    active = x;
+                var tabname = tabnames[x];
+                if (tabs[x] && document.getElementById(tabname).parentElement.hasAttribute("hidden")) {
+                    document.getElementById(tabname).parentElement.removeAttribute("hidden");
+                }
+                if (!tabs[x] && !document.getElementById(tabname).parentElement.hasAttribute("hidden")) {
+                    document.getElementById(tabname).parentElement.setAttribute("hidden", "");
+                }
+            }
+            if (tabs[$("#companydialog-tabs").tabs('option', 'active')] === false) { //aktver tab is hiding
+                $("#companydialog-tabs").tabs("option", "active", active);
+            }
+            /*
+                    if (this.company.productid === -2) {
+                        if (!document.getElementById("companydialog-production-tab").parentElement.hasAttribute("hidden")) {
+                            document.getElementById("companydialog-production-tab").parentElement.setAttribute("hidden", "");
+                            $("#companydialog-tabs").tabs("option", "active", 2);
+                        }
+                        if (!document.getElementById("companydialog-transport-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-transport-tab").parentElement.setAttribute("hidden", "");
+                        if (!document.getElementById("companydialog-build-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-build-tab").parentElement.setAttribute("hidden", "");
+                        if (document.getElementById("companydialog-conquer-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-conquer-tab").parentElement.removeAttribute("hidden");
+            
+                    } else if (this.company.productid === -1) {
+                        if (!document.getElementById("companydialog-conquer-tab").parentElement.hasAttribute("hidden")) {
+                            document.getElementById("companydialog-conquer-tab").parentElement.setAttribute("hidden", "");
+                            $("#companydialog-tabs").tabs("option", "active", 3);
+                        }
+                        if (!document.getElementById("companydialog-transport-tab").parentElement.hasAttribute("hidden")) {
+                            document.getElementById("companydialog-transport-tab").parentElement.setAttribute("hidden", "");
+                            $("#companydialog-tabs").tabs("option", "active", 3);
+                        }
+                        if (!document.getElementById("companydialog-production-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-production-tab").parentElement.setAttribute("hidden", "");
+                        if (document.getElementById("companydialog-build-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-build-tab").parentElement.removeAttribute("hidden");
+            
+                    } else {
+                        if (document.getElementById("companydialog-production-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-production-tab").parentElement.removeAttribute("hidden");
+                        if (document.getElementById("companydialog-transport-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-transport-tab").parentElement.removeAttribute("hidden");
+                        if (!document.getElementById("companydialog-build-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-build-tab").parentElement.setAttribute("hidden", "");
+                        if (!document.getElementById("companydialog-conquer-tab").parentElement.hasAttribute("hidden")) {
+                            document.getElementById("companydialog-conquer-tab").parentElement.setAttribute("hidden", "");
+                            $("#companydialog-tabs").tabs("option", "active", 0);
+                        }
+            
+                    }*/
+            if ((_c = (_b = (_a = document.getElementById("companydialog-production-tab")) === null || _a === void 0 ? void 0 : _a.parentElement) === null || _b === void 0 ? void 0 : _b.classList) === null || _c === void 0 ? void 0 : _c.contains("ui-tabs-active"))
+                this.updateProduction();
+            if ((_f = (_e = (_d = document.getElementById("companydialog-transport-tab")) === null || _d === void 0 ? void 0 : _d.parentElement) === null || _e === void 0 ? void 0 : _e.classList) === null || _f === void 0 ? void 0 : _f.contains("ui-tabs-active"))
+                this.updateTransport();
+            if ((_j = (_h = (_g = document.getElementById("companydialog-build-tab")) === null || _g === void 0 ? void 0 : _g.parentElement) === null || _h === void 0 ? void 0 : _h.classList) === null || _j === void 0 ? void 0 : _j.contains("ui-tabs-active"))
+                this.updateBuild();
+        }
+        updateTitle() {
+            var _a;
+            //     var sicon = '';
+            var _this = this;
+            if ($(this.dom).parent().find('.ui-dialog-title').length > 0) {
+                var prod = parameter.allProducts[this.company.productid];
+                var pic = prod === null || prod === void 0 ? void 0 : prod.image;
+                $(this.dom).parent().find('.ui-dialog-title')[0].innerHTML = '<img style="float: right" id="companydialog-icon" src="' + company_3.Company.getImageUrl(pic) +
+                    '"  height="15"></img> ' + ((_a = this.company) === null || _a === void 0 ? void 0 : _a.name) + "(" + this.company.produced + ")";
+            }
+        }
+        show() {
+            var _this = this;
+            this.dom.removeAttribute("hidden");
+            this.update();
+            $(this.dom).dialog({
+                width: "400px",
+                draggable: true,
+                // position: { my: "left top", at: "right top", of: $(AirplaneDialog.getInstance().dom) },
+                open: function (event, ui) {
+                    _this.update(true);
+                },
+                close: function (ev, ev2) {
+                    if (_this.hasPaused) {
+                        _this.company.world.game.resume();
+                    }
+                },
+                create: function (e) {
+                    setTimeout(() => {
+                        $(e.target).dialog("widget").find(".ui-dialog-titlebar-close")[0].addEventListener('touchstart', (e) => {
+                            _this.close();
+                        });
+                    }, 200);
+                },
+                resizable: false
+            }).dialog("widget").draggable("option", "containment", "none");
+            $(this.dom).parent().css({ position: "fixed" });
+        }
+        close() {
+            $(this.dom).dialog("close");
+        }
+    }
+    exports.CompanyDialog = CompanyDialog;
+});
+define("game/company", ["require", "exports", "game/companydialog", "game/transport", "game/product", "game/game"], function (require, exports, companydialog_2, transport_3, product_5, game_2) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.Company = void 0;
+    class Company {
+        // static workerInCompany=20;
+        constructor(world = undefined, companyID = undefined, productid = undefined, workers = undefined, workersIn = undefined, workersOut = undefined, x = undefined, y = undefined) {
+            this.type = "Company";
+            this.produced = 0;
+            this.inproduction = 0;
+            this.speed = 10;
+            this.soldiercount = 0;
+            this.rawmaterials = [];
+            this.transports = [];
+            this.companyID = companyID;
+            this.productid = productid;
+            this.workers = workers;
+            this.workersIn = workersIn;
+            this.workersOut = workersOut;
+            this.x = x;
+            this.y = y;
+            this.world = world;
+            workersIn = 0;
+            if (productid !== undefined) {
+                this.changeProduct(productid);
+            }
+        }
+        changeProduct(prodid) {
+            this.productid = prodid;
+            var prod = parameter.allProducts[this.productid];
+            if (prod) {
+                if (this.domIcon)
+                    this.domIcon.src = Company.getImageUrl(prod.image);
+                var con = [];
+                for (var x = 0; x < prod.consume.length; x++) {
+                    con.push(0);
+                }
+            }
+            this.workers = 0;
+            this.workersIn = 0;
+            this.workersOut = 0;
+            this.rawmaterials = con;
+            this.updateName();
+        }
+        updateName() {
+            var prod = parameter.allProducts[this.productid];
+            if (prod) {
+                var con = [];
+                for (var x = 0; x < prod.consume.length; x++) {
+                    con.push(0);
+                }
+                this.rawmaterials = con;
+                var counter = 0;
+                for (var t = 0; t < 10000; t++) {
+                    var test = t === 0 ? prod.name : (prod.name + t);
+                    var found = false;
+                    for (var x = 0; x < this.world.companies.length; x++) {
+                        if (this.world.companies[x].name === test)
+                            found = true;
+                    }
+                    if (!found) {
+                        this.name = test;
+                        break;
+                    }
+                }
+            }
+            else {
+                this.name = "";
+            }
+        }
+        nextTick() {
+            this.update();
+            for (var x = 0; x < this.transports.length; x++) {
+                this.transports[x].nextTick();
+            }
+            if (this.workers === 0)
+                return;
+            //if (this.world.tickCount % 10 === 0) {
+            var max = this.workersOut * parameter.capacityPerHelper + parameter.capacityPerHelper;
+            this.inproduction = this.inproduction + this.workers * this.speed;
+            var prodnow = Math.floor(this.inproduction / 1000);
+            prodnow = Math.min(prodnow, max - this.produced, ...this.rawmaterials);
+            if (this.productid === product_5.Product.productHelper && this.world.game.people >= parameter.allLevels[this.world.game.level - 1].maxPeople)
+                prodnow = 0;
+            var allsodiers = 0;
+            this.world.findCompanyThatProduces(product_5.Product.productSoldier).forEach(s => allsodiers += s.produced);
+            if (this.productid === product_5.Product.productSoldier && allsodiers >= parameter.allLevels[this.world.game.level - 1].maxSoldiers)
+                prodnow = 0;
+            if (prodnow > 0) {
+                this.inproduction = this.inproduction % 1000;
+                this.produced = this.produced + prodnow;
+                for (var x = 0; x < this.rawmaterials.length; x++) {
+                    this.rawmaterials[x] = this.rawmaterials[x] - prodnow;
+                }
+                if (this.productid === product_5.Product.productHelper) {
+                    this.world.game.people = this.world.game.people + prodnow;
+                }
+            }
+            //}
+            this.update();
+        }
+        update() {
+            if (this.domProduced) {
+                var s = this.produced === 0 ? "" : this.produced.toString();
+                if (this.domProduced.textContent !== s)
+                    this.domProduced.textContent = s;
+            }
+            /*var pin = "";
+            var prod = this.productid === -1 ? undefined : parameter.allProducts[this.productid];
+            if (prod) {
+              for (var x = 0; x < this.rawmaterials.length; x++) {
+                console.log(prod.name);
+                var pp = parameter.allProducts[prod.consume[x]];
+                if (pp === undefined) {
+                  pp = pp;
+                }
+                pin = pin + pp.name + ":" + this.rawmaterials[x]+" ";
+              }
+            }
+            if(this.domInput)
+              this.domInput.textContent=pin;*/
+        }
+        static getImageUrl(image) {
+            if (image === undefined)
+                return "";
+            return "images/" + image;
+            //return "http://localhost/game/client/game/images/" + image;
+        }
+        render() {
+            var _this = this;
+            var text = "";
+            var fact = parameter.zoomfactor;
+            // console.log(this.productid);
+            var prod = this.productid === -1 ? undefined : parameter.allProducts[this.productid];
+            var name = prod === undefined ? "" : prod.name;
+            /*text = `<div>
+                      <svg style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact) + "px"};width:${fact * 3};height:${fact * 2};position:absolute" class="company">
+                       </svg>
+                    </div>
+                `;*/
+            text = `<div>
+              <svg style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact) + "px"};width:${fact * 3};height:${fact * 2};position:absolute" class="company">
+                <polygon points="${1 * fact},0 ${2 * fact},0 ${3 * fact},${1 * fact} ${2 * fact},${2 * fact} ${1 * fact},${2 * fact} 0,${1 * fact}" style="fill:none;stroke:white;stroke-width:1;" />
+                
+               </svg>
+            </div>
+        `;
+            var icon = "";
+            if (this.productid === -1)
+                this.domIcon = document.createRange().createContextualFragment(`<img src="${Company.getImageUrl("Baustelle.png")}" title="Baustelle" width="${parameter.zoomfactor}" height="${parameter.zoomfactor}" style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact + fact) + "px"};position:absolute">`).children[0];
+            else if (prod !== undefined && prod.image !== "")
+                this.domIcon = document.createRange().createContextualFragment(`<img src="${Company.getImageUrl(prod.image)}" title="${prod.name}" width="${parameter.zoomfactor}" height="${parameter.zoomfactor}" style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact + fact) + "px"};position:absolute">`).children[0];
+            else
+                this.domIcon = document.createRange().createContextualFragment(`<img src="${Company.getImageUrl("Dummy.png")}" title="" width="${parameter.zoomfactor}" height="${parameter.zoomfactor}" style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact + fact) + "px"};position:absolute">`).children[0];
+            this.dom = document.createRange().createContextualFragment(text).children[0];
+            this.domProduced = document.createRange().createContextualFragment(`<span  style="font-size:7pt;top:${((this.y - 1) * fact + 40) + "px"};left:${((this.x - 3) * fact + 40) + "px"};position:absolute"></span>`).children[0];
+            this.domInput = document.createRange().createContextualFragment(`<span  style="font-size:6pt;top:${((this.y - 1) * fact + 10) + "px"};left:${((this.x - 3) * fact + 20) + "px"};position:absolute"></span>`).children[0];
+            this.dom.appendChild(this.domProduced);
+            this.dom.appendChild(this.domInput);
+            this.dom.appendChild(this.domIcon);
+            this.world.dom.appendChild(this.dom);
+            // this.dom.setAttribute("src", "<span  class='mdi  mdi-content-save-outline'></span>");
+            //this.dom.style.cursor="url(https://www.w3schools.com/cssref/myBall.cur),auto";
+            this.dom.setAttribute("companyid", this.companyID.toString());
+            this.dom.addEventListener("click", (ev) => {
+                _this.onclick(ev);
+                return undefined;
+            });
+            this.dom["company"] = this;
+            for (var x = 0; x < this.transports.length; x++) {
+                this.transports[x].render();
+                //            this.companies[x].update();
+            }
+            // this.dom.style.top = ((this.y+2)*fact).toString() + "px";
+            // this.dom.style.left = ((this.x+3)*fact).toString() + "px";
+            //console.log(this.dom.style.top + "   " + ((this.x + 3) * fact).toString() + "px");
+        }
+        addWorker(workertype) {
+            var serror = "";
+            var company = this.world.findCompanyThatProduces(product_5.Product.productHelper)[0];
+            var max = company.produced - company.transports.length;
+            if (max < 1) {
+                game_2.Game.showInfo("nicht genug Helfer");
+                return;
+            }
+            var trans = new transport_3.Transport(company);
+            trans.workers = 1;
+            trans.companyTarget = this.companyID;
+            trans.active = true;
+            trans.render();
+            trans.transferInfo = { productid: company.productid, workertype: workertype };
+            company.transports.push(trans);
+            if (workertype === "workers")
+                this.workersComming = (this.workersComming ? this.workersComming + 1 : 1);
+            else if (workertype === "workersIn")
+                this.workersInComming = (this.workersInComming ? this.workersInComming + 1 : 1);
+            else if (workertype === "workersOut")
+                this.workersOutComming = (this.workersOutComming ? this.workersOutComming + 1 : 1);
+            else
+                workertype.workersComming = (workertype.workersComming ? workertype.workersComming + 1 : 1);
+        }
+        removeWorker(workertype) {
+            var compHelper = this.world.findCompanyThatProduces(product_5.Product.productHelper)[0];
+            var trans = new transport_3.Transport(compHelper);
+            trans.workers = 1;
+            trans.x = this.x;
+            trans.y = this.y;
+            if (workertype === "workers") {
+                if (this.workers === 0)
+                    return;
+                this.workers--;
+            }
+            else if (workertype === "workersIn") {
+                if (this.workersIn === 0)
+                    return;
+                this.workersIn--;
+            }
+            else if (workertype === "workersOut") {
+                if (this.workersOut === 0)
+                    return;
+                this.workersOut--;
+            }
+            else {
+                if (workertype.workers === 0)
+                    return;
+                workertype.workers--;
+                trans.x = workertype.x;
+                trans.y = workertype.y;
+            }
+            trans.active = true;
+            trans.transferInfo = { goHome: true, productid: product_5.Product.productHelper };
+            trans.moveTo(compHelper.companyID);
+            trans.render();
+            compHelper.transports.push(trans);
+        }
+        soldierGoHome() {
+            var compSoldier = this.world.findCompanyThatProduces(product_5.Product.productSoldier)[0];
+            var trans = new transport_3.Transport(compSoldier);
+            trans.workers = 1;
+            trans.x = this.x;
+            trans.y = this.y;
+            trans.active = true;
+            trans.transferInfo = { goHome: true, productid: product_5.Product.productSoldier };
+            trans.moveTo(compSoldier.companyID);
+            trans.render();
+            compSoldier.transports.push(trans);
+        }
+        destroy() {
+            for (var x = 0; x < this.workers; x++)
+                this.removeWorker("workers");
+            for (var x = 0; x < this.workersIn; x++)
+                this.removeWorker("workersIn");
+            for (var x = 0; x < this.workersOut; x++)
+                this.removeWorker("workersOut");
+            for (var x = 0; x < this.transports.length; x++) {
+                while (this.transports[x].workers > 0) {
+                    this.removeWorker(this.transports[x]);
+                }
+            }
+            var _this = this;
+            //Soldiers go home
+            for (var x = 0; x < parameter.soldiersToConquer; x++) {
+                setTimeout(() => _this.soldierGoHome(), x * 100);
+            }
+            this.productid = -2;
+            this.domIcon.src = Company.getImageUrl("Dummy.png");
+        }
+        onclick(th) {
+            th.preventDefault();
+            var h = companydialog_2.CompanyDialog.getInstance();
+            h.company = this;
+            h.show();
+        }
+    }
+    exports.Company = Company;
+});
+define("game/citydialogmarket", ["require", "exports", "game/citydialog"], function (require, exports, citydialog_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.CityDialogMarket = void 0;
+    var log = (function () {
+        var log = Math.log;
+        return function (n, base) {
+            return log(n) / (base ? log(base) : 1);
+        };
+    })();
+    class CityDialogMarket {
+        static getInstance() {
+            if (CityDialogMarket.instance === undefined)
+                CityDialogMarket.instance = new CityDialogMarket();
+            return CityDialogMarket.instance;
+        }
+        create() {
+            return ` <table id="citydialog-market-table" style="height:100%;weight:100%;">
+                        <tr>
+                            <th>Name</th>
+                            <th></th>
+                            <th></th>
+                            <th style="width:50px">
+                                Market
+                            </th>
+                            <th>Price</th>
+                            <th></th>
+                            <th> <select id="citydialog-market-table-target" style="width:80px">
+                                    <option value="placeholder">placeholder</option>
+                                </select>
+                            </th>
+                            
+                        </tr>
+                       ${(function fun() {
+                var ret = "";
+                function price(id, change) {
+                    console.log(id + " " + change);
+                }
+                for (var x = 0; x < window.parameter.allProducts.length; x++) {
+                    ret = ret + '<tr >';
+                    ret = ret + "<td>" + window.parameter.allProducts[x].getIcon() + "</td>";
+                    ret = ret + "<td>" + window.parameter.allProducts[x].name + "</td>";
+                    ret = ret + '<td style="width:20px"><div style="position:relative">' +
+                        '<div id="sell-slider_' + x + '" style="overflow:float;position:absolute;height:1px;top:5px;width: 66px" ><div>' +
+                        '</div></td>';
+                    ret = ret + "<td >0</td>";
+                    ret = ret + '<td style="width:40px;"><span>0</span><span id="citydialog-market-info_' + x + '"></span></td>';
+                    ret = ret + '<td style="width:20px"><div style="position:relative">' +
+                        '<div id="buy-slider_' + x + '" style="overflow:float;position:absolute;left:4px;height:1px;top:5px;width: 92px" ><div>' +
+                        '</div></td>';
+                    ret = ret + "<td>0</td>";
+                    ret = ret + "<td></td>";
+                    ret = ret + "</tr>";
+                }
+                return ret;
+            })()}
+                    </table>`;
+        }
+        bindActions() {
+            var _this = this;
+            var city = citydialog_1.CityDialog.getInstance().city;
+            document.getElementById("citydialog-market-table-target").addEventListener("change", (e) => {
+                citydialog_1.CityDialog.getInstance().update(true);
+            });
+            $('.citydialog-tabs').click(function (event) {
+                citydialog_1.CityDialog.getInstance().update(true);
+            });
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                $("#sell-slider_" + x).slider({
+                    min: 0,
+                    max: 40,
+                    range: "min",
+                    value: 40,
+                    slide: function (event, ui) {
+                        CityDialogMarket.slide(event, false, "citydialog-market-info_");
+                    },
+                    change: function (e, ui) {
+                        CityDialogMarket.changeSlider(e, true, "citydialog-market-info_");
+                    },
+                    stop: function (e, ui) {
+                        setTimeout(() => {
+                            CityDialogMarket.inedit = true;
+                            var id = Number(e.target.id.split("_")[1]);
+                            document.getElementById("citydialog-market-info_" + id).innerHTML = "";
+                            $(e.target).slider("value", 40);
+                            CityDialogMarket.inedit = false;
+                        }, 200);
+                    }
+                });
+                $("#buy-slider_" + x).slider({
+                    min: 0,
+                    max: 40,
+                    range: "min",
+                    value: 0,
+                    slide: function (event, ui) {
+                        CityDialogMarket.slide(event, true, "citydialog-market-info_");
+                    },
+                    change: function (e, ui) {
+                        CityDialogMarket.changeSlider(e, false, "citydialog-market-info_");
+                    },
+                    stop: function (e, ui) {
+                        setTimeout(() => {
+                            CityDialogMarket.inedit = true;
+                            var id = Number(e.target.id.split("_")[1]);
+                            document.getElementById("citydialog-market-info_" + id).innerHTML = "";
+                            $(e.target).slider("value", 0);
+                            CityDialogMarket.inedit = false;
+                        }, 200);
+                    }
+                });
+            }
+        }
+        static changeSlider(event, buy, infofield, targetMarket = true) {
+            var _a;
+            if (CityDialogMarket.inedit)
+                return;
+            var t = event.target;
+            var test = $(t).slider("value");
+            var val;
+            if (test === 0 || test === 40) //Cursor verspringt
+                val = CityDialogMarket.getSliderValue(t); //
+            else
+                val = parseInt(t.getAttribute("curVal"));
+            if (val === 0)
+                return;
+            CityDialogMarket.inedit = true;
+            var id = Number(t.id.split("_")[1]);
+            if (targetMarket)
+                CityDialogMarket.sellOrBuy(id, (buy ? -1 : 1) * val, CityDialogMarket.calcPrice(t, val), CityDialogMarket.getStore("citydialog-market-table-target"), false);
+            else {
+                var city = citydialog_1.CityDialog.getInstance().city;
+                city.shop[id] -= (buy ? -1 : 1) * val;
+                var storetarget = CityDialogMarket.getStore("citydialog-shop-table-target");
+                storetarget[id] += (buy ? -1 : 1) * val;
+                (_a = this.getAirplaneInMarket("citydialog-shop-table-target")) === null || _a === void 0 ? void 0 : _a.refreshLoadedCount();
+            }
+            document.getElementById(infofield + id).innerHTML = "";
+            $(t).slider("value", 40);
+            CityDialogMarket.inedit = false;
+            citydialog_1.CityDialog.getInstance().update(true);
+            citydialog_1.CityDialog.getInstance().city.world.game.updateTitle();
+        }
+        static slide(event, buy, infofield, changePrice = true) {
+            var _this = this;
+            var t = event.target;
+            var val = CityDialogMarket.getSliderValue(t);
+            t.setAttribute("curVal", val.toString());
+            console.log(val);
+            var price = 0;
+            var id = parseInt(t.id.split("_")[1]);
+            if (val === 0)
+                document.getElementById(infofield + id).innerHTML = "";
+            else {
+                if (changePrice) {
+                    price = CityDialogMarket.calcPrice(t, val);
+                    document.getElementById(infofield + id).innerHTML = "x" + val + "<br/>= " + (buy ? "-" : "") + val * price;
+                }
+                else
+                    document.getElementById(infofield + id).innerHTML = "" + val;
+            }
+            if (changePrice)
+                t.parentNode.parentNode.parentNode.children[4].children[0].innerHTML = "" + price;
+        }
+        static sellOrBuy(productid, amount, price, storetarget, isshop) {
+            var _a, _b;
+            var city = citydialog_1.CityDialog.getInstance().city;
+            if (isshop) {
+                city.shop[productid] -= amount;
+            }
+            else {
+                city.world.game.changeMoney(-amount * price, "sell or buy from market", city);
+                city.market[productid] -= amount;
+            }
+            storetarget[productid] += amount;
+            (_a = this.getAirplaneInMarket("citydialog-market-table-target")) === null || _a === void 0 ? void 0 : _a.refreshLoadedCount();
+            (_b = this.getAirplaneInMarket("citydialog-shop-table-target")) === null || _b === void 0 ? void 0 : _b.refreshLoadedCount();
+            citydialog_1.CityDialog.getInstance().update(true);
+        }
+        static getAirplaneInMarket(target) {
+            var city = citydialog_1.CityDialog.getInstance().city;
+            var select = document.getElementById(target);
+            var val = select.value;
+            if (val) {
+                for (var x = 0; x < city.world.airplanes.length; x++) {
+                    if (val === city.world.airplanes[x].name)
+                        return city.world.airplanes[x];
+                }
+            }
+            return undefined;
+        }
+        static getStore(target) {
+            var _a;
+            var city = citydialog_1.CityDialog.getInstance().city;
+            var select = document.getElementById(target);
+            var val = select.value;
+            if (val) {
+                if (city.shops > 0 && val === "MyShop") {
+                    return city.shop;
+                }
+                return (_a = this.getAirplaneInMarket(target)) === null || _a === void 0 ? void 0 : _a.products;
+            }
+            return undefined;
+        }
+        update() {
+            var city = citydialog_1.CityDialog.getInstance().city;
+            if (!city)
+                return;
+            var select = document.getElementById("citydialog-market-table-target");
+            var last = select.value;
+            select.innerHTML = "";
+            if (city.shops > 0) {
+                var opt = document.createElement("option");
+                opt.value = "MyShop";
+                opt.text = opt.value;
+                select.appendChild(opt);
+            }
+            var allAPs = city.getAirplanesInCity();
+            for (var x = 0; x < allAPs.length; x++) {
+                var opt = document.createElement("option");
+                opt.value = allAPs[x].name;
+                opt.text = opt.value;
+                select.appendChild(opt);
+            }
+            if (last !== "") {
+                select.value = last;
+            }
+            citydialog_1.CityDialog.getInstance().updateTitle();
+            /*
+                                <th>icon</th>
+                                <th>name</th>
+                                <th>market</th>
+                                <th>buy</th>
+                                <th>airplane1</th>
+                                <th>sell</th>
+                                <th>price</th>
+            */
+            var storetarget = CityDialogMarket.getStore("citydialog-market-table-target");
+            var storesource = city.market;
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                var table = document.getElementById("citydialog-market-table");
+                var tr = table.children[0].children[x + 1];
+                tr.children[3].innerHTML = storesource[x].toString();
+                var buyslider = document.getElementById("buy-slider_" + x);
+                var sellslider = document.getElementById("sell-slider_" + x);
+                tr.children[4].children[0].innerHTML = CityDialogMarket.calcPrice(buyslider, 0).toString();
+                if (storetarget) {
+                    var max = storesource[x];
+                    var testap = CityDialogMarket.getAirplaneInMarket("citydialog-market-table-target");
+                    if (testap)
+                        max = Math.min(max, testap.capacity - testap.loadedCount);
+                    else {
+                        var diff = city.shops * parameter.capacityShop - city.getCompleteAmount();
+                        if (diff > 0)
+                            max = Math.min(max, diff);
+                        else
+                            max = 0;
+                    }
+                    buyslider.readOnly = false;
+                    // sellslider.readOnly = false;
+                    buyslider.setAttribute("maxValue", max.toString());
+                    tr.children[6].innerHTML = storetarget[x].toString();
+                    if (storetarget[x] !== 0)
+                        $(sellslider).slider("enable"); //storetarget[x].toString();
+                    else
+                        $(sellslider).slider("disable"); //storetarget[x].toString();
+                    if (max !== 0)
+                        $(buyslider).slider("enable"); //storetarget[x].toString();
+                    else
+                        $(buyslider).slider("disable"); //storetarget[x].toString();
+                    sellslider.setAttribute("maxValue", storetarget[x].toString());
+                }
+                else {
+                    buyslider.readOnly = true;
+                    // sellslider.readOnly = true;
+                    tr.children[6].innerHTML = "";
+                    $(buyslider).slider("disable");
+                    $(sellslider).slider("disable");
+                }
+            }
+            citydialog_1.CityDialog.getInstance().updateTitle();
+        }
+        static getSliderValue(dom) {
+            var maxValue = parseInt(dom.getAttribute("maxValue"));
+            var val = $(dom).slider("value"); // parseInt(dom.value);
+            if (dom.id.indexOf("sell") > -1)
+                val = 40 - val;
+            if (val === 0)
+                return 0;
+            if (val === 40)
+                return maxValue;
+            var exp = Math.round(log(maxValue, 40) * 1000) / 1000;
+            var ret = Math.round(Math.pow(val, exp));
+            return ret;
+        }
+        static calcPrice(el, val) {
+            var city = citydialog_1.CityDialog.getInstance().city;
+            var id = Number(el.id.split("_")[1]);
+            var isProducedHere = false;
+            for (var x = 0; x < city.companies.length; x++) {
+                if (city.companies[x].productid === id)
+                    isProducedHere = true;
+            }
+            var prod = isProducedHere ? parameter.allProducts[id].pricePurchase : parameter.allProducts[id].priceSelling;
+            if (el.id.indexOf("sell") > -1)
+                val = -val;
+            var ret = parameter.allProducts[id].calcPrice(city.people, city.market[id] - val, isProducedHere);
+            var color = "#32CD32";
+            if (ret > ((0.0 + prod) * ((1 - parameter.ratePriceMin) * 2 / 4 + parameter.ratePriceMin)))
+                color = "#DAF7A6 ";
+            if (ret > ((0.0 + prod) * ((1 - parameter.ratePriceMin) * 3 / 4 + parameter.ratePriceMin)))
+                color = "white";
+            if (ret > ((0.0 + prod) * 1))
+                color = "Yellow";
+            if (ret > ((0.0 + prod) * ((parameter.ratePriceMax - 1) * 2 / 4 + 1)))
+                color = "LightPink";
+            try {
+                el.parentElement.parentElement.parentElement.children[4].style.background = color;
+            }
+            catch (_a) {
+            }
+            return ret;
+        }
+    }
+    exports.CityDialogMarket = CityDialogMarket;
+});
+define("game/citydialogshop", ["require", "exports", "game/citydialog", "game/citydialogmarket"], function (require, exports, citydialog_2, citydialogmarket_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.CityDialogShop = void 0;
+    var log = (function () {
+        var log = Math.log;
+        return function (n, base) {
+            return log(n) / (base ? log(base) : 1);
+        };
+    })();
+    class CityDialogShop {
+        static getInstance() {
+            if (CityDialogShop.instance === undefined)
+                CityDialogShop.instance = new CityDialogShop();
+            return CityDialogShop.instance;
+        }
+        create() {
+            return `<table id="citydialog-shop-table" style="height:100%;weight:100%;">
+                        <tr>
+                            <th></th>
+                            <th>Shop</th>
+                            <th></th>
+                            <th>#</th>
+                            <th> <select id="citydialog-shop-table-target" style="width:60px">
+                                    <option value="placeholder">placeholder</option>
+                                </select>
+                            </th>
+                            <th></th>
+                            <th>Min<br/>Stock</th>
+                        </tr>
+                       ${(function fun() {
+                var ret = "";
+                for (var x = 0; x < parameter.allProducts.length; x++) {
+                    ret = ret + "<tr>";
+                    ret = ret + "<td>" + parameter.allProducts[x].getIcon() + "</td>";
+                    ret = ret + '<td style="text-align: right">0</td>'; //stack
+                    ret = ret + '<td style="width:110px"><div style="position:relative">' +
+                        '<div id="shop-sell-slider_' + x + '" style="overflow:float;position:absolute;height:1px;top:5px;width: 53px" ><div>' +
+                        '</div></td>';
+                    ret = ret + '<td style="width:30px;"><span id="citydialog-shop-info_' + x + '"></span></td>';
+                    ret = ret + '<td style="width:40px"><div style="position:relative">' +
+                        '<div id="shop-buy-slider_' + x + '" style="overflow:float;position:absolute;left:4px;height:1px;top:5px;width: 62px" ><div>' +
+                        '</div></td>';
+                    ret = ret + '<td style="width:40px">0</td>'; //Airplane stack
+                    ret = ret + '<td>' +
+                        '<input type="number" min="0" class="shop-min-stock" id="shop-min-stock_' + x + '"' +
+                        'style="width: 50px;"' +
+                        '"></td>';
+                    ret = ret + "</tr>";
+                }
+                return ret;
+            })()}
+                    </table>
+                    <span id="citydialog-shop-info"><span>`;
+        }
+        bindActions() {
+            var _this = this;
+            document.getElementById("citydialog-shop-table-target").addEventListener("change", (e) => {
+                citydialog_2.CityDialog.getInstance().update(true);
+            });
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                document.getElementById("shop-min-stock_" + x).addEventListener("change", (e) => {
+                    var city = citydialog_2.CityDialog.getInstance().city;
+                    var ctrl = e.target;
+                    var id = parseInt(ctrl.id.split("_")[1]);
+                    city.shopMinStock[id] = ctrl.value === "" ? undefined : parseInt(ctrl.value);
+                });
+            }
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                $("#shop-sell-slider_" + x).slider({
+                    min: 0,
+                    max: 40,
+                    range: "min",
+                    value: 40,
+                    slide: function (event, ui) {
+                        console.log("slide");
+                        citydialogmarket_1.CityDialogMarket.slide(event, false, "citydialog-shop-info_", false);
+                    },
+                    change: function (e, ui) {
+                        citydialogmarket_1.CityDialogMarket.changeSlider(e, true, "citydialog-shop-info_", false);
+                    },
+                    stop: function (e, ui) {
+                        setTimeout(() => {
+                            citydialogmarket_1.CityDialogMarket.inedit = true;
+                            var id = Number(e.target.id.split("_")[1]);
+                            document.getElementById("citydialog-shop-info_" + id).innerHTML = "";
+                            $(e.target).slider("value", 40);
+                            citydialogmarket_1.CityDialogMarket.inedit = false;
+                        }, 200);
+                    }
+                });
+                $("#shop-buy-slider_" + x).slider({
+                    min: 0,
+                    max: 40,
+                    range: "min",
+                    value: 0,
+                    slide: function (event, ui) {
+                        citydialogmarket_1.CityDialogMarket.slide(event, true, "citydialog-shop-info_", false);
+                    },
+                    change: function (e, ui) {
+                        citydialogmarket_1.CityDialogMarket.changeSlider(e, false, "citydialog-shop-info_", false);
+                    },
+                    stop: function (e, ui) {
+                        setTimeout(() => {
+                            citydialogmarket_1.CityDialogMarket.inedit = true;
+                            var id = Number(e.target.id.split("_")[1]);
+                            document.getElementById("citydialog-shop-info_" + id).innerHTML = "";
+                            $(e.target).slider("value", 0);
+                            citydialogmarket_1.CityDialogMarket.inedit = false;
+                        }, 200);
+                    }
+                });
+            }
+        }
+        update() {
+            var city = citydialog_2.CityDialog.getInstance().city;
+            if (!city)
+                return;
+            var select = document.getElementById("citydialog-shop-table-target");
+            var last = select.value;
+            if (document.activeElement !== document.getElementById("citydialog-shop-table-target")) {
+                select.innerHTML = "";
+                var allAPs = city.getAirplanesInCity();
+                for (var x = 0; x < allAPs.length; x++) {
+                    var opt = document.createElement("option");
+                    opt.value = allAPs[x].name;
+                    opt.text = opt.value;
+                    select.appendChild(opt);
+                }
+                if (last !== "") {
+                    select.value = last;
+                }
+            }
+            citydialog_2.CityDialog.getInstance().updateTitle();
+            var storetarget = citydialogmarket_1.CityDialogMarket.getStore("citydialog-shop-table-target");
+            var storesource = city.shop;
+            var gesamount = 0;
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                var table = document.getElementById("citydialog-shop-table");
+                var tr = table.children[0].children[x + 1];
+                gesamount += storesource[x];
+                tr.children[1].innerHTML = city.shop[x].toLocaleString();
+                var buyslider = document.getElementById("shop-buy-slider_" + x);
+                var sellslider = document.getElementById("shop-sell-slider_" + x);
+                if (document.activeElement !== buyslider && document.activeElement !== sellslider) {
+                    if (storetarget) {
+                        var max = storesource[x];
+                        var testap = citydialogmarket_1.CityDialogMarket.getAirplaneInMarket("citydialog-shop-table-target");
+                        if (testap)
+                            max = Math.min(max, testap.capacity - testap.loadedCount);
+                        buyslider.readOnly = false;
+                        // sellslider.readOnly = false;
+                        buyslider.setAttribute("maxValue", max.toString());
+                        tr.children[5].innerHTML = storetarget[x].toString();
+                        if (storetarget[x] !== 0)
+                            $(sellslider).slider("enable"); //storetarget[x].toString();
+                        else
+                            $(sellslider).slider("disable"); //storetarget[x].toString();
+                        if (max !== 0)
+                            $(buyslider).slider("enable"); //storetarget[x].toString();
+                        else
+                            $(buyslider).slider("disable"); //storetarget[x].toString();
+                        var max2 = storetarget[x];
+                        var diff = city.shops * parameter.capacityShop - city.getCompleteAmount();
+                        if (diff > 0)
+                            max2 = Math.min(max2, diff);
+                        else
+                            max2 = 0;
+                        sellslider.setAttribute("maxValue", max2.toString());
+                    }
+                    else {
+                        buyslider.readOnly = true;
+                        // sellslider.readOnly = true;
+                        tr.children[5].innerHTML = "";
+                        $(buyslider).slider("disable");
+                        $(sellslider).slider("disable");
+                    }
+                }
+                if (document.activeElement !== tr.children[6].children[0])
+                    tr.children[6].children[0].value = city.shopMinStock[x] === undefined ? "" : city.shopMinStock[x].toString();
+            }
+            document.getElementById("citydialog-shop-info").innerHTML = "Shops:" + city.shops + " Capacity " + gesamount.toLocaleString() + "/" + (city.shops * parameter.capacityShop).toLocaleString();
+        }
+    }
+    exports.CityDialogShop = CityDialogShop;
+});
+define("game/citydialog", ["require", "exports", "game/city", "game/icons", "game/citydialogshop", "game/routedialog", "game/tools"], function (require, exports, city_1, icons_7, citydialogshop_1, routedialog_2, tools_3) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.CityDialog = void 0;
+    //@ts-ignore
+    window.city = function () {
+        return CityDialog.getInstance().city;
+    };
+    class CityDialog {
+        constructor() {
+            this.maxCompanies = 14;
+            this.hasPaused = false;
+            this.create();
+        }
+        static getInstance() {
+            if (CityDialog.instance === undefined)
+                CityDialog.instance = new CityDialog();
+            return CityDialog.instance;
+        }
+        create() {
+            //template for code reloading
+            var sdom = `
+          <div hidden id="citydialog" class="citydialog">
+            <div></div>
+           </div>
+        `;
+            this.dom = document.createRange().createContextualFragment(sdom).children[0];
+            var old = document.getElementById("citydialog");
+            if (old) {
+                old.parentNode.removeChild(old);
+            }
+            var products = parameter.allProducts;
+            var _this = this;
+            var city = _this.city;
+            var sdom = `
+          <div>
+          <div>
+            <button id="buy-companies-next" title="update all routes" class="mybutton">` + "+" + icons_7.Icons.factory + icons_7.Icons.route + ">" + `</button>
+            <button id="citydialog-capital" title="goto Capital" class="mybutton">` + icons_7.Icons.capital + `</button>
+            <input style="width:30px" id="citydialog-prev" type="button" value="<"  class="mybutton"/>
+            <input style="width:30px" id="citydialog-next" type="button" value=">"  class="mybutton"/>
+            
+            <select id="citydialog-filter" style="width:80px">
+                ` + this.productFilter() + `
+            </select>
+            <input type="checkbox" id="hide-busy" name="vehicle1">hide busy</input>
+            <input type="checkbox" id="citydialog-shopinfo" title="show shop info beside the city" >info</input>
+            <button id="update-all-routes" title="update all routes" class="mybutton">` + icons_7.Icons.route + `</button>
+            
+          </div>
+            <div id="citydialog-tabs">
+                <ul>
+                    <li><a href="#citydialog-buildings" id="citydialog-buildings-tab" class="citydialog-tabs">Buildings</a></li>
+                    <li><a href="#citydialog-shop" id="citydialog-shop-tab"  class="citydialog-tabs">` + icons_7.Icons.shop + ` MyShop</a></li>
+                    <li><a href="#citydialog-construction" id="citydialog-construction-tab" class="citydialog-tabs">Construction</a></li>
+                    <li><a href="#citydialog-score" id="citydialog-score-tab"  class="citydialog-tabs">Score</a></li>
+                </ul>
+                <div id="citydialog-buildings"> ` + this.createBuildings() + `
+                </div>
+                <div id="citydialog-shop">` + citydialogshop_1.CityDialogShop.getInstance().create() + `
+                </div>
+                <div id="citydialog-construction">` + this.createConstruction() + `
+                </div>
+                <div id="citydialog-score">` + this.createScore() + `
+                </div>
+          </div>
+        `;
+            var newdom = document.createRange().createContextualFragment(sdom).children[0];
+            this.dom.removeChild(this.dom.children[0]);
+            this.dom.appendChild(newdom);
+            $("#citydialog-tabs").tabs({
+            //collapsible: true
+            });
+            setTimeout(() => {
+                $("#citydialog-tabs").tabs({
+                //collapsible: true
+                });
+            }, 100);
+            document.body.appendChild(this.dom);
+            //        document.getElementById("citydialog-prev")
+            setTimeout(() => { _this.bindActions(); }, 500);
+            //document.createElement("span");
+        }
+        productFilter() {
+            var ret = '<option value="all">All</option>';
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                //  ret+='<option value="'+x+'"><span>'+parameter.allProducts[x].getIcon()+" "+parameter.allProducts[x].name+'</span></option>';
+                ret += '<option value="' + x + '">' + parameter.allProducts[x].name + '</option>';
+            }
+            return ret;
+        }
+        createBuildings() {
+            var _this = this;
+            return `<table id="citydialog-buildings-table" style="height:100%;weight:100%;">
+                        <tr>
+                            <th>Produce</th>
+                            <th> </th>
+                            <th>Buildings</th>
+                            <th>Jobs</th>
+                            <th>Needs</th>
+                            <th></th>
+                            <th>Actions</th>
+                        </tr>
+                       ${(function fun() {
+                var ret = "";
+                for (var x = 0; x < _this.maxCompanies; x++) {
+                    ret = ret + "<tr>";
+                    ret = ret + "<td></td>";
+                    ret = ret + "<td></td>";
+                    ret = ret + "<td></td>";
+                    ret = ret + "<td></td>";
+                    ret = ret + "<td style='white-space: nowrap;'></td>";
+                    ret = ret + "<td></td>";
+                    ret = ret + '<td>' +
+                        //'<button id="new-factory_' + x + '" class="mybutton">' + "+" + Icons.factory + '</button>' +
+                        '<button id="new-factoryX_' + x + '" class="mybutton">' + "x " + icons_7.Icons.factory + '</button>' +
+                        '<button id="delete-factory_' + x + '" class="mybutton">' + "- " + icons_7.Icons.factory + '</button>' +
+                        '<button id="buy-license_' + x + '" class="mybutton">' + "buy license to produce for " + (0, tools_3.getLocalNumber)(50000) + icons_7.Icons.money + '</button>' +
+                        '<div id="no-shop_' + x + '">need a shop to produce</div>' +
+                        '</td>';
+                    ret = ret + "</tr>";
+                }
+                return ret;
+            })()}
+                    </table>
+                       ` + icons_7.Icons.home + ` Shops: <span id="count-shops">0/0</span> ` + `  
+                        <button id="buy-shop"  class="mybutton">+` + icons_7.Icons.shop + ` ` + (0, tools_3.getLocalNumber)(15000) + icons_7.Icons.money + `</button> 
+                        <button id="delete-shop"  class="mybutton">-` + icons_7.Icons.shop + `</button>` + "&nbsp;&nbsp;&nbsp;&nbsp;" +
+                `<span id="city-buildingplaces">` + icons_7.Icons.wrench + `Speed: <span id="count-buildingplaces">0</span>  
+                        ` + icons_7.Icons.money + `  
+                        <button id="buy-buildingplace"  class="mybutton">+` + ` ` + (0, tools_3.getLocalNumber)(20000000) + icons_7.Icons.money + `</button> 
+                        <button id="delete-buildingplace"  class="mybutton">-` + `</button>` +
+                '</span>';
+        }
+        createScore() {
+            return `<table id="citydialog-score-table" style="height:100%;weight:100%;">
+                        <tr>
+                            <th>Name</th>
+                            <th> </th>
+                            <th>Produce</th>
+                            <th>Need</th>
+                            <th>Score</th>
+                        </tr>
+                       ${(function fun() {
+                var ret = "";
+                for (var x = 0; x < parameter.allProducts.length; x++) {
+                    ret = ret + "<tr>";
+                    ret = ret + "<td>" + parameter.allProducts[x].getIcon() + "</td>";
+                    ret = ret + "<td>" + parameter.allProducts[x].name + "</td>";
+                    ret = ret + "<td>0</td>";
+                    ret = ret + "<td>0</td>";
+                    ret = ret + "<td>0</td>";
+                    ret = ret + "</tr>";
+                }
+                return ret;
+            })()}
+                    </table>`;
+        }
+        createConstruction() {
+            return `<table id="citydialog-construction-table" style="height:100%;weight:100%;">
+                        <tr>
+                            <th>Model</th>
+                            <th>Speed</th>
+                            <th>Capacity</th>
+                            <th>Daily Costs</th>
+                            <th>Build days</th>
+                            <th>Action</th>
+                        </tr>
+                        ${(function fun() {
+                var ret = "";
+                for (var x = 0; x < 1; x++) {
+                    ret = ret + "<tr>";
+                    ret = ret + "<td>" + parameter.allAirplaneTypes[x].model + "</td>";
+                    ret = ret + "<td>" + parameter.allAirplaneTypes[x].speed + "</td>";
+                    ret = ret + "<td>" + parameter.allAirplaneTypes[x].capacity + "</td>";
+                    ret = ret + "<td>" + parameter.allAirplaneTypes[x].costs + "</td>";
+                    ret = ret + "<td>" + parameter.allAirplaneTypes[x].buildDays + "</td>";
+                    ret = ret + "<td>" + '<button id="new-airplane_' + x + '" class="mybutton">' + "+" + icons_7.Icons.airplane + " " +
+                        city_1.City.getBuildingCostsAsIcon(Math.round(parameter.allAirplaneTypes[x].buildingCosts * parameter.rateCostsAirplaine), parameter.allAirplaneTypes[x].buildingMaterial) + "</button></td>";
+                    ret = ret + "</tr>";
+                }
+                return ret;
+            })()}  
+                </table>
+
+                <table id="citydialog-constructionqueue-table" style="height:100%;weight:100%;">
+                        
+                </table> 
+            
+            `;
+        }
+        nextCity() {
+            var _this = this;
+            if (_this.filteredCities === undefined)
+                _this.filteredCities = _this.city.world.cities;
+            var pos = _this.filteredCities.indexOf(_this.city);
+            pos++;
+            if (pos >= _this.filteredCities.length)
+                pos = 0;
+            _this.city = _this.filteredCities[pos];
+            if (_this.city === undefined)
+                _this.city = _this.filteredCities[0];
+            if (!_this.city.hasAirport)
+                this.nextCity();
+            _this.update(true);
+        }
+        prevCity() {
+            var _this = this;
+            if (this.filteredCities === undefined)
+                this.filteredCities = _this.city.world.cities;
+            var pos = _this.filteredCities.indexOf(_this.city);
+            pos--;
+            if (pos === -1)
+                pos = _this.filteredCities.length - 1;
+            _this.city = _this.filteredCities[pos];
+            if (_this.city === undefined)
+                _this.city = _this.filteredCities[0];
+            if (!_this.city.hasAirport)
+                this.prevCity();
+            _this.update(true);
+        }
+        buildCompanies(evt) {
+            var _this = this;
+            var sid = evt.target.id;
+            if (sid === "")
+                sid = evt.target.parentNode.id;
+            var id = Number(sid.split("_")[1]);
+            var comp = _this.city.companies[id];
+            var count = 0;
+            for (var i = 0; i < parameter.numberBuildWithContextMenu; i++) {
+                if (!_this.city.commitBuildingCosts(comp.getBuildingCosts(i), comp.getBuildingMaterial(), "buy building", false))
+                    return;
+                count++;
+            }
+            _this.city.buildBuilding(id, comp.productid, count);
+            //comp.buildings++;
+            _this.update();
+            _this.city.world.game.updateTitle();
+        }
+        bindActions() {
+            var _this = this;
+            document.getElementById("citydialog-capital").addEventListener("click", (ev) => {
+                var max = 0;
+                for (var x = 0; x < _this.city.world.cities.length; x++) {
+                    if (_this.city.world.cities[x].shops > _this.city.world.cities[max].shops) {
+                        max = x;
+                    }
+                }
+                _this.city = _this.city.world.cities[max];
+                _this.update(true);
+            });
+            document.getElementById("citydialog-next").addEventListener("click", (ev) => {
+                _this.nextCity();
+            });
+            document.getElementById("citydialog-prev").addEventListener("click", (ev) => {
+                _this.prevCity();
+            });
+            document.getElementById("citydialog-filter").addEventListener("change", (ev) => {
+                var sel = document.getElementById("citydialog-filter").value;
+                var hide_busy = document.getElementById("hide-busy").checked;
+                if (sel === "all")
+                    this.filteredCities = _this.city.world.cities;
+                else {
+                    this.filteredCities = [];
+                    for (var x = 0; x < _this.city.world.cities.length; x++) {
+                        var city = _this.city.world.cities[x];
+                        for (var y = 0; y < city.companies.length; y++) {
+                            if (city.companies[y].productid === Number(sel)) {
+                                if (hide_busy && city.queueBuildings.length > 0) {
+                                    //
+                                }
+                                else
+                                    this.filteredCities.push(city);
+                            }
+                        }
+                    }
+                    if (this.filteredCities.length === 0) {
+                        this.filteredCities = [_this.city];
+                    }
+                    this.filteredCities.sort((a, b) => {
+                        var a1, b1;
+                        for (var y = 0; y < a.companies.length; y++) {
+                            if (a.companies[y].productid === Number(sel)) {
+                                a1 = a.companies[y].buildings - (a.companies[y].buildingsWithoutCosts ? a.companies[y].buildingsWithoutCosts : 0);
+                            }
+                        }
+                        for (var y = 0; y < b.companies.length; y++) {
+                            if (b.companies[y].productid === Number(sel)) {
+                                b1 = b.companies[y].buildings - (b.companies[y].buildingsWithoutCosts ? b.companies[y].buildingsWithoutCosts : 0);
+                            }
+                        }
+                        return (a1 - b1) * 1000000000 + (a.people - b.people) / 1000;
+                    });
+                    this.city = this.filteredCities[this.filteredCities.length - 1];
+                }
+                _this.nextCity();
+            });
+            document.getElementById("update-all-routes").addEventListener("click", (e) => {
+                _this.loadFillAllConsumtion();
+                //  _this.update();
+            });
+            document.getElementById("buy-companies-next").addEventListener("click", (e) => {
+                var sel = document.getElementById("citydialog-filter").value;
+                if (sel == "all")
+                    return;
+                var num = parseInt(sel);
+                for (var x = 0; x < _this.city.companies.length; x++) {
+                    if (this.city.companies[x].productid === num) {
+                        var bt = document.getElementById('new-factoryX_' + x);
+                        bt.click();
+                    }
+                }
+                _this.loadFillAllConsumtion();
+                _this.nextCity();
+                //  _this.update();
+            });
+            document.getElementById("citydialog-shopinfo").addEventListener("click", (e) => {
+                var en = document.getElementById("citydialog-shopinfo").checked;
+                _this.city.cityShowShopInfo = en;
+                _this.city.renderShopinfo(en);
+                //  _this.update();
+            });
+            for (var x = 0; x < this.maxCompanies; x++) {
+                /* document.getElementById("new-factory_" + x).addEventListener("click", (evt) => {
+                     var sid = (<any>evt.target).id;
+                     if (sid === "")
+                         sid = (<any>evt.target).parentNode.id
+                     var id = Number(sid.split("_")[1]);
+                     var comp = _this.city.companies[id];
+                     if (!_this.city.commitBuildingCosts(comp.getBuildingCosts(), comp.getBuildingMaterial(), "buy building"))
+                         return;
+                     _this.city.buildBuilding(comp.productid);
+     
+                     //comp.buildings++;
+                     _this.update();
+                 });*/
+                document.getElementById("new-factoryX_" + x).addEventListener("click", (evt) => {
+                    _this.buildCompanies(evt);
+                });
+                /* document.getElementById("new-factory_" + x).addEventListener("contextmenu", (evt) => {
+                     evt.preventDefault();
+                     _this.buildCompanies(evt);
+     
+                 });*/
+                /* document.getElementById("delete-factory_" + x).addEventListener("click", (evt) => {
+                     var sid = (<any>evt.target).id;
+                     if (sid === "")
+                         sid = (<any>evt.target).parentNode.id
+                     var id = Number(sid.split("_")[1]);
+                     _this.deleteFactory(id);
+                     _this.update();
+                 });*/
+                document.getElementById("delete-factory_" + x).addEventListener("click", (evt) => {
+                    evt.preventDefault();
+                    var sid = evt.target.id;
+                    if (sid === "")
+                        sid = evt.target.parentNode.id;
+                    var id = Number(sid.split("_")[1]);
+                    _this.deleteFactory(id, parameter.numberBuildWithContextMenu);
+                    /* var unempl = this.city.companies[id].workers - (this.city.companies[id].buildings * parameter.workerInCompany);
+                     if (unempl > 0) {
+                         this.city.companies[id].workers -= unempl;
+                         this.city.transferWorker(unempl);
+                     }*/
+                    _this.update();
+                });
+                document.getElementById("buy-license_" + x).addEventListener("click", (evt) => {
+                    var sid = evt.target.id;
+                    if (sid === "")
+                        sid = evt.target.parentNode.id;
+                    var id = Number(sid.split("_")[1]);
+                    var comp = _this.city.companies[id];
+                    if (!_this.city.commitBuildingCosts(50000, [], "buy licence"))
+                        return;
+                    comp.hasLicense = true;
+                    _this.update();
+                });
+            }
+            /* document.getElementById("buy-shop").addEventListener("click", (evt) => {
+                 if (!_this.city.commitBuildingCosts(15000, [], "buy building"))
+                     return;
+                 _this.city.buildBuilding(10000,true);
+                 _this.update();
+             });*/
+            document.getElementById("buy-shop").addEventListener("click", (evt) => {
+                evt.preventDefault();
+                if (!_this.city.commitBuildingCosts(15000 * parameter.numberBuildShopsWithContextMenu, [], "buy building"))
+                    return;
+                // for (var x = 0; x < parameter.numberBuildShopsWithContextMenu; x++) {
+                _this.city.buildBuilding(10000, 10000, parameter.numberBuildShopsWithContextMenu, true);
+                // }
+                _this.update();
+            });
+            document.getElementById("delete-shop").addEventListener("click", (evt) => {
+                if (_this.city.shops === 0)
+                    return;
+                if (_this.city.tryRemoveBuildingInProgress(10000, 1)) {
+                    _this.update();
+                    return;
+                }
+                _this.city.shops--;
+                _this.update();
+            });
+            /*   document.getElementById("buy-buildingplace").addEventListener("click", (evt) => {
+                   if (!_this.city.commitBuildingCosts(20000000, [], "buy buildingplace"))
+                       return;
+                   if (_this.city.buildingplaces === 0)
+                       _this.city.buildingplaces = 0;
+                   //_this.city.buildingplaces++;
+                   _this.city.buildBuilding(10001,true);
+                   _this.update();
+               });*/
+            document.getElementById("buy-buildingplace").addEventListener("click", (evt) => {
+                evt.preventDefault();
+                if (!_this.city.commitBuildingCosts(20000000 * parameter.numberBuildSpeedWithContextMenu, [], "buy buildingplace"))
+                    return;
+                //_this.city.buildingplaces= parameter.numberBuildSpeedWithContextMenu+_this.city.buildingplaces;
+                _this.city.buildBuilding(10001, 10001, parameter.numberBuildSpeedWithContextMenu, true);
+                //_this.city.buildBuilding(10000);
+                _this.update();
+            });
+            document.getElementById("delete-buildingplace").addEventListener("click", (evt) => {
+                //if (_this.city.tryRemoveBuildingInProgress(10000)) {
+                //    _this.update();
+                //    return;
+                //}
+                _this.city.buildingplaces = _this.city.buildingplaces - parameter.numberBuildSpeedWithContextMenu;
+                if (_this.city.buildingplaces < 0)
+                    _this.city.buildingplaces = 1;
+                _this.update();
+            });
+            for (var x = 0; x < 1; x++) {
+                document.getElementById("new-airplane_" + x).addEventListener("click", (evt) => {
+                    var sid = evt.target.id;
+                    if (sid === "")
+                        sid = evt.target.parentNode.id;
+                    var id = parseInt(sid.split("_")[1]);
+                    if (!_this.city.commitBuildingCosts(Math.round(parameter.allAirplaneTypes[id].buildingCosts *
+                        parameter.rateBuyAirplane), parameter.allAirplaneTypes[id].buildingMaterial, "buy airplane"))
+                        return;
+                    _this.city.buildAirplane(id);
+                    _this.update(true);
+                    //_this.newAirplane(id);
+                });
+            }
+            citydialogshop_1.CityDialogShop.getInstance().bindActions();
+        }
+        loadFillAllConsumtion(nowarning = false) {
+            var routes = [];
+            var posCity = this.city.world.cities.indexOf(this.city);
+            for (var a = 0; a < this.city.world.airplanes.length; a++) {
+                var ap = this.city.world.airplanes[a];
+                var found = false;
+                for (var x = 0; x < ap.route.length; x++) {
+                    if (ap.route[x].cityid === posCity) { //this.city.id) {
+                        found = true;
+                    }
+                }
+                for (var x = 0; x < ap.route.length; x++) {
+                    if (found) {
+                        routes.push(ap.route[x]);
+                    }
+                    /*if (ap.route[x].loadShopAmount[0] !== undefined) {
+                        RouteDialog.loadFillConsumtion(ap.route[x], true);
+                    }
+                    if (this.route.airplane.route[x].loadShopUntilAmount[0] !== undefined) {
+                        RouteDialog.loadFillConsumtion(ap.route[x], false);
+                    }*/
+                }
+            }
+            var money = 20000 * routes.length / 2;
+            if ((this.city.world.game.getMoney() / money) < 1000 && (routes.length > 2 || this.city.world.game.getMoney() < 1000000)) {
+                if (nowarning)
+                    return;
+                if (!confirm("Update conumtion in all routes for " + money + "?")) {
+                    return;
+                }
+            }
+            this.city.world.game.changeMoney(-money, "update routes", this.city);
+            for (var x = 0; x < routes.length; x++) {
+                if (routes[x].loadShopAmount[0] !== undefined) {
+                    routedialog_2.RouteDialog.loadFillConsumtion(routes[x], true);
+                }
+                if (routes[x].loadShopUntilAmount[0] !== undefined) {
+                    routedialog_2.RouteDialog.loadFillConsumtion(routes[x], false);
+                }
+            }
+        }
+        deleteFactory(id, count) {
+            var _this = this;
+            var comp = _this.city.companies[id];
+            if (_this.city.tryRemoveBuildingInProgress(comp.productid, count)) {
+                _this.update();
+                return;
+            }
+            for (var x = 0; x < count; x++) {
+                if (comp.buildings > 0) {
+                    comp.buildings--;
+                    _this.city.companies[id].workers -= parameter.workerInCompany;
+                }
+            }
+        }
+        updateBuildings() {
+            /*
+                                   <th>produce</th>
+                                       <th> </th>
+                                       <th>buildings</th>
+                                       <th>jobs</th>
+                                       <th>needs</th>
+                                       <th></th>
+                                       <th>costs new building</th>
+                                       <th>actions</th>
+                   */
+            var companies = this.city.companies;
+            var all = parameter.allProducts;
+            var selectedProduct = document.getElementById("citydialog-filter").value;
+            for (var x = 0; x < companies.length; x++) {
+                var comp = companies[x];
+                var table = document.getElementById("citydialog-buildings-table");
+                var tr = table.children[0].children[x + 1];
+                var product = all[comp.productid];
+                var produce = comp.getDailyProduce();
+                tr.children[0].innerHTML = produce + " " + product.getIcon();
+                tr.children[1].innerHTML = product.name;
+                var s = (0, tools_3.getLocalNumber)(comp.buildings); //.toString();
+                var inprogr = this.city.getBuildingInProgress(comp.productid);
+                if (inprogr) {
+                    s = s + "<br/>" + inprogr + icons_7.Icons.hammer + "";
+                }
+                tr.children[2].innerHTML = s;
+                //tr.children[3].innerHTML = "" + getLocalNumber(comp.workers);// + "/<br/>" + getLocalNumber(comp.getMaxWorkers());
+                tr.children[3].innerHTML = (0, tools_3.getLocalNumber)(comp.workers);
+                /*            if (comp.workers > 10000)
+                                tr.children[3].innerHTML = (Math.floor(comp.workers / 1000)).toLocaleString() + "K" + "/<br/>" + Math.floor(comp.getMaxWorkers() / 1000).toLocaleString() + "K";
+                            if (comp.workers > 10000000)
+                                tr.children[3].innerHTML = (Math.floor(comp.workers / 1000000)).toLocaleString() + "M" + "/<br/>" + Math.floor(comp.getMaxWorkers() / 1000000).toLocaleString() + "M";
+                */
+                var needs1 = "";
+                var needs2 = "";
+                if (product.input1 !== undefined)
+                    needs1 = "" + /*Math.round(comp.getDailyInput1()) + */ all[product.input1].getIcon() + " ";
+                tr.children[4].innerHTML = needs1;
+                if (product.input2 !== undefined)
+                    needs2 = /*"<br/>" + Math.round(comp.getDailyInput2()) +*/ all[product.input2].getIcon();
+                tr.children[4].innerHTML = needs1 + " " + needs2;
+                if (comp.hasLicense) {
+                    document.getElementById("buy-license_" + x).setAttribute("hidden", "");
+                }
+                else {
+                    document.getElementById("buy-license_" + x).removeAttribute("hidden");
+                }
+                if (this.city.shops === 0) {
+                    document.getElementById("no-shop_" + x).removeAttribute("hidden");
+                }
+                else {
+                    document.getElementById("no-shop_" + x).setAttribute("hidden", "");
+                }
+                var discomp = false;
+                if (comp.hasLicense && this.city.shops > 0) {
+                    document.getElementById("new-factoryX_" + x).innerHTML = "+" + icons_7.Icons.factory +
+                        city_1.City.getBuildingCostsAsIcon(comp.getBuildingCosts(), comp.getBuildingMaterial());
+                    //  document.getElementById("new-factory_" + x).removeAttribute("hidden");
+                    document.getElementById("new-factoryX_" + x).removeAttribute("hidden");
+                    document.getElementById("delete-factory_" + x).removeAttribute("hidden");
+                    if (comp.productid.toString() === selectedProduct)
+                        document.getElementById("buy-companies-next").removeAttribute("disabled");
+                }
+                else {
+                    //  document.getElementById("new-factory_" + x).setAttribute("hidden", "");
+                    document.getElementById("new-factoryX_" + x).setAttribute("hidden", "");
+                    document.getElementById("delete-factory_" + x).setAttribute("hidden", "");
+                    if (comp.productid.toString() === selectedProduct) {
+                        discomp = true;
+                        document.getElementById("buy-companies-next").setAttribute("disabled", "");
+                    }
+                }
+                var mat = comp.getBuildingMaterial();
+                if (this.city.canBuild(comp.getBuildingCosts(), comp.getBuildingMaterial()) != "") {
+                    if (comp.productid.toString() === selectedProduct)
+                        document.getElementById("buy-companies-next").setAttribute("disabled", "");
+                    document.getElementById("new-factoryX_" + x).setAttribute("disabled", "");
+                    document.getElementById("new-factoryX_" + x).setAttribute("title", "not all building costs are available");
+                }
+                else {
+                    if (comp.productid.toString() === selectedProduct && discomp === false)
+                        document.getElementById("buy-companies-next").removeAttribute("disabled");
+                    document.getElementById("new-factoryX_" + x).removeAttribute("disabled");
+                    document.getElementById("new-factoryX_" + x).removeAttribute("title");
+                }
+                if (this.city.canBuild(50000, []) === "") {
+                    document.getElementById("buy-license_" + x).removeAttribute("disabled");
+                }
+                else {
+                    document.getElementById("buy-license_" + x).setAttribute("disabled", "");
+                }
+            }
+            for (var x = 6; x <= this.maxCompanies; x++) {
+                var trr = table.children[0].children[x];
+                if (x > this.city.companies.length && trr.style.display !== "none") {
+                    trr.style.display = "none";
+                }
+                if (x <= this.city.companies.length && trr.style.display === "none") {
+                    trr.style.display = "";
+                }
+            }
+            var sh = (0, tools_3.getLocalNumber)(this.city.shops);
+            var inprogr = this.city.getBuildingInProgress(10000);
+            if (inprogr) {
+                sh = sh + "(" + inprogr + icons_7.Icons.hammer + ")";
+            }
+            document.getElementById("count-shops").innerHTML = "" + sh;
+            // document.getElementById("costs-shops").innerHTML = "" + this.city.getDailyCostsShops();
+            sh = "" + this.city.buildingplaces.toLocaleString();
+            var inprogr = this.city.getBuildingInProgress(10001);
+            if (inprogr) {
+                sh = sh + "(" + inprogr + icons_7.Icons.hammer + ")";
+            }
+            document.getElementById("count-buildingplaces").innerHTML = "" + sh;
+            if (this.city.canBuild(15000, []) !== "") {
+                document.getElementById("buy-shop").setAttribute("disabled", "");
+            }
+            else {
+                document.getElementById("buy-shop").removeAttribute("disabled");
+            }
+            if (this.city.canBuild(100000000, []) !== "") {
+                document.getElementById("buy-buildingplace").setAttribute("disabled", "");
+            }
+            else {
+                document.getElementById("buy-buildingplace").removeAttribute("disabled");
+            }
+        }
+        updateConstruction() {
+            for (var x = 0; x < 1; x++) {
+                if (this.city.canBuild(Math.round(parameter.allAirplaneTypes[x].buildingCosts * parameter.rateCostsAirplaine), parameter.allAirplaneTypes[x].buildingMaterial) === "") {
+                    document.getElementById("new-airplane_" + x).removeAttribute("disabled");
+                }
+                else {
+                    document.getElementById("new-airplane_" + x).setAttribute("disabled", "");
+                }
+            }
+            var tab = document.getElementById("citydialog-constructionqueue-table");
+            var html = `<tr>
+                    <th>Modelname</th>
+                    <th>Finished</th>
+                    <th></th>
+                </tr>`;
+            for (var x = 0; x < this.city.queueAirplane.length; x++) {
+                html += '<tr><td >' + this.city.queueAirplane[x].name + "</td>";
+                html += "     <td>" + new Date(this.city.queueAirplane[x].ready).toLocaleDateString() + "</td>";
+                html += "</tr>";
+            }
+            tab.innerHTML = html;
+        }
+        updateScore() {
+            var needs = [];
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                needs.push(0);
+            }
+            for (var i = 0; i < this.city.companies.length; i++) {
+                var test = parameter.allProducts[this.city.companies[i].productid];
+                if (test.input1 !== undefined) {
+                    needs[test.input1] += (Math.round(this.city.companies[i].workers * test.input1Amount / parameter.workerInCompany));
+                }
+                if (test.input2 !== undefined) {
+                    needs[test.input2] += (Math.round(this.city.companies[i].workers * test.input2Amount / parameter.workerInCompany));
+                }
+            }
+            //score
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                var table = document.getElementById("citydialog-score-table");
+                var tr = table.children[0].children[x + 1];
+                var prod = "";
+                var product = parameter.allProducts[x];
+                for (var i = 0; i < this.city.companies.length; i++) {
+                    if (this.city.companies[i].productid === x) {
+                        prod = Math.round(this.city.companies[i].workers * product.dailyProduce / parameter.workerInCompany).toString();
+                    }
+                }
+                tr.children[2].innerHTML = prod;
+                tr.children[3].innerHTML = needs[x] === 0 ? "" : needs[x];
+                tr.children[4].innerHTML = this.city.score[x] + "</td>";
+            }
+        }
+        update(force = false) {
+            var _a, _b, _c, _d, _e, _f, _g, _h, _j, _k, _l, _m;
+            if (!this.city)
+                return;
+            try {
+                if (!$(this.dom).dialog('isOpen')) {
+                    return;
+                }
+            }
+            catch (_o) {
+                return;
+            }
+            if (!this.city.hasAirport)
+                return;
+            this.updateTitle();
+            if ((_c = (_b = (_a = document.getElementById("citydialog-buildings-tab")) === null || _a === void 0 ? void 0 : _a.parentElement) === null || _b === void 0 ? void 0 : _b.classList) === null || _c === void 0 ? void 0 : _c.contains("ui-tabs-active"))
+                this.updateBuildings();
+            if (force || ((_f = (_e = (_d = document.getElementById("citydialog-shop-tab")) === null || _d === void 0 ? void 0 : _d.parentElement) === null || _e === void 0 ? void 0 : _e.classList) === null || _f === void 0 ? void 0 : _f.contains("ui-tabs-active")))
+                citydialogshop_1.CityDialogShop.getInstance().update();
+            if ((_j = (_h = (_g = document.getElementById("citydialog-construction-tab")) === null || _g === void 0 ? void 0 : _g.parentElement) === null || _h === void 0 ? void 0 : _h.classList) === null || _j === void 0 ? void 0 : _j.contains("ui-tabs-active"))
+                this.updateConstruction();
+            if ((_m = (_l = (_k = document.getElementById("citydialog-score-tab")) === null || _k === void 0 ? void 0 : _k.parentElement) === null || _l === void 0 ? void 0 : _l.classList) === null || _m === void 0 ? void 0 : _m.contains("ui-tabs-active"))
+                this.updateScore();
+            if (document.getElementById("citydialog-shopinfo").checked !== this.city.cityShowShopInfo)
+                document.getElementById("citydialog-shopinfo").checked = this.city.cityShowShopInfo;
+            return;
+        }
+        updateTitle() {
+            var sicon = '';
+            if ($(this.dom).parent().find('.ui-dialog-title').length > 0)
+                $(this.dom).parent().find('.ui-dialog-title')[0].innerHTML = '<img style="float: right" id="citydialog-icon" src="' + this.city.icon +
+                    '"  height="15"></img> ' + this.city.name + " (lev " + this.city.level + ") " + this.city.people + " " + icons_7.Icons.people;
+        }
+        show() {
+            var _this = this;
+            this.dom.removeAttribute("hidden");
+            this.update();
+            $(this.dom).dialog({
+                width: "400px",
+                draggable: true,
+                // position: { my: "left top", at: "right top", of: $(AirplaneDialog.getInstance().dom) },
+                open: function (event, ui) {
+                    _this.update(true);
+                },
+                close: function (ev, ev2) {
+                    if (_this.hasPaused) {
+                        _this.city.world.game.resume();
+                    }
+                },
+                create: function (e) {
+                    setTimeout(() => {
+                        $(e.target).dialog("widget").find(".ui-dialog-titlebar-close")[0].addEventListener('touchstart', (e) => {
+                            _this.close();
+                        });
+                    }, 200);
+                },
+                resizable: false
+            }).dialog("widget").draggable("option", "containment", "none");
+            $(this.dom).parent().css({ position: "fixed" });
+        }
+        close() {
+            $(this.dom).dialog("close");
+        }
+    }
+    exports.CityDialog = CityDialog;
+});
+define("game/world", ["require", "exports", "game/company", "game/product", "game/tools", "game/transport"], function (require, exports, company_4, product_6, tools_4, transport_4) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.World = void 0;
+    class World {
+        constructor() {
+            this.type = "World";
+            this.lastUpdate = undefined;
+            this.tickCount = 0;
+            var _this = this;
+            // console.log("CreateIntervall"+ this._intervall );
+        }
+        getElementOffset(el) {
+            let top = 0;
+            let left = 0;
+            let element = el;
+            // Loop through the DOM tree
+            // and add it's parent's offset to get page offset
+            do {
+                top += element.offsetTop || 0;
+                left += element.offsetLeft || 0;
+                element = element.offsetParent;
+            } while (element);
+            return {
+                top,
+                left,
+            };
+        }
+        oncontextmenu(evt) {
+            evt.preventDefault();
+            /*
+                     if(this.selection){
+                         var pt=this.getElementOffset(evt.currentTarget);
+                        (<Airplane>this.selection).flyTo(evt.x-pt.left-8,evt.y-pt.top-10);
+                        console.log(evt.offsetX);
+                    }*/
+        }
+        onclick(th) {
+            var _a;
+            console.log("close");
+            (_a = this.selection) === null || _a === void 0 ? void 0 : _a.unselect();
+        }
+        updateUI() {
+        }
+        nextTick() {
+            this.tickCount++;
+            for (var x = 0; x < this.companies.length; x++) {
+                this.companies[x].nextTick();
+                //            this.companies[x].update();
+            }
+            /* for (var x = 0; x < this.transports.length; x++) {
+                 this.transports[x].nextTick();
+     
+             }      */
+        }
+        getProductsToBuildForLevel(level) {
+            var ret = [];
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                var prod = parameter.allProducts[x];
+                if ((level) === prod.level) {
+                    if (this.findCompanyThatProduces(prod.id).length === 0) {
+                        ret.push(prod);
+                    }
+                }
+            }
+            return ret;
+        }
+        newGame() {
+            //createCities(this, 15);
+            this.companies = [];
+            var all = [];
+            parameter.allProducts.forEach(p => {
+                if (p.level === 1)
+                    all.push(p.id);
+            });
+            for (var x = all.length; x < parameter.width * parameter.height; x++) {
+                all.push(-2);
+            }
+            //mix
+            for (var x = 0; x < (parameter.width * parameter.height * 5); x++) {
+                var rand1 = (0, tools_4.getRandomInt)(parameter.width * parameter.height);
+                var rand2 = (0, tools_4.getRandomInt)(parameter.width * parameter.height);
+                var temp = all[rand2];
+                all[rand2] = all[rand1];
+                all[rand1] = temp;
+            }
+            var z = 0;
+            for (var x = 1; x <= parameter.width; x++) {
+                for (var y = 1; y <= parameter.height; y++) {
+                    if (y % 2 === 1)
+                        this.companies.push(new company_4.Company(this, z, all[z], 0, 0, 0, x * 4 - 1, y));
+                    else
+                        this.companies.push(new company_4.Company(this, z, all[z], 0, 0, 0, x * 4 + 1, y));
+                    z++;
+                }
+            }
+            /* this.companies.push(new Company(this,0,0,1,[1],1,3,1));
+             this.companies.push(new Company(this,1,1,1,[1],1,7,1));
+             this.companies.push(new Company(this,2,2,1,[1],1,11,1));
+     
+             this.companies.push(new Company(this,3,3,1,[1],1,5,2));
+             this.companies.push(new Company(this,4, 4,1,[1],1,9,2));
+             this.companies.push(new Company(this,5,5,1,[1],1,13,2));
+             
+             this.companies.push(new Company(this,6,6,1,[1],1,3,3));
+             this.companies.push(new Company(this,7,7,1,[1],1,7,3));
+             this.companies.push(new Company(this,8,8,1,[1],1,11,3));
+     
+             this.companies.push(new Company(this,9,9,1,[1],1,5,4));
+             this.companies.push(new Company(this,10,10,1,[1],1,9,4));
+             this.companies.push(new Company(this,11,11,1,[1],1,13,4));*/
+            /* for (var i = 1; i < this.companies.length; i++) {
+                 if (this.companies[i].productid === -1)
+                     continue;
+                 var prod = parameter.allProducts[this.companies[i].productid];
+                 var compstarget = this.findCompanyThatConsumes(this.companies[i].productid);
+                 for (var x = 0; x < compstarget.length; x++) {
+                     var trans = new Transport(this.companies[i]);
+                     trans.active = true;
+                     trans.worker=1;
+                     trans.companyTarget = compstarget[x]?.companyID;
+                     //trans.productCount=5;
+                     this.companies[i].transports.push(trans);
+                     //  trans.moveTo(trans.companyTarget);
+                 }
+             }*/
+            this.game.setProductsInGate();
+            var helper = this.findCompanyThatProduces(product_6.Product.productHelper)[0];
+            var soldier = this.findCompanyThatProduces(product_6.Product.productSoldier)[0];
+            helper.workers = 1;
+            helper.rawmaterials[0] = 8;
+            helper.produced = 0;
+            this.game.people = 4; //2xBautransport 1Soldier 1Helper
+            soldier.workers = 1;
+            soldier.produced = 0;
+            //Bautransport
+            var holz = this.findCompanyThatProduces(product_6.Product.productWood)[0];
+            var trans = new transport_4.Transport(holz);
+            trans.active = true;
+            trans.workers = 1;
+            trans.autodeliver = true;
+            holz.transports.push(trans);
+            var stein = this.findCompanyThatProduces(product_6.Product.productStone)[0];
+            var trans2 = new transport_4.Transport(stein);
+            trans2.active = true;
+            trans2.workers = 1;
+            trans2.autodeliver = true;
+            stein.transports.push(trans2);
+            var gate = this.findCompanyThatProduces(product_6.Product.productGate)[0];
+        }
+        findSoldier() {
+            var comps = this.findCompanyThatProduces(product_6.Product.productSoldier);
+            for (var x = 0; x < comps.length; x++) {
+                if (comps[x].produced > parameter.soldiersToConquer)
+                    return comps[x];
+            }
+            return undefined;
+        }
+        findCompanyThatProducesByName(prodname) {
+            var ret = [];
+            var prodid = -1;
+            parameter.allProducts.forEach(p => { if (p.name === prodname)
+                prodid = p.id; });
+            if (prodid === -1)
+                return [];
+            return this.findCompanyThatProduces(prodid);
+        }
+        findCompanyThatProduces(prodid, withBuildingInProgress = false) {
+            var ret = [];
+            for (var x = 0; x < this.companies.length; x++) {
+                if (this.companies[x].productid === prodid || (withBuildingInProgress === true && this.companies[x].buildingInProgress === prodid))
+                    ret.push(this.companies[x]);
+            }
+            return ret;
+        }
+        findCompanyThatConsumes(prodid) {
+            var _a;
+            var ret = [];
+            for (var x = 0; x < this.companies.length; x++) {
+                var prod = parameter.allProducts[this.companies[x].productid];
+                if (((_a = prod === null || prod === void 0 ? void 0 : prod.consume) === null || _a === void 0 ? void 0 : _a.indexOf(prodid)) > -1)
+                    ret.push(this.companies[x]);
+            }
+            return ret;
+        }
+        render(dom) {
+            var _this = this;
+            this.dom = dom;
+            for (var x = 0; x < this.companies.length; x++) {
+                this.companies[x].render();
+                //            this.companies[x].update();
+            }
+        }
+        destroy() {
+        }
+    }
+    exports.World = World;
+});
+define("game/airplane", ["require", "exports", "game/airplanedialog"], function (require, exports, airplanedialog_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.Airplane = void 0;
+    //
+    class Airplane {
+        get squadron() {
+            return []; //Geschwader
+        }
+        set squadron(val) {
+            //Geschwader
+        }
+        constructor(world) {
+            this.status = "";
+            this.loadedCount = 0;
+            this.activeRoute = -1;
+            this.type = "Airplane";
+            this.world = world;
+            this.route = [];
+            this.products = [];
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                this.products[x] = 0;
+            }
+            this.typeid = 1;
+            this.action = "";
+            /*  for(var x=0;x<4;x++){
+                  var rt=new Route();
+                  rt.cityid=x;
+                  this.route.push(rt);
+              }*/
+        }
+        getCurrentCity() {
+            for (var x = 0; x < this.world.cities.length; x++) {
+                if (this.world.cities[x].x === this.x && this.world.cities[x].y === this.y) {
+                    return this.world.cities[x];
+                }
+            }
+            return undefined;
+        }
+        upgrade() {
+            this.typeid++;
+            this.speed = Math.round(this.speed * 1.01);
+            if (this.speed > 150)
+                this.speed = 150;
+            this.capacity = Math.round(this.capacity * 1.5);
+            this.world.game.changeMoney(-this.typeid * 10000, "upgrade airplane");
+            this.costs = Math.round(this.costs * 1.5);
+        }
+        updateSquadron() {
+            var speed = parameter.allAirplaneTypes[this.typeid].speed;
+            var capacity = parameter.allAirplaneTypes[this.typeid].capacity;
+            for (var x = 0; x < this.squadron.length; x++) {
+                speed = Math.min(this.squadron[x].speed, speed);
+                capacity += this.squadron[x].capacity;
+            }
+            this.speed = speed;
+            this.capacity = capacity;
+        }
+        render() {
+            var _this = this;
+            this.dom = document.createRange().createContextualFragment("<span z-index:2;style='font-size:20px;transform:rotate(0turn)' class='mdi mdi-airplane'></span>").children[0]; //document.createElement("span");
+            this.dom.style.position = "absolute";
+            this.dom.style.zIndex = "10";
+            this.dom.addEventListener("click", (ev) => {
+                _this.onclick(ev);
+                return undefined;
+            });
+            this.lastUpdate = this.world.game.date.getTime();
+            this.update();
+        }
+        refreshLoadedCount() {
+            var all = 0;
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                all += this.products[x];
+            }
+            this.loadedCount = all;
+        }
+        flyTo(city) {
+            var x = city.x;
+            var y = city.y;
+            this.lastUpdate = this.world.game.date.getTime();
+            // console.log("fly to " + city.name)
+            this.action = "fly";
+            this.status = "fly to " + city.name;
+            this.targetX = x;
+            this.targetY = y;
+            this.update();
+        }
+        select() {
+            if (this.dom)
+                this.dom.classList.add("airplane_selected");
+        }
+        unselect() {
+            if (this.dom)
+                this.dom.classList.remove("airplane_selected");
+        }
+        arrived() {
+            this.targetX = undefined;
+            this.targetY = undefined;
+            this.action = "";
+            this.status = "";
+            this.dom.style.transform = "rotate(0deg)";
+            if (this.activeRoute !== -1) {
+                this.action = "unload";
+                this.status = "unload";
+                this.lastAction = this.lastUpdate;
+            }
+        }
+        calcNewPosition() {
+            var _this = this;
+            var pixelToTarget = Math.round(Math.sqrt(Math.pow(this.targetX - this.x, 2) + Math.pow(this.targetY - this.y, 2))); //Pytharoras
+            var fromX = this.x;
+            var fromY = this.y;
+            var fromTime = 0;
+            var toX = this.targetX;
+            var toY = this.targetY;
+            var toTime = pixelToTarget / this.speed; //t=s/v; in Tage
+            var speedVectorX = toX - fromX;
+            var speedVectorY = toY - fromY;
+            var speedVectorTime = (toTime - fromTime);
+            var nowTime = (this.world.game.date.getTime() - this.lastUpdate) / (1000 * 60 * 60 * 24);
+            var nowX = Math.round((nowTime / speedVectorTime) * speedVectorX + fromX);
+            var nowY = Math.round((nowTime / speedVectorTime) * speedVectorY + fromY);
+            if (nowTime >= toTime) {
+                this.x = this.targetX;
+                this.y = this.targetY;
+                this.arrived();
+            }
+            else {
+                var rad = Math.atan((fromX - toX) / (fromY - toY));
+                var winkel = 0;
+                if (fromY > toY) {
+                    winkel = 360 - rad * (180) / Math.PI;
+                }
+                else {
+                    winkel = 180 - rad * (180) / Math.PI;
+                }
+                var s = ("" + winkel).replace(",", ".");
+                //   setTimeout(()=>{
+                _this.dom.style.transform = "rotate(" + s + "deg)";
+                //   });
+                // console.log(pixelToTarget+" pixel in "+toTime+" seconds. Position "+nowX+" "+nowY+" lastupdate "+nowTime+" "+winkel+"°");
+                this.x = nowX;
+                this.y = nowY;
+            }
+        }
+        update() {
+            if (!this.dom) {
+                return;
+            }
+            if (this.loadedCount === this.capacity && !this.dom.classList.contains("airplane_fullloaded")) {
+                this.dom.classList.add("airplane_fullloaded");
+            }
+            if (this.loadedCount !== this.capacity && this.dom.classList.contains("airplane_fullloaded")) {
+                this.dom.classList.remove("airplane_fullloaded");
+            }
+            if (this.status === "" && !this.dom.classList.contains("airplane_lazy")) {
+                this.dom.classList.add("airplane_lazy");
+            }
+            if (this.status !== "" && this.dom.classList.contains("airplane_lazy")) {
+                this.dom.classList.remove("airplane_lazy");
+            }
+            if (this.targetX !== undefined) {
+                this.calcNewPosition();
+            }
+            this.lastUpdate = this.world.game.date.getTime();
+            this.dom.style.top = this.y + "px";
+            this.dom.style.left = (this.x - 18) + "px";
+            if (this.activeRoute !== -1 && this.route.length > 1) {
+                if (this.action === "unload" && (this.lastUpdate - this.lastAction) > (3 * 1000 * 60 * 60)) {
+                    // console.log("load now");
+                    this.action = "load";
+                    this.status = "load";
+                    this.lastAction = this.lastUpdate;
+                    if (this.activeRoute >= this.route.length) {
+                        this.activeRoute = 0;
+                    }
+                    else
+                        this.route[this.activeRoute].unload();
+                    airplanedialog_1.AirplaneDialog.getInstance().update();
+                }
+                if (this.action === "load" && (this.lastUpdate - this.lastAction) > (3 * 1000 * 60 * 60)) {
+                    this.lastAction = this.lastUpdate;
+                    if (this.activeRoute >= this.route.length)
+                        this.activeRoute = 0;
+                    else
+                        this.route[this.activeRoute].load();
+                    airplanedialog_1.AirplaneDialog.getInstance().update();
+                    this.activeRoute++;
+                    if (this.activeRoute >= this.route.length)
+                        this.activeRoute = 0;
+                    var city = this.world.cities[this.route[this.activeRoute].cityid];
+                    this.flyTo(city);
+                }
+            }
+        }
+        onclick(th) {
+            var _a;
+            th.preventDefault();
+            th.stopPropagation();
+            (_a = this.world.selection) === null || _a === void 0 ? void 0 : _a.unselect();
+            this.world.selection = this;
+            this.select();
+            var h = airplanedialog_1.AirplaneDialog.getInstance();
+            h.airplane = this;
+            h.show();
+        }
+        getDailyCosts() {
+            /*var ret=parameter.allAirplaneTypes[this.typeid].costs;
+            for(var x=0;x<this.squadron.length;x++){
+                ret+=parameter.allAirplaneTypes[this.squadron[x].typeid].costs;
+            }
+            return ret;*/
+            return this.costs;
+        }
+    }
+    exports.Airplane = Airplane;
+});
+//<span style='font-size:100px;'>&#9951;</span>
+define("game/startgame", ["require", "exports", "jassijs/ui/Panel", "jassijs/base/Windows", "game/game", "jassijs/base/Actions", "jassijs/remote/Registry"], function (require, exports, Panel_1, Windows_1, game_3, Actions_1, Registry_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.test = exports.PPanel = void 0;
+    let PPanel = class PPanel extends Panel_1.Panel {
+        constructor() {
+            super();
+            this.game = new game_3.Game();
+            //this.width = "1050px";
+            // this.height = "650px"; 
+            this.game.newGame();
+            this.game.render(this.dom);
+        }
+        destroy() {
+            this.game.destroy();
+            super.destroy();
+        }
+        static async show() {
+            test();
+        }
+    };
+    __decorate([
+        (0, Actions_1.$Action)({
+            name: "Game",
+            icon: "mdi  mdi-airplane",
+        }),
+        __metadata("design:type", Function),
+        __metadata("design:paramtypes", []),
+        __metadata("design:returntype", Promise)
+    ], PPanel, "show", null);
+    PPanel = __decorate([
+        (0, Actions_1.$ActionProvider)("jassijs.base.ActionNode"),
+        (0, Registry_1.$Class)("game.PPanel"),
+        __metadata("design:paramtypes", [])
+    ], PPanel);
+    exports.PPanel = PPanel;
+    function createStyle() {
+        var cssId = 'game.css'; // you could encode the css path itself to generate id..
+        if (document.getElementById(cssId))
+            document.getElementById(cssId).parentNode.removeChild(document.getElementById(cssId));
+        var head = document.getElementsByTagName('head')[0];
+        var link = document.createElement('link');
+        link.id = cssId;
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'game/style.css';
+        link.media = 'all';
+        head.appendChild(link);
+    }
+    function test() {
+        createStyle();
+        var ret = new PPanel();
+        //ret.dom.style.backgroundColor="white";
+        var wd = Windows_1.default.findComponent("Game");
+        wd === null || wd === void 0 ? void 0 : wd.destroy();
+        Windows_1.default.add(ret, "Game");
+    }
+    exports.test = test;
+});
