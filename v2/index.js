@@ -34,11 +34,12 @@ define("game/product", ["require", "exports"], function (require, exports) {
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.test = exports.Product = void 0;
     class Product {
-        constructor(name = undefined, image = undefined, level = undefined, consume = undefined, forpeoplelevel = undefined, forsodierlevel = undefined) {
+        constructor(name = undefined, image = undefined, level = undefined, consume = undefined, forpeoplelevel = undefined, forsodierlevel = undefined, speed = undefined) {
             this.type = "Product";
             //Object.assign(this, prod);
             this.name = name;
             this.image = image;
+            this.speed = speed;
             this.level = level;
             this.consume = consume;
             this.forpeoplelevel = forpeoplelevel;
@@ -1231,7 +1232,7 @@ define("game/transport", ["require", "exports", "game/company", "game/product"],
     //
     class Transport {
         constructor(company = undefined) {
-            this.speed = 400;
+            this.speed = 100;
             this.workers = 0;
             this.active = false;
             this.type = "Transport";
@@ -2228,8 +2229,8 @@ define("game/game", ["require", "exports", "game/world", "game/icons", "game/pro
         //7*6
         parameter.allProducts = product_3.Product.init([
             new product_3.Product("Tor", "Tor.png", 1, []),
-            new product_3.Product("Wasser", "Wasser.png", 1, []),
-            new product_3.Product("Beeren", "Beeren.png", 1, ["Wasser"], 1),
+            new product_3.Product("Wasser", "Wasser.png", 1, [], undefined, undefined, 30),
+            new product_3.Product("Beeren", "Beeren.png", 1, ["Wasser"], 1, undefined, 30),
             new product_3.Product("Helfer", "Helfer.png", 1, ["Beeren"]),
             new product_3.Product("Soldat", "Soldat.png", 1, ["Bier"]),
             new product_3.Product("Stein", "Stein.png", 1, ["Beeren"]),
@@ -3338,6 +3339,8 @@ define("game/company", ["require", "exports", "game/companydialog", "game/transp
                 for (var x = 0; x < prod.consume.length; x++) {
                     con.push(0);
                 }
+                if (prod.speed)
+                    this.speed = prod.speed;
             }
             this.workers = 0;
             this.workersIn = 0;
@@ -3426,6 +3429,9 @@ define("game/company", ["require", "exports", "game/companydialog", "game/transp
         static getImageUrl(image) {
             if (image === undefined)
                 return "";
+            if (window.location.pathname.indexOf("/sample/") !== -1) {
+                return "https://uwei.github.io/traffics/v2/images/" + image;
+            }
             return "images/" + image;
             //return "http://localhost/game/client/game/images/" + image;
         }
@@ -4917,8 +4923,8 @@ define("game/world", ["require", "exports", "game/company", "game/product", "gam
             }
             //mix
             for (var x = 0; x < (parameter.width * parameter.height * 5); x++) {
-                var rand1 = (0, tools_4.getRandomInt)(parameter.width * parameter.height);
-                var rand2 = (0, tools_4.getRandomInt)(parameter.width * parameter.height);
+                var rand1 = (0, tools_4.getRandomInt)(parameter.width * parameter.height - (parameter.width * parameter.height / 2));
+                var rand2 = (0, tools_4.getRandomInt)(parameter.width * parameter.height - (parameter.width * parameter.height / 2));
                 var temp = all[rand2];
                 all[rand2] = all[rand1];
                 all[rand1] = temp;
