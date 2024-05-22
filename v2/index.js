@@ -2810,16 +2810,16 @@ define("game/companydialog", ["require", "exports", "game/icons", "game/company"
                              <button id="transport-down"  class="mybutton">` + icons_6.Icons.down + `</button>
                              <button id="transport-add"  class="mybutton">` + icons_6.Icons.plus + `</button>
                              <button id="transport-del"  class="mybutton">` + icons_6.Icons.remove + `</button><br/>
-                            <select id="companydialog-transport-list" size="10" class="mylist boxborder" style="height: 250px;width:180px">
-                            </select>
+                            <ul id="companydialog-transport-list" size="10" class="mylist boxborder" style="height: 250px;width:180px">
+                            </ul>
                         </td>
                         <td>
                         <br/>
                             Auswahl &auml;ndern<br/>
                              <button id="transport-add-worker"  class="mybutton" style="width:70px" >+1👤</button>
                              <button id="transport-remove-worker"  class="mybutton" style="width:70px">-1👤</button><br/>
-                             <select id="companydialog-transport-productlist"  size="10" style="width:150px">
-                            </select>
+                             <ul id="companydialog-transport-productlist"  class="mylist boxborder"  size="10" style="width:150px">
+                            </ul>
                             <br/>
                             
                         </td>
@@ -2959,17 +2959,54 @@ define("game/companydialog", ["require", "exports", "game/icons", "game/company"
                     }
                 });
             }
-            document.getElementById("companydialog-transport-productlist").addEventListener("change", (event) => {
+            document.getElementById("companydialog-transport-productlist").addEventListener("click", (ev) => {
+                var el = ev.target;
+                var select = document.getElementById("companydialog-transport-productlist");
+                for (var x = 0; x < select.children.length; x++) {
+                    select.children[x].classList.remove("active-listitem");
+                }
+                el.classList.add("active-listitem");
+                var val = el.getAttribute("value");
                 var trans = _this.getSelectedTransport();
-                var comp = parseInt(event.target.value);
+                var comp = parseInt(val);
                 trans.changeCompanyTaget(comp);
                 _this.update();
             });
+            document.getElementById("companydialog-transport-list").addEventListener("click", (ev) => {
+                var el = ev.target;
+                var select = document.getElementById("companydialog-transport-list");
+                for (var x = 0; x < select.children.length; x++) {
+                    select.children[x].classList.remove("active-listitem");
+                }
+                el.classList.add("active-listitem");
+                _this.update();
+                /* var trans = _this.getSelectedTransport();
+                 debugger;
+                 var comp = parseInt((<any>event.target).value);
+                 trans.changeCompanyTaget(comp);
+                 _this.update();*/
+            });
+        }
+        selectCompanyIfNeeded(compid) {
+            var select = document.getElementById("companydialog-transport-productlist");
+            for (var x = 0; x < select.children.length; x++) {
+                var val = parseInt(select.children[x].getAttribute("value"));
+                if (val === compid && !select.children[x].classList.contains("active-listitem"))
+                    select.children[x].classList.add("active-listitem");
+                if (val !== compid && select.children[x].classList.contains("active-listitem"))
+                    select.children[x].classList.remove("active-listitem");
+            }
         }
         getSelectedTransport() {
-            var list = document.getElementById("companydialog-transport-list");
-            var selectedtransport = parseInt(list.value === "" ? "-1" : list.value);
-            return this.company.transports[selectedtransport];
+            var select = document.getElementById("companydialog-transport-list");
+            for (var x = 0; x < select.children.length; x++) {
+                if (select.children[x].classList.contains("active-listitem")) {
+                    var val = select.children[x].getAttribute("value");
+                    var selectedtransport = parseInt(val === "" ? "-1" : val);
+                    return this.company.transports[selectedtransport];
+                }
+            }
+            return undefined;
         }
         getBuildTransport(prodId, count) {
             var wood = this.company.world.findCompanyThatProduces(prodId);
@@ -3005,7 +3042,7 @@ define("game/companydialog", ["require", "exports", "game/icons", "game/company"
             if (list.children.length !== this.company.transports.length) {
                 var s = "";
                 for (var x = 0; x < this.company.transports.length; x++) {
-                    s = s + '<option class="bgpicture" value="' + x + `"></option>`;
+                    s = s + '<li value="' + x + `"></li>`;
                 }
                 list.innerHTML = s;
             }
@@ -3015,11 +3052,8 @@ define("game/companydialog", ["require", "exports", "game/icons", "game/company"
                 var target = this.company.world.companies[trans === null || trans === void 0 ? void 0 : trans.companyTarget];
                 var prod = parameter.allProducts[target === null || target === void 0 ? void 0 : target.productid];
                 var count = trans.productCount + "/" + trans.getCapacity();
-                s = s + "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + trans.getName() + " " + trans.workers + (trans.workersComming ? ("+" + trans.workersComming) : "") + "👤" + '</span><span>' + count + '</span>▤';
-                var im = `url(${company_3.Company.getImageUrl((prod === null || prod === void 0 ? void 0 : prod.image) === undefined ? "Dummy.png" : prod.image)})`;
+                s = s + '<img src="' + company_3.Company.getImageUrl((prod === null || prod === void 0 ? void 0 : prod.image) === undefined ? "Dummy.png" : prod.image) + '"  height="25">' + trans.getName() + " " + trans.workers + (trans.workersComming ? ("+" + trans.workersComming) : "") + "👤" + '</span><span>' + count + '</span>▤';
                 var entr = list.children[x];
-                if (entr.style.backgroundImage !== im)
-                    entr.style.backgroundImage = im;
                 if (entr.innerHTML !== s)
                     entr.innerHTML = s;
             }
@@ -3029,13 +3063,13 @@ define("game/companydialog", ["require", "exports", "game/icons", "game/company"
             for (var x = 0; x < companies.length; x++) {
                 var comp = companies[x];
                 var prod = parameter.allProducts[comp.productid];
-                s = s + `<option class="bgpicture" style="background-image:url(${company_3.Company.getImageUrl((prod === null || prod === void 0 ? void 0 : prod.image) === undefined ? "Dummy.png" : prod.image)});" value="` + comp.companyID + `">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;${comp.name}</option>`;
+                s = s + `<li value="` + comp.companyID + '" class=""><img src="' + company_3.Company.getImageUrl((prod === null || prod === void 0 ? void 0 : prod.image) === undefined ? "Dummy.png" : prod.image) + `" height="25">${comp.name}</li>`;
             }
             if ((trans === null || trans === void 0 ? void 0 : trans.getName()) === "Bautransport")
-                s += `<option value="-1">Bautransport</option>`;
+                s += `<li value="-1" class="">Bautransport</li>`;
             else
-                s += `<option value="-1">inaktiv</option>`;
-            if (list2.innerHTML !== s) {
+                s += `<li value="-1" class="">inaktiv</li>`;
+            if (list2.innerHTML.replace('active-listitem', "") !== s) {
                 list2.innerHTML = s;
             }
             var selectedtransport = parseInt(list.value === "" ? "-1" : list.value);
@@ -3059,9 +3093,10 @@ define("game/companydialog", ["require", "exports", "game/icons", "game/company"
                 var tar = (_a = this.getSelectedTransport()) === null || _a === void 0 ? void 0 : _a.companyTarget;
                 if (tar === undefined)
                     tar = -1;
-                if (list2.value !== (tar === null || tar === void 0 ? void 0 : tar.toString())) {
-                    list2.value = tar === null || tar === void 0 ? void 0 : tar.toString();
-                }
+                this.selectCompanyIfNeeded(tar);
+                /*if (list2.value !== tar?.toString()) {
+                    list2.value = tar?.toString();
+                }*/
             }
             //if(list2.value!==
         }
