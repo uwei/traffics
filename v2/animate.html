@@ -1,0 +1,88 @@
+<div id="time"></div>
+<canvas id="stage" width="3320" height="2710"></canvas>
+<image id="im" src="./animate.gif"></image>
+<button style="position: absolute;top:200px;">sdfgsdf</button>
+<script>
+    var w = 3320;
+    var h = 2710;
+    var img1 = document.getElementById("im");
+    function getRandomInt(min, max) {
+        min = Math.ceil(min);
+        max = Math.floor(max);
+        return Math.floor(Math.random() * (max - min)) + min;
+    }
+
+    // Example: Get a random integer between 5 and 10
+    const randomNum = getRandomInt(5, 11); // Note that the maximum value (11) is exclusive
+    console.log(randomNum); // Output will be a random integer between 5 and 10
+    var lastTime=Date.now();
+    class Ball {
+        constructor({
+            x,
+            y,
+            dx,
+            dy,
+            speed
+        }) {
+            this.x = x ?? 320;
+            this.y = y ?? 240;
+            this.dx = dx ?? 0;
+            this.dy = dy ?? 0;
+            this.speed = speed ?? 2;
+        }
+
+        draw(context) {
+            //context.fillStyle = this.color;
+            // context.beginPath();
+            context.drawImage(img1, this.x, this.y);
+            context.strokeText(this.x,this.x,this.y+30);
+            //context.arc(this.x, this.y, this.radius, 0, 2 * Math.PI);
+            // context.fill();
+        }
+
+        move() {
+            this.x += this.dx * this.speed;
+            this.y += this.dy * this.speed;
+
+            if (this.x < 0 || this.x > w) {
+                this.dx = -this.dx;
+            }
+            if (this.y < 0 || this.y > h) {
+                this.dy = -this.dy;
+            }
+        }
+    }
+    this.x, this.y
+    window.onload = () => {
+
+        const canvas = document.getElementById('stage');
+        const context = canvas.getContext('2d');
+        const all = [];
+        for (var x = 0; x < 1000; x++) {
+            const ball = new Ball({
+                x: getRandomInt(0, w),
+                y: getRandomInt(0, h),
+                dx: getRandomInt(0, 1)==1?1:-1,
+                dy: getRandomInt(0, 1)==1?1:-1,
+                speed:getRandomInt(0, 5)
+            });
+
+            all.push(ball);
+        }
+
+        const frame = () => {
+            document.getElementById("time").innerText=(Date.now()-lastTime);
+            lastTime=Date.now();
+            context.clearRect(0, 0, w, h);
+            for (var x = 0; x < all.length; x++) {
+                var ball=all[x];
+                ball.move();
+
+                ball.draw(context);
+            }
+            requestAnimationFrame(frame);
+        };
+        requestAnimationFrame(frame);
+    };
+
+</script>
