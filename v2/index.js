@@ -1,1 +1,4032 @@
-var a0_0x50878f=a0_0x3c91;(function(_0x14aef6,_0x55ebdc){var _0x73a0b3=a0_0x3c91,_0x54312e=_0x14aef6();while(!![]){try{var _0x51c6db=-parseInt(_0x73a0b3(0x467))/0x1+-parseInt(_0x73a0b3(0x300))/0x2+-parseInt(_0x73a0b3(0x445))/0x3*(parseInt(_0x73a0b3(0x230))/0x4)+-parseInt(_0x73a0b3(0x40a))/0x5+-parseInt(_0x73a0b3(0x42a))/0x6+-parseInt(_0x73a0b3(0x3fd))/0x7*(-parseInt(_0x73a0b3(0x31d))/0x8)+parseInt(_0x73a0b3(0x1f1))/0x9*(parseInt(_0x73a0b3(0x357))/0xa);if(_0x51c6db===_0x55ebdc)break;else _0x54312e['push'](_0x54312e['shift']());}catch(_0xea4a8d){_0x54312e['push'](_0x54312e['shift']());}}}(a0_0x2d10,0xd9396));function a0_0x3c91(_0x1fe1a9,_0x53ed4c){var _0x10d601=a0_0x2d10();return a0_0x3c91=function(_0x346e37,_0x59ec37){_0x346e37=_0x346e37-0x1d8;var _0x2d1071=_0x10d601[_0x346e37];return _0x2d1071;},a0_0x3c91(_0x1fe1a9,_0x53ed4c);}function a0_0x2d10(){var _0xff950d=['<span\x20\x20class=\x27mdi\x20mdi-arrow-down\x27></span>','newGame','game/product','idlevel','abs','moveTo','enemiesComming','Torte.png','woodsComming','2305640TiwPQU','hasClass','\x200,','Schmuck','<div\x20id=\x22game\x22></div>','calcMaxSoldiers','#companydialog-build-tabs','createTransportTab','updateTitle','minus','style','isConquered','\x22\x20style=\x22fill:none;stroke:white;stroke-width:1;\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','tagName','isCrosingRight','add','\x22>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>','productGate','in-remove-worker','getProductsToBuildForLevel','Pizza','parse','floor','.png','nine','Bil','mytop','save-export','Stoff','css','hidden','Tisch.png','948000PLHRLI','<span\x20\x20class=\x27mdi\x20\x20mdi-airplane\x27></span>','\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22padding-left:9px\x22>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22','search','isOpen','debug','enemyAttackCompany','createContextualFragment','allLevels','getBuildTransport','Leder','metadata','Schwert','Bautransport','find','getElementById','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20hidden\x20id=\x22companydialog\x22\x20class=\x22companydialog\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','<span\x20\x20class=\x27mdi\x20\x20mdi-chart-multiple\x27></span>','findCompanyThatConsumes','Burger.png','select','productWood','workers','\x22\x20id=\x22companydialog-bild-tab_','Burg.png','productCastle','bindActions','249dHMhGn','companydialog-gate-tab','\x20Holz\x20transportieren\x20kann.','Käse','href','Soldat','value','\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr\x20style=\x22border:\x20solid;border-width:\x201px\x200;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>Lager&nbsp;</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20id=\x22companydialog-production-table-icon\x22\x20src=\x22','<span\x20\x20class=\x27mdi\x20\x20mdi-home-outline\x27></span>','max','jassijs/base/Actions','<span\x20\x20class=\x27mdi\x20\x20mdi-recycle-variant\x27></span>','findCompanyThatProduces','isArray','toString','game/company','findUsedCompanies','preventDefault','Gold','show','maxPlaces','transport-up','Holz','400px','</li>','date','created','rawmaterials','maxPeople','Sat\x20Jan\x2001\x202000\x2000:00:00','updateSoldiers','down','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Filename:\x20<input\x20id=\x22save-filename\x22/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22vertical-align:\x20top;width:100%\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul\x20style=\x22width:100%\x22\x20class=\x22mylist\x20boxborder\x22\x20id=\x22save-files\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22save-save\x22\x20title=\x22save\x22\x20style=\x22width:100%\x22\x20class=\x22mybutton\x22>Save</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22save-export\x22\x20title=\x22save\x22\x20style=\x22width:100%\x22\x20class=\x22mybutton\x22>Export</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22save-load\x22\x20title=\x22save\x22\x20style=\x22width:100%\x22\x20class=\x22mybutton\x22>Load</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22file\x22\x20id=\x22save-import\x22\x20name=\x22files[]\x22\x20accept=\x22application/json\x22\x20style=\x22display:\x20none;\x22\x20\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22save-doupload\x22\x20title=\x22save\x22\x20style=\x22width:100%\x22\x20class=\x22mybutton\x22\x20onclick=\x22document.getElementById(\x27save-import\x27).click();\x22>Import</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22save-delete\x22\x20title=\x22save\x22\x20style=\x22width:100%\x22\x20class=\x22mybutton\x22>Delete</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22save-cancel\x22\x20title=\x22save\x22\x20style=\x22width:100%\x22\x20class=\x22mybutton\x22>Cancel</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x20\x20\x20\x20\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','unselect','192451GLFynG','companydialog-production-tab','createElement','</span></LI>','tickLastInvader','Beeren.png','goHome','Werkzeug.png','route','Kaese.png','edit','classList','toright','closest','curStep','debugSoldierCreated','timer','location','toleft','bottom\x20right','rerender',';left:','stare','companyid','disabled','develop\x20state\x20-\x20everytime\x20new\x20parameters','81VHJhUT','click',';position:absolute\x22>','save-filename','addWorker','DiagramDialog','Brett','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22height:15px;position:fixed;z-index:10000;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Traffics2\x20','Brett.png','Do\x20you\x20want\x20to\x20exit?','.ui-dialog-title','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22companydialog-conquer\x22>','changeProduct','body','updateTransport','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','<span\x20\x20class=\x27mdi\x20\x20mdi-content-save-outline\x27></span>','Bier','soldiersToConquer','changeCompanyTaget','updateFreeOrNotFree','destroy-building','expand','Kakao','Das\x20Maximalle\x20Gebäudelimit\x20für\x20diesen\x20Level\x20wurde\x20erreicht.','Kakaomilch.png','getCurrentLevel','\x22\x20\x20height=\x2225\x22></img>','findCompanyThatProducesByName','Helm','buildingLimit','Stein','#companydialog-tabs','draggable','Kein\x20Turm\x20oder\x20Burg\x20mit\x20Soldaten\x20in\x20der\x20Nähe.','\x22\x20width=\x22','selectCompanyIfNeeded','Angriff\x20','repairComingIfNeeded','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22diagramdialog-tabs\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#diagramdialog-settings\x22\x20id=\x22diagramdialog-settings-tab\x22\x20class=\x22diagramdialog-tabs\x22>Settings</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22diagramdialog-settings\x22>\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transfer\x20people\x20with\x20one\x20click:\x20<input\x20id=\x22peopleWithOneClick\x22\x20\x20value=\x22\x22\x22/><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transfer\x20soldiers\x20with\x20one\x20click:\x20<input\x20id=\x22soldierWithOneClick\x22\x20\x20value=\x22\x22\x22/><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20build\x20with\x20doubleclick:\x20<input\x20id=\x22buildWithDoubleClick\x22\x20\x20value=\x22\x22\x22/><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','workersOutComming',';position:absolute\x22\x20class=\x22company\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<polygon\x20points=\x22','updateSize','Eisen','widget','Level-Limit\x20(','allProducts','money','workersInComming','getInstance','</ol>','Burg','Tisch','randomEnemy','save-delete','updateProduction','Game','save-load','Turm','Das\x20letzte\x20Gebäude\x20dieser\x20Art\x20kann\x20nicht\x20abgerissen\x20werden.','nextTargetX','Wrong\x20position','getElementOffset','79888qRPHmW','width','target','people','now','domHeader','refresh','Eisen.png','transferInfo','\x22\x20width=\x2230\x22\x20height=\x2230\x22\x20title=\x22','Geschenk.png','World','Save\x20file','companies','40px','gameversion','<li\x20value=\x22-1\x22\x20class=\x22\x22>inaktiv</li>','apply','Fisch','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20hidden\x20id=\x22SaveDialog\x22\x20class=\x22SaveDialog\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','Eisenerz.png','findComponent','<span\x20\x20class=\x27mdi\x20\x20mdi-star\x27></span>','<span\x20\x20class=\x27mdi\x20\x20mdi-square-edit-outline\x27></span>','Fleisch','setHeaderColor','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22companydialog-build-tabs\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul>','CompanyDialog','design:type','stringify','freeCompanies','ui-tabs-active','parent','lastRefreshCount','Werkzeug','textContent','out-remove-worker','innerHTML','getLocalNumber','Rüstung','parentNode','plus','calcMaxWorker','findProductsForLevel','<span\x20\x20class=\x27mdi\x20\x20mdi-food-variant\x27></span>','dialog','url(','390px','findSoldier','enemyAttack','height','unpackArray','loadContent','info-soldiers','pause','\x22></li>','onclick','game.css','Schwein.png','require','.ui-dialog-titlebar-close','mycolor','Eierlikoer.png','Kleidung','create','Helfer','pathname','\x22\x20width=\x2220\x22\x20height=\x2220\x22>\x20</button>\x20\x20<br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22add-defense\x22\x20\x20class=\x22mybutton\x22>+<img\x20src=\x22','getEnemyBase','calcNextPoint','companydialog-build-product_','PPanel','nextX','debugEnemyCreated','<span\x20id=\x22production-info\x22\x20style=\x22color:red\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20id=\x22companydialog-production-table\x22\x20style=\x22height:100%;weight:100%;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>Produktion&nbsp;</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;min-width:70px\x22><span\x20id=\x22workers\x22>1</span></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22add-worker\x22\x20\x20class=\x22mybutton\x22>&nbsp;+&nbsp;</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22remove-worker\x22\x20\x20class=\x22mybutton\x22>&nbsp;-&nbsp;</button>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr\x20id=\x22companydialog-production-table-rawmaterial\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>Rohstoffe&nbsp;</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22text-align:right;\x22><span\x20id=\x22workersIn\x22>1</span></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22in-add-worker\x22\x20\x20class=\x22mybutton\x22>&nbsp;+&nbsp;</button>\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22in-remove-worker\x22\x20\x20class=\x22mybutton\x22>&nbsp;-&nbsp;</button>\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22padding-left:9px\x22>Mehl</td>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22','speed','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22companydialog-delete\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Soll\x20das\x20Geb&auml;ude\x20abgerissen\x20werden?<br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22destroy-building\x22\x20\x20class=\x22mybutton\x22>\x20Ja\x20❌\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22companydialog-gate\x22>','enemyBaseSoldierCount','log','\x20class=\x22companydialog-build-product\x22>+\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20\x20src=\x22','<span\x20\x20class=\x27mdi\x20mdi-arrow-up\x27></span>','<span\x20\x20class=\x27mdi\x20mdi-factory\x27></span>','<span\x20\x20class=\x27mdi\x20\x20mdi-content-copy\x27></span>','Wasser.png','currentTarget','setItem','productStone','productTower','soldierWithOneClick','__esModule','\x22\x20width=\x2220\x22\x20height=\x2220\x22></a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#companydialog-build\x22\x20id=\x22companydialog-build-tab\x22\x20\x20class=\x22companydialog-tabs\x22>Bauen</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#companydialog-delete\x22\x20id=\x22companydialog-delete-tab\x22\x20\x20class=\x22companydialog-tabs\x22>❌</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#companydialog-gate\x22\x20id=\x22companydialog-gate-tab\x22\x20\x20class=\x22companydialog-tabs\x22>Ziel</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22companydialog-production\x22>\x20','<span\x20\x20class=\x27mdi\x20mdi-shop\x27></span>','domProduced','split','mytext','#diagramdialog-tabs','removeChild','world','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20hidden\x20id=\x22diagramdialog\x22\x20class=\x22diagramdialog\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','Icons','Glückwunsch,\x20Du\x20hast\x20Level\x20','black','nextY','transport-down','enemyReproduction','inaktiv','destroy','result','companydialog-production-table-icon','out-add-worker','</button><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul\x20id=\x22companydialog-transport-list\x22\x20size=\x2210\x22\x20class=\x22mylist\x20boxborder\x22\x20style=\x22width:180px;height:380px;overflow-y:\x20scroll;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20id=\x22transportdetails\x22\x20style=\x22vertical-align:top\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22transport-add-worker\x22\x20\x20class=\x22mybutton\x22\x20style=\x22width:70px\x22\x20>&nbsp;+&nbsp;</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22transport-remove-worker\x22\x20\x20class=\x22mybutton\x22\x20style=\x22width:70px\x22>&nbsp;-&nbsp;</button><br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul\x20id=\x22companydialog-transport-productlist\x22\x20\x20class=\x22mylist\x20boxborder\x22\x20\x20size=\x2210\x22\x20style=\x22height:380px;width:160px;overflow-y:\x20scroll;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','<span\x20\x20class=\x27mdi\x20\x20mdi-delete-forever-outline\x27></span>','Kakao.png','findEnemyBase','<img\x20src=\x22','move','remove-worker','findEnemyBuildings','Holz.png','produced','setAttribute','tickCount','__metadata','game/world','Pizza.png','backgroundColor','Helm.png','</button-->\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22show-diagram\x22\x20\x20class=\x22mybutton\x22>','images/','Schmuck.png','notify','export.json','consume','autoCloseDialog','transports','<span\x20\x20class=\x27mdi\x20\x20mdi-hammer-wrench\x27></span>','10px','zIndex','\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22vertical-align:top\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22transport-up\x22\x20class=\x22mybutton\x22>','buildingInProgress','ui-dialog-content','active-listitem','transport-remove-worker','children','Gras.png','splice','workersIn','updateName','<span\x20\x20class=\x27mdi\x20\x20mdi-numeric-9-plus-circle-outline\x27></span>','close','pathGarden','workersOut','\x22\x20style=\x22top:','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22diagramdialog-refresh\x22\x20title=\x22refresh\x20data\x22\x20\x20class=\x22mybutton\x22>','design:paramtypes','companyID','level','zoomfactor','game','name','Schwein','iddebuginfo','</span>','absolute','companydialog-transport-productlist','\x22\x20width=\x2225\x22\x20height=\x2225\x22>','design:returntype','temposcale','Eierlikör','dom','enemy','getSelectedTransport','forEach','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22companydialog-build\x22>','Baustelle.png','\x22\x20title=\x22Erobern\x22\x20width=\x22','soldiersComing','parameter','lastUpdate','enemyExpand','indexOf','\x22\x20title=\x22','infonextlevel','productid','Kein\x20','Ruestung.png','game/diagramdialog','\x0d\x0aDie\x20maximale\x20Anzahl\x20von\x20Gebäuden\x20für\x20dieses\x20Level\x20wurde\x20erreicht.','<li><a\x20href=\x22#companydialog-build-','Beeren','maxSoldiers','keine\x20','TransferInfo','transportCapacityPerHelper','Company','mydisplay','productCount','createProductionTab','buildWithDoubleClick','createBuildTab','helperGoHome','paddingLeft','trash','createEnemy','hasAttribute','Mehl.png','removeItem','companydialog-conquer-tab','2982410gILVHM','save-files','createConquerTab','\x22\x20title=\x22Baustelle\x22\x20width=\x22','forsoldierlevel','getCapacity','Wasser','decorate','isAlive','diagramdialog','red','wrench','showInfo','Product','fillDown','store','companydialog-build-tabs','capacityPerHelper','lastgame','type','SaveDialog','#SaveDialog-tabs','offsetLeft','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22transport-add\x22\x20\x20class=\x22mybutton\x22>','updateCompanyCache','instance','domWorld','getName','\x20erreicht.\x20Weitere\x20Gebäude\x20wurden\x20freigeschaltet.','84008mtRSZy','<span>','production-info','setProductsInGate','gamedate','(((.+)+)+)+$','company','game/icons','fixed','Turm.png','companyTarget','contains',';width:','Mrd','enemyAttackOld','\x22\x20width=\x2220\x22\x20height=\x2220\x22>\x20</button>\x20\x20<br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','Dummy.png','peopleWithOneClick','\x20Stein\x20gefunden\x20oder\x20kein\x20Bautransport\x20gefunden,\x20der\x20','domInput','createGateTab','\x22\x20\x20height=\x2215\x22></img>\x20','enemyBases','containment','\x20Holz\x20gefunden\x20oder\x20kein\x20Bautransport\x20gefunden,\x20der\x20','<button\x20id=\x22companydialog-build-product_','productSoldier','updateUI','jassijs/ui/Panel','nicht\x20genug\x20Helfer','<span\x20\x20class=\x27mdi\x20\x20mdi-table-large\x27></span>','100%','Gras','productHelper','<LI>\x20\x20\x20\x20Diese\x20Geb&auml;de\x20m&uuml;ssen\x20noch\x20gebaut\x20werden:<br/><span>','food',';position:absolute\x22></span>','Tor.png','factory','transport-add-worker','copy','load','Attacke.png','airplane','onDbleClick','Kohle.png','\x20gebaut\x20werden.','Geschenk','<span\x20\x20class=\x27mdi\x20mdi-city-variant-outline\x27></span>','game/companydialog','top','Brot','inproduction','\x22\x20height=\x22','length','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22infonextlevel\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20id=\x22companydialog-gate-table\x22\x20style=\x22margin-left:40px;height:100%;weight:200px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22padding-left:9px\x22>Mehl</td>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22','div[role=\x27dialog\x27]','tabs','4770730ulkhRp','hasPaused','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22companydialog-tabs\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#companydialog-production\x22\x20id=\x22companydialog-production-tab\x22\x20class=\x22companydialog-tabs\x22>Produktion</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#companydialog-transport\x22\x20id=\x22companydialog-transport-tab\x22\x20\x20class=\x22companydialog-tabs\x22>Transport</a></li>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<li><a\x20href=\x22#companydialog-conquer\x22\x20id=\x22companydialog-conquer-tab\x22\x20\x20class=\x22companydialog-tabs\x22><img\x20src=\x22','Milch.png','head','push','\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22padding-left:9px\x22>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22','<li\x20value=\x22-1\x22\x20class=\x22\x22>Bautransport</li>','selection','\x22\x20style=\x22fill=\x22#044B94\x22\x20fill-opacity=\x220.4\x22;stroke:white;stroke-width:1;\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','Fisch.png','\x20Um\x20in\x20den\x20n&auml;chsten\x20Level\x20zu\x20kommen,\x20muss\x20folgendes\x20erf&uuml;lt\x20werden:<br/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ol>','link','toJson',',0\x20','workersComming','workertype','save-cancel','transportdetails','Soldat.png','pow','resume','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22world\x22\x20style=\x22position:absolute;top:20px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22iddebuginfo\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22save-game\x22\x20\x20class=\x22mybutton\x22>','Transport','Bier.png','\x20<div\x20id=\x22companydialog-build-','soldiercount','Fleisch.png','updateUIID','activeElement','<span\x20\x20class=\x27mdi\x20mdi-arrow-expand-all\x27></span>','<LI>\x20\x20\x20\x20Folgende\x20Produkte\x20werden\x20hier\x20ben&ouml;tigt:</LI>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','mousedown','getImageUrl','domIcon','offsetParent','position','game/game','appendChild','jassijs/base/Windows','\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','removeWorker','isPositionTarget','stopPropagation','object','getElementsByTagName','rel','image','active','startsWith','add-worker','option','Milch','Brot.png','companydialog-transport-tab','lastRefresh','parentElement','Mehl','game/transport','game/tools','idpeople','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22transport-down\x22\x20\x20class=\x22mybutton\x22>','offsetTop','nextTargetY','random','left','3.7','<span\x20z-index:2;style=\x27font-size:20px;transform:rotate(0turn)\x27\x20class=\x27mdi\x20mdi-airplane\x27></span>','Getreide','unload','diagram','companydialog-production-table-rawmaterial','getItem','updateGate','<span\x20\x20class=\x27mdi\x20\x20mdi-information-outline\x27></span>','Statistics','transport-del','Parameter','assign','<span\x20\x20style=\x22font-size:6pt;top:','getAttribute','\x20Helfer\x20gefunden.','getOwnPropertyDescriptor','createRange','localStorage','table','info','<span\x20\x20class=\x27mdi\x20\x20mdi-store\x27></span>','set\x20intervall','Stiefel','touchstart','Level','companydialog-transport-list','update','oncontextmenu','findCompaniesAround','<li\x20value=\x22','\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22gamedate\x22></span>\x20&nbsp;&nbsp;&nbsp;&nbsp;\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22idpeople\x22></span>','scrollIntoView','media',';height:','updateBuild','Stiefel.png','forpeoplelevel','sqrt','Papier','\x22\x20height=\x2225\x22>','render','Torte','change','isPositionHome','removeAttribute','airport','companyCache','version','nextTick','defineProperty','all','autodeliver','save','none','stonesComming','companydialog-build-tab','buildTabActivated','exports','test','companydialog-delete-tab','toLocaleString','Wolle','mdi\x20\x20mdi-airplane','remove','game/savedialog','dblclick','<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20style=\x22top:','Wiese.png','Getreide.png','round','Kohle','_money','download','Leder.png','add-soldier','init','application/json','min','Kleidung.png','capital','substring','checkNextLevel','save-save','Kann\x20Gebäude\x20nicht\x20zerstören,\x20solange\x20noch\x20Helfer\x20unterwegs\x20sind.','src','onbeforeunload','soldierGoHome','getRandomInt','__decorate','companydialog-production-table','<span\x20\x20class=\x27mdi\x20\x20mdi-bug-outline\x27></span>','transport-add','Wolle.png','\x22\x20class=\x22companydialog-tabs\x22>','addEventListener','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22transport-del\x22\x20\x20class=\x22mybutton\x22>','lightblue','<span\x20\x20class=\x27mdi\x20mdi-wrench-outline\x27></span>','371PjxESv','myleft','Burger','</button>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<!--button\x20id=\x22debug-game\x22\x20\x20class=\x22mybutton\x22>'];a0_0x2d10=function(){return _0xff950d;};return a0_0x2d10();}var a0_0x59ec37=(function(){var _0x5a0226=!![];return function(_0x155c34,_0x279921){var _0x291e49=_0x5a0226?function(){var _0x489b74=a0_0x3c91;if(_0x279921){var _0x523232=_0x279921[_0x489b74(0x241)](_0x155c34,arguments);return _0x279921=null,_0x523232;}}:function(){};return _0x5a0226=![],_0x291e49;};}()),a0_0x346e37=a0_0x59ec37(this,function(){var _0x219fe5=a0_0x3c91;return a0_0x346e37[_0x219fe5(0x453)]()[_0x219fe5(0x42d)](_0x219fe5(0x322))[_0x219fe5(0x453)]()['constructor'](a0_0x346e37)[_0x219fe5(0x42d)]('(((.+)+)+)+$');});a0_0x346e37();var __decorate=this&&this[a0_0x50878f(0x3f3)]||function(_0x7a9e1a,_0x278eec,_0xe03392,_0x136023){var _0x5eb667=a0_0x50878f,_0x43113b=arguments[_0x5eb667(0x353)],_0x6ae556=_0x43113b<0x3?_0x278eec:_0x136023===null?_0x136023=Object[_0x5eb667(0x3aa)](_0x278eec,_0xe03392):_0x136023,_0x37c6ce;if(typeof Reflect===_0x5eb667(0x384)&&typeof Reflect[_0x5eb667(0x307)]==='function')_0x6ae556=Reflect[_0x5eb667(0x307)](_0x7a9e1a,_0x278eec,_0xe03392,_0x136023);else{for(var _0x1aacd2=_0x7a9e1a[_0x5eb667(0x353)]-0x1;_0x1aacd2>=0x0;_0x1aacd2--)if(_0x37c6ce=_0x7a9e1a[_0x1aacd2])_0x6ae556=(_0x43113b<0x3?_0x37c6ce(_0x6ae556):_0x43113b>0x3?_0x37c6ce(_0x278eec,_0xe03392,_0x6ae556):_0x37c6ce(_0x278eec,_0xe03392))||_0x6ae556;}return _0x43113b>0x3&&_0x6ae556&&Object['defineProperty'](_0x278eec,_0xe03392,_0x6ae556),_0x6ae556;},__metadata=this&&this[a0_0x50878f(0x2aa)]||function(_0x14c8ca,_0xc0a45a){var _0x2c220c=a0_0x50878f;if(typeof Reflect===_0x2c220c(0x384)&&typeof Reflect[_0x2c220c(0x435)]==='function')return Reflect['metadata'](_0x14c8ca,_0xc0a45a);};define(a0_0x50878f(0x324),[a0_0x50878f(0x26b),a0_0x50878f(0x3d4)],function(_0x53b88d,_0x58f38d){'use strict';var _0x1282e6=a0_0x50878f;Object['defineProperty'](_0x58f38d,_0x1282e6(0x289),{'value':!![]}),_0x58f38d[_0x1282e6(0x293)]=void 0x0;class _0x2f74ef{}_0x58f38d[_0x1282e6(0x293)]=_0x2f74ef,_0x2f74ef[_0x1282e6(0x343)]=_0x1282e6(0x281),_0x2f74ef['shop']=_0x1282e6(0x28b),_0x2f74ef[_0x1282e6(0x220)]='<span\x20style=\x27color:darkgreen\x27\x20class=\x27mdi\x20mdi-cash-100\x27></span>',_0x2f74ef['home']=_0x1282e6(0x44d),_0x2f74ef[_0x1282e6(0x233)]='<span\x20\x20class=\x27mdi\x20\x20mdi-human-male\x27></span>',_0x2f74ef[_0x1282e6(0x3ad)]=_0x1282e6(0x33b),_0x2f74ef[_0x1282e6(0x1df)]=_0x1282e6(0x450),_0x2f74ef[_0x1282e6(0x3ae)]=_0x1282e6(0x3a2),_0x2f74ef[_0x1282e6(0x2fa)]=_0x1282e6(0x29f),_0x2f74ef[_0x1282e6(0x1e1)]=_0x1282e6(0x247),_0x2f74ef['save']=_0x1282e6(0x201),_0x2f74ef[_0x1282e6(0x346)]='<span\x20\x20class=\x27mdi\x20\x20mdi-folder-open-outline\x27></span>',_0x2f74ef[_0x1282e6(0x42f)]=_0x1282e6(0x3f5),_0x2f74ef['plus']='<span\x20\x20class=\x27mdi\x20\x20mdi-plus-circle-outline\x27></span>',_0x2f74ef[_0x1282e6(0x413)]='<span\x20\x20class=\x27mdi\x20\x20mdi-minus-circle-outline\x27></span>',_0x2f74ef[_0x1282e6(0x30e)]='<span\x20\x20class=\x27mdi\x20\x20mdi-elevator-down\x27></span>',_0x2f74ef[_0x1282e6(0x340)]=_0x1282e6(0x25c),_0x2f74ef[_0x1282e6(0x345)]=_0x1282e6(0x282),_0x2f74ef[_0x1282e6(0x348)]=_0x1282e6(0x42b),_0x2f74ef[_0x1282e6(0x1e3)]='<span\x20\x20class=\x27mdi\x20\x20mdi-arrow-right-bold-outline\x27></span>',_0x2f74ef[_0x1282e6(0x1e9)]='<span\x20\x20class=\x27mdi\x20\x20mdi-arrow-left-bold-outline\x27></span>',_0x2f74ef[_0x1282e6(0x3da)]=_0x1282e6(0x29f),_0x2f74ef[_0x1282e6(0x422)]=_0x1282e6(0x2c4),_0x2f74ef['diagram']=_0x1282e6(0x43b),_0x2f74ef[_0x1282e6(0x236)]='<span\x20\x20class=\x27mdi\x20\x20mdi-refresh\x27></span>',_0x2f74ef[_0x1282e6(0x3c8)]='<span\x20\x20class=\x27mdi\x20\x20mdi-airport\x27></span>',_0x2f74ef['hammer']=_0x1282e6(0x2b7),_0x2f74ef[_0x1282e6(0x30f)]=_0x1282e6(0x3af),_0x2f74ef[_0x1282e6(0x1ed)]=_0x1282e6(0x246),_0x2f74ef[_0x1282e6(0x30b)]=_0x1282e6(0x3fc),_0x2f74ef[_0x1282e6(0x2a3)]=_0x1282e6(0x376),_0x2f74ef[_0x1282e6(0x3ea)]=_0x1282e6(0x34d),_0x2f74ef['down']=_0x1282e6(0x401),_0x2f74ef['up']=_0x1282e6(0x280);}),define(a0_0x50878f(0x393),[a0_0x50878f(0x26b),a0_0x50878f(0x3d4)],function(_0x47e7d9,_0x479977){'use strict';var _0x17c24e=a0_0x50878f;Object[_0x17c24e(0x3cc)](_0x479977,_0x17c24e(0x289),{'value':!![]}),_0x479977['getLocalNumber']=_0x479977['getRandomInt']=void 0x0;function _0x348c54(_0x4e3e7d){var _0x290d7a=_0x17c24e;return Math[_0x290d7a(0x420)](Math[_0x290d7a(0x398)]()*_0x4e3e7d);}_0x479977[_0x17c24e(0x3f2)]=_0x348c54;function _0x1734ac(_0x2d3a56){var _0x2a1df2=_0x17c24e;if(_0x2d3a56<0x2710)return _0x2d3a56['toLocaleString']();else{if(_0x2d3a56<0x989680)return Math[_0x2a1df2(0x420)](_0x2d3a56/0x3e8)[_0x2a1df2(0x3d7)]()+'T';else{if(_0x2d3a56<0x2540be400)return Math[_0x2a1df2(0x420)](_0x2d3a56/0xf4240)[_0x2a1df2(0x3d7)]()+'M';else{if(_0x2d3a56<0x9184e72a000)return Math[_0x2a1df2(0x420)](_0x2d3a56/0x3b9aca00)[_0x2a1df2(0x3d7)]()+_0x2a1df2(0x32a);else return Math[_0x2a1df2(0x420)](_0x2d3a56/0xe8d4a51000)['toLocaleString']()+_0x2a1df2(0x423);}}}}_0x479977[_0x17c24e(0x256)]=_0x1734ac;}),define(a0_0x50878f(0x403),[a0_0x50878f(0x26b),a0_0x50878f(0x3d4)],function(_0x230c06,_0x324ac0){'use strict';var _0x346a29=a0_0x50878f;Object['defineProperty'](_0x324ac0,_0x346a29(0x289),{'value':!![]}),_0x324ac0['test']=_0x324ac0[_0x346a29(0x30d)]=void 0x0;class _0xaacf13{constructor(_0x502374=undefined,_0x552d19=undefined,_0x118d0a=undefined,_0x258573=undefined,_0x43cd5f=undefined,_0x34aeca=undefined,_0x1ea700=undefined){var _0x30552d=_0x346a29;this[_0x30552d(0x313)]='Product',this[_0x30552d(0x2cf)]=_0x502374,this[_0x30552d(0x387)]=_0x552d19,this['speed']=_0x1ea700,this[_0x30552d(0x2cc)]=_0x118d0a,this['consume']=_0x258573,this['forpeoplelevel']=_0x43cd5f,this[_0x30552d(0x304)]=_0x34aeca;}static[_0x346a29(0x438)](_0x3d127c){var _0x4414d=_0x346a29,_0x32135e=undefined;for(var _0x1970bb=0x0;_0x1970bb<parameter[_0x4414d(0x21f)]['length'];_0x1970bb++){if(parameter[_0x4414d(0x21f)][_0x1970bb]['name']===_0x3d127c)return parameter[_0x4414d(0x21f)][_0x1970bb];}}static[_0x346a29(0x25b)](_0x171317){var _0x7ff9ce=_0x346a29,_0x1e39ed=[];for(var _0x55a30b=0x0;_0x55a30b<parameter[_0x7ff9ce(0x21f)][_0x7ff9ce(0x353)];_0x55a30b++){if(parameter['allProducts'][_0x55a30b][_0x7ff9ce(0x2cc)]===_0x171317)_0x1e39ed[_0x7ff9ce(0x35c)](parameter[_0x7ff9ce(0x21f)][_0x55a30b]);}return _0x1e39ed;}static['init'](_0x262ecf){var _0x3c048b=_0x346a29,_0x5d3121=[];for(var _0x60baf6=0x0;_0x60baf6<_0x262ecf[_0x3c048b(0x353)];_0x60baf6++){_0x5d3121[_0x3c048b(0x35c)](_0x262ecf[_0x60baf6][_0x3c048b(0x2cf)]);}var _0x40dd6b=[];for(var _0x60baf6=0x0;_0x60baf6<_0x262ecf[_0x3c048b(0x353)];_0x60baf6++){_0x40dd6b['push'](_0x262ecf[_0x60baf6]['name']);if(_0x262ecf[_0x60baf6][_0x3c048b(0x2cf)]===_0x3c048b(0x271))_0xaacf13[_0x3c048b(0x33e)]=_0x60baf6;if(_0x262ecf[_0x60baf6][_0x3c048b(0x2cf)]===_0x3c048b(0x44a))_0xaacf13[_0x3c048b(0x337)]=_0x60baf6;if(_0x262ecf[_0x60baf6][_0x3c048b(0x2cf)]===_0x3c048b(0x210))_0xaacf13['productStone']=_0x60baf6;if(_0x262ecf[_0x60baf6][_0x3c048b(0x2cf)]===_0x3c048b(0x45b))_0xaacf13['productWood']=_0x60baf6;if(_0x262ecf[_0x60baf6][_0x3c048b(0x2cf)]==='Tor')_0xaacf13['productGate']=_0x60baf6;if(_0x262ecf[_0x60baf6][_0x3c048b(0x2cf)]==='Turm')_0xaacf13[_0x3c048b(0x287)]=_0x60baf6;if(_0x262ecf[_0x60baf6][_0x3c048b(0x2cf)]===_0x3c048b(0x224))_0xaacf13['productCastle']=_0x60baf6;for(var _0x553e81=0x0;_0x553e81<_0x262ecf[_0x60baf6][_0x3c048b(0x2b4)]['length'];_0x553e81++){var _0x5253a3=_0x262ecf[_0x60baf6]['consume'][_0x553e81];_0x40dd6b[_0x3c048b(0x2e4)](_0x262ecf[_0x60baf6]['consume'][_0x553e81])===-0x1&&console['log'](_0x5253a3+'\x20nicht\x20definiert\x20bei\x20'+_0x262ecf[_0x60baf6][_0x3c048b(0x2cf)]),_0x262ecf[_0x60baf6]['consume'][_0x553e81]=_0x5d3121[_0x3c048b(0x2e4)](_0x262ecf[_0x60baf6][_0x3c048b(0x2b4)][_0x553e81]);}_0x262ecf[_0x60baf6]['id']=_0x60baf6;}return _0x262ecf;}}_0x324ac0['Product']=_0xaacf13,_0xaacf13[_0x346a29(0x33e)]=0x0,_0xaacf13['productSoldier']=0x0,_0xaacf13[_0x346a29(0x43f)]=0x0,_0xaacf13[_0x346a29(0x286)]=0x0,_0xaacf13[_0x346a29(0x41b)]=0x0,_0xaacf13[_0x346a29(0x287)]=0x0,_0xaacf13[_0x346a29(0x443)]=0x0;function _0x468fa1(){}_0x324ac0['test']=_0x468fa1;}),define(a0_0x50878f(0x2ea),['require',a0_0x50878f(0x3d4),a0_0x50878f(0x324)],function(_0x227dcf,_0x2fe661,_0x5e906c){'use strict';var _0x226442=a0_0x50878f;Object['defineProperty'](_0x2fe661,_0x226442(0x289),{'value':!![]}),_0x2fe661[_0x226442(0x1f6)]=void 0x0;class _0x1ecda7{constructor(){var _0xca93de=_0x226442;this[_0xca93de(0x270)]();}static[_0x226442(0x222)](){var _0x39d562=_0x226442;if(_0x1ecda7['instance']===undefined)_0x1ecda7[_0x39d562(0x319)]=new _0x1ecda7();return _0x1ecda7[_0x39d562(0x319)];}[_0x226442(0x444)](){var _0x36f3c7=_0x226442,_0x5d4fd5=this;document['getElementById'](_0x36f3c7(0x32e))[_0x36f3c7(0x3f9)](_0x36f3c7(0x3c5),_0x1ab92b=>{var _0x4030dd=_0x36f3c7,_0x2224a7=parseInt(document[_0x4030dd(0x439)](_0x4030dd(0x32e))[_0x4030dd(0x44b)]);parameter[_0x4030dd(0x32e)]=_0x2224a7,_0x5d4fd5['world'][_0x4030dd(0x2ce)][_0x4030dd(0x2e1)][_0x4030dd(0x32e)]=_0x2224a7,_0x5d4fd5[_0x4030dd(0x3b5)]();}),document[_0x36f3c7(0x439)](_0x36f3c7(0x288))[_0x36f3c7(0x3f9)]('change',_0x3abd6f=>{var _0x276582=_0x36f3c7,_0x99b041=parseInt(document[_0x276582(0x439)](_0x276582(0x288))['value']);parameter[_0x276582(0x288)]=_0x99b041,_0x5d4fd5[_0x276582(0x291)][_0x276582(0x2ce)][_0x276582(0x2e1)]['soldierWithOneClick']=_0x99b041,_0x5d4fd5[_0x276582(0x3b5)]();}),document[_0x36f3c7(0x439)](_0x36f3c7(0x2f6))[_0x36f3c7(0x3f9)]('change',_0x57dc18=>{var _0x8f65f2=_0x36f3c7,_0xd86241=parseInt(document[_0x8f65f2(0x439)](_0x8f65f2(0x2f6))[_0x8f65f2(0x44b)]);parameter[_0x8f65f2(0x2f6)]=_0xd86241,_0x5d4fd5[_0x8f65f2(0x291)][_0x8f65f2(0x2ce)][_0x8f65f2(0x2e1)]['buildWithDoubleClick']=_0xd86241,_0x5d4fd5[_0x8f65f2(0x3b5)]();});}[_0x226442(0x270)](){var _0x2b8398=_0x226442,_0x59eed9=_0x2b8398(0x292);this['dom']=document['createRange']()[_0x2b8398(0x431)](_0x59eed9)[_0x2b8398(0x2bf)][0x0];var _0x3eaece=document[_0x2b8398(0x439)](_0x2b8398(0x309));_0x3eaece&&_0x3eaece['parentNode'][_0x2b8398(0x290)](_0x3eaece);var _0x4ee01a=this,_0x59eed9=_0x2b8398(0x2c9)+_0x5e906c[_0x2b8398(0x293)][_0x2b8398(0x236)]+_0x2b8398(0x218),_0x23af5a=document[_0x2b8398(0x3ab)]()['createContextualFragment'](_0x59eed9)[_0x2b8398(0x2bf)][0x0];this[_0x2b8398(0x2d9)][_0x2b8398(0x290)](this[_0x2b8398(0x2d9)][_0x2b8398(0x2bf)][0x0]),this['dom'][_0x2b8398(0x37e)](_0x23af5a),document[_0x2b8398(0x1fe)][_0x2b8398(0x37e)](this[_0x2b8398(0x2d9)]),$('#diagramdialog-tabs')['tabs']({}),setTimeout(()=>{var _0x22e141=_0x2b8398;$(_0x22e141(0x28f))['tabs']({}),_0x4ee01a[_0x22e141(0x444)]();},0x1f4);}['update'](){var _0x3a7b89=_0x226442,_0x465d87=this;document[_0x3a7b89(0x375)]!==document['getElementById'](_0x3a7b89(0x32e))&&(document[_0x3a7b89(0x439)]('peopleWithOneClick')[_0x3a7b89(0x44b)]=''+parameter[_0x3a7b89(0x32e)]);if(document[_0x3a7b89(0x375)]!==document[_0x3a7b89(0x439)](_0x3a7b89(0x288)))document[_0x3a7b89(0x439)](_0x3a7b89(0x288))['value']=''+parameter[_0x3a7b89(0x288)];try{if(!$(this[_0x3a7b89(0x2d9)])[_0x3a7b89(0x25d)]('isOpen'))return;}catch(_0x5e7dc5){return;}}[_0x226442(0x458)](){var _0x4dbab9=_0x226442,_0x3e14b4=this;this[_0x4dbab9(0x2d9)][_0x4dbab9(0x3c7)](_0x4dbab9(0x428)),this[_0x4dbab9(0x3b5)](),$(this[_0x4dbab9(0x2d9)])['dialog']({'title':_0x4dbab9(0x3a3),'width':_0x4dbab9(0x45c),'draggable':!![],'open':function(_0x31471c,_0x4612a4){var _0x4b77c6=_0x4dbab9;_0x3e14b4[_0x4b77c6(0x3b5)]();},'close':function(){},'create':function(_0x36cf1a){setTimeout(()=>{var _0x231f29=a0_0x3c91;$(_0x36cf1a[_0x231f29(0x232)])['dialog'](_0x231f29(0x21d))['find'](_0x231f29(0x26c))[0x0][_0x231f29(0x3f9)]('touchstart',_0x52548e=>{var _0x409475=_0x231f29;_0x3e14b4[_0x409475(0x2c5)]();});},0xc8);},'resizable':![]})[_0x4dbab9(0x25d)](_0x4dbab9(0x21d))[_0x4dbab9(0x212)]('option',_0x4dbab9(0x334),_0x4dbab9(0x3d0)),$(this['dom'])[_0x4dbab9(0x250)]()['css']({'position':_0x4dbab9(0x325)});}['close'](){var _0x75cf=_0x226442;$(this[_0x75cf(0x2d9)])[_0x75cf(0x25d)](_0x75cf(0x2c5));}}_0x2fe661['DiagramDialog']=_0x1ecda7;}),define('game/transport',[a0_0x50878f(0x26b),'exports','game/company','game/product'],function(_0xa7ba43,_0x232f1f,_0x5665a4,_0x2fb132){'use strict';var _0x2f5418=a0_0x50878f;Object[_0x2f5418(0x3cc)](_0x232f1f,'__esModule',{'value':!![]}),_0x232f1f[_0x2f5418(0x36f)]=_0x232f1f[_0x2f5418(0x2f0)]=void 0x0;class _0x13dd1e{}_0x232f1f[_0x2f5418(0x2f0)]=_0x13dd1e;class _0x4e8d9b{constructor(_0x24557d=undefined){var _0x2b50f0=_0x2f5418;this[_0x2b50f0(0x27b)]=0x64,this[_0x2b50f0(0x440)]=0x0,this[_0x2b50f0(0x388)]=![],this[_0x2b50f0(0x313)]=_0x2b50f0(0x36f),this[_0x2b50f0(0x1e5)]=0x0,this['productCount']=0x0,this[_0x2b50f0(0x3ce)]=![],this[_0x2b50f0(0x2c6)]=-0x5,this[_0x2b50f0(0x323)]=_0x24557d,this[_0x2b50f0(0x291)]=_0x24557d===null||_0x24557d===void 0x0?void 0x0:_0x24557d[_0x2b50f0(0x291)],this['x']===undefined&&_0x24557d&&(this['x']=_0x24557d['x'],this[_0x2b50f0(0x22d)]=_0x24557d['x']),this['y']===undefined&&_0x24557d&&(this['y']=_0x24557d['y'],this[_0x2b50f0(0x397)]=_0x24557d['y']);}['getTransportedProduct'](){var _0x2e6f8d=_0x2f5418,_0x214d7a=this[_0x2e6f8d(0x323)][_0x2e6f8d(0x2e7)];return parameter[_0x2e6f8d(0x21f)][_0x214d7a];}[_0x2f5418(0x3c3)](){var _0x304066=_0x2f5418,_0x2bd542,_0x44d236,_0x37d2ae,_0x1370ae=this;this[_0x304066(0x2d9)]=document[_0x304066(0x3ab)]()[_0x304066(0x431)](_0x304066(0x39b))['children'][0x0];var _0x5e327d=(_0x2bd542=parameter[_0x304066(0x21f)][this[_0x304066(0x323)]['productid']])===null||_0x2bd542===void 0x0?void 0x0:_0x2bd542[_0x304066(0x387)];((_0x44d236=this[_0x304066(0x238)])===null||_0x44d236===void 0x0?void 0x0:_0x44d236[_0x304066(0x2e7)])===_0x2fb132[_0x304066(0x30d)][_0x304066(0x337)]&&(_0x5e327d=(_0x37d2ae=parameter[_0x304066(0x21f)][_0x2fb132[_0x304066(0x30d)][_0x304066(0x337)]])===null||_0x37d2ae===void 0x0?void 0x0:_0x37d2ae['image'],this['company'][_0x304066(0x2da)]!==undefined&&(_0x5e327d='Soldat'+(this[_0x304066(0x323)][_0x304066(0x2da)]+0x1)+_0x304066(0x421)));if(_0x5e327d!==undefined&&_0x5e327d!=='')this[_0x304066(0x2d9)]=document[_0x304066(0x3ab)]()[_0x304066(0x431)](_0x304066(0x2a2)+_0x5665a4[_0x304066(0x2f2)][_0x304066(0x379)](_0x5e327d)+_0x304066(0x2d5))[_0x304066(0x2bf)][0x0];this[_0x304066(0x2d9)][_0x304066(0x414)][_0x304066(0x37c)]=_0x304066(0x2d3),this[_0x304066(0x2d9)][_0x304066(0x414)][_0x304066(0x2b9)]='10',this[_0x304066(0x2d9)][_0x304066(0x3f9)](_0x304066(0x1f2),_0x362afb=>{return _0x1370ae['onclick'](_0x362afb),undefined;}),this[_0x304066(0x3b5)](),this['world'][_0x304066(0x2d9)][_0x304066(0x37e)](this[_0x304066(0x2d9)]);}['isCrosingRight'](){var _0x2a3e7e=_0x2f5418;if(this['y']%0x2==0x0){if(this['x']%0x4==0x1)return![];if(this['x']%0x4==0x2)return!![];}else{if(this['x']%0x4==0x3)return![];if(this['x']%0x4==0x0)return!![];}throw _0x2a3e7e(0x22e);}[_0x2f5418(0x275)](){var _0x57f295=_0x2f5418,_0x5a1d57=this[_0x57f295(0x22d)]-this['x'],_0x52812e=this[_0x57f295(0x397)]-this['y'],_0x4eb0f5=this[_0x57f295(0x418)]();if(!_0x4eb0f5&&_0x5a1d57>0x0)this['nextX']=this['x']+0x1,this[_0x57f295(0x296)]=this['y'];else{if(_0x4eb0f5&&_0x5a1d57<0x0)this[_0x57f295(0x278)]=this['x']-0x1,this[_0x57f295(0x296)]=this['y'];else{if(_0x4eb0f5&&_0x5a1d57>0x0)_0x52812e>0x0?(this['nextX']=this['x']+0x1,this[_0x57f295(0x296)]=this['y']+0x1):(this[_0x57f295(0x278)]=this['x']+0x1,this[_0x57f295(0x296)]=this['y']-0x1);else!_0x4eb0f5&&_0x5a1d57<=0x0&&(_0x52812e>0x0?(this['nextX']=this['x']-0x1,this[_0x57f295(0x296)]=this['y']+0x1):(this[_0x57f295(0x278)]=this['x']-0x1,this['nextY']=this['y']-0x1));}}}['getCapacity'](){var _0x143a2b=_0x2f5418;if(this[_0x143a2b(0x323)]['productid']===_0x2fb132[_0x143a2b(0x30d)][_0x143a2b(0x33e)]||this['company'][_0x143a2b(0x2e7)]===_0x2fb132['Product'][_0x143a2b(0x337)])return 0x1;return this[_0x143a2b(0x440)]*parameter[_0x143a2b(0x2f1)];}[_0x2f5418(0x346)](){var _0x7d8eeb=_0x2f5418,_0x4ca6c2,_0x37ebdc,_0x441370,_0xf389c0;if(this[_0x7d8eeb(0x440)]===0x0)return;if(this[_0x7d8eeb(0x323)]['productid']===_0x2fb132['Product'][_0x7d8eeb(0x33e)]&&((_0x4ca6c2=this[_0x7d8eeb(0x238)])===null||_0x4ca6c2===void 0x0?void 0x0:_0x4ca6c2[_0x7d8eeb(0x1dd)])){this['company'][_0x7d8eeb(0x2a7)]++,(_0x37ebdc=this[_0x7d8eeb(0x238)])===null||_0x37ebdc===void 0x0?!![]:delete _0x37ebdc[_0x7d8eeb(0x1dd)],this[_0x7d8eeb(0x29a)](this[_0x7d8eeb(0x323)][_0x7d8eeb(0x2b6)]);return;}if(this['company'][_0x7d8eeb(0x2e7)]===_0x2fb132['Product'][_0x7d8eeb(0x337)]&&((_0x441370=this[_0x7d8eeb(0x238)])===null||_0x441370===void 0x0?void 0x0:_0x441370[_0x7d8eeb(0x1dd)])){this[_0x7d8eeb(0x323)][_0x7d8eeb(0x2a7)]++,(_0xf389c0=this['transferInfo'])===null||_0xf389c0===void 0x0?!![]:delete _0xf389c0[_0x7d8eeb(0x1dd)],this[_0x7d8eeb(0x29a)](this[_0x7d8eeb(0x323)][_0x7d8eeb(0x2b6)]);return;}if(this[_0x7d8eeb(0x323)]['produced']>0x0)this[_0x7d8eeb(0x323)]['produced']=this[_0x7d8eeb(0x323)][_0x7d8eeb(0x2a7)];if(this[_0x7d8eeb(0x323)][_0x7d8eeb(0x2e7)]===_0x2fb132[_0x7d8eeb(0x30d)][_0x7d8eeb(0x337)]||this['company'][_0x7d8eeb(0x2e7)]===_0x2fb132[_0x7d8eeb(0x30d)][_0x7d8eeb(0x443)]||this['company'][_0x7d8eeb(0x2e7)]===_0x2fb132[_0x7d8eeb(0x30d)]['productTurm'])return!![];var _0x1158ac=this[_0x7d8eeb(0x305)]()-this[_0x7d8eeb(0x2f4)],_0x560b7f=Math[_0x7d8eeb(0x3e8)](_0x1158ac,this[_0x7d8eeb(0x323)][_0x7d8eeb(0x2a7)]);_0x560b7f>0x0&&(this[_0x7d8eeb(0x323)]['produced']-=_0x560b7f,this[_0x7d8eeb(0x2f4)]+=_0x560b7f);if(this['dom']){if(this[_0x7d8eeb(0x2f4)]>0x0){if(this[_0x7d8eeb(0x2d9)][_0x7d8eeb(0x2fc)]('hidden'))this[_0x7d8eeb(0x2d9)][_0x7d8eeb(0x3c7)](_0x7d8eeb(0x428));return!![];}if(!this[_0x7d8eeb(0x2d9)][_0x7d8eeb(0x2fc)](_0x7d8eeb(0x428)))this['dom'][_0x7d8eeb(0x2a8)](_0x7d8eeb(0x428),'');}return![];}[_0x2f5418(0x31b)](){var _0x190aab=_0x2f5418,_0x2c9c99=this[_0x190aab(0x291)]['companyCache'][this[_0x190aab(0x327)]];if(_0x2c9c99===undefined){if(this[_0x190aab(0x3ce)])return _0x190aab(0x437);else return _0x190aab(0x299);}return _0x2c9c99[_0x190aab(0x2cf)];}['changeCompanyTaget'](_0x5bc978){var _0x5b3665=_0x2f5418;this['companyTarget']=_0x5bc978===-0x1?undefined:_0x5bc978,(this[_0x5b3665(0x323)]['productid']===_0x2fb132['Product'][_0x5b3665(0x286)]||this[_0x5b3665(0x323)][_0x5b3665(0x2e7)]===_0x2fb132['Product'][_0x5b3665(0x43f)])&&(this['companyTarget']===undefined?this[_0x5b3665(0x3ce)]=!![]:this[_0x5b3665(0x3ce)]=![]),this[_0x5b3665(0x406)](this[_0x5b3665(0x323)][_0x5b3665(0x2cb)]);}[_0x2f5418(0x39d)](){var _0x4296b9=_0x2f5418,_0x221525,_0x53bfe1,_0x5c7ddc=this['world'][_0x4296b9(0x3c9)][this[_0x4296b9(0x327)]],_0x1568d9=this[_0x4296b9(0x323)]['productid'];if(_0x2fb132[_0x4296b9(0x30d)][_0x4296b9(0x337)]===((_0x221525=this===null||this===void 0x0?void 0x0:this[_0x4296b9(0x238)])===null||_0x221525===void 0x0?void 0x0:_0x221525[_0x4296b9(0x2e7)])&&this['autodeliver']===![]){if(_0x5c7ddc['enemy']!==undefined){if(this['company'][_0x4296b9(0x1db)]!==undefined&&this['world'][_0x4296b9(0x2a9)]-this[_0x4296b9(0x323)][_0x4296b9(0x1db)]<0x5)return![];this[_0x4296b9(0x323)][_0x4296b9(0x1db)]=this[_0x4296b9(0x291)]['tickCount'];let _0x9c7bdc=this[_0x4296b9(0x2f4)]>0x0?0x1:0x0;if(this['productCount']>0x0)this['productCount']--;_0x5c7ddc['soldiercount']-=_0x9c7bdc;if(_0x5c7ddc[_0x4296b9(0x372)]<0x0)_0x5c7ddc[_0x4296b9(0x372)]=0x0;if(_0x5c7ddc['enemiesComming']>0x0)_0x5c7ddc['enemiesComming']-=_0x9c7bdc;if(_0x5c7ddc[_0x4296b9(0x372)]===0x0){_0x5c7ddc[_0x4296b9(0x2da)]=undefined;if(_0x5c7ddc[_0x4296b9(0x407)]){if(_0x5c7ddc[_0x4296b9(0x2e0)]===undefined)_0x5c7ddc[_0x4296b9(0x2e0)]=0x0;_0x5c7ddc[_0x4296b9(0x2e0)]+=_0x5c7ddc[_0x4296b9(0x407)],delete _0x5c7ddc[_0x4296b9(0x407)];}delete _0x5c7ddc[_0x4296b9(0x27d)],_0x5c7ddc[_0x4296b9(0x415)]=!![],_0x5c7ddc[_0x4296b9(0x1eb)]();}if(_0x9c7bdc!==0x0)return![];}else{if(_0x5c7ddc[_0x4296b9(0x2da)]===undefined&&this['company']['enemy']!==undefined){if(_0x5c7ddc[_0x4296b9(0x2e7)]!==-0x2){if(_0x5c7ddc[_0x4296b9(0x1db)]!==undefined&&this[_0x4296b9(0x291)][_0x4296b9(0x2a9)]-_0x5c7ddc[_0x4296b9(0x1db)]<0x8)return![];}_0x5c7ddc[_0x4296b9(0x1db)]=this[_0x4296b9(0x291)]['tickCount'];let _0x236f1c=this['productCount']>0x0?0x1:0x0;if(this['productCount']>0x0&&_0x5c7ddc['soldiercount']>0x0){this[_0x4296b9(0x2f4)]--,_0x5c7ddc[_0x4296b9(0x372)]-=_0x236f1c;if(_0x5c7ddc[_0x4296b9(0x407)]>0x0)_0x5c7ddc[_0x4296b9(0x407)]-=_0x236f1c;}_0x5c7ddc[_0x4296b9(0x372)]<=0x0&&(this['productCount']>0x0&&(this[_0x4296b9(0x323)][_0x4296b9(0x372)]+=this[_0x4296b9(0x2f4)]),_0x5c7ddc[_0x4296b9(0x29a)]());this[_0x4296b9(0x29a)](this[_0x4296b9(0x323)][_0x4296b9(0x2b6)]);if(_0x236f1c!==0x0)return![];}else _0x5c7ddc[_0x4296b9(0x372)]+=this['productCount'],_0x5c7ddc['soldiersComing']-=this[_0x4296b9(0x2f4)];}return this['destroy'](this[_0x4296b9(0x323)][_0x4296b9(0x2b6)]),_0x5c7ddc[_0x4296b9(0x2da)]===undefined&&_0x5c7ddc[_0x4296b9(0x372)]===parameter[_0x4296b9(0x203)]?(_0x5c7ddc[_0x4296b9(0x2e7)]==-0x2||_0x5c7ddc['productid']==-0x3)&&(delete _0x5c7ddc['soldiersComing'],_0x5c7ddc[_0x4296b9(0x2e7)]=-0x1,_0x5c7ddc[_0x4296b9(0x37a)][_0x4296b9(0x3ef)]=_0x5665a4[_0x4296b9(0x2f2)][_0x4296b9(0x379)](_0x4296b9(0x2de))):(_0x5c7ddc[_0x4296b9(0x2e7)]===_0x2fb132[_0x4296b9(0x30d)][_0x4296b9(0x287)]||_0x5c7ddc['productid']===_0x2fb132['Product'][_0x4296b9(0x443)])&&_0x5c7ddc[_0x4296b9(0x372)]===_0x5c7ddc['calcMaxSoldiers']()&&_0x5c7ddc[_0x4296b9(0x207)](),!![];}if(this[_0x4296b9(0x238)]){if(this[_0x4296b9(0x238)][_0x4296b9(0x2e7)]===_0x2fb132[_0x4296b9(0x30d)]['productHelper']){if(this[_0x4296b9(0x238)][_0x4296b9(0x367)]==='workers'){_0x5c7ddc['workers']++,_0x5c7ddc[_0x4296b9(0x366)]--;if(!_0x5c7ddc[_0x4296b9(0x366)])delete _0x5c7ddc[_0x4296b9(0x366)];}else{if(this[_0x4296b9(0x238)][_0x4296b9(0x367)]===_0x4296b9(0x2c2)){_0x5c7ddc[_0x4296b9(0x2c2)]++,_0x5c7ddc['workersInComming']--;if(!_0x5c7ddc[_0x4296b9(0x221)])delete _0x5c7ddc[_0x4296b9(0x221)];}else{if(this[_0x4296b9(0x238)][_0x4296b9(0x367)]==='workersOut'){_0x5c7ddc[_0x4296b9(0x2c7)]++,_0x5c7ddc['workersOutComming']--;if(!_0x5c7ddc[_0x4296b9(0x219)])delete _0x5c7ddc[_0x4296b9(0x219)];}else{if((_0x53bfe1=this[_0x4296b9(0x238)][_0x4296b9(0x367)])===null||_0x53bfe1===void 0x0?void 0x0:_0x53bfe1[_0x4296b9(0x323)]){this[_0x4296b9(0x238)][_0x4296b9(0x367)][_0x4296b9(0x440)]++,this[_0x4296b9(0x238)][_0x4296b9(0x367)][_0x4296b9(0x366)]--;if(!this[_0x4296b9(0x238)][_0x4296b9(0x367)]['workersComming'])delete this[_0x4296b9(0x238)]['workertype'][_0x4296b9(0x366)];}}}}this[_0x4296b9(0x323)][_0x4296b9(0x2b6)]['splice'](this['company'][_0x4296b9(0x2b6)][_0x4296b9(0x2e4)](this),0x1),this[_0x4296b9(0x291)][_0x4296b9(0x2d9)][_0x4296b9(0x290)](this[_0x4296b9(0x2d9)]);}if(this[_0x4296b9(0x3ce)]){if(this['company'][_0x4296b9(0x2e7)]===_0x2fb132[_0x4296b9(0x30d)][_0x4296b9(0x43f)]||this[_0x4296b9(0x323)]['productid']===_0x2fb132[_0x4296b9(0x30d)][_0x4296b9(0x286)]){var _0x53716c=0x3b9ac9ff;_0x5c7ddc[_0x4296b9(0x2bb)]>=0x0&&(_0x53716c=parameter[_0x4296b9(0x21f)][_0x5c7ddc[_0x4296b9(0x2bb)]][_0x4296b9(0x2cc)],this['transferInfo'][_0x4296b9(0x2e7)]===_0x2fb132[_0x4296b9(0x30d)][_0x4296b9(0x287)]&&(_0x53716c=0xf),this[_0x4296b9(0x238)]['productid']===_0x2fb132[_0x4296b9(0x30d)][_0x4296b9(0x443)]&&(_0x53716c=0x32));var _0x73efbf=Math[_0x4296b9(0x3e8)](this['productCount'],_0x53716c);if(this[_0x4296b9(0x323)][_0x4296b9(0x2e7)]===_0x2fb132[_0x4296b9(0x30d)][_0x4296b9(0x43f)])_0x5c7ddc[_0x4296b9(0x409)]-=_0x73efbf;if(this[_0x4296b9(0x323)][_0x4296b9(0x2e7)]===_0x2fb132[_0x4296b9(0x30d)][_0x4296b9(0x286)])_0x5c7ddc[_0x4296b9(0x3d1)]-=_0x73efbf;return this[_0x4296b9(0x2f4)]-=_0x73efbf,_0x5c7ddc[_0x4296b9(0x3d1)]===0x0&&_0x5c7ddc[_0x4296b9(0x409)]===0x0&&(delete _0x5c7ddc[_0x4296b9(0x3d1)],delete _0x5c7ddc[_0x4296b9(0x409)],delete _0x5c7ddc[_0x4296b9(0x2bb)],_0x5c7ddc[_0x4296b9(0x1fd)](this[_0x4296b9(0x238)][_0x4296b9(0x2e7)]),this[_0x4296b9(0x238)]=undefined),this[_0x4296b9(0x327)]=undefined,!![];}}}if(_0x5c7ddc[_0x4296b9(0x2e7)]<-0x2)return!![];if(_0x5c7ddc[_0x4296b9(0x2e7)]<0x0)return!![];var _0xa8a813=parameter[_0x4296b9(0x21f)][_0x5c7ddc['productid']][_0x4296b9(0x2b4)][_0x4296b9(0x2e4)](_0x1568d9);if(_0xa8a813===-0x1)return![];var _0xea8cf9=_0x5c7ddc[_0x4296b9(0x2c2)]*parameter[_0x4296b9(0x2f1)]+parameter[_0x4296b9(0x2f1)],_0x73efbf=Math['min'](this[_0x4296b9(0x2f4)],_0xea8cf9-_0x5c7ddc[_0x4296b9(0x460)][_0xa8a813]);if(_0x73efbf<0x0)return![];return _0x5c7ddc[_0x4296b9(0x460)][_0xa8a813]+=_0x73efbf,this[_0x4296b9(0x2f4)]-=_0x73efbf,!![];}[_0x2f5418(0x29a)](_0x2ea9e3){var _0x11e5e8=_0x2f5418;_0x2ea9e3[_0x11e5e8(0x2c1)](_0x2ea9e3['indexOf'](this),0x1),this['world'][_0x11e5e8(0x2d9)][_0x11e5e8(0x290)](this[_0x11e5e8(0x2d9)]);}['isPositionTarget'](_0x12e15f=!![]){var _0x16c8ad=_0x2f5418,_0x13739a=this['world'][_0x16c8ad(0x3c9)][this['companyTarget']];if(_0x13739a&&_0x13739a['x']===this['x']&&_0x13739a['y']===this['y']){if(_0x12e15f)return this[_0x16c8ad(0x2c6)]===-0x5;else return!![];}return![];}['isPositionHome'](_0x35af3d=!![]){var _0x199a05=_0x2f5418,_0x3b5671=this[_0x199a05(0x323)];if(_0x3b5671&&_0x3b5671['x']===this['x']&&_0x3b5671['y']===this['y']){if(_0x35af3d)return this[_0x199a05(0x2c6)]===-0x5;else return!![];}return![];}[_0x2f5418(0x3cb)](){var _0x31e2c6=_0x2f5418;if(this[_0x31e2c6(0x22d)]===undefined){this['update']();return;}if(this[_0x31e2c6(0x323)]['enemy']!==undefined)this[_0x31e2c6(0x323)][_0x31e2c6(0x291)]['game'][_0x31e2c6(0x249)](_0x31e2c6(0x30a));if(this[_0x31e2c6(0x388)]&&(this['x']!==this[_0x31e2c6(0x22d)]||this['y']!==this[_0x31e2c6(0x397)])&&this[_0x31e2c6(0x2c6)]<0x0){var _0x346efb=0x0;this[_0x31e2c6(0x2c6)]++,this['update']();return;}else{if(this[_0x31e2c6(0x388)]&&(this[_0x31e2c6(0x3c6)](![])||this[_0x31e2c6(0x382)](![]))&&this['x']===this[_0x31e2c6(0x22d)]&&this['y']===this['nextTargetY']&&this[_0x31e2c6(0x2c6)]>-0x5){var _0x346efb=0x0;this['pathGarden']--,this[_0x31e2c6(0x3b5)]();return;}}if(this['x']===this[_0x31e2c6(0x22d)]&&this['y']===this['nextTargetY']){if(this[_0x31e2c6(0x388)]&&this[_0x31e2c6(0x382)]()){if(!this[_0x31e2c6(0x39d)]()){this[_0x31e2c6(0x3b5)]();return;}if(this[_0x31e2c6(0x2f4)]===0x0||this[_0x31e2c6(0x3ce)])this[_0x31e2c6(0x406)](this[_0x31e2c6(0x323)][_0x31e2c6(0x2cb)]);}if(this[_0x31e2c6(0x388)]&&this['isPositionHome']()){if(this['load']()){if(this['companyTarget']!==undefined&&this['productCount']>=this[_0x31e2c6(0x305)]())this[_0x31e2c6(0x406)](this[_0x31e2c6(0x327)]);}}this['update']();return;}else{var _0x2c7711=Math[_0x31e2c6(0x44e)](0x1,Math[_0x31e2c6(0x3e0)](0x3e8/this[_0x31e2c6(0x27b)]));if(this[_0x31e2c6(0x1e5)]===0x0)this['calcNextPoint'](),this['curStep']++;else{if(this[_0x31e2c6(0x1e5)]===_0x2c7711)this['curStep']=0x0,this['x']=this[_0x31e2c6(0x278)],this['y']=this[_0x31e2c6(0x296)];else this[_0x31e2c6(0x1e5)]++;}}this[_0x31e2c6(0x3b5)]();}[_0x2f5418(0x406)](_0x14fd1f){var _0xce71d6=_0x2f5418;if(this[_0xce71d6(0x2d9)]){}if(this[_0xce71d6(0x291)]['companyCache'][_0x14fd1f]===undefined){console[_0xce71d6(0x27e)]('companyid\x20'+_0x14fd1f+'\x20not\x20exists\x20');return;}this['nextTargetX']=this[_0xce71d6(0x291)]['companyCache'][_0x14fd1f]['x'],this[_0xce71d6(0x397)]=this[_0xce71d6(0x291)][_0xce71d6(0x3c9)][_0x14fd1f]['y'],this[_0xce71d6(0x388)]=!![],this['status']=0x1;}[_0x2f5418(0x43e)](){var _0x55de41=_0x2f5418;if(this[_0x55de41(0x2d9)])this[_0x55de41(0x2d9)][_0x55de41(0x1e2)][_0x55de41(0x419)]('airplane_selected');}[_0x2f5418(0x466)](){var _0x5a2f9a=_0x2f5418;if(this[_0x5a2f9a(0x2d9)])this['dom'][_0x5a2f9a(0x1e2)][_0x5a2f9a(0x3da)]('airplane_selected');}[_0x2f5418(0x338)](_0x3deb2a){var _0x54f757=_0x2f5418;if(!this[_0x54f757(0x2d9)])return;var _0x3a73c1=parameter[_0x54f757(0x2cd)],_0x2ec87b=_0x3a73c1*this['x']-0xa,_0x1e0e35=_0x3a73c1*this['y']-0xa,_0xfa45b4=Math['max'](0x1,Math['round'](0x3e8/this['speed']));this['nextX']!==undefined&&(_0x2ec87b=Math[_0x54f757(0x3e0)](-_0x3a73c1*(this['x']-this[_0x54f757(0x278)])*this[_0x54f757(0x1e5)]/_0xfa45b4+_0x3a73c1*this['x'])-0xa,_0x1e0e35=Math[_0x54f757(0x3e0)](-_0x3a73c1*(this['y']-this['nextY'])*this[_0x54f757(0x1e5)]/_0xfa45b4+_0x3a73c1*this['y'])-0xa);if(this[_0x54f757(0x2c6)])_0x2ec87b=_0x2ec87b-Math[_0x54f757(0x405)](this[_0x54f757(0x2c6)]*0x4);this[_0x54f757(0x2d9)][_0x54f757(0x2f3)]!=='none'&&_0x2ec87b>_0x3deb2a[_0x54f757(0x399)]&&_0x2ec87b<_0x3deb2a[_0x54f757(0x399)]+_0x3deb2a[_0x54f757(0x231)]&&_0x1e0e35>_0x3deb2a['top']&&_0x1e0e35<_0x3deb2a['top']+_0x3deb2a['height']&&this[_0x54f757(0x2d9)][_0x54f757(0x3fe)]!==_0x2ec87b&&(this[_0x54f757(0x2d9)]['myleft']=_0x2ec87b,this[_0x54f757(0x2d9)][_0x54f757(0x414)]['left']=_0x2ec87b+'px'),this[_0x54f757(0x2d9)][_0x54f757(0x2f3)]!==_0x54f757(0x3d0)&&_0x2ec87b>_0x3deb2a[_0x54f757(0x399)]&&_0x2ec87b<_0x3deb2a[_0x54f757(0x399)]+_0x3deb2a[_0x54f757(0x231)]&&_0x1e0e35>_0x3deb2a[_0x54f757(0x34f)]&&_0x1e0e35<_0x3deb2a[_0x54f757(0x34f)]+_0x3deb2a['height']&&this[_0x54f757(0x2d9)]['mytop']!==_0x1e0e35&&(this[_0x54f757(0x2d9)][_0x54f757(0x424)]=_0x1e0e35,this[_0x54f757(0x2d9)][_0x54f757(0x414)][_0x54f757(0x34f)]=_0x1e0e35+'px');}[_0x2f5418(0x3b5)](){}[_0x2f5418(0x268)](_0x3c0f96){var _0x5a9ac1=_0x2f5418,_0x1802a2;_0x3c0f96['preventDefault'](),_0x3c0f96[_0x5a9ac1(0x383)](),(_0x1802a2=this[_0x5a9ac1(0x291)][_0x5a9ac1(0x35f)])===null||_0x1802a2===void 0x0?void 0x0:_0x1802a2[_0x5a9ac1(0x466)](),this[_0x5a9ac1(0x291)][_0x5a9ac1(0x35f)]=this,this[_0x5a9ac1(0x43e)]();}}_0x232f1f[_0x2f5418(0x36f)]=_0x4e8d9b;}),define('game/savedialog',[a0_0x50878f(0x26b),a0_0x50878f(0x3d4),a0_0x50878f(0x403),a0_0x50878f(0x2ab),a0_0x50878f(0x37d),a0_0x50878f(0x454),a0_0x50878f(0x392)],function(_0x41d174,_0x54a4ef,_0xea7822,_0x518323,_0x57ac61,_0x516166,_0x6b69fe){'use strict';var _0xa10602=a0_0x50878f;Object[_0xa10602(0x3cc)](_0x54a4ef,_0xa10602(0x289),{'value':!![]}),_0x54a4ef[_0xa10602(0x3d5)]=_0x54a4ef[_0xa10602(0x314)]=void 0x0;class _0x3ddf9b{constructor(){var _0x422ce1=_0xa10602;this[_0x422ce1(0x270)]();}static[_0xa10602(0x222)](){var _0x549913=_0xa10602;if(_0x3ddf9b['instance']===undefined)_0x3ddf9b[_0x549913(0x319)]=new _0x3ddf9b();return _0x3ddf9b[_0x549913(0x319)];}['create'](){var _0xe1986c=_0xa10602,_0x425169=_0xe1986c(0x243);this[_0xe1986c(0x2d9)]=document[_0xe1986c(0x3ab)]()[_0xe1986c(0x431)](_0x425169)[_0xe1986c(0x2bf)][0x0];var _0x16e0be=document[_0xe1986c(0x439)]('SaveDialog');_0x16e0be&&_0x16e0be[_0xe1986c(0x258)]['removeChild'](_0x16e0be);var _0x4d8e33=this,_0x425169=_0xe1986c(0x465),_0x26bc61=document['createRange']()[_0xe1986c(0x431)](_0x425169)[_0xe1986c(0x2bf)][0x0];this[_0xe1986c(0x2d9)][_0xe1986c(0x290)](this[_0xe1986c(0x2d9)][_0xe1986c(0x2bf)][0x0]),this[_0xe1986c(0x2d9)]['appendChild'](_0x26bc61),document['body'][_0xe1986c(0x37e)](this[_0xe1986c(0x2d9)]),setTimeout(()=>{var _0x55280d=_0xe1986c;$(_0x55280d(0x315))[_0x55280d(0x356)]({}),_0x4d8e33['bindActions']();},0x1f4);}[_0xa10602(0x444)](){var _0x2d93aa=_0xa10602,_0x238d53=this,_0x2d927a=document[_0x2d93aa(0x439)]('save-filename');document[_0x2d93aa(0x439)](_0x2d93aa(0x368))['addEventListener'](_0x2d93aa(0x1f2),_0x70c3=>{var _0x295ca6=_0x2d93aa;_0x238d53[_0x295ca6(0x2c5)]();}),document[_0x2d93aa(0x439)](_0x2d93aa(0x3ed))[_0x2d93aa(0x3f9)]('click',_0x2299c1=>{var _0xaa0784=_0x2d93aa;if(_0x2d927a['value']===''){alert('Error:Filename\x20is\x20empty');return;}_0x238d53['save'](_0x2d927a[_0xaa0784(0x44b)]),_0x238d53[_0xaa0784(0x2c5)]();}),document[_0x2d93aa(0x439)](_0x2d93aa(0x22a))[_0x2d93aa(0x3f9)](_0x2d93aa(0x1f2),_0x4c06e0=>{var _0x333b58=_0x2d93aa;if(_0x2d927a[_0x333b58(0x44b)]===''){alert('Error:Filename\x20is\x20empty');return;}_0x238d53[_0x333b58(0x346)](_0x2d927a[_0x333b58(0x44b)]),_0x238d53[_0x333b58(0x2c5)]();}),document[_0x2d93aa(0x439)](_0x2d93aa(0x301))[_0x2d93aa(0x3f9)](_0x2d93aa(0x1f2),_0x1fcf2d=>{var _0x18c16f=_0x2d93aa;_0x2d927a[_0x18c16f(0x44b)]=_0x1fcf2d[_0x18c16f(0x232)]['getAttribute']('value');var _0x3a6b35=_0x1fcf2d[_0x18c16f(0x232)],_0x1a9903=document[_0x18c16f(0x439)](_0x18c16f(0x301));for(var _0x3af7ba=0x0;_0x3af7ba<_0x1a9903[_0x18c16f(0x2bf)]['length'];_0x3af7ba++){_0x1a9903[_0x18c16f(0x2bf)][_0x3af7ba][_0x18c16f(0x1e2)][_0x18c16f(0x3da)](_0x18c16f(0x2bd));}_0x3a6b35[_0x18c16f(0x1e2)][_0x18c16f(0x419)](_0x18c16f(0x2bd));}),document[_0x2d93aa(0x439)](_0x2d93aa(0x227))[_0x2d93aa(0x3f9)](_0x2d93aa(0x1f2),_0x5d2983=>{var _0x4bde3b=_0x2d93aa;window[_0x4bde3b(0x3ac)][_0x4bde3b(0x2fe)]('save'+_0x2d927a[_0x4bde3b(0x44b)]),_0x238d53['update']();}),document[_0x2d93aa(0x439)](_0x2d93aa(0x425))['addEventListener'](_0x2d93aa(0x1f2),_0x106a44=>{var _0xc0b24f=_0x2d93aa,_0x4cb62e=_0x238d53[_0xc0b24f(0x364)](),_0x18452b=new Blob([_0x4cb62e],{'type':_0xc0b24f(0x3e7)}),_0x5c7c6e=document[_0xc0b24f(0x1d9)]('a');_0x5c7c6e[_0xc0b24f(0x2a8)]('href',URL['createObjectURL'](_0x18452b)),_0x5c7c6e[_0xc0b24f(0x2a8)](_0xc0b24f(0x3e3),_0xc0b24f(0x2b3)),_0x5c7c6e[_0xc0b24f(0x37e)](document['createTextNode'](_0xc0b24f(0x23c))),document[_0xc0b24f(0x1fe)][_0xc0b24f(0x37e)](_0x5c7c6e),_0x5c7c6e[_0xc0b24f(0x1f2)](),_0x5c7c6e['remove']();}),document['getElementById']('save-import')['addEventListener'](_0x2d93aa(0x3c5),function(_0x446037){var _0x21c418=_0x2d93aa,_0x3bf4b3=_0x446037[_0x21c418(0x232)]['files'],_0x49a0ff={},_0x340b2c=0x0,_0xbd4321=_0x3bf4b3[0x0],_0x76f406=new FileReader();_0x76f406['addEventListener']('load',function(){var _0x5b04e6=_0x21c418,_0x6ec20b=_0x76f406[_0x5b04e6(0x29b)];_0x238d53[_0x5b04e6(0x264)](_0x6ec20b);},![]),_0x76f406['readAsText'](_0xbd4321);});}['update'](){var _0x3e2084=_0xa10602,_0x1d82b8=[],_0x3b1e15='';for(var _0x186c77 in window[_0x3e2084(0x3ac)]){_0x186c77[_0x3e2084(0x389)](_0x3e2084(0x3cf))&&(_0x3b1e15+='<li\x20value=\x22'+_0x186c77[_0x3e2084(0x3eb)](0x4)+'\x22>'+_0x186c77[_0x3e2084(0x3eb)](0x4)+'</li>');}document[_0x3e2084(0x439)](_0x3e2084(0x301))[_0x3e2084(0x255)]=_0x3b1e15;var _0x2a712a=window[_0x3e2084(0x3ac)]['getItem'](_0x3e2084(0x312));if(_0x2a712a)document['getElementById'](_0x3e2084(0x1f4))[_0x3e2084(0x44b)]=_0x2a712a;}['show'](){var _0x398ce7=_0xa10602,_0x366f16=this;this[_0x398ce7(0x2d9)][_0x398ce7(0x3c7)](_0x398ce7(0x428)),$(this[_0x398ce7(0x2d9)])[_0x398ce7(0x25d)]({'title':_0x398ce7(0x3a3),'width':_0x398ce7(0x45c),'draggable':!![],'open':function(_0x38b563,_0x29edc2){var _0x46d63d=_0x398ce7;_0x366f16[_0x46d63d(0x3b5)]();},'close':function(){},'create':function(_0x24bf3e){setTimeout(()=>{var _0x475429=a0_0x3c91;$(_0x24bf3e[_0x475429(0x232)])[_0x475429(0x25d)]('widget')[_0x475429(0x438)](_0x475429(0x26c))[0x0][_0x475429(0x3f9)](_0x475429(0x3b2),_0x180dc7=>{_0x366f16['close']();});},0xc8);}})[_0x398ce7(0x25d)]('widget')[_0x398ce7(0x212)](_0x398ce7(0x38b),_0x398ce7(0x334),'none'),$(this[_0x398ce7(0x2d9)])[_0x398ce7(0x250)]()[_0x398ce7(0x427)]({'position':'fixed'});}['close'](){var _0x48ee2e=_0xa10602;$(this['dom'])['dialog'](_0x48ee2e(0x2c5));}[_0xa10602(0x364)](){var _0x5e5c7a=_0xa10602,_0x4383fc=JSON[_0x5e5c7a(0x24d)](this[_0x5e5c7a(0x2ce)],(_0x19aae0,_0x5d511c)=>{var _0x7cdbb7=_0x5e5c7a,_0x2425a1={};if(_0x5d511c instanceof HTMLElement)return undefined;if(_0x19aae0===_0x7cdbb7(0x2e2))return undefined;if((_0x5d511c===null||_0x5d511c===void 0x0?void 0x0:_0x5d511c['type'])==='World')return Object[_0x7cdbb7(0x3a6)](_0x2425a1,_0x5d511c),delete _0x2425a1[_0x7cdbb7(0x3c9)],delete _0x2425a1[_0x7cdbb7(0x2ce)],_0x2425a1;if((_0x5d511c===null||_0x5d511c===void 0x0?void 0x0:_0x5d511c[_0x7cdbb7(0x313)])===_0x7cdbb7(0x2f2))return Object[_0x7cdbb7(0x3a6)](_0x2425a1,_0x5d511c),delete _0x2425a1['world'],_0x2425a1;if((_0x5d511c===null||_0x5d511c===void 0x0?void 0x0:_0x5d511c['type'])===_0x7cdbb7(0x36f))return Object[_0x7cdbb7(0x3a6)](_0x2425a1,_0x5d511c),delete _0x2425a1['world'],delete _0x2425a1[_0x7cdbb7(0x323)],_0x2425a1;if((_0x5d511c===null||_0x5d511c===void 0x0?void 0x0:_0x5d511c[_0x7cdbb7(0x313)])===_0x7cdbb7(0x30d))return Object[_0x7cdbb7(0x3a6)](_0x2425a1,_0x5d511c),_0x2425a1;return _0x5d511c;});return _0x4383fc;}['save'](_0xbddf05){var _0x10d1e1=_0xa10602;this['game']['pause']();var _0x487531=this[_0x10d1e1(0x364)]();window['localStorage'][_0x10d1e1(0x285)](_0x10d1e1(0x3cf)+_0xbddf05,_0x487531),window[_0x10d1e1(0x3ac)]['setItem'](_0x10d1e1(0x312),_0xbddf05),console['log'](_0x487531),this['game'][_0x10d1e1(0x36c)]();}['packArray'](_0x263819){var _0x33807f=_0xa10602,_0x4648cd=_0x263819[0x0];for(var _0x71c07a=0x1;_0x71c07a<_0x263819[_0x33807f(0x353)];_0x71c07a++){if(_0x263819[_0x71c07a]!==_0x4648cd)return _0x263819;}return _0x4648cd;}[_0xa10602(0x263)](_0x171a05){var _0x58079f=_0xa10602;if(Array[_0x58079f(0x452)](_0x171a05))return _0x171a05;var _0x43f7f5=[];for(var _0x51f827=0x0;_0x51f827<parameter['allProducts'][_0x58079f(0x353)];_0x51f827++){_0x43f7f5[_0x58079f(0x35c)](_0x171a05);}return _0x43f7f5;}[_0xa10602(0x264)](_0x2d658f){var _0xcb2ba=_0xa10602;this[_0xcb2ba(0x2ce)][_0xcb2ba(0x2c5)]();var _0x40acf3=JSON[_0xcb2ba(0x41f)](_0x2d658f,(_0x2b85ec,_0x14dbbb)=>{var _0x3bf9a=_0xcb2ba,_0x5eb291=_0x14dbbb;if(_0x14dbbb===null)return undefined;if(_0x2b85ec===_0x3bf9a(0x2e1)){console[_0x3bf9a(0x27e)](_0x3bf9a(0x1f0));var _0x406d7f=parameter['allLevels'];Object[_0x3bf9a(0x3a6)](parameter,_0x14dbbb),parameter[_0x3bf9a(0x432)]=_0x406d7f;for(var _0x5236e9=0x0;_0x5236e9<parameter[_0x3bf9a(0x21f)]['length'];_0x5236e9++){var _0x1a2fe4=parameter[_0x3bf9a(0x21f)][_0x5236e9];parameter[_0x3bf9a(0x21f)][_0x5236e9]=new _0xea7822[(_0x3bf9a(0x30d))](),Object[_0x3bf9a(0x3a6)](parameter[_0x3bf9a(0x21f)][_0x5236e9],_0x1a2fe4);}}if((_0x14dbbb===null||_0x14dbbb===void 0x0?void 0x0:_0x14dbbb[_0x3bf9a(0x313)])===_0x3bf9a(0x2f2))return _0x5eb291=new _0x516166[(_0x3bf9a(0x2f2))](),Object['assign'](_0x5eb291,_0x14dbbb),_0x5eb291;if((_0x14dbbb===null||_0x14dbbb===void 0x0?void 0x0:_0x14dbbb[_0x3bf9a(0x313)])===_0x3bf9a(0x30d))return _0x5eb291=new _0xea7822['Product'](),Object[_0x3bf9a(0x3a6)](_0x5eb291,_0x14dbbb),_0x5eb291;if((_0x14dbbb===null||_0x14dbbb===void 0x0?void 0x0:_0x14dbbb[_0x3bf9a(0x313)])===_0x3bf9a(0x36f))return _0x5eb291=new _0x6b69fe[(_0x3bf9a(0x36f))](),Object[_0x3bf9a(0x3a6)](_0x5eb291,_0x14dbbb),_0x5eb291;if((_0x14dbbb===null||_0x14dbbb===void 0x0?void 0x0:_0x14dbbb['type'])===_0x3bf9a(0x23b))return delete _0x14dbbb['_intervall'],_0x5eb291=new _0x518323[(_0x3bf9a(0x23b))](),Object[_0x3bf9a(0x3a6)](_0x5eb291,_0x14dbbb),_0x5eb291;return _0x5eb291;}),_0x3da52a=this[_0xcb2ba(0x2ce)];delete _0x40acf3[_0xcb2ba(0x1e7)],delete _0x40acf3[_0xcb2ba(0x374)],Object[_0xcb2ba(0x3a6)](this[_0xcb2ba(0x2ce)],_0x40acf3),_0x3da52a['world'][_0xcb2ba(0x2ce)]=_0x3da52a,_0x3da52a[_0xcb2ba(0x45e)]=new Date(_0x3da52a[_0xcb2ba(0x45e)]),_0x3da52a['world'][_0xcb2ba(0x318)]();for(var _0x44db2a=0x0;_0x44db2a<_0x3da52a[_0xcb2ba(0x291)][_0xcb2ba(0x23d)][_0xcb2ba(0x353)];_0x44db2a++){_0x3da52a['world'][_0xcb2ba(0x23d)][_0x44db2a]['world']=_0x3da52a[_0xcb2ba(0x291)];for(var _0x5c5c87=0x0;_0x5c5c87<_0x3da52a['world']['companies'][_0x44db2a][_0xcb2ba(0x2b6)][_0xcb2ba(0x353)];_0x5c5c87++){_0x3da52a[_0xcb2ba(0x291)][_0xcb2ba(0x23d)][_0x44db2a][_0xcb2ba(0x2b6)][_0x5c5c87]['world']=_0x3da52a[_0xcb2ba(0x291)],_0x3da52a['world'][_0xcb2ba(0x23d)][_0x44db2a][_0xcb2ba(0x2b6)][_0x5c5c87][_0xcb2ba(0x323)]=_0x3da52a['world'][_0xcb2ba(0x23d)][_0x44db2a];}}for(var _0x44db2a=0x0;_0x44db2a<_0x3da52a['world'][_0xcb2ba(0x24e)][_0xcb2ba(0x353)];_0x44db2a++){_0x3da52a[_0xcb2ba(0x291)]['freeCompanies'][_0x44db2a][_0xcb2ba(0x291)]=_0x3da52a[_0xcb2ba(0x291)];}Number(_0x3da52a[_0xcb2ba(0x3ca)])<2.7&&(parameter[_0xcb2ba(0x432)]=[{'maxPeople':0x28,'maxSoldiers':0x64,'maxPlaces':0xa,'buildingLimit':0x2},{'maxPeople':0x258,'maxSoldiers':0x96,'maxPlaces':0x32,'buildingLimit':0x3e8},{'maxPeople':0x640,'maxSoldiers':0x96,'maxPlaces':0x64,'buildingLimit':0x7d0},{'maxPeople':0x960,'maxSoldiers':0x96,'maxPlaces':0x7d0,'buildingLimit':0xbb8},{'maxPeople':0x1388,'maxSoldiers':0x96,'maxPlaces':0x12c,'buildingLimit':0xfa0},{'maxPeople':0x2540be3ff,'maxSoldiers':0x2540be3ff,'maxPlaces':0x2540be3ff,'buildingLimit':0x2540be3ff}]);if(Number(_0x3da52a[_0xcb2ba(0x3ca)])<3.4){_0x3da52a[_0xcb2ba(0x333)]=[0x0,0x0,0x0,0x0,0x0,0x0,0x0];for(var _0x44db2a=0x0;_0x44db2a<_0x3da52a[_0xcb2ba(0x291)][_0xcb2ba(0x23d)][_0xcb2ba(0x353)];_0x44db2a++){_0x3da52a[_0xcb2ba(0x291)][_0xcb2ba(0x23d)][_0x44db2a][_0xcb2ba(0x27d)]!==undefined&&(_0x3da52a[_0xcb2ba(0x333)][_0x3da52a[_0xcb2ba(0x291)][_0xcb2ba(0x23d)][_0x44db2a][_0xcb2ba(0x2da)]-0x1]=_0x3da52a[_0xcb2ba(0x291)][_0xcb2ba(0x23d)][_0x44db2a]['companyID']),_0x3da52a[_0xcb2ba(0x291)]['companies'][_0x44db2a][_0xcb2ba(0x2da)]!==undefined&&(_0x3da52a['world']['companies'][_0x44db2a][_0xcb2ba(0x372)]=_0x3da52a[_0xcb2ba(0x291)][_0xcb2ba(0x23d)][_0x44db2a][_0xcb2ba(0x2c2)],_0x3da52a['world'][_0xcb2ba(0x23d)][_0x44db2a][_0xcb2ba(0x2c2)]=0x0);}}_0x3da52a[_0xcb2ba(0x3ca)]=_0x57ac61[_0xcb2ba(0x23f)],_0x3da52a[_0xcb2ba(0x3c3)](this[_0xcb2ba(0x2ce)][_0xcb2ba(0x2d9)]),_0x3da52a[_0xcb2ba(0x36c)]();}[_0xa10602(0x346)](_0x2dcc37){var _0x57c930=_0xa10602;this[_0x57c930(0x2ce)][_0x57c930(0x266)]();var _0x1610c4=window[_0x57c930(0x3ac)][_0x57c930(0x3a0)](_0x57c930(0x3cf)+_0x2dcc37);this['loadContent'](_0x1610c4),window['localStorage']['setItem'](_0x57c930(0x312),_0x2dcc37);}}_0x54a4ef[_0xa10602(0x314)]=_0x3ddf9b;function _0x29db72(){var _0x44fdb1=_0xa10602;_0x3ddf9b['getInstance']()[_0x44fdb1(0x458)]();}_0x54a4ef[_0xa10602(0x3d5)]=_0x29db72;}),define(a0_0x50878f(0x34e),[a0_0x50878f(0x26b),'exports',a0_0x50878f(0x324),'game/company',a0_0x50878f(0x403),a0_0x50878f(0x392),'game/game'],function(_0x490809,_0x296502,_0x222d2d,_0x3c9ad1,_0x326d56,_0x304c7c,_0x548f1d){'use strict';var _0x39e977=a0_0x50878f;Object[_0x39e977(0x3cc)](_0x296502,_0x39e977(0x289),{'value':!![]}),_0x296502[_0x39e977(0x24b)]=void 0x0,window['company']=function(){var _0x5df80b=_0x39e977;return _0x4b7730[_0x5df80b(0x222)]()[_0x5df80b(0x323)];};class _0x4b7730{constructor(){var _0x1ba75e=_0x39e977;this['maxCompanies']=0xe,this[_0x1ba75e(0x358)]=![],this[_0x1ba75e(0x270)]();}static[_0x39e977(0x222)](){var _0x506292=_0x39e977;if(_0x4b7730[_0x506292(0x319)]===undefined)_0x4b7730[_0x506292(0x319)]=new _0x4b7730();return _0x4b7730[_0x506292(0x319)];}[_0x39e977(0x270)](){var _0x4999bd=_0x39e977,_0x37ff25=_0x4999bd(0x43a);this[_0x4999bd(0x2d9)]=document[_0x4999bd(0x3ab)]()['createContextualFragment'](_0x37ff25)['children'][0x0];var _0x4deef1=document[_0x4999bd(0x439)]('companydialog');_0x4deef1&&_0x4deef1[_0x4999bd(0x258)][_0x4999bd(0x290)](_0x4deef1);var _0x8938e3=parameter[_0x4999bd(0x21f)],_0x3c6592=this,_0x1a44a0=_0x3c6592[_0x4999bd(0x323)],_0x37ff25=_0x4999bd(0x359)+_0x3c9ad1['Company'][_0x4999bd(0x379)](parameter[_0x4999bd(0x21f)][_0x326d56[_0x4999bd(0x30d)]['productSoldier']]['image'])+_0x4999bd(0x28a)+this[_0x4999bd(0x2f5)]()+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22companydialog-transport\x22>'+this[_0x4999bd(0x411)]()+_0x4999bd(0x1fc)+this[_0x4999bd(0x302)]()+_0x4999bd(0x2dd)+this[_0x4999bd(0x2f7)]()+_0x4999bd(0x27c)+this[_0x4999bd(0x331)]()+_0x4999bd(0x200),_0x16a7e6=document[_0x4999bd(0x3ab)]()[_0x4999bd(0x431)](_0x37ff25)[_0x4999bd(0x2bf)][0x0];this[_0x4999bd(0x2d9)]['removeChild'](this[_0x4999bd(0x2d9)][_0x4999bd(0x2bf)][0x0]),this[_0x4999bd(0x2d9)][_0x4999bd(0x37e)](_0x16a7e6),$('#companydialog-tabs')['tabs']({}),$(_0x4999bd(0x410))[_0x4999bd(0x356)]({'beforeActivate':function(_0x3617c2,_0x1e6835){var _0xb8a778=_0x4999bd;_0x3c6592[_0xb8a778(0x3d3)](_0x3617c2,_0x1e6835);}}),setTimeout(()=>{var _0x4d8924=_0x4999bd;$(_0x4d8924(0x211))[_0x4d8924(0x356)]({}),$(_0x4d8924(0x410))[_0x4d8924(0x356)]({'beforeActivate':function(_0x5e23a7,_0x2ca74b){var _0xace145=_0x4d8924;_0x3c6592[_0xace145(0x3d3)](_0x5e23a7,_0x2ca74b);}});},0x64),document['body']['appendChild'](this[_0x4999bd(0x2d9)]),setTimeout(()=>{var _0x96238f=_0x4999bd;_0x3c6592[_0x96238f(0x444)]();},0x1f4);}['buildTabActivated'](_0x581c22,_0x504b8e){var _0x21deff=_0x39e977,_0x193f4e=parseInt(_0x581c22[_0x21deff(0x284)]['id'][_0x21deff(0x28d)]('_')[0x1])+0x1;this['company'][_0x21deff(0x291)][_0x21deff(0x2ce)][_0x21deff(0x2cc)]<_0x193f4e&&_0x548f1d[_0x21deff(0x229)][_0x21deff(0x30c)]('kann\x20erst\x20ab\x20Level\x20'+(_0x193f4e+0x1)+_0x21deff(0x34b));}[_0x39e977(0x302)](){var _0x3943ec=_0x39e977,_0x334419=this;return'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22info-soldiers\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22add-soldier\x22\x20\x20class=\x22mybutton\x22>+<img\x20src=\x22'+_0x3c9ad1[_0x3943ec(0x2f2)][_0x3943ec(0x379)](parameter[_0x3943ec(0x21f)][_0x326d56[_0x3943ec(0x30d)][_0x3943ec(0x337)]][_0x3943ec(0x387)])+_0x3943ec(0x273)+_0x3c9ad1['Company'][_0x3943ec(0x379)]('Schild.png')+_0x3943ec(0x32c);}[_0x39e977(0x2f7)](){var _0x218d8e=_0x39e977,_0x4bb581=this,_0x3c6a38='',_0x4d3e1c='',_0xbd5e0=[];for(var _0x1c6d39=0x0;_0x1c6d39<parameter['allLevels'][_0x218d8e(0x353)];_0x1c6d39++){_0xbd5e0[_0x218d8e(0x35c)]([]);}for(var _0x1c6d39=0x0;_0x1c6d39<parameter['allProducts']['length'];_0x1c6d39++){var _0x3969a7=parameter[_0x218d8e(0x21f)][_0x1c6d39];_0xbd5e0[_0x3969a7['level']-0x1]['push'](_0x3969a7);}for(var _0x1c6d39=0x0;_0x1c6d39<parameter['allLevels'][_0x218d8e(0x353)];_0x1c6d39++){_0x3c6a38=_0x3c6a38+(_0x218d8e(0x2ec)+_0x1c6d39+_0x218d8e(0x441)+_0x1c6d39+_0x218d8e(0x3f8)+(_0x1c6d39+0x1)+'</a></li>');var _0x9a498f='';for(var _0x43b47b=0x0;_0x43b47b<_0xbd5e0[_0x1c6d39][_0x218d8e(0x353)];_0x43b47b++){var _0x3969a7=_0xbd5e0[_0x1c6d39][_0x43b47b],_0x69e6f6=_0x3969a7['id']===_0x326d56[_0x218d8e(0x30d)]['productGate']?_0x218d8e(0x428):'';_0x9a498f+=_0x218d8e(0x336)+_0x3969a7['id']+'\x22\x20'+_0x69e6f6+(_0x218d8e(0x27f)+_0x3c9ad1['Company'][_0x218d8e(0x379)](_0x3969a7[_0x218d8e(0x387)])+_0x218d8e(0x239)+_0x3969a7[_0x218d8e(0x2cf)]+_0x218d8e(0x41a));}_0x4d3e1c=_0x4d3e1c+(_0x218d8e(0x371)+_0x1c6d39+'\x22>')+_0x9a498f+'</div>';}return _0x218d8e(0x24a)+_0x3c6a38+'</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x4d3e1c+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';}[_0x39e977(0x2f5)](){var _0x1ffc1b=_0x39e977,_0x4b1c4c=this;return _0x1ffc1b(0x27a)+_0x3c9ad1[_0x1ffc1b(0x2f2)][_0x1ffc1b(0x379)](parameter['allProducts'][0x0][_0x1ffc1b(0x387)])+'\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22padding-left:9px\x22>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22'+_0x3c9ad1[_0x1ffc1b(0x2f2)][_0x1ffc1b(0x379)](parameter[_0x1ffc1b(0x21f)][0x0][_0x1ffc1b(0x387)])+_0x1ffc1b(0x35d)+_0x3c9ad1[_0x1ffc1b(0x2f2)]['getImageUrl'](parameter[_0x1ffc1b(0x21f)][0x0][_0x1ffc1b(0x387)])+_0x1ffc1b(0x35d)+_0x3c9ad1['Company'][_0x1ffc1b(0x379)](parameter['allProducts'][0x0][_0x1ffc1b(0x387)])+'\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22padding-left:9px\x22>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22'+_0x3c9ad1[_0x1ffc1b(0x2f2)][_0x1ffc1b(0x379)](parameter[_0x1ffc1b(0x21f)][0x0][_0x1ffc1b(0x387)])+'\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22padding-left:9px\x22>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22'+_0x3c9ad1['Company']['getImageUrl'](parameter[_0x1ffc1b(0x21f)][0x0][_0x1ffc1b(0x387)])+_0x1ffc1b(0x42c)+_0x3c9ad1[_0x1ffc1b(0x2f2)][_0x1ffc1b(0x379)](parameter['allProducts'][0x0][_0x1ffc1b(0x387)])+_0x1ffc1b(0x42c)+_0x3c9ad1['Company'][_0x1ffc1b(0x379)](parameter['allProducts'][0x0][_0x1ffc1b(0x387)])+_0x1ffc1b(0x35d)+_0x3c9ad1[_0x1ffc1b(0x2f2)]['getImageUrl'](parameter['allProducts'][0x0][_0x1ffc1b(0x387)])+_0x1ffc1b(0x35d)+_0x3c9ad1['Company'][_0x1ffc1b(0x379)](parameter[_0x1ffc1b(0x21f)][0x0][_0x1ffc1b(0x387)])+_0x1ffc1b(0x35d)+_0x3c9ad1[_0x1ffc1b(0x2f2)][_0x1ffc1b(0x379)](parameter['allProducts'][0x0]['image'])+_0x1ffc1b(0x35d)+_0x3c9ad1[_0x1ffc1b(0x2f2)][_0x1ffc1b(0x379)](parameter[_0x1ffc1b(0x21f)][0x0]['image'])+'\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22padding-left:9px\x22>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22'+_0x3c9ad1[_0x1ffc1b(0x2f2)][_0x1ffc1b(0x379)](parameter[_0x1ffc1b(0x21f)][0x0][_0x1ffc1b(0x387)])+'\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22padding-left:9px\x22>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22'+_0x3c9ad1[_0x1ffc1b(0x2f2)][_0x1ffc1b(0x379)](parameter[_0x1ffc1b(0x21f)][0x0][_0x1ffc1b(0x387)])+_0x1ffc1b(0x35d)+_0x3c9ad1[_0x1ffc1b(0x2f2)]['getImageUrl'](parameter[_0x1ffc1b(0x21f)][0x0]['image'])+_0x1ffc1b(0x35d)+_0x3c9ad1['Company'][_0x1ffc1b(0x379)](parameter['allProducts'][0x0][_0x1ffc1b(0x387)])+_0x1ffc1b(0x44c)+_0x3c9ad1[_0x1ffc1b(0x2f2)][_0x1ffc1b(0x379)](parameter[_0x1ffc1b(0x21f)][0x0][_0x1ffc1b(0x387)])+'\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22><b><span\x20id=\x22workersOut\x22>1</span></b></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22out-add-worker\x22\x20\x20class=\x22mybutton\x22>&nbsp;+&nbsp;</button>\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22out-remove-worker\x22\x20\x20class=\x22mybutton\x22>&nbsp;-&nbsp;</button>\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';}[_0x39e977(0x331)](){var _0x3b0a08=_0x39e977,_0x2df3ae=this;return _0x3b0a08(0x354)+_0x3c9ad1[_0x3b0a08(0x2f2)]['getImageUrl'](parameter[_0x3b0a08(0x21f)][0x0][_0x3b0a08(0x387)])+_0x3b0a08(0x42c)+_0x3c9ad1[_0x3b0a08(0x2f2)][_0x3b0a08(0x379)](parameter[_0x3b0a08(0x21f)][0x0][_0x3b0a08(0x387)])+'\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22padding-left:9px\x22>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22'+_0x3c9ad1['Company'][_0x3b0a08(0x379)](parameter['allProducts'][0x0]['image'])+_0x3b0a08(0x35d)+_0x3c9ad1[_0x3b0a08(0x2f2)][_0x3b0a08(0x379)](parameter['allProducts'][0x0][_0x3b0a08(0x387)])+_0x3b0a08(0x35d)+_0x3c9ad1['Company'][_0x3b0a08(0x379)](parameter[_0x3b0a08(0x21f)][0x0][_0x3b0a08(0x387)])+_0x3b0a08(0x42c)+_0x3c9ad1['Company']['getImageUrl'](parameter[_0x3b0a08(0x21f)][0x0]['image'])+'\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22padding-left:9px\x22>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22'+_0x3c9ad1['Company'][_0x3b0a08(0x379)](parameter['allProducts'][0x0][_0x3b0a08(0x387)])+'\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22padding-left:9px\x22>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22'+_0x3c9ad1[_0x3b0a08(0x2f2)][_0x3b0a08(0x379)](parameter[_0x3b0a08(0x21f)][0x0]['image'])+'\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22padding-left:9px\x22>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22'+_0x3c9ad1[_0x3b0a08(0x2f2)][_0x3b0a08(0x379)](parameter['allProducts'][0x0][_0x3b0a08(0x387)])+_0x3b0a08(0x35d)+_0x3c9ad1[_0x3b0a08(0x2f2)]['getImageUrl'](parameter['allProducts'][0x0][_0x3b0a08(0x387)])+'\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22padding-left:9px\x22>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22'+_0x3c9ad1['Company'][_0x3b0a08(0x379)](parameter[_0x3b0a08(0x21f)][0x0]['image'])+_0x3b0a08(0x35d)+_0x3c9ad1['Company']['getImageUrl'](parameter['allProducts'][0x0][_0x3b0a08(0x387)])+_0x3b0a08(0x35d)+_0x3c9ad1[_0x3b0a08(0x2f2)][_0x3b0a08(0x379)](parameter[_0x3b0a08(0x21f)][0x0]['image'])+'\x22\x20width=\x2220\x22\x20height=\x2220\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20\x20style=\x22text-align:right;\x22>0/0</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22padding-left:9px\x22>Mehl</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><img\x20src=\x22'+_0x3c9ad1[_0x3b0a08(0x2f2)][_0x3b0a08(0x379)](parameter[_0x3b0a08(0x21f)][0x0][_0x3b0a08(0x387)])+_0x3b0a08(0x35d)+_0x3c9ad1['Company']['getImageUrl'](parameter[_0x3b0a08(0x21f)][0x0]['image'])+_0x3b0a08(0x35d)+_0x3c9ad1[_0x3b0a08(0x2f2)][_0x3b0a08(0x379)](parameter[_0x3b0a08(0x21f)][0x0][_0x3b0a08(0x387)])+_0x3b0a08(0x380);}['createTransportTab'](){var _0x2113d8=_0x39e977,_0x4a3129=this;return _0x2113d8(0x2ba)+_0x222d2d[_0x2113d8(0x293)]['up']+_0x2113d8(0x395)+_0x222d2d['Icons'][_0x2113d8(0x464)]+_0x2113d8(0x317)+_0x222d2d[_0x2113d8(0x293)][_0x2113d8(0x259)]+_0x2113d8(0x3fa)+_0x222d2d[_0x2113d8(0x293)][_0x2113d8(0x3da)]+_0x2113d8(0x29e);}['bindActions'](){var _0x39e56b=_0x39e977,_0x441e23=this;document['getElementById'](_0x39e56b(0x38a))[_0x39e56b(0x3f9)](_0x39e56b(0x1f2),_0x4fd8dd=>{var _0x4fc0df=_0x39e56b;for(var _0x4375bc=0x0;_0x4375bc<parameter[_0x4fc0df(0x32e)];_0x4375bc++){if(this[_0x4fc0df(0x323)][_0x4fc0df(0x440)]+(this['company'][_0x4fc0df(0x366)]?this['company'][_0x4fc0df(0x366)]:0x0)<this[_0x4fc0df(0x323)][_0x4fc0df(0x25a)]())_0x441e23[_0x4fc0df(0x323)][_0x4fc0df(0x1f5)](_0x4fc0df(0x440));}}),document[_0x39e56b(0x439)](_0x39e56b(0x2a4))['addEventListener'](_0x39e56b(0x1f2),_0x3a1b18=>{var _0x40fd94=_0x39e56b;_0x441e23[_0x40fd94(0x323)]['removeWorker'](_0x40fd94(0x440));}),document[_0x39e56b(0x439)](_0x39e56b(0x206))[_0x39e56b(0x3f9)](_0x39e56b(0x1f2),_0x31a81b=>{var _0x483625=_0x39e56b,_0x4e77c4=!![];if(_0x441e23[_0x483625(0x323)]['workersComming']||_0x441e23[_0x483625(0x323)][_0x483625(0x221)]||this[_0x483625(0x323)][_0x483625(0x219)])_0x4e77c4=![];_0x441e23[_0x483625(0x323)][_0x483625(0x2b6)][_0x483625(0x2dc)](_0x3b76e0=>{var _0x2fbcf3=_0x483625;if(_0x3b76e0[_0x2fbcf3(0x366)])_0x4e77c4=![];});if(!_0x4e77c4){alert(_0x483625(0x3ee));return;}if(_0x441e23[_0x483625(0x323)][_0x483625(0x2e7)]!==-0x1&&parameter[_0x483625(0x21f)][_0x441e23[_0x483625(0x323)][_0x483625(0x2e7)]][_0x483625(0x2cc)]===0x1&&_0x441e23[_0x483625(0x323)][_0x483625(0x291)][_0x483625(0x451)](_0x441e23[_0x483625(0x323)][_0x483625(0x2e7)])[_0x483625(0x353)]===0x1){alert(_0x483625(0x22c));return;}_0x441e23['company'][_0x483625(0x29a)]();}),document[_0x39e56b(0x439)]('in-add-worker')[_0x39e56b(0x3f9)](_0x39e56b(0x1f2),_0x554e8c=>{var _0x31c0b3=_0x39e56b;for(var _0x1c9c32=0x0;_0x1c9c32<parameter[_0x31c0b3(0x32e)];_0x1c9c32++){if(_0x441e23['company']['workersIn']+(_0x441e23['company'][_0x31c0b3(0x221)]?_0x441e23[_0x31c0b3(0x323)][_0x31c0b3(0x221)]:0x0)<_0x441e23[_0x31c0b3(0x323)][_0x31c0b3(0x25a)]())_0x441e23[_0x31c0b3(0x323)][_0x31c0b3(0x1f5)](_0x31c0b3(0x2c2));}}),document[_0x39e56b(0x439)](_0x39e56b(0x41c))[_0x39e56b(0x3f9)](_0x39e56b(0x1f2),_0x17612c=>{var _0x5b84ed=_0x39e56b;_0x441e23[_0x5b84ed(0x323)]['removeWorker']('workersIn');}),document['getElementById'](_0x39e56b(0x29d))[_0x39e56b(0x3f9)](_0x39e56b(0x1f2),_0x376270=>{var _0x14678=_0x39e56b;for(var _0x391f7b=0x0;_0x391f7b<parameter[_0x14678(0x32e)];_0x391f7b++){if(_0x441e23['company'][_0x14678(0x2c7)]+(_0x441e23[_0x14678(0x323)][_0x14678(0x219)]?_0x441e23['company'][_0x14678(0x219)]:0x0)<_0x441e23[_0x14678(0x323)][_0x14678(0x25a)]())_0x441e23[_0x14678(0x323)][_0x14678(0x1f5)](_0x14678(0x2c7));}}),document[_0x39e56b(0x439)](_0x39e56b(0x254))[_0x39e56b(0x3f9)](_0x39e56b(0x1f2),_0x140424=>{var _0x3d489f=_0x39e56b;_0x441e23[_0x3d489f(0x323)]['removeWorker']('workersOut');}),document[_0x39e56b(0x439)]('transport-add-worker')[_0x39e56b(0x3f9)](_0x39e56b(0x1f2),_0x4fdc94=>{var _0x9949e5=_0x39e56b,_0x1ce71b=_0x441e23[_0x9949e5(0x2db)]();for(var _0x5a8494=0x0;_0x5a8494<parameter[_0x9949e5(0x32e)];_0x5a8494++){if(_0x1ce71b['workers']+(_0x1ce71b[_0x9949e5(0x366)]?_0x1ce71b[_0x9949e5(0x366)]:0x0)<_0x441e23['company'][_0x9949e5(0x25a)]())_0x441e23[_0x9949e5(0x323)][_0x9949e5(0x1f5)](_0x1ce71b);}_0x441e23[_0x9949e5(0x3b5)]();}),document[_0x39e56b(0x439)](_0x39e56b(0x2be))[_0x39e56b(0x3f9)](_0x39e56b(0x1f2),_0x389ad9=>{var _0x438c02=_0x39e56b,_0x2fa069=this['getSelectedTransport']();_0x441e23[_0x438c02(0x323)][_0x438c02(0x381)](_0x2fa069);}),document[_0x39e56b(0x439)](_0x39e56b(0x3a4))[_0x39e56b(0x3f9)](_0x39e56b(0x1f2),_0x6a74a7=>{var _0x2ca62a=_0x39e56b,_0x50d048=this[_0x2ca62a(0x2db)]();while(_0x50d048['workers']>0x0){_0x441e23[_0x2ca62a(0x323)][_0x2ca62a(0x381)](_0x50d048);}_0x50d048[_0x2ca62a(0x29a)](_0x441e23[_0x2ca62a(0x323)][_0x2ca62a(0x2b6)]);}),document[_0x39e56b(0x439)](_0x39e56b(0x3f6))[_0x39e56b(0x3f9)](_0x39e56b(0x1f2),_0x93cc97=>{var _0x4cbbb6=_0x39e56b,_0x2109ec=new _0x304c7c[(_0x4cbbb6(0x36f))](this[_0x4cbbb6(0x323)]);_0x2109ec[_0x4cbbb6(0x388)]=!![],_0x2109ec[_0x4cbbb6(0x3c3)]();(_0x441e23[_0x4cbbb6(0x323)][_0x4cbbb6(0x2e7)]===_0x326d56[_0x4cbbb6(0x30d)][_0x4cbbb6(0x286)]||_0x441e23['company'][_0x4cbbb6(0x2e7)]===_0x326d56[_0x4cbbb6(0x30d)][_0x4cbbb6(0x43f)])&&(_0x2109ec['autodeliver']=!![]);this[_0x4cbbb6(0x323)]['transports'][_0x4cbbb6(0x35c)](_0x2109ec);if(_0x2109ec)_0x441e23[_0x4cbbb6(0x323)][_0x4cbbb6(0x1f5)](_0x2109ec);_0x441e23[_0x4cbbb6(0x3b5)]();}),document[_0x39e56b(0x439)]('add-soldier')[_0x39e56b(0x3f9)](_0x39e56b(0x1f2),_0x508dda=>{var _0x206d13=_0x39e56b,_0x2e3c09=(_0x294cc4,_0x15414b,_0x2fce8e)=>{setTimeout(()=>{var _0x27db90=a0_0x3c91;_0x294cc4[_0x27db90(0x2f4)]=_0x2fce8e,_0x294cc4[_0x27db90(0x388)]=!![];},_0x15414b);},_0x43b3fa=_0x441e23[_0x206d13(0x323)]['enemy']!==undefined?_0x441e23[_0x206d13(0x323)]:undefined,_0x4deca4=_0x441e23[_0x206d13(0x323)]['world']['findSoldier'](_0x43b3fa);if(_0x4deca4===undefined){_0x548f1d[_0x206d13(0x229)][_0x206d13(0x30c)]('Kein\x20Turm\x20oder\x20Burg\x20mit\x20Soldaten\x20in\x20der\x20Nähe\x20für\x20Angriff.');return;}if(_0x441e23[_0x206d13(0x323)][_0x206d13(0x2e0)]===undefined||isNaN(_0x441e23[_0x206d13(0x323)]['soldiersComing']))_0x441e23[_0x206d13(0x323)][_0x206d13(0x2e0)]=0x0;var _0x5c2611=0x0;if(_0x4deca4)_0x5c2611=Math[_0x206d13(0x3e8)](_0x43b3fa?_0x4deca4['soldiercount']:_0x4deca4[_0x206d13(0x2a7)],_0x441e23[_0x206d13(0x323)][_0x206d13(0x40f)]()-_0x441e23[_0x206d13(0x323)]['soldiercount']-_0x441e23[_0x206d13(0x323)][_0x206d13(0x2e0)]);if(this['company']['enemy']!==undefined)_0x5c2611=_0x4deca4[_0x206d13(0x372)];_0x5c2611=Math[_0x206d13(0x3e8)](_0x5c2611,parameter[_0x206d13(0x288)]);if(_0x5c2611===0x0||isNaN(_0x5c2611))return;var _0x175750=this[_0x206d13(0x323)][_0x206d13(0x291)][_0x206d13(0x24e)][_0x206d13(0x2e4)](this[_0x206d13(0x323)]);_0x175750!==-0x1&&(this[_0x206d13(0x323)][_0x206d13(0x291)][_0x206d13(0x24e)][_0x206d13(0x2c1)](_0x175750,0x1),this[_0x206d13(0x323)][_0x206d13(0x291)][_0x206d13(0x23d)]['push'](this[_0x206d13(0x323)]));this['company'][_0x206d13(0x2e7)]==-0x2&&(this[_0x206d13(0x323)][_0x206d13(0x2e7)]=-0x3,_0x441e23[_0x206d13(0x323)][_0x206d13(0x37a)]['src']=_0x3c9ad1[_0x206d13(0x2f2)][_0x206d13(0x379)]('Attacke.png'));if(_0x43b3fa)_0x4deca4[_0x206d13(0x372)]-=_0x5c2611;else _0x4deca4['produced']-=_0x5c2611;var _0x3a3618=0x0,_0x135738=_0x5c2611;_0x135738>0x28&&(_0x135738=0x28,_0x3a3618=_0x5c2611-0x28+0x1);for(var _0x36a983=0x0;_0x36a983<_0x135738;_0x36a983++){var _0xe6fab2=new _0x304c7c['Transport'](_0x4deca4);_0xe6fab2[_0x206d13(0x327)]=_0x441e23[_0x206d13(0x323)][_0x206d13(0x2cb)],_0xe6fab2[_0x206d13(0x440)]=0x1;var _0x588c28=_0x36a983===0x0&&_0x3a3618?_0x3a3618:0x1;if(this[_0x206d13(0x323)]['enemy']!==undefined){if(_0x441e23[_0x206d13(0x323)]['enemiesComming']===undefined)_0x441e23[_0x206d13(0x323)][_0x206d13(0x407)]=0x0;_0x441e23[_0x206d13(0x323)]['enemiesComming']+=_0x588c28;}else _0x441e23[_0x206d13(0x323)][_0x206d13(0x2e0)]+=_0x588c28;_0xe6fab2['transferInfo']={'productid':_0x326d56[_0x206d13(0x30d)][_0x206d13(0x337)]},_0xe6fab2[_0x206d13(0x3c3)](),_0x2e3c09(_0xe6fab2,_0x36a983*0x64,_0x588c28),_0x4deca4[_0x206d13(0x2b6)]['push'](_0xe6fab2);}_0x441e23[_0x206d13(0x3b5)](!![]);}),document['getElementById']('add-defense')[_0x39e56b(0x3f9)](_0x39e56b(0x1f2),_0xd4f10d=>{var _0x36c349=_0x39e56b,_0x4357fd=(_0x200d16,_0xdd083c,_0x3781a8)=>{setTimeout(()=>{var _0x2395a0=a0_0x3c91;_0x200d16[_0x2395a0(0x2f4)]=_0x3781a8,_0x200d16['active']=!![];},_0xdd083c);},_0x3238be=_0x441e23[_0x36c349(0x323)],_0x9918f=_0x441e23[_0x36c349(0x323)][_0x36c349(0x291)][_0x36c349(0x260)](_0x3238be);if(_0x9918f===undefined){_0x548f1d[_0x36c349(0x229)]['showInfo'](_0x36c349(0x213));return;}if(_0x441e23[_0x36c349(0x323)][_0x36c349(0x2e0)]===undefined||isNaN(_0x441e23[_0x36c349(0x323)][_0x36c349(0x2e0)]))_0x441e23[_0x36c349(0x323)][_0x36c349(0x2e0)]=0x0;var _0x4ba35=0x0;if(_0x9918f)_0x4ba35=Math[_0x36c349(0x3e8)](_0x3238be?_0x9918f[_0x36c349(0x372)]:_0x9918f[_0x36c349(0x2a7)],_0x441e23[_0x36c349(0x323)][_0x36c349(0x40f)]()-_0x441e23['company']['soldiercount']-_0x441e23['company'][_0x36c349(0x2e0)]);_0x4ba35=Math[_0x36c349(0x3e8)](_0x4ba35,parameter[_0x36c349(0x288)]);if(_0x4ba35===0x0||isNaN(_0x4ba35))return;var _0x32b4f2=this['company']['world'][_0x36c349(0x24e)][_0x36c349(0x2e4)](this['company']);_0x9918f[_0x36c349(0x372)]-=_0x4ba35;var _0x463d16=0x0,_0x5f0022=_0x4ba35;_0x5f0022>0x28&&(_0x5f0022=0x28,_0x463d16=_0x4ba35-0x28+0x1);for(var _0x17f7b3=0x0;_0x17f7b3<_0x5f0022;_0x17f7b3++){var _0x5d64ec=new _0x304c7c[(_0x36c349(0x36f))](_0x9918f);_0x5d64ec[_0x36c349(0x327)]=_0x441e23['company']['companyID'],_0x5d64ec[_0x36c349(0x440)]=0x1;var _0xf597e7=_0x17f7b3===0x0&&_0x463d16?_0x463d16:0x1;_0x441e23[_0x36c349(0x323)][_0x36c349(0x2e0)]+=_0xf597e7,_0x5d64ec[_0x36c349(0x238)]={'productid':_0x326d56[_0x36c349(0x30d)][_0x36c349(0x337)]},_0x5d64ec[_0x36c349(0x3c3)](),_0x4357fd(_0x5d64ec,_0x17f7b3*0x64,_0xf597e7),_0x9918f[_0x36c349(0x2b6)][_0x36c349(0x35c)](_0x5d64ec);}_0x441e23['update'](!![]);});for(var _0x349e37=0x0;_0x349e37<parameter[_0x39e56b(0x21f)][_0x39e56b(0x353)];_0x349e37++){document[_0x39e56b(0x439)](_0x39e56b(0x276)+_0x349e37)['addEventListener'](_0x39e56b(0x1f2),_0x1cc91f=>{var _0x3b54a5=_0x39e56b,_0x25cd49=parseInt(_0x1cc91f['currentTarget']['id'][_0x3b54a5(0x28d)]('_')[0x1]),_0x13aadc='',_0x240b09=parameter[_0x3b54a5(0x21f)][_0x25cd49][_0x3b54a5(0x2cc)];if(_0x25cd49===_0x326d56[_0x3b54a5(0x30d)][_0x3b54a5(0x287)])_0x240b09=0xf;if(_0x25cd49===_0x326d56[_0x3b54a5(0x30d)][_0x3b54a5(0x443)])_0x240b09=0x32;var _0x156db4=_0x441e23[_0x3b54a5(0x433)](_0x326d56[_0x3b54a5(0x30d)][_0x3b54a5(0x43f)],_0x240b09);if(_0x441e23[_0x3b54a5(0x323)][_0x3b54a5(0x291)][_0x3b54a5(0x455)]()[_0x3b54a5(0x353)]>_0x441e23[_0x3b54a5(0x323)][_0x3b54a5(0x291)][_0x3b54a5(0x2ce)][_0x3b54a5(0x20b)]()[_0x3b54a5(0x459)])_0x13aadc=_0x3b54a5(0x209);if(!_0x156db4)_0x13aadc=_0x3b54a5(0x2e8)+_0x240b09+_0x3b54a5(0x335)+_0x240b09+_0x3b54a5(0x447);var _0x1f0d8f=this[_0x3b54a5(0x433)](_0x326d56[_0x3b54a5(0x30d)][_0x3b54a5(0x286)],_0x240b09);if(!_0x1f0d8f)_0x13aadc+='Kein\x20'+_0x240b09+_0x3b54a5(0x32f)+_0x240b09+'\x20Stein\x20transportieren\x20kann.';if(this['company']['productid']!==-0x1)_0x13aadc='das\x20Gebiet\x20muss\x20entweder\x20erobert\x20werden\x20oder\x20ist\x20bereits\x20bebaut.';if(_0x13aadc!==''){_0x548f1d[_0x3b54a5(0x229)][_0x3b54a5(0x30c)](_0x13aadc);return;}else{_0x441e23[_0x3b54a5(0x323)]['buildingInProgress']=_0x25cd49;var _0xb813a7={'productid':_0x25cd49};_0x441e23['company'][_0x3b54a5(0x409)]=_0x240b09,_0x441e23[_0x3b54a5(0x323)][_0x3b54a5(0x3d1)]=_0x240b09,_0x1f0d8f[_0x3b54a5(0x327)]=_0x441e23['company'][_0x3b54a5(0x2cb)],_0x1f0d8f[_0x3b54a5(0x388)]=!![],_0x1f0d8f[_0x3b54a5(0x238)]=_0xb813a7,_0x156db4[_0x3b54a5(0x327)]=_0x441e23[_0x3b54a5(0x323)][_0x3b54a5(0x2cb)],_0x156db4[_0x3b54a5(0x388)]=!![],_0x156db4['transferInfo']=_0xb813a7;}});}document[_0x39e56b(0x439)](_0x39e56b(0x2d4))[_0x39e56b(0x3f9)](_0x39e56b(0x1f2),_0x1e8b6e=>{var _0x4d1bf3=_0x39e56b,_0x5bc66c=_0x1e8b6e[_0x4d1bf3(0x232)];if(_0x5bc66c[_0x4d1bf3(0x417)]==='UL')return;var _0x57f957=document['getElementById'](_0x4d1bf3(0x2d4));for(var _0xc3ecb9=0x0;_0xc3ecb9<_0x57f957[_0x4d1bf3(0x2bf)][_0x4d1bf3(0x353)];_0xc3ecb9++){_0x57f957[_0x4d1bf3(0x2bf)][_0xc3ecb9][_0x4d1bf3(0x1e2)][_0x4d1bf3(0x3da)](_0x4d1bf3(0x2bd));}_0x5bc66c['classList'][_0x4d1bf3(0x419)]('active-listitem');var _0x1db21f=_0x5bc66c['getAttribute'](_0x4d1bf3(0x44b)),_0x40d54f=_0x441e23[_0x4d1bf3(0x2db)](),_0x3c4b96=parseInt(_0x1db21f);_0x40d54f[_0x4d1bf3(0x204)](_0x3c4b96),_0x441e23[_0x4d1bf3(0x3b5)]();}),document[_0x39e56b(0x439)](_0x39e56b(0x3b4))[_0x39e56b(0x3f9)](_0x39e56b(0x1f2),_0x46431c=>{var _0xcc1cd9=_0x39e56b,_0x4e9c9f=_0x46431c[_0xcc1cd9(0x232)];if(_0x4e9c9f[_0xcc1cd9(0x417)]==='UL')return;if(_0x4e9c9f[_0xcc1cd9(0x258)][_0xcc1cd9(0x417)]=='LI')_0x4e9c9f=_0x4e9c9f[_0xcc1cd9(0x258)];else{if(_0x4e9c9f[_0xcc1cd9(0x258)][_0xcc1cd9(0x258)]['tagName']=='LI')_0x4e9c9f=_0x4e9c9f['parentNode'][_0xcc1cd9(0x258)];}var _0x3cf5c2=document[_0xcc1cd9(0x439)](_0xcc1cd9(0x3b4));for(var _0x3d35de=0x0;_0x3d35de<_0x3cf5c2[_0xcc1cd9(0x2bf)][_0xcc1cd9(0x353)];_0x3d35de++){_0x3cf5c2[_0xcc1cd9(0x2bf)][_0x3d35de][_0xcc1cd9(0x1e2)][_0xcc1cd9(0x3da)](_0xcc1cd9(0x2bd));}_0x4e9c9f['classList'][_0xcc1cd9(0x419)](_0xcc1cd9(0x2bd)),_0x4e9c9f['scrollIntoView'](),_0x441e23[_0xcc1cd9(0x3b5)]();});}['selectCompanyIfNeeded'](_0x57988d){var _0x547209=_0x39e977,_0x21c81c=document[_0x547209(0x439)](_0x547209(0x2d4));for(var _0x3fd302=0x0;_0x3fd302<_0x21c81c[_0x547209(0x2bf)][_0x547209(0x353)];_0x3fd302++){var _0x2096f7=parseInt(_0x21c81c[_0x547209(0x2bf)][_0x3fd302][_0x547209(0x3a8)](_0x547209(0x44b)));_0x2096f7===_0x57988d&&!_0x21c81c[_0x547209(0x2bf)][_0x3fd302][_0x547209(0x1e2)][_0x547209(0x328)](_0x547209(0x2bd))&&(_0x21c81c[_0x547209(0x2bf)][_0x3fd302]['classList'][_0x547209(0x419)]('active-listitem'),_0x21c81c[_0x547209(0x2bf)][_0x3fd302][_0x547209(0x3ba)]());if(_0x2096f7!==_0x57988d&&_0x21c81c[_0x547209(0x2bf)][_0x3fd302]['classList'][_0x547209(0x328)](_0x547209(0x2bd)))_0x21c81c[_0x547209(0x2bf)][_0x3fd302]['classList'][_0x547209(0x3da)](_0x547209(0x2bd));}}[_0x39e977(0x2db)](){var _0x599b5a=_0x39e977,_0x49880e=document['getElementById'](_0x599b5a(0x3b4));for(var _0x56b2a0=0x0;_0x56b2a0<_0x49880e['children']['length'];_0x56b2a0++){if(_0x49880e[_0x599b5a(0x2bf)][_0x56b2a0]['classList'][_0x599b5a(0x328)](_0x599b5a(0x2bd))){var _0x4f07c9=_0x49880e[_0x599b5a(0x2bf)][_0x56b2a0]['getAttribute'](_0x599b5a(0x44b)),_0x23a799=parseInt(_0x4f07c9===''?'-1':_0x4f07c9);return this[_0x599b5a(0x323)]['transports'][_0x23a799];}}return undefined;}[_0x39e977(0x433)](_0x4a7b2d,_0x5c5337){var _0x105cf2=_0x39e977,_0x28f3d5=this[_0x105cf2(0x323)][_0x105cf2(0x291)][_0x105cf2(0x451)](_0x4a7b2d);for(var _0x183646=0x0;_0x183646<_0x28f3d5[_0x105cf2(0x353)];_0x183646++){for(var _0x1695e5=0x0;_0x1695e5<_0x28f3d5[_0x183646][_0x105cf2(0x2b6)][_0x105cf2(0x353)];_0x1695e5++){var _0x382158=_0x28f3d5[_0x183646][_0x105cf2(0x2b6)][_0x1695e5];if(_0x382158[_0x105cf2(0x327)]===undefined&&_0x382158[_0x105cf2(0x3ce)]&&_0x382158[_0x105cf2(0x2f4)]>=_0x5c5337)return _0x382158;}}return undefined;}[_0x39e977(0x3bd)](){var _0x1d8947=_0x39e977;for(var _0x26d149=0x0;_0x26d149<parameter[_0x1d8947(0x21f)]['length'];_0x26d149++){var _0x25816d=document[_0x1d8947(0x439)]('companydialog-build-product_'+_0x26d149),_0x1b1746=parameter[_0x1d8947(0x21f)][_0x26d149];if(this[_0x1d8947(0x323)]['world']['game'][_0x1d8947(0x2cc)]>=_0x1b1746['level']&&this['company'][_0x1d8947(0x291)][_0x1d8947(0x451)](_0x1b1746['id'],!![])[_0x1d8947(0x353)]<this[_0x1d8947(0x323)]['world'][_0x1d8947(0x2ce)][_0x1d8947(0x20b)]()[_0x1d8947(0x20f)]&&_0x25816d[_0x1d8947(0x1ef)])_0x25816d[_0x1d8947(0x1ef)]=![];else(this['company'][_0x1d8947(0x291)]['game'][_0x1d8947(0x2cc)]<_0x1b1746[_0x1d8947(0x2cc)]||this[_0x1d8947(0x323)][_0x1d8947(0x291)][_0x1d8947(0x451)](_0x1b1746['id'],!![])[_0x1d8947(0x353)]>=this[_0x1d8947(0x323)][_0x1d8947(0x291)][_0x1d8947(0x2ce)][_0x1d8947(0x20b)]()[_0x1d8947(0x20f)])&&_0x25816d[_0x1d8947(0x1ef)]===![]&&(_0x25816d[_0x1d8947(0x1ef)]=!![]);}}[_0x39e977(0x1ff)](){var _0x4bf155=_0x39e977,_0x53d26b=document[_0x4bf155(0x439)](_0x4bf155(0x3b4));if(_0x53d26b['children'][_0x4bf155(0x353)]!==this[_0x4bf155(0x323)][_0x4bf155(0x2b6)]['length']){var _0xebdd1b='';for(var _0x3dfb8b=0x0;_0x3dfb8b<this[_0x4bf155(0x323)][_0x4bf155(0x2b6)][_0x4bf155(0x353)];_0x3dfb8b++){_0xebdd1b=_0xebdd1b+'<li\x20value=\x22'+_0x3dfb8b+_0x4bf155(0x267);}_0x53d26b[_0x4bf155(0x255)]=_0xebdd1b;}for(var _0x3dfb8b=0x0;_0x3dfb8b<this[_0x4bf155(0x323)][_0x4bf155(0x2b6)]['length'];_0x3dfb8b++){var _0xebdd1b='',_0x157714=this[_0x4bf155(0x323)][_0x4bf155(0x2b6)][_0x3dfb8b],_0x1d9d1a=this[_0x4bf155(0x323)][_0x4bf155(0x291)][_0x4bf155(0x3c9)][_0x157714===null||_0x157714===void 0x0?void 0x0:_0x157714[_0x4bf155(0x327)]],_0x3419f2=parameter[_0x4bf155(0x21f)][_0x1d9d1a===null||_0x1d9d1a===void 0x0?void 0x0:_0x1d9d1a[_0x4bf155(0x2e7)]],_0x57891a=_0x157714[_0x4bf155(0x2f4)]+'/'+_0x157714[_0x4bf155(0x305)]();_0xebdd1b=_0xebdd1b+_0x4bf155(0x2a2)+_0x3c9ad1['Company'][_0x4bf155(0x379)]((_0x3419f2===null||_0x3419f2===void 0x0?void 0x0:_0x3419f2[_0x4bf155(0x387)])===undefined?_0x4bf155(0x32d):_0x3419f2[_0x4bf155(0x387)])+_0x4bf155(0x3c2)+_0x157714[_0x4bf155(0x31b)]()+'\x20'+_0x4bf155(0x31e)+_0x57891a+(_0x157714[_0x4bf155(0x366)]?'+'+_0x157714[_0x4bf155(0x366)]:'')+_0x4bf155(0x2d2);var _0x595486=_0x53d26b['children'][_0x3dfb8b];if(_0x595486[_0x4bf155(0x255)]!==_0xebdd1b)_0x595486[_0x4bf155(0x255)]=_0xebdd1b;}var _0x3b3893=document['getElementById']('companydialog-transport-productlist'),_0xebdd1b='',_0x2602d3=this[_0x4bf155(0x323)][_0x4bf155(0x291)][_0x4bf155(0x43c)](this[_0x4bf155(0x323)][_0x4bf155(0x2e7)]);for(var _0x3dfb8b=0x0;_0x3dfb8b<_0x2602d3[_0x4bf155(0x353)];_0x3dfb8b++){var _0x5d3442=_0x2602d3[_0x3dfb8b],_0x3419f2=parameter[_0x4bf155(0x21f)][_0x5d3442[_0x4bf155(0x2e7)]];_0xebdd1b=_0xebdd1b+_0x4bf155(0x3b8)+_0x5d3442['companyID']+'\x22\x20class=\x22\x22><img\x20src=\x22'+_0x3c9ad1['Company'][_0x4bf155(0x379)]((_0x3419f2===null||_0x3419f2===void 0x0?void 0x0:_0x3419f2[_0x4bf155(0x387)])===undefined?_0x4bf155(0x32d):_0x3419f2[_0x4bf155(0x387)])+(_0x4bf155(0x3c2)+_0x5d3442[_0x4bf155(0x2cf)]+_0x4bf155(0x45d));}if((_0x157714===null||_0x157714===void 0x0?void 0x0:_0x157714['getName']())==='Bautransport')_0xebdd1b+=_0x4bf155(0x35e);else _0xebdd1b+=_0x4bf155(0x240);_0x3b3893[_0x4bf155(0x255)]['replace']('active-listitem','')!==_0xebdd1b&&(_0x3b3893[_0x4bf155(0x255)]=_0xebdd1b);var _0x30b5f6=this['getSelectedTransport']();_0x30b5f6===undefined?(document[_0x4bf155(0x439)](_0x4bf155(0x369))[_0x4bf155(0x2a8)]('hidden',''),document[_0x4bf155(0x439)]('companydialog-transport-productlist')[_0x4bf155(0x2a8)](_0x4bf155(0x428),''),document[_0x4bf155(0x439)](_0x4bf155(0x45a))['setAttribute']('hidden',''),document['getElementById'](_0x4bf155(0x297))[_0x4bf155(0x2a8)](_0x4bf155(0x428),''),document[_0x4bf155(0x439)](_0x4bf155(0x344))[_0x4bf155(0x2a8)](_0x4bf155(0x428),''),document[_0x4bf155(0x439)]('transport-remove-worker')[_0x4bf155(0x2a8)](_0x4bf155(0x428),''),document[_0x4bf155(0x439)]('transport-del')['setAttribute'](_0x4bf155(0x428),'')):(document[_0x4bf155(0x439)](_0x4bf155(0x369))['removeAttribute'](_0x4bf155(0x428)),document[_0x4bf155(0x439)](_0x4bf155(0x2d4))[_0x4bf155(0x3c7)](_0x4bf155(0x428)),document[_0x4bf155(0x439)]('transport-up')[_0x4bf155(0x3c7)](_0x4bf155(0x428)),document[_0x4bf155(0x439)](_0x4bf155(0x297))[_0x4bf155(0x3c7)](_0x4bf155(0x428)),document[_0x4bf155(0x439)]('transport-add-worker')[_0x4bf155(0x3c7)](_0x4bf155(0x428)),document[_0x4bf155(0x439)](_0x4bf155(0x2be))[_0x4bf155(0x3c7)](_0x4bf155(0x428)),document[_0x4bf155(0x439)](_0x4bf155(0x3a4))[_0x4bf155(0x3c7)]('hidden'));if(this[_0x4bf155(0x323)][_0x4bf155(0x291)][_0x4bf155(0x2a9)]%0x5===0x0){var _0x121a18=_0x30b5f6===null||_0x30b5f6===void 0x0?void 0x0:_0x30b5f6[_0x4bf155(0x327)];if(_0x121a18===undefined)_0x121a18=-0x1;this[_0x4bf155(0x215)](_0x121a18);}var _0x4ac371=this[_0x4bf155(0x2db)]();if(_0x4ac371){if(document['getElementById'](_0x4bf155(0x344))[_0x4bf155(0x1ef)]!==_0x4ac371[_0x4bf155(0x440)]+(_0x4ac371[_0x4bf155(0x366)]?_0x4ac371[_0x4bf155(0x366)]:0x0)>=this[_0x4bf155(0x323)][_0x4bf155(0x25a)]())document[_0x4bf155(0x439)](_0x4bf155(0x344))[_0x4bf155(0x1ef)]=_0x4ac371[_0x4bf155(0x440)]+(_0x4ac371[_0x4bf155(0x366)]?_0x4ac371[_0x4bf155(0x366)]:0x0)>=this[_0x4bf155(0x323)][_0x4bf155(0x25a)]();}}['updateGate'](){var _0x55e019=_0x39e977,_0x41b1da=this[_0x55e019(0x323)][_0x55e019(0x291)][_0x55e019(0x41d)](this['company'][_0x55e019(0x291)][_0x55e019(0x2ce)][_0x55e019(0x2cc)],!![]),_0x26d71e='';for(var _0x556048=0x0;_0x556048<_0x41b1da[_0x55e019(0x353)];_0x556048++){var _0x53dcdf=_0x41b1da[_0x556048];_0x26d71e+=_0x55e019(0x2a2)+_0x3c9ad1['Company'][_0x55e019(0x379)](_0x53dcdf['image'])+_0x55e019(0x20c);}var _0x1b0b83;_0x1b0b83=_0x55e019(0x362);if(_0x26d71e!=='')_0x1b0b83+=_0x55e019(0x33f)+_0x26d71e+_0x55e019(0x1da);var _0x11dae9=document[_0x55e019(0x439)]('companydialog-gate-table'),_0x53dcdf=parameter[_0x55e019(0x21f)][this[_0x55e019(0x323)]['productid']],_0x122845=!![];for(var _0x556048=0x0;_0x556048<this['company']['rawmaterials'][_0x55e019(0x353)];_0x556048++){var _0xf2055b=_0x11dae9['children'][0x0]['children'][_0x556048];if(_0xf2055b['hasAttribute'](_0x55e019(0x428)))_0xf2055b[_0x55e019(0x3c7)]('hidden');var _0x3a0954=parameter[_0x55e019(0x21f)][_0x53dcdf['consume'][_0x556048]],_0x4cf7c2=_0x3a0954[_0x55e019(0x2cf)],_0x19d259=_0x3c9ad1[_0x55e019(0x2f2)][_0x55e019(0x379)](_0x3a0954[_0x55e019(0x387)]),_0x1c0dad=this['company'][_0x55e019(0x460)][_0x556048]+'/'+(parameter[_0x55e019(0x311)]+this[_0x55e019(0x323)][_0x55e019(0x2c2)]*parameter['capacityPerHelper']);if(this[_0x55e019(0x323)]['rawmaterials'][_0x556048]!==parameter[_0x55e019(0x311)]+this[_0x55e019(0x323)][_0x55e019(0x2c2)]*parameter[_0x55e019(0x311)])_0x122845=![];if(_0xf2055b[_0x55e019(0x2bf)][0x0][_0x55e019(0x253)]!==_0x4cf7c2)_0xf2055b['children'][0x0][_0x55e019(0x253)]=_0x4cf7c2;if(_0xf2055b['children'][0x1][_0x55e019(0x2bf)][0x0][_0x55e019(0x3ef)]!==_0x19d259)_0xf2055b[_0x55e019(0x2bf)][0x1][_0x55e019(0x2bf)][0x0][_0x55e019(0x3ef)]=_0x19d259;if(_0xf2055b[_0x55e019(0x2bf)][0x2]['textContent']!==_0x1c0dad)_0xf2055b[_0x55e019(0x2bf)][0x2]['textContent']=_0x1c0dad;}if(!_0x122845)_0x1b0b83+=_0x55e019(0x377);_0x1b0b83+=_0x55e019(0x223);document[_0x55e019(0x439)](_0x55e019(0x2e6))['innerHTML']!==_0x1b0b83&&(document['getElementById']('infonextlevel')[_0x55e019(0x255)]=_0x1b0b83);for(var _0x556048=this['company'][_0x55e019(0x460)][_0x55e019(0x353)];_0x556048<0x10;_0x556048++){var _0xf2055b=_0x11dae9['children'][0x0]['children'][_0x556048];if(!_0xf2055b[_0x55e019(0x2fc)](_0x55e019(0x428)))_0xf2055b[_0x55e019(0x2a8)]('hidden','');}}['updateProduction'](){var _0xb7799=_0x39e977,_0x379a26,_0x43b0c3,_0x56711e;if(((_0x379a26=this[_0xb7799(0x323)])===null||_0x379a26===void 0x0?void 0x0:_0x379a26['productid'])===-0x1||((_0x43b0c3=this[_0xb7799(0x323)])===null||_0x43b0c3===void 0x0?void 0x0:_0x43b0c3['productid'])===-0x2||((_0x56711e=this[_0xb7799(0x323)])===null||_0x56711e===void 0x0?void 0x0:_0x56711e['productid'])===-0x3)return;var _0x42cfe0=_0x3c9ad1['Company'][_0xb7799(0x379)](parameter[_0xb7799(0x21f)][this[_0xb7799(0x323)]['productid']]['image']);if(document['getElementById'](_0xb7799(0x29c))[_0xb7799(0x3ef)]!==_0x42cfe0)document['getElementById'](_0xb7799(0x29c))[_0xb7799(0x3ef)]=_0x42cfe0;document[_0xb7799(0x439)](_0xb7799(0x440))[_0xb7799(0x253)]=this[_0xb7799(0x323)][_0xb7799(0x440)][_0xb7799(0x453)]()+(this[_0xb7799(0x323)][_0xb7799(0x366)]?'+'+this[_0xb7799(0x323)][_0xb7799(0x366)]:'');var _0x33aaae=0x0;for(var _0x1ab650=0x0;_0x1ab650<this[_0xb7799(0x323)]['rawmaterials'][_0xb7799(0x353)];_0x1ab650++){if(this[_0xb7799(0x323)][_0xb7799(0x460)][_0x1ab650]>_0x33aaae)_0x33aaae=this[_0xb7799(0x323)][_0xb7799(0x460)][_0x1ab650];}document[_0xb7799(0x439)](_0xb7799(0x2c2))[_0xb7799(0x253)]=_0x33aaae+'/'+(this[_0xb7799(0x323)]['workersIn']*parameter[_0xb7799(0x311)]+parameter[_0xb7799(0x311)])+(this['company']['workersInComming']?'+'+this['company']['workersInComming']*parameter[_0xb7799(0x311)]:'');var _0x211b46=0x1;if(this['company'][_0xb7799(0x2e7)]===_0x326d56[_0xb7799(0x30d)]['productSoldier'])_0x211b46=0xa;document[_0xb7799(0x439)]('workersOut')[_0xb7799(0x253)]=this[_0xb7799(0x323)][_0xb7799(0x2a7)]+'/'+(this['company']['workersOut']*parameter['capacityPerHelper']+parameter[_0xb7799(0x311)])+(this['company'][_0xb7799(0x219)]?'+'+this[_0xb7799(0x323)][_0xb7799(0x219)]*parameter[_0xb7799(0x311)]:'');var _0x3ff897=document[_0xb7799(0x439)]('companydialog-production-table'),_0x561dc4=parameter['allProducts'][this[_0xb7799(0x323)][_0xb7799(0x2e7)]],_0x9f9583=document[_0xb7799(0x439)](_0xb7799(0x3f4));if(this[_0xb7799(0x323)]['world'][_0xb7799(0x2ce)][_0xb7799(0x2cc)]<_0x561dc4[_0xb7799(0x2cc)]&&!_0x9f9583[_0xb7799(0x2fc)](_0xb7799(0x428)))_0x9f9583['setAttribute'](_0xb7799(0x428),'');if(this[_0xb7799(0x323)][_0xb7799(0x291)][_0xb7799(0x2ce)]['level']>=_0x561dc4[_0xb7799(0x2cc)]&&_0x9f9583['hasAttribute'](_0xb7799(0x428)))_0x9f9583[_0xb7799(0x3c7)](_0xb7799(0x428));for(var _0x1ab650=0x0;_0x1ab650<this[_0xb7799(0x323)][_0xb7799(0x460)][_0xb7799(0x353)];_0x1ab650++){var _0x68a3c5=_0x3ff897['children'][0x0][_0xb7799(0x2bf)][_0x1ab650+0x2];if(_0x68a3c5['hasAttribute']('hidden'))_0x68a3c5['removeAttribute'](_0xb7799(0x428));var _0x531136=parameter[_0xb7799(0x21f)][_0x561dc4['consume'][_0x1ab650]];if(_0x531136===undefined)_0x531136=_0x531136;var _0x5cc2ee=_0x531136['name'],_0x40e036=_0x3c9ad1[_0xb7799(0x2f2)][_0xb7799(0x379)](_0x531136[_0xb7799(0x387)]),_0x4c1d8d=this['company']['rawmaterials'][_0x1ab650]+'/'+(parameter[_0xb7799(0x311)]+this['company'][_0xb7799(0x2c2)]*parameter[_0xb7799(0x311)]);if(_0x68a3c5[_0xb7799(0x2bf)][0x0][_0xb7799(0x253)]!==_0x5cc2ee)_0x68a3c5[_0xb7799(0x2bf)][0x0][_0xb7799(0x253)]=_0x5cc2ee;if(_0x68a3c5[_0xb7799(0x2bf)][0x1][_0xb7799(0x2bf)][0x0][_0xb7799(0x3ef)]!==_0x40e036)_0x68a3c5[_0xb7799(0x2bf)][0x1][_0xb7799(0x2bf)][0x0][_0xb7799(0x3ef)]=_0x40e036;if(_0x68a3c5['children'][0x2][_0xb7799(0x253)]!==_0x4c1d8d)_0x68a3c5[_0xb7799(0x2bf)][0x2]['textContent']=_0x4c1d8d;}for(var _0x1ab650=this['company'][_0xb7799(0x460)]['length'];_0x1ab650<0x10;_0x1ab650++){var _0x68a3c5=_0x3ff897[_0xb7799(0x2bf)][0x0][_0xb7799(0x2bf)][_0x1ab650+0x2];if(!_0x68a3c5[_0xb7799(0x2fc)](_0xb7799(0x428)))_0x68a3c5[_0xb7799(0x2a8)](_0xb7799(0x428),'');}var _0x1d2fec=document[_0xb7799(0x439)](_0xb7799(0x31f)),_0x3c51f0='';if(this[_0xb7799(0x323)][_0xb7799(0x2e7)]===_0x326d56[_0xb7799(0x30d)][_0xb7799(0x33e)]&&this['company'][_0xb7799(0x291)][_0xb7799(0x2ce)][_0xb7799(0x233)]>=this[_0xb7799(0x323)][_0xb7799(0x291)][_0xb7799(0x2ce)][_0xb7799(0x20b)]()['maxPeople'])_0x3c51f0+=_0xb7799(0x21e)+this[_0xb7799(0x323)][_0xb7799(0x291)][_0xb7799(0x2ce)][_0xb7799(0x20b)]()[_0xb7799(0x461)]+')\x20f&uuml;r\x20Helfer\x20erreicht.\x20Es\x20k&ouml;nnen\x20keine\x20weitere\x20Helfer\x20produziert\x20werden.';var _0x4d7871=0x0,_0x82a7c5=this[_0xb7799(0x323)][_0xb7799(0x291)][_0xb7799(0x451)](_0x326d56[_0xb7799(0x30d)][_0xb7799(0x337)]);_0x82a7c5[_0xb7799(0x2dc)](_0x41bf34=>_0x4d7871=_0x4d7871+_0x41bf34['produced']);if(this['company'][_0xb7799(0x2e7)]===_0x326d56['Product'][_0xb7799(0x337)]&&_0x4d7871>=this[_0xb7799(0x323)][_0xb7799(0x291)]['game'][_0xb7799(0x20b)]()['maxSoldiers'])_0x3c51f0+=_0xb7799(0x21e)+this[_0xb7799(0x323)][_0xb7799(0x291)]['game']['getCurrentLevel']()['maxSoldiers']+')\x20f&uuml;r\x20Soldaten\x20erreicht.\x20Es\x20k&ouml;nnen\x20keine\x20weitere\x20Soldaten\x20produziert\x20werden.';if(_0x1d2fec[_0xb7799(0x255)]!==_0x3c51f0)_0x1d2fec[_0xb7799(0x255)]=_0x3c51f0;document[_0xb7799(0x439)](_0xb7799(0x38a))['disabled']=this[_0xb7799(0x323)][_0xb7799(0x440)]+(this['company'][_0xb7799(0x366)]?this[_0xb7799(0x323)][_0xb7799(0x366)]:0x0)>=this[_0xb7799(0x323)][_0xb7799(0x25a)](),document[_0xb7799(0x439)]('in-add-worker')[_0xb7799(0x1ef)]=this[_0xb7799(0x323)]['workersIn']+(this['company'][_0xb7799(0x221)]?this[_0xb7799(0x323)][_0xb7799(0x221)]:0x0)>=this['company'][_0xb7799(0x25a)](),document['getElementById'](_0xb7799(0x29d))[_0xb7799(0x1ef)]=this[_0xb7799(0x323)][_0xb7799(0x2c7)]+(this['company']['workersOutComming']?this[_0xb7799(0x323)][_0xb7799(0x219)]:0x0)>=_0x211b46*this[_0xb7799(0x323)][_0xb7799(0x25a)]();var _0x1144a8=document[_0xb7799(0x439)](_0xb7799(0x39f)),_0x45651d=!![];if(this['company'][_0xb7799(0x460)][_0xb7799(0x353)]===0x0)_0x45651d=![];if(!_0x1144a8['hasAttribute'](_0xb7799(0x428))&&!_0x45651d)_0x1144a8[_0xb7799(0x2a8)]('hidden','');if(_0x1144a8[_0xb7799(0x2fc)]('hidden')&&_0x45651d)_0x1144a8[_0xb7799(0x3c7)]('hidden');}[_0x39e977(0x3b5)](_0x315353=![]){var _0x595156=_0x39e977,_0x239b4b,_0x18533c,_0x2aa8f0,_0x8e99d8,_0xac8c52,_0x52e8f7,_0x3eeab8,_0x562511,_0x565316,_0x4d0f82,_0x340c43,_0x3a5f5c,_0x2c3147,_0x309575,_0x386aa1;if(!this[_0x595156(0x323)])return;try{if(!$(this[_0x595156(0x2d9)])[_0x595156(0x25d)]('isOpen'))return;}catch(_0x2eaad1){return;}this[_0x595156(0x412)]();var _0x160a4d=[![],![],!![],![],!![],![]],_0x1d223f=[_0x595156(0x1d8),_0x595156(0x38e),_0x595156(0x2ff),_0x595156(0x3d2),_0x595156(0x3d6),_0x595156(0x446)];if(this[_0x595156(0x323)][_0x595156(0x2e7)]===-0x2||this[_0x595156(0x323)][_0x595156(0x2e7)]===-0x3)_0x160a4d[0x2]=!![],_0x160a4d[0x4]=![];else this[_0x595156(0x323)][_0x595156(0x2e7)]===-0x1?(!this['company'][_0x595156(0x2bb)]&&document[_0x595156(0x439)](_0x595156(0x310))[_0x595156(0x2fc)](_0x595156(0x428))&&document[_0x595156(0x439)](_0x595156(0x310))['removeAttribute'](_0x595156(0x428)),this[_0x595156(0x323)][_0x595156(0x2bb)]&&!document[_0x595156(0x439)](_0x595156(0x310))[_0x595156(0x2fc)](_0x595156(0x428))&&document[_0x595156(0x439)]('companydialog-build-tabs')['setAttribute'](_0x595156(0x428),''),_0x160a4d[0x3]=!![]):(_0x160a4d[0x0]=!![],_0x160a4d[0x1]=!![]);(this[_0x595156(0x323)][_0x595156(0x2e7)]==_0x326d56['Product'][_0x595156(0x337)]||this[_0x595156(0x323)]['productid']==_0x326d56[_0x595156(0x30d)][_0x595156(0x33e)])&&(_0x160a4d[0x1]=![]);this['company']['productid']==_0x326d56[_0x595156(0x30d)][_0x595156(0x41b)]&&(_0x160a4d[0x0]=![],_0x160a4d[0x1]=![],_0x160a4d[0x2]=![],_0x160a4d[0x3]=![],_0x160a4d[0x4]=![],_0x160a4d[0x5]=!![]);(this['company'][_0x595156(0x2e7)]==_0x326d56[_0x595156(0x30d)][_0x595156(0x287)]||this[_0x595156(0x323)]['productid']==_0x326d56[_0x595156(0x30d)][_0x595156(0x443)])&&(_0x160a4d[0x0]=![],_0x160a4d[0x1]=![],_0x160a4d[0x2]=!![],_0x160a4d[0x3]=![],_0x160a4d[0x4]=this['company']['enemy']===undefined?!![]:![],_0x160a4d[0x5]=![]);if(!_0x160a4d[0x0]&&!_0x160a4d[0x1]&&!_0x160a4d[0x2]&&!_0x160a4d[0x3]&&!_0x160a4d[0x4]&&![_0x160a4d[0x5]])_0x160a4d[0x5]=!![];var _0x52bca5=-0x1;this[_0x595156(0x323)]['isConquered']===![]&&this['company'][_0x595156(0x2da)]===undefined&&(_0x160a4d[0x0]=![],_0x160a4d[0x1]=![],_0x160a4d[0x2]=![],_0x160a4d[0x3]=![],_0x160a4d[0x4]=![],_0x160a4d[0x5]=![]);for(var _0x4b4598=0x0;_0x4b4598<_0x160a4d['length'];_0x4b4598++){if(_0x52bca5===-0x1&&_0x160a4d[_0x4b4598])_0x52bca5=_0x4b4598;var _0x4681f4=_0x1d223f[_0x4b4598];_0x160a4d[_0x4b4598]&&document['getElementById'](_0x4681f4)['parentElement'][_0x595156(0x2fc)](_0x595156(0x428))&&document[_0x595156(0x439)](_0x4681f4)['parentElement'][_0x595156(0x3c7)](_0x595156(0x428)),!_0x160a4d[_0x4b4598]&&!document[_0x595156(0x439)](_0x4681f4)[_0x595156(0x390)][_0x595156(0x2fc)](_0x595156(0x428))&&document[_0x595156(0x439)](_0x4681f4)['parentElement']['setAttribute']('hidden','');}_0x160a4d[$(_0x595156(0x211))[_0x595156(0x356)](_0x595156(0x38b),_0x595156(0x388))]===![]&&$('#companydialog-tabs')[_0x595156(0x356)](_0x595156(0x38b),'active',_0x52bca5);if((_0x2aa8f0=(_0x18533c=(_0x239b4b=document[_0x595156(0x439)](_0x595156(0x1d8)))===null||_0x239b4b===void 0x0?void 0x0:_0x239b4b[_0x595156(0x390)])===null||_0x18533c===void 0x0?void 0x0:_0x18533c[_0x595156(0x1e2)])===null||_0x2aa8f0===void 0x0?void 0x0:_0x2aa8f0[_0x595156(0x328)](_0x595156(0x24f)))this[_0x595156(0x228)]();if((_0x52e8f7=(_0xac8c52=(_0x8e99d8=document[_0x595156(0x439)](_0x595156(0x38e)))===null||_0x8e99d8===void 0x0?void 0x0:_0x8e99d8[_0x595156(0x390)])===null||_0xac8c52===void 0x0?void 0x0:_0xac8c52['classList'])===null||_0x52e8f7===void 0x0?void 0x0:_0x52e8f7[_0x595156(0x328)](_0x595156(0x24f)))this[_0x595156(0x1ff)]();if((_0x565316=(_0x562511=(_0x3eeab8=document['getElementById']('companydialog-build-tab'))===null||_0x3eeab8===void 0x0?void 0x0:_0x3eeab8['parentElement'])===null||_0x562511===void 0x0?void 0x0:_0x562511[_0x595156(0x1e2)])===null||_0x565316===void 0x0?void 0x0:_0x565316[_0x595156(0x328)](_0x595156(0x24f)))this['updateBuild']();if((_0x3a5f5c=(_0x340c43=(_0x4d0f82=document['getElementById'](_0x595156(0x2ff)))===null||_0x4d0f82===void 0x0?void 0x0:_0x4d0f82[_0x595156(0x390)])===null||_0x340c43===void 0x0?void 0x0:_0x340c43[_0x595156(0x1e2)])===null||_0x3a5f5c===void 0x0?void 0x0:_0x3a5f5c[_0x595156(0x328)](_0x595156(0x24f)))this[_0x595156(0x463)]();if((_0x386aa1=(_0x309575=(_0x2c3147=document['getElementById'](_0x595156(0x446)))===null||_0x2c3147===void 0x0?void 0x0:_0x2c3147[_0x595156(0x390)])===null||_0x309575===void 0x0?void 0x0:_0x309575[_0x595156(0x1e2)])===null||_0x386aa1===void 0x0?void 0x0:_0x386aa1[_0x595156(0x328)]('ui-tabs-active'))this[_0x595156(0x3a1)]();}[_0x39e977(0x412)](){var _0x5e08f5=_0x39e977,_0xfefa6f,_0x3e9dd3=this;if($(this['dom'])[_0x5e08f5(0x250)]()['find']('.ui-dialog-title')['length']>0x0){var _0x46d922=parameter[_0x5e08f5(0x21f)][this[_0x5e08f5(0x323)][_0x5e08f5(0x2e7)]],_0x1e398a=_0x46d922===null||_0x46d922===void 0x0?void 0x0:_0x46d922[_0x5e08f5(0x387)];$(this[_0x5e08f5(0x2d9)])[_0x5e08f5(0x250)]()[_0x5e08f5(0x438)](_0x5e08f5(0x1fb))[0x0][_0x5e08f5(0x255)]='<img\x20style=\x22float:\x20right\x22\x20id=\x22companydialog-icon\x22\x20src=\x22'+_0x3c9ad1[_0x5e08f5(0x2f2)][_0x5e08f5(0x379)](_0x1e398a)+_0x5e08f5(0x332)+((_0xfefa6f=this[_0x5e08f5(0x323)])===null||_0xfefa6f===void 0x0?void 0x0:_0xfefa6f[_0x5e08f5(0x2cf)])+'('+this['company'][_0x5e08f5(0x2a7)]+')';}}[_0x39e977(0x463)](){var _0xbd7d67=_0x39e977,_0x801a55=(this[_0xbd7d67(0x323)][_0xbd7d67(0x2e0)]?this['company'][_0xbd7d67(0x2e0)]:0x0)+this[_0xbd7d67(0x323)][_0xbd7d67(0x372)],_0x5379f3=this[_0xbd7d67(0x323)][_0xbd7d67(0x40f)](),_0x7e3985='Soldaten\x20im\x20Gebäude\x20'+this[_0xbd7d67(0x323)][_0xbd7d67(0x372)]+(this[_0xbd7d67(0x323)][_0xbd7d67(0x2e0)]?'+'+this[_0xbd7d67(0x323)][_0xbd7d67(0x2e0)]:'')+(this['company']['enemiesComming']?'-'+this[_0xbd7d67(0x323)][_0xbd7d67(0x407)]:'');_0x5379f3<0x2540be3ff&&(_0x7e3985+='/'+_0x5379f3);var _0x241179=document['getElementById'](_0xbd7d67(0x3e5));if(_0x801a55>=_0x5379f3&&!_0x241179[_0xbd7d67(0x1ef)])_0x241179[_0xbd7d67(0x1ef)]=!![];if(_0x801a55<_0x5379f3&&_0x241179[_0xbd7d67(0x1ef)])_0x241179['disabled']=![];this[_0xbd7d67(0x323)][_0xbd7d67(0x372)]===0x0&&!this[_0xbd7d67(0x323)][_0xbd7d67(0x2e0)]&&this[_0xbd7d67(0x323)][_0xbd7d67(0x291)][_0xbd7d67(0x23d)][_0xbd7d67(0x353)]>=this['company'][_0xbd7d67(0x291)][_0xbd7d67(0x2ce)]['getCurrentLevel']()['maxPlaces']&&(_0x241179[_0xbd7d67(0x1ef)]=!![],_0x7e3985+=_0xbd7d67(0x2eb));this[_0xbd7d67(0x323)][_0xbd7d67(0x2da)]!==undefined&&(_0x241179[_0xbd7d67(0x1ef)]=![]);if(document[_0xbd7d67(0x439)](_0xbd7d67(0x265))[_0xbd7d67(0x253)]!==_0x7e3985)document[_0xbd7d67(0x439)](_0xbd7d67(0x265))[_0xbd7d67(0x253)]=_0x7e3985;}[_0x39e977(0x217)](){var _0x1cfb5c=_0x39e977,_0x9bccbc,_0x1c61c1,_0x32ab14,_0x146056=0x0,_0xc8b163=0x0,_0x1a31bf=0x0,_0x2c10df=0x0,_0x3e139c=0x0,_0x5f4e77=0x0;if(this['company']===undefined)return;for(var _0x1ddeb5=0x0;_0x1ddeb5<this['company'][_0x1cfb5c(0x291)][_0x1cfb5c(0x23d)][_0x1cfb5c(0x353)];_0x1ddeb5++){var _0x18060c=this[_0x1cfb5c(0x323)][_0x1cfb5c(0x291)][_0x1cfb5c(0x23d)][_0x1ddeb5];if(_0x18060c[_0x1cfb5c(0x2e7)]===_0x326d56[_0x1cfb5c(0x30d)][_0x1cfb5c(0x286)]||_0x18060c[_0x1cfb5c(0x2e7)]==_0x326d56['Product']['productWood']||_0x18060c['productid']===_0x326d56['Product'][_0x1cfb5c(0x443)]||_0x18060c[_0x1cfb5c(0x2e7)]===_0x326d56[_0x1cfb5c(0x30d)][_0x1cfb5c(0x287)]||_0x18060c[_0x1cfb5c(0x2e7)]===_0x326d56[_0x1cfb5c(0x30d)]['productSoldier']||_0x18060c[_0x1cfb5c(0x2e7)]===_0x326d56[_0x1cfb5c(0x30d)][_0x1cfb5c(0x33e)])for(let _0xfe20e4=0x0;_0xfe20e4<_0x18060c[_0x1cfb5c(0x2b6)][_0x1cfb5c(0x353)];_0xfe20e4++){var _0x4ead43=_0x18060c[_0x1cfb5c(0x2b6)][_0xfe20e4];_0x4ead43['companyTarget']===this[_0x1cfb5c(0x323)][_0x1cfb5c(0x2cb)]&&(_0x18060c[_0x1cfb5c(0x2e7)]===_0x326d56[_0x1cfb5c(0x30d)][_0x1cfb5c(0x286)]&&(_0x5f4e77+=_0x4ead43['productCount']),_0x18060c[_0x1cfb5c(0x2e7)]===_0x326d56[_0x1cfb5c(0x30d)][_0x1cfb5c(0x43f)]&&(_0x3e139c+=_0x4ead43['productCount']),_0x18060c[_0x1cfb5c(0x2e7)]===_0x326d56[_0x1cfb5c(0x30d)]['productHelper']&&((_0x9bccbc=_0x4ead43[_0x1cfb5c(0x238)])===null||_0x9bccbc===void 0x0?void 0x0:_0x9bccbc[_0x1cfb5c(0x367)])===_0x1cfb5c(0x440)&&(_0x146056+=_0x4ead43[_0x1cfb5c(0x2f4)]),_0x18060c['productid']===_0x326d56['Product']['productHelper']&&((_0x1c61c1=_0x4ead43[_0x1cfb5c(0x238)])===null||_0x1c61c1===void 0x0?void 0x0:_0x1c61c1['workertype'])==='workersIn'&&(_0xc8b163+=_0x4ead43[_0x1cfb5c(0x2f4)]),_0x18060c[_0x1cfb5c(0x2e7)]===_0x326d56[_0x1cfb5c(0x30d)]['productHelper']&&((_0x32ab14=_0x4ead43[_0x1cfb5c(0x238)])===null||_0x32ab14===void 0x0?void 0x0:_0x32ab14[_0x1cfb5c(0x367)])==='workersOut'&&(_0x1a31bf+=_0x4ead43[_0x1cfb5c(0x2f4)]),(_0x18060c['productid']===_0x326d56[_0x1cfb5c(0x30d)]['productCastle']||_0x18060c[_0x1cfb5c(0x2e7)]===_0x326d56[_0x1cfb5c(0x30d)][_0x1cfb5c(0x287)]||_0x18060c[_0x1cfb5c(0x2e7)]===_0x326d56[_0x1cfb5c(0x30d)][_0x1cfb5c(0x337)])&&(_0x2c10df+=_0x4ead43[_0x1cfb5c(0x2f4)]));}}if(_0x3e139c===0x0)this[_0x1cfb5c(0x323)]['woodsComming']=0x0;if(_0x5f4e77=0x0)this[_0x1cfb5c(0x323)][_0x1cfb5c(0x3d1)]=0x0;if(_0x2c10df===0x0)this[_0x1cfb5c(0x323)][_0x1cfb5c(0x2e0)]=0x0;if(_0x146056===0x0)this['company'][_0x1cfb5c(0x366)]=0x0;if(_0xc8b163===0x0)this[_0x1cfb5c(0x323)][_0x1cfb5c(0x221)]=0x0;if(_0x1a31bf===0x0)this['company'][_0x1cfb5c(0x219)]=0x0;this['update']();}[_0x39e977(0x458)](){var _0x3a0463=_0x39e977,_0x38a08c=this;this[_0x3a0463(0x217)](),this[_0x3a0463(0x3b5)]();if($(this[_0x3a0463(0x2d9)])[_0x3a0463(0x40b)](_0x3a0463(0x2bc))&&$(this['dom'])[_0x3a0463(0x25d)](_0x3a0463(0x42e)))return;this[_0x3a0463(0x2d9)]['removeAttribute']('hidden'),$(this['dom'])[_0x3a0463(0x25d)]({'top':_0x3a0463(0x2b8),'left':_0x3a0463(0x2b8),'width':_0x3a0463(0x25f),'draggable':!![],'open':function(_0x2b8ac2,_0x2cf32f){var _0x7217f4=_0x3a0463;_0x38a08c[_0x7217f4(0x3b5)](!![]);},'beforeClose':function(_0x5e0428){},'close':function(_0x5560fc,_0x40a023){var _0x5ab3e2=_0x3a0463;_0x38a08c['hasPaused']&&_0x38a08c[_0x5ab3e2(0x323)]['world']['game'][_0x5ab3e2(0x36c)]();},'create':function(_0x260fa0){setTimeout(()=>{var _0x6cfdd5=a0_0x3c91;$(_0x260fa0[_0x6cfdd5(0x232)])[_0x6cfdd5(0x25d)](_0x6cfdd5(0x21d))[_0x6cfdd5(0x438)](_0x6cfdd5(0x26c))[0x0][_0x6cfdd5(0x3f9)](_0x6cfdd5(0x3b2),_0x55837d=>{var _0x50ca43=_0x6cfdd5;_0x38a08c[_0x50ca43(0x2c5)]();});},0xc8);},'resizable':![]})['dialog'](_0x3a0463(0x21d))[_0x3a0463(0x212)]('option',_0x3a0463(0x334),_0x3a0463(0x3d0)),setTimeout(()=>{var _0x112588=_0x3a0463;$(this[_0x112588(0x2d9)])[_0x112588(0x1e4)](_0x112588(0x355))['css']({'top':_0x112588(0x23e),'left':'10px'}),$(this[_0x112588(0x2d9)])['parent']()['css']({'position':'fixed'});},0x64);}[_0x39e977(0x2c5)](){var _0x3402aa=_0x39e977;$(this['dom'])['dialog'](_0x3402aa(0x2c5));}}_0x296502[_0x39e977(0x24b)]=_0x4b7730;}),define(a0_0x50878f(0x37d),[a0_0x50878f(0x26b),a0_0x50878f(0x3d4),a0_0x50878f(0x2ab),a0_0x50878f(0x393),a0_0x50878f(0x324),a0_0x50878f(0x454),a0_0x50878f(0x403),a0_0x50878f(0x2ea),a0_0x50878f(0x3db),a0_0x50878f(0x393),a0_0x50878f(0x34e)],function(_0x29819a,_0x20fa88,_0x4c093f,_0xcf9867,_0x59d3ab,_0x728ab7,_0x3e9d95,_0x33db44,_0xb5a045,_0x5be9a4,_0x3e8f1b){'use strict';var _0x195ab3=a0_0x50878f;Object['defineProperty'](_0x20fa88,_0x195ab3(0x289),{'value':!![]}),_0x20fa88[_0x195ab3(0x3d5)]=_0x20fa88[_0x195ab3(0x229)]=_0x20fa88['gameversion']=_0x20fa88[_0x195ab3(0x3a5)]=_0x20fa88[_0x195ab3(0x3b3)]=void 0x0;var _0x470547=_0x195ab3(0x39a);_0x20fa88[_0x195ab3(0x23f)]=_0x470547,window[_0x195ab3(0x3f0)]=function(){var _0x57c52b=_0x195ab3;return _0x57c52b(0x1fa);},$[_0x195ab3(0x2b2)]['defaults']({'position':_0x195ab3(0x1ea),'className':_0x195ab3(0x3ae)});class _0xa6113c{}_0x20fa88[_0x195ab3(0x3b3)]=_0xa6113c;class _0x536daf{constructor(){var _0x1b1993=_0x195ab3;this[_0x1b1993(0x2b5)]=!![],this[_0x1b1993(0x2cd)]=0x1e,this['peopleWithOneClick']=0x1,this[_0x1b1993(0x288)]=0xa,this[_0x1b1993(0x2f6)]=0x0,this[_0x1b1993(0x203)]=0xa,this['transportCapacityPerHelper']=0x1,this[_0x1b1993(0x311)]=0x1,this[_0x1b1993(0x298)]=0x78;}}_0x20fa88['Parameter']=_0x536daf;function _0x2a368c(){var _0x2fe997=_0x195ab3;return window[_0x2fe997(0x2e1)]=new _0x536daf(),globalThis[_0x2fe997(0x2e1)]=new _0x536daf(),parameter[_0x2fe997(0x21f)]=_0x3e9d95[_0x2fe997(0x30d)][_0x2fe997(0x3e6)]([new _0x3e9d95[(_0x2fe997(0x30d))]('Tor',_0x2fe997(0x342),0x1,[]),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x306),_0x2fe997(0x283),0x1,[],undefined,undefined,0x1e),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x2ed),_0x2fe997(0x1dc),0x1,['Wasser'],0x1,undefined,0x1e),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x271),'Helfer.png',0x1,[_0x2fe997(0x2ed)],undefined,undefined,0x1e),new _0x3e9d95['Product']('Soldat',_0x2fe997(0x36a),0x1,[_0x2fe997(0x202)]),new _0x3e9d95['Product'](_0x2fe997(0x210),'Stein.png',0x1,[_0x2fe997(0x2ed)]),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x45b),_0x2fe997(0x2a6),0x1,[_0x2fe997(0x2ed)]),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x39c),_0x2fe997(0x3df),0x2,[_0x2fe997(0x306)]),new _0x3e9d95['Product'](_0x2fe997(0x391),_0x2fe997(0x2fd),0x2,['Getreide']),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x350),_0x2fe997(0x38d),0x2,['Mehl','Holz']),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x2d0),_0x2fe997(0x26a),0x2,[_0x2fe997(0x39c),_0x2fe997(0x306)]),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x248),_0x2fe997(0x373),0x2,['Schwein']),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x3ff),_0x2fe997(0x43d),0x2,[_0x2fe997(0x350),_0x2fe997(0x248),_0x2fe997(0x45b)],0x2),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x202),_0x2fe997(0x370),0x2,[_0x2fe997(0x39c),'Wasser'],undefined,0x2),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x33d),_0x2fe997(0x2c0),0x3,[_0x2fe997(0x306)]),new _0x3e9d95['Product']('Milch',_0x2fe997(0x35a),0x3,[_0x2fe997(0x33d)]),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x242),_0x2fe997(0x361),0x3,[_0x2fe997(0x2ed)]),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x208),_0x2fe997(0x2a0),0x3,[_0x2fe997(0x202),_0x2fe997(0x242)]),new _0x3e9d95['Product'](_0x2fe997(0x3e1),_0x2fe997(0x34a),0x3,[_0x2fe997(0x248)]),new _0x3e9d95[(_0x2fe997(0x30d))]('Kakaomilch',_0x2fe997(0x20a),0x3,[_0x2fe997(0x38c),_0x2fe997(0x208)],0x3),new _0x3e9d95[(_0x2fe997(0x30d))]('Eisenerz',_0x2fe997(0x244),0x3,[_0x2fe997(0x350)]),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x21c),_0x2fe997(0x237),0x3,['Eisenerz',_0x2fe997(0x3e1)]),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x436),'Schwet.png',0x3,[_0x2fe997(0x21c),_0x2fe997(0x45b)],undefined,0x3),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x1f7),_0x2fe997(0x1f9),0x4,['Holz']),new _0x3e9d95[(_0x2fe997(0x30d))]('Werkzeug',_0x2fe997(0x1de),0x4,[_0x2fe997(0x21c),_0x2fe997(0x1f7)]),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x225),_0x2fe997(0x429),0x4,['Brett',_0x2fe997(0x252)],0x4),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x3d8),_0x2fe997(0x3f7),0x4,[_0x2fe997(0x33d),_0x2fe997(0x306)]),new _0x3e9d95['Product'](_0x2fe997(0x426),'Stoff.png',0x4,[_0x2fe997(0x3d8)]),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x26f),_0x2fe997(0x3e9),0x4,[_0x2fe997(0x426)]),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x257),_0x2fe997(0x2e9),0x4,[_0x2fe997(0x26f),_0x2fe997(0x21c),_0x2fe997(0x3e1),_0x2fe997(0x252)],undefined,0x4),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x448),_0x2fe997(0x1e0),0x5,[_0x2fe997(0x38c)]),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x3c1),'Papier.png',0x5,[_0x2fe997(0x45b)]),new _0x3e9d95['Product'](_0x2fe997(0x41e),_0x2fe997(0x2ac),0x5,['Fleisch','Käse','Mehl',_0x2fe997(0x3c1)],0x5),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x434),_0x2fe997(0x3e4),0x5,['Fisch']),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x3b1),_0x2fe997(0x3be),0x5,[_0x2fe997(0x434),'Stoff',_0x2fe997(0x3d8)],undefined,0x5),new _0x3e9d95[(_0x2fe997(0x30d))]('Ei','Ei.png',0x6,[_0x2fe997(0x33d),_0x2fe997(0x39c)]),new _0x3e9d95['Product'](_0x2fe997(0x3c4),_0x2fe997(0x408),0x6,[_0x2fe997(0x391),'Beeren','Ei']),new _0x3e9d95['Product'](_0x2fe997(0x457),'Gold.png',0x6,[_0x2fe997(0x3c4)]),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x40d),_0x2fe997(0x2b1),0x6,['Gold']),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x2d8),_0x2fe997(0x26e),0x6,['Ei',_0x2fe997(0x38c)]),new _0x3e9d95['Product'](_0x2fe997(0x34c),_0x2fe997(0x23a),0x6,[_0x2fe997(0x40d),_0x2fe997(0x2d8),'Papier'],0x6),new _0x3e9d95['Product'](_0x2fe997(0x20e),_0x2fe997(0x2ae),0x6,[_0x2fe997(0x21c),'Kohle',_0x2fe997(0x3d8),_0x2fe997(0x40d)],undefined,0x6),new _0x3e9d95[(_0x2fe997(0x30d))](_0x2fe997(0x22b),_0x2fe997(0x326),0x6,[]),new _0x3e9d95['Product'](_0x2fe997(0x224),_0x2fe997(0x442),0x6,[])]),parameter[_0x2fe997(0x432)]=[{'maxPeople':0x28,'maxSoldiers':0x64,'maxPlaces':0xa,'buildingLimit':0x2},{'maxPeople':0x258,'maxSoldiers':0x96,'maxPlaces':0x32,'buildingLimit':0x3e8},{'maxPeople':0x640,'maxSoldiers':0x96,'maxPlaces':0x64,'buildingLimit':0x7d0},{'maxPeople':0x960,'maxSoldiers':0x96,'maxPlaces':0x7d0,'buildingLimit':0xbb8},{'maxPeople':0x1388,'maxSoldiers':0x96,'maxPlaces':0x12c,'buildingLimit':0xfa0},{'maxPeople':0x2540be3ff,'maxSoldiers':0x2540be3ff,'maxPlaces':0x2540be3ff,'buildingLimit':0x2540be3ff}],parameter;};class _0x293ec4{constructor(){var _0x35908d=_0x195ab3;this[_0x35908d(0x3ca)]=_0x470547,this[_0x35908d(0x308)]=!![],this[_0x35908d(0x2cc)]=0x1,this[_0x35908d(0x233)]=0x0,this[_0x35908d(0x231)]=0x9*0x3,this['height']=0x1d*0x3,this[_0x35908d(0x45f)]=![],this[_0x35908d(0x1e6)]=0x0,this[_0x35908d(0x279)]=0x0,this[_0x35908d(0x333)]=[];var _0x200a62=this;_0x293ec4[_0x35908d(0x319)]=this,this[_0x35908d(0x2e1)]=_0x2a368c(),this[_0x35908d(0x27b)]=_0x293ec4[_0x35908d(0x2d7)][0x6],this[_0x35908d(0x2e2)]=Date[_0x35908d(0x234)](),this[_0x35908d(0x45e)]=new Date(_0x35908d(0x462)),_0x3e8f1b[_0x35908d(0x24b)]['instance']=undefined,this['updateUIID']=setTimeout(()=>{var _0x1d63d1=_0x35908d;_0x200a62[_0x1d63d1(0x3cb)]();},0x64),console['log'](_0x35908d(0x3b0)+this[_0x35908d(0x374)]);var _0x200a62=this;requestAnimationFrame(_0xfbb1f5=>_0x200a62[_0x35908d(0x338)](_0xfbb1f5));}async['updateUI'](_0x1c013d){var _0x135b00=_0x195ab3,_0x1f0090,_0x13d4e0=this,_0x5bbcf9=Date['now']()-this[_0x135b00(0x38f)];if(_0x5bbcf9<0x64)await new Promise(_0x1d2969=>setTimeout(_0x1d2969,0x64-_0x5bbcf9));this[_0x135b00(0x38f)]=Date['now'](),(_0x1f0090=this[_0x135b00(0x291)])===null||_0x1f0090===void 0x0?void 0x0:_0x1f0090[_0x135b00(0x251)]=this[_0x135b00(0x291)][_0x135b00(0x2a9)],this['updateTitle']();var _0x3a3932={'top':0x0,'left':0x0,'width':0x186a0,'height':0x186a0};for(var _0x737b41=0x0;_0x737b41<this['world'][_0x135b00(0x23d)]['length'];_0x737b41++){try{var _0x11ead1=this['world'][_0x135b00(0x23d)][_0x737b41];_0x11ead1[_0x135b00(0x338)](_0x3a3932);}catch(_0x1e565c){console['error'](_0x1e565c);}}if(this[_0x135b00(0x308)])requestAnimationFrame(_0x57d823=>_0x13d4e0['updateUI'](_0x57d823));}['getCurrentLevel'](){var _0x568d07=_0x195ab3;if(this[_0x568d07(0x2cc)]>=parameter[_0x568d07(0x432)]['length'])return parameter[_0x568d07(0x432)][parameter[_0x568d07(0x432)][_0x568d07(0x353)]-0x1];else return parameter[_0x568d07(0x432)][this[_0x568d07(0x2cc)]-0x1];}[_0x195ab3(0x412)](){var _0x248543=_0x195ab3;try{var _0x23975a=this['people'];if(document['getElementById'](_0x248543(0x394))[_0x248543(0x253)]!==(0x0,_0x5be9a4[_0x248543(0x256)])(_0x23975a))document[_0x248543(0x439)](_0x248543(0x394))['textContent']=(0x0,_0x5be9a4[_0x248543(0x256)])(_0x23975a);if(document[_0x248543(0x439)](_0x248543(0x404))[_0x248543(0x253)]!==this[_0x248543(0x2cc)][_0x248543(0x453)]())document[_0x248543(0x439)](_0x248543(0x404))[_0x248543(0x253)]=this['level'][_0x248543(0x453)]();if(document[_0x248543(0x439)](_0x248543(0x2d1))[_0x248543(0x253)]!=='+'+this[_0x248543(0x1e6)]+'-'+this[_0x248543(0x279)])document[_0x248543(0x439)](_0x248543(0x2d1))['textContent']='+'+this[_0x248543(0x1e6)]+'-'+this[_0x248543(0x279)];}catch(_0x2d9394){console['log']('stop\x20game');return;}}static['showInfo'](_0x1967e2){var _0x33efd5=_0x195ab3;$[_0x33efd5(0x2b2)](_0x1967e2);}[_0x195ab3(0x226)](){var _0x22e89d=_0x195ab3,_0x4f2f00=this[_0x22e89d(0x291)]['freeCompanies'][(0x0,_0xcf9867[_0x22e89d(0x3f2)])(this[_0x22e89d(0x291)]['freeCompanies'][_0x22e89d(0x353)]-0x1)];if(Math[_0x22e89d(0x420)](_0x4f2f00['x']/0x4)<=this[_0x22e89d(0x231)]-0x2&&_0x4f2f00['y']<=this['height']-0x2)return this[_0x22e89d(0x226)]();else{var _0x219d6e=_0x4f2f00[_0x22e89d(0x3b7)](0xc);for(let _0x3ba42d=0x0;_0x3ba42d<_0x219d6e[_0x22e89d(0x353)];_0x3ba42d++){var _0x5209a7=_0x219d6e[_0x3ba42d];if(_0x5209a7['enemy']!==undefined)return this[_0x22e89d(0x226)]();}}return _0x4f2f00;}[_0x195ab3(0x2fb)](_0x367783){var _0x29bd17=_0x195ab3,_0x1b585a=undefined;_0x1b585a=this['randomEnemy'](),this[_0x29bd17(0x291)]['freeCompanies'][_0x29bd17(0x2c1)](this[_0x29bd17(0x291)][_0x29bd17(0x24e)]['indexOf'](_0x1b585a),0x1),this[_0x29bd17(0x291)]['companies'][_0x29bd17(0x35c)](_0x1b585a),_0x1b585a[_0x29bd17(0x2da)]=_0x367783,_0x1b585a[_0x29bd17(0x1fd)](_0x3e9d95[_0x29bd17(0x30d)][_0x29bd17(0x443)]);if(_0x367783>0x4)_0x367783=0x4;_0x1b585a[_0x29bd17(0x372)]=_0x367783*0x15e,this[_0x29bd17(0x279)]+=_0x1b585a[_0x29bd17(0x372)],_0x1b585a[_0x29bd17(0x27d)]=_0x367783*0xfa,this['world'][_0x29bd17(0x2ce)]['enemyBases'][_0x29bd17(0x35c)](_0x1b585a['companyID']);}[_0x195ab3(0x3ec)](){var _0x306129=_0x195ab3,_0x2becac=this[_0x306129(0x291)][_0x306129(0x41d)](this[_0x306129(0x2cc)],!![]);if(_0x2becac['length']===0x0){var _0x26a6be=this[_0x306129(0x291)][_0x306129(0x451)](_0x3e9d95[_0x306129(0x30d)][_0x306129(0x41b)])[0x0],_0x5e25af=!![];_0x26a6be[_0x306129(0x460)]['forEach'](_0x14b880=>{var _0xa05909=_0x306129;_0x14b880<=_0x26a6be[_0xa05909(0x2c2)]&&(_0x5e25af=![]);});if(!_0x5e25af||_0x26a6be['rawmaterials'][_0x306129(0x353)]===0x0)return;this[_0x306129(0x2cc)]++;if(this[_0x306129(0x2cc)]===parameter['allLevels'][_0x306129(0x353)])for(var _0x151d0a=0x1;_0x151d0a<=0x7;_0x151d0a++){this[_0x306129(0x2fb)](_0x151d0a);}if(this['level']<=parameter['allLevels']['length']){var _0x7bbc05=parameter[_0x306129(0x21f)][_0x3e9d95[_0x306129(0x30d)][_0x306129(0x33e)]],_0x3a8601=parameter[_0x306129(0x21f)][_0x3e9d95[_0x306129(0x30d)]['productSoldier']];for(var _0x151d0a=0x0;_0x151d0a<parameter[_0x306129(0x21f)][_0x306129(0x353)];_0x151d0a++){var _0x1db8ac=parameter[_0x306129(0x21f)][_0x151d0a];_0x1db8ac[_0x306129(0x3bf)]===this['level']&&_0x7bbc05[_0x306129(0x2b4)][_0x306129(0x2e4)](_0x1db8ac['id'])===-0x1&&(_0x7bbc05[_0x306129(0x2b4)][_0x306129(0x35c)](_0x1db8ac['id']),this[_0x306129(0x291)][_0x306129(0x451)](_0x3e9d95[_0x306129(0x30d)][_0x306129(0x33e)])[_0x306129(0x2dc)](_0x26b14a=>_0x26b14a['rawmaterials'][_0x306129(0x35c)](0x0))),_0x1db8ac[_0x306129(0x304)]===this[_0x306129(0x2cc)]&&_0x3a8601[_0x306129(0x2b4)][_0x306129(0x2e4)](_0x1db8ac['id'])===-0x1&&(_0x3a8601[_0x306129(0x2b4)]['push'](_0x1db8ac['id']),this[_0x306129(0x291)][_0x306129(0x451)](_0x3e9d95[_0x306129(0x30d)][_0x306129(0x337)])['forEach'](_0x2f7835=>_0x2f7835[_0x306129(0x460)]['push'](0x0)));}}this[_0x306129(0x320)](),alert(_0x306129(0x294)+this[_0x306129(0x2cc)]+_0x306129(0x31c));}}[_0x195ab3(0x320)](){var _0x4075a9=_0x195ab3,_0x489854=this[_0x4075a9(0x291)][_0x4075a9(0x451)](_0x3e9d95[_0x4075a9(0x30d)][_0x4075a9(0x41b)])[0x0],_0x4778c0=this['world'][_0x4075a9(0x451)](_0x3e9d95['Product'][_0x4075a9(0x33e)])[0x0],_0x586584=this['world']['findCompanyThatProduces'](_0x3e9d95['Product'][_0x4075a9(0x337)])[0x0],_0x4aaa5f=parameter[_0x4075a9(0x21f)][_0x3e9d95[_0x4075a9(0x30d)][_0x4075a9(0x41b)]],_0x59921b=parameter['allProducts'][_0x3e9d95['Product'][_0x4075a9(0x33e)]],_0x92191=parameter[_0x4075a9(0x21f)][_0x3e9d95['Product'][_0x4075a9(0x337)]];if(this[_0x4075a9(0x2cc)]>=parameter[_0x4075a9(0x432)][_0x4075a9(0x353)]){_0x4aaa5f[_0x4075a9(0x2b4)]=[];var _0x489854=this[_0x4075a9(0x291)]['findCompanyThatProduces'](_0x3e9d95[_0x4075a9(0x30d)]['productGate'])[0x0];_0x489854[_0x4075a9(0x460)]=[];for(var _0x3b1706=0x4;_0x3b1706<=0x6;_0x3b1706++){var _0x279ce6=this['world'][_0x4075a9(0x41d)](_0x3b1706,![],!![]),_0x251f59=(0x0,_0xcf9867[_0x4075a9(0x3f2)])(_0x279ce6[_0x4075a9(0x353)]);_0x489854['rawmaterials'][_0x4075a9(0x35c)](0x0),_0x4aaa5f[_0x4075a9(0x2b4)][_0x4075a9(0x35c)](_0x279ce6[_0x251f59]['id']);}_0x489854[_0x4075a9(0x2c2)]=this['level']*0xa;if(_0x489854[_0x4075a9(0x2c2)]>0x96)_0x489854[_0x4075a9(0x2c2)]=0x96;}else _0x489854[_0x4075a9(0x460)]=[],_0x4aaa5f[_0x4075a9(0x2b4)]=[],_0x489854[_0x4075a9(0x2c2)]=this[_0x4075a9(0x291)][_0x4075a9(0x41d)](this['level']+0x1)['length']*0xa-0x1,parameter[_0x4075a9(0x21f)]['forEach'](_0x3c6a0b=>{var _0x46947f=_0x4075a9;this[_0x46947f(0x2cc)]===_0x3c6a0b['forpeoplelevel']&&(_0x4aaa5f[_0x46947f(0x2b4)][_0x46947f(0x35c)](_0x3c6a0b['id']),_0x489854[_0x46947f(0x460)][_0x46947f(0x35c)](this[_0x46947f(0x291)][_0x46947f(0x41d)](this[_0x46947f(0x2cc)]+0x1)[_0x46947f(0x353)]*0x5)),this[_0x46947f(0x2cc)]===_0x3c6a0b[_0x46947f(0x304)]&&(_0x4aaa5f[_0x46947f(0x2b4)][_0x46947f(0x35c)](_0x3c6a0b['id']),_0x489854[_0x46947f(0x460)][_0x46947f(0x35c)](0x0));});this[_0x4075a9(0x2cc)]<=parameter[_0x4075a9(0x432)]['length']&&parameter[_0x4075a9(0x21f)][_0x4075a9(0x2dc)](_0x57b2ec=>{var _0x3ac5ca=_0x4075a9;if(this[_0x3ac5ca(0x2cc)]===_0x57b2ec[_0x3ac5ca(0x3bf)]){var _0x49f527=_0x59921b[_0x3ac5ca(0x2b4)][_0x3ac5ca(0x2e4)](_0x57b2ec['id']);_0x4778c0['rawmaterials'][_0x49f527]=this[_0x3ac5ca(0x291)][_0x3ac5ca(0x41d)](this['level'])[_0x3ac5ca(0x353)]*0x5;}if(this[_0x3ac5ca(0x2cc)]===_0x57b2ec[_0x3ac5ca(0x304)]){var _0x49f527=_0x92191[_0x3ac5ca(0x2b4)][_0x3ac5ca(0x2e4)](_0x57b2ec['id']);_0x586584[_0x3ac5ca(0x460)][_0x49f527]=this[_0x3ac5ca(0x291)][_0x3ac5ca(0x41d)](this['level'])['length']*0xa;}});}[_0x195ab3(0x3cb)](){var _0xd3fb49=_0x195ab3;if(this[_0xd3fb49(0x45f)]===![])return;var _0x3c8530=this;this[_0xd3fb49(0x3ec)](),this[_0xd3fb49(0x291)][_0xd3fb49(0x3cb)](),this[_0xd3fb49(0x374)]=setTimeout(()=>{_0x3c8530['nextTick']();},0x64),_0x3e8f1b[_0xd3fb49(0x24b)][_0xd3fb49(0x222)]()['update']();}[_0x195ab3(0x21b)](){var _0x23f252=_0x195ab3,_0x1a52cb=this[_0x23f252(0x231)]*parameter[_0x23f252(0x2cd)]*0x4,_0x349748=this[_0x23f252(0x262)]*parameter['zoomfactor'];this['domWorld'][_0x23f252(0x414)][_0x23f252(0x231)]=_0x1a52cb+0x50+'px',this[_0x23f252(0x31a)][_0x23f252(0x414)][_0x23f252(0x262)]=_0x349748+0x64+'px',this[_0x23f252(0x31a)][_0x23f252(0x258)][_0x23f252(0x414)]['width']=_0x1a52cb+0x50+'px',this[_0x23f252(0x31a)][_0x23f252(0x258)][_0x23f252(0x414)]['height']=_0x349748+0x64+'px';}[_0x195ab3(0x402)](){var _0x37f2fb=_0x195ab3;this['world']=new _0x4c093f[(_0x37f2fb(0x23b))](),this[_0x37f2fb(0x291)][_0x37f2fb(0x2ce)]=this,this[_0x37f2fb(0x291)]['newGame']();}['getMoney'](){var _0x1b1d26=_0x195ab3;return this[_0x1b1d26(0x3e2)];}['changeMoney'](_0x21c48c,_0x1c7430,_0x41bd56=undefined){this['_money']+=_0x21c48c;}['setHeaderColor'](_0x4d25c8){var _0x37bf55=_0x195ab3;this[_0x37bf55(0x235)][_0x37bf55(0x26d)]!==_0x4d25c8&&(this['domHeader']['mycolor']=_0x4d25c8,this[_0x37bf55(0x235)][_0x37bf55(0x414)]['color']=_0x4d25c8);}['render'](_0x311597){var _0x5ab25d=_0x195ab3,_0x2702b1=this;_0x311597[_0x5ab25d(0x414)]['backgroundImage']=_0x5ab25d(0x25e)+_0x728ab7[_0x5ab25d(0x2f2)][_0x5ab25d(0x379)](_0x5ab25d(0x3de))+')',_0x311597[_0x5ab25d(0x414)][_0x5ab25d(0x2f9)]='10px',_0x311597[_0x5ab25d(0x255)]='',_0x311597[_0x5ab25d(0x414)][_0x5ab25d(0x2ad)]=_0x5ab25d(0x3fb),this['dom']=_0x311597;var _0x277435=_0x5ab25d(0x1f8)+_0x470547+_0x5ab25d(0x3b9)+'👤'+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Level\x20<span\x20id=\x22idlevel\x22></span>'+_0x5ab25d(0x36e)+_0x59d3ab[_0x5ab25d(0x293)][_0x5ab25d(0x3cf)]+_0x5ab25d(0x400)+_0x59d3ab[_0x5ab25d(0x293)][_0x5ab25d(0x42f)]+_0x5ab25d(0x2af)+_0x59d3ab[_0x5ab25d(0x293)][_0x5ab25d(0x39e)]+'</button>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20';this[_0x5ab25d(0x235)]=document[_0x5ab25d(0x3ab)]()[_0x5ab25d(0x431)](_0x277435)['children'][0x0];var _0x59f6ab=_0x5ab25d(0x36d);this[_0x5ab25d(0x31a)]=document[_0x5ab25d(0x3ab)]()['createContextualFragment'](_0x59f6ab)[_0x5ab25d(0x2bf)][0x0],this[_0x5ab25d(0x2d9)][_0x5ab25d(0x37e)](this[_0x5ab25d(0x235)]),this[_0x5ab25d(0x2d9)][_0x5ab25d(0x37e)](this['domWorld']),this[_0x5ab25d(0x291)][_0x5ab25d(0x3c3)](this[_0x5ab25d(0x31a)]),this['updateSize'](),setTimeout(()=>{var _0x24154a=_0x5ab25d;_0x2702b1[_0x24154a(0x444)]();},0x1f4);}[_0x195ab3(0x444)](){var _0x37f03e=_0x195ab3,_0x2777d0=this;document[_0x37f03e(0x439)](_0x37f03e(0x321))[_0x37f03e(0x3f9)](_0x37f03e(0x378),()=>{var _0x594614=_0x37f03e;console['log'](_0x594614(0x464));}),document['getElementById']('save-game')[_0x37f03e(0x3f9)](_0x37f03e(0x1f2),()=>{var _0x2dbdbc=_0x37f03e;_0xb5a045[_0x2dbdbc(0x314)][_0x2dbdbc(0x222)]()['game']=_0x2777d0,_0xb5a045[_0x2dbdbc(0x314)][_0x2dbdbc(0x222)]()['show']();}),document[_0x37f03e(0x439)]('show-diagram')[_0x37f03e(0x3f9)](_0x37f03e(0x1f2),()=>{var _0x50402f=_0x37f03e;_0x33db44['DiagramDialog']['getInstance']()[_0x50402f(0x291)]=this['world'],_0x33db44[_0x50402f(0x1f6)][_0x50402f(0x222)]()['show']();});}[_0x195ab3(0x36c)](){}['isPaused'](){return this['timer']===0x0;}[_0x195ab3(0x266)](){var _0x159767=_0x195ab3;clearTimeout(this['timer']),this[_0x159767(0x1e7)]=0x0;}[_0x195ab3(0x29a)](){var _0x979148=_0x195ab3;this[_0x979148(0x308)]=![],this[_0x979148(0x291)][_0x979148(0x29a)](),clearTimeout(this['timer']),clearTimeout(this['updateUIID']),console[_0x979148(0x27e)]('clear\x20intervall'+this['updateUIID']);}['close'](){}}_0x20fa88[_0x195ab3(0x229)]=_0x293ec4,_0x293ec4[_0x195ab3(0x2d7)]=[0.01,0.5,0x1,0x2,0x4,0x8,0x10,0x20,0x40,0x80,0x100];function _0x1ecc27(){}_0x20fa88['test']=_0x1ecc27;}),define(a0_0x50878f(0x2ab),[a0_0x50878f(0x26b),a0_0x50878f(0x3d4),a0_0x50878f(0x454),a0_0x50878f(0x403),a0_0x50878f(0x393),a0_0x50878f(0x392)],function(_0x22f4bf,_0x40a875,_0x4a9228,_0x55274b,_0x5e5cb7,_0x1b3b8d){'use strict';var _0x43dd00=a0_0x50878f;Object['defineProperty'](_0x40a875,_0x43dd00(0x289),{'value':!![]}),_0x40a875[_0x43dd00(0x23b)]=void 0x0;class _0x13b66a{constructor(){var _0x651afa=_0x43dd00;this['type']=_0x651afa(0x23b),this[_0x651afa(0x2e2)]=undefined,this['tickCount']=0x0,this['lastRefreshCount']=0x0;var _0x46cb30=this;}[_0x43dd00(0x318)](){var _0x2d3c0e=_0x43dd00;this[_0x2d3c0e(0x3c9)]={};for(let _0x69671e=0x0;_0x69671e<this[_0x2d3c0e(0x23d)]['length'];_0x69671e++){let _0x209d50=this['companies'][_0x69671e];this[_0x2d3c0e(0x3c9)][_0x209d50[_0x2d3c0e(0x2cb)]]=_0x209d50;}for(let _0x2b4f7f=0x0;_0x2b4f7f<this[_0x2d3c0e(0x24e)][_0x2d3c0e(0x353)];_0x2b4f7f++){let _0x29e0b8=this[_0x2d3c0e(0x24e)][_0x2b4f7f];this['companyCache'][_0x29e0b8['companyID']]=_0x29e0b8;}}[_0x43dd00(0x22f)](_0x58d777){var _0x5ca929=_0x43dd00;let _0x5bcadb=0x0,_0x316258=0x0,_0x2294c6=_0x58d777;do{_0x5bcadb+=_0x2294c6[_0x5ca929(0x396)]||0x0,_0x316258+=_0x2294c6[_0x5ca929(0x316)]||0x0,_0x2294c6=_0x2294c6[_0x5ca929(0x37b)];}while(_0x2294c6);return{'top':_0x5bcadb,'left':_0x316258};}[_0x43dd00(0x3b6)](_0x244b58){_0x244b58['preventDefault']();}[_0x43dd00(0x268)](_0xfc400a){var _0x5eda9c=_0x43dd00,_0x262487;console[_0x5eda9c(0x27e)](_0x5eda9c(0x2c5)),(_0x262487=this[_0x5eda9c(0x35f)])===null||_0x262487===void 0x0?void 0x0:_0x262487['unselect']();}['updateUI'](){}[_0x43dd00(0x3cb)](){var _0x8a199f=_0x43dd00;this['tickCount']++,this['game'][_0x8a199f(0x249)](_0x8a199f(0x295));for(var _0x81b3f9=0x0;_0x81b3f9<this[_0x8a199f(0x23d)][_0x8a199f(0x353)];_0x81b3f9++){this['companies'][_0x81b3f9][_0x8a199f(0x3cb)]();}}[_0x43dd00(0x41d)](_0x1a561b,_0x8ef2b8=![],_0x4f82a3=![]){var _0x37a6e3=_0x43dd00,_0x5264ce=[];for(var _0x5dcb53=0x0;_0x5dcb53<parameter[_0x37a6e3(0x21f)][_0x37a6e3(0x353)];_0x5dcb53++){var _0x74e756=parameter[_0x37a6e3(0x21f)][_0x5dcb53];if(_0x4f82a3&&(_0x74e756['id']==_0x55274b['Product']['productTower']||_0x74e756['id']==_0x55274b[_0x37a6e3(0x30d)]['productCastle']))continue;_0x1a561b===_0x74e756[_0x37a6e3(0x2cc)]&&((_0x8ef2b8===![]||this['findCompanyThatProduces'](_0x74e756['id'])['length']===0x0)&&_0x5264ce[_0x37a6e3(0x35c)](_0x74e756));}return _0x5264ce;}[_0x43dd00(0x402)](){var _0x154ab8=_0x43dd00;this[_0x154ab8(0x23d)]=[],this[_0x154ab8(0x24e)]=[];var _0x27f1e3=[],_0x532681=0x0,_0x5882a1=[];for(var _0x2a9841=0x1;_0x2a9841<=this[_0x154ab8(0x2ce)]['width'];_0x2a9841++){for(var _0x18d60d=0x1;_0x18d60d<=this[_0x154ab8(0x2ce)][_0x154ab8(0x262)];_0x18d60d++){var _0x4636aa;if(_0x18d60d%0x2===0x1)_0x4636aa=new _0x4a9228[(_0x154ab8(0x2f2))](this,_0x532681,-0x2,0x0,0x0,0x0,_0x2a9841*0x4-0x1,_0x18d60d);else _0x4636aa=new _0x4a9228[(_0x154ab8(0x2f2))](this,_0x532681,-0x2,0x0,0x0,0x0,_0x2a9841*0x4+0x1,_0x18d60d);this[_0x154ab8(0x24e)][_0x154ab8(0x35c)](_0x4636aa),_0x2a9841<0x5&&_0x18d60d<0x10&&_0x5882a1[_0x154ab8(0x35c)](_0x4636aa),_0x4636aa[_0x154ab8(0x415)]=!(_0x4636aa['x']>0x2a||_0x4636aa['y']>0x22),_0x532681++;}}parameter[_0x154ab8(0x21f)][_0x154ab8(0x2dc)](_0x4a5088=>{var _0x5c92b2=_0x154ab8;if(_0x4a5088[_0x5c92b2(0x2cc)]===0x1){var _0xabe4d=(0x0,_0x5e5cb7['getRandomInt'])(_0x5882a1[_0x5c92b2(0x353)]-0x1),_0x3c237a=_0x5882a1[_0xabe4d];this[_0x5c92b2(0x24e)][_0x5c92b2(0x2c1)](this[_0x5c92b2(0x24e)][_0x5c92b2(0x2e4)](_0x3c237a),0x1),_0x5882a1['splice'](_0x5882a1[_0x5c92b2(0x2e4)](_0x3c237a),0x1),this['companies'][_0x5c92b2(0x35c)](_0x3c237a),_0x3c237a[_0x5c92b2(0x1fd)](_0x4a5088['id']);}});var _0x20c2f2=0x1;for(var _0x2a9841=0x0;_0x2a9841<this[_0x154ab8(0x23d)][_0x154ab8(0x353)];_0x2a9841++){this[_0x154ab8(0x23d)][_0x2a9841][_0x154ab8(0x2cb)]=_0x20c2f2++;}for(var _0x2a9841=0x0;_0x2a9841<this[_0x154ab8(0x24e)][_0x154ab8(0x353)];_0x2a9841++){this[_0x154ab8(0x24e)][_0x2a9841][_0x154ab8(0x2cb)]=_0x20c2f2++;}this[_0x154ab8(0x318)]();var _0x588f11=this[_0x154ab8(0x451)](_0x55274b[_0x154ab8(0x30d)]['productHelper'])[0x0],_0x3f5dd2=this[_0x154ab8(0x451)](_0x55274b['Product']['productSoldier'])[0x0];_0x588f11[_0x154ab8(0x440)]=0x1,_0x588f11[_0x154ab8(0x460)][0x0]=0xa,this['game'][_0x154ab8(0x233)]=0x4,_0x3f5dd2[_0x154ab8(0x440)]=0x1;var _0x36c6de=this['findCompanyThatProduces'](_0x55274b['Product'][_0x154ab8(0x43f)])[0x0],_0x585821=new _0x1b3b8d[(_0x154ab8(0x36f))](_0x36c6de);_0x585821['active']=!![],_0x585821[_0x154ab8(0x440)]=0x1,_0x585821[_0x154ab8(0x3ce)]=!![],_0x36c6de['transports'][_0x154ab8(0x35c)](_0x585821);var _0x4e56bc=this['findCompanyThatProduces'](_0x55274b[_0x154ab8(0x30d)]['productStone'])[0x0],_0x4d84f4=new _0x1b3b8d['Transport'](_0x4e56bc);_0x4d84f4[_0x154ab8(0x388)]=!![],_0x4d84f4[_0x154ab8(0x440)]=0x1,_0x4d84f4['autodeliver']=!![],_0x4e56bc[_0x154ab8(0x2b6)][_0x154ab8(0x35c)](_0x4d84f4),this['game'][_0x154ab8(0x320)](),this['game']['created']=!![];}['findSoldier'](_0x50f47f=undefined){var _0x3f7800=_0x43dd00,_0x269805=0x0,_0x1c6400=undefined;if(_0x50f47f){var _0x45ac4b=_0x50f47f[_0x3f7800(0x3b7)](0x1,_0x50f47f[_0x3f7800(0x2e7)]===_0x55274b['Product'][_0x3f7800(0x443)]?0x5:0x3,!![]);for(var _0x20c05e=0x0;_0x20c05e<_0x45ac4b[_0x3f7800(0x353)];_0x20c05e++){if(_0x45ac4b[_0x20c05e][_0x3f7800(0x2da)]===undefined&&(_0x45ac4b[_0x20c05e][_0x3f7800(0x2e7)]===_0x55274b[_0x3f7800(0x30d)]['productCastle']||_0x45ac4b[_0x20c05e][_0x3f7800(0x2e7)]===_0x55274b[_0x3f7800(0x30d)][_0x3f7800(0x287)]))_0x45ac4b[_0x20c05e][_0x3f7800(0x372)]>_0x269805&&(_0x1c6400=_0x45ac4b[_0x20c05e],_0x269805=_0x45ac4b[_0x20c05e][_0x3f7800(0x372)]);}}else{var _0x45ac4b=this['findCompanyThatProduces'](_0x55274b[_0x3f7800(0x30d)][_0x3f7800(0x337)],![]);for(var _0x20c05e=0x0;_0x20c05e<_0x45ac4b['length'];_0x20c05e++){_0x45ac4b[_0x20c05e][_0x3f7800(0x2a7)]>_0x269805&&(_0x1c6400=_0x45ac4b[_0x20c05e],_0x269805=_0x45ac4b[_0x20c05e][_0x3f7800(0x2a7)]);}}return _0x1c6400;}[_0x43dd00(0x20d)](_0x206ebb){var _0x5e55e1=_0x43dd00,_0x249fb9=[],_0x22ca61=-0x1;parameter[_0x5e55e1(0x21f)][_0x5e55e1(0x2dc)](_0x52bc47=>{var _0x21f45d=_0x5e55e1;if(_0x52bc47[_0x21f45d(0x2cf)]===_0x206ebb)_0x22ca61=_0x52bc47['id'];});if(_0x22ca61===-0x1)return[];return this['findCompanyThatProduces'](_0x22ca61);}[_0x43dd00(0x451)](_0x34748f,_0xdeca48=![],_0x5d089f=![]){var _0x5bece6=_0x43dd00,_0x240020=[];for(var _0x10e5b6=0x0;_0x10e5b6<this[_0x5bece6(0x23d)][_0x5bece6(0x353)];_0x10e5b6++){if(this[_0x5bece6(0x23d)][_0x10e5b6][_0x5bece6(0x2e7)]===_0x34748f||_0xdeca48===!![]&&this[_0x5bece6(0x23d)][_0x10e5b6][_0x5bece6(0x2bb)]===_0x34748f){if(this['companies'][_0x10e5b6][_0x5bece6(0x2da)]===undefined||_0x5d089f)_0x240020['push'](this['companies'][_0x10e5b6]);}}return _0x240020;}['findCompanyThatConsumes'](_0x4c4ca1){var _0x5c998a=_0x43dd00,_0x5a4c9b,_0x3ebbe2=[];for(var _0x59ccfa=0x0;_0x59ccfa<this[_0x5c998a(0x23d)]['length'];_0x59ccfa++){var _0x58516a=parameter[_0x5c998a(0x21f)][this[_0x5c998a(0x23d)][_0x59ccfa]['productid']];if(((_0x5a4c9b=_0x58516a===null||_0x58516a===void 0x0?void 0x0:_0x58516a[_0x5c998a(0x2b4)])===null||_0x5a4c9b===void 0x0?void 0x0:_0x5a4c9b[_0x5c998a(0x2e4)](_0x4c4ca1))>-0x1)_0x3ebbe2[_0x5c998a(0x35c)](this['companies'][_0x59ccfa]);}return _0x3ebbe2;}[_0x43dd00(0x455)](){var _0x295d58=_0x43dd00,_0x346998=[];for(var _0x81ef24=0x0;_0x81ef24<this[_0x295d58(0x23d)][_0x295d58(0x353)];_0x81ef24++){var _0x3264ad=this[_0x295d58(0x23d)][_0x81ef24][_0x295d58(0x2e7)];if(_0x3264ad>-0x2)_0x346998[_0x295d58(0x35c)](this[_0x295d58(0x23d)][_0x81ef24]);}return _0x346998;}['render'](_0x487cc0){var _0x204ab1=_0x43dd00,_0x2eeba9=this;this[_0x204ab1(0x2d9)]=_0x487cc0;for(var _0x12a192=0x0;_0x12a192<this['companies'][_0x204ab1(0x353)];_0x12a192++){this['companies'][_0x12a192][_0x204ab1(0x3c3)]();}for(var _0x12a192=0x0;_0x12a192<this['freeCompanies']['length'];_0x12a192++){this[_0x204ab1(0x24e)][_0x12a192][_0x204ab1(0x3c3)]();}}['destroy'](){}}_0x40a875[_0x43dd00(0x23b)]=_0x13b66a;}),define(a0_0x50878f(0x454),[a0_0x50878f(0x26b),'exports',a0_0x50878f(0x393),a0_0x50878f(0x34e),a0_0x50878f(0x392),a0_0x50878f(0x403),a0_0x50878f(0x37d)],function(_0x596fd7,_0x1c3824,_0x33342b,_0x187bdb,_0x4a2d75,_0x1b7fa8,_0x227274){'use strict';var _0x3bc93a=a0_0x50878f;Object[_0x3bc93a(0x3cc)](_0x1c3824,'__esModule',{'value':!![]}),_0x1c3824[_0x3bc93a(0x3d5)]=_0x1c3824[_0x3bc93a(0x2f2)]=void 0x0;class _0x127923{constructor(_0x36f9ab=undefined,_0x456389=undefined,_0x3984d5=undefined,_0x33710c=undefined,_0x546f10=undefined,_0x1ba7f7=undefined,_0xd463be=undefined,_0x1beeef=undefined){var _0x58a742=_0x3bc93a;this[_0x58a742(0x313)]='Company',this[_0x58a742(0x2a7)]=0x0,this[_0x58a742(0x351)]=0x0,this[_0x58a742(0x27b)]=0xa,this[_0x58a742(0x372)]=0x0,this[_0x58a742(0x460)]=[],this[_0x58a742(0x2b6)]=[],this[_0x58a742(0x2cb)]=_0x456389,this['productid']=_0x3984d5,this[_0x58a742(0x440)]=_0x33710c,this[_0x58a742(0x2c2)]=_0x546f10,this[_0x58a742(0x2c7)]=_0x1ba7f7,this['x']=_0xd463be,this['y']=_0x1beeef,this[_0x58a742(0x291)]=_0x36f9ab,_0x546f10=0x0,_0x3984d5!==undefined&&this[_0x58a742(0x1fd)](_0x3984d5);}[_0x3bc93a(0x1fd)](_0x2ee8a5){var _0x32f241=_0x3bc93a;this[_0x32f241(0x2e7)]=_0x2ee8a5;var _0x274474=parameter['allProducts'][this[_0x32f241(0x2e7)]],_0x4b8e78=[];if(_0x274474){if(this[_0x32f241(0x37a)]){var _0x185a2e=_0x274474[_0x32f241(0x387)];if(this[_0x32f241(0x2da)]!==undefined)_0x185a2e=_0x32f241(0x224)+(this[_0x32f241(0x2da)]+0x1)+_0x32f241(0x421);this[_0x32f241(0x37a)][_0x32f241(0x3ef)]=_0x127923['getImageUrl'](_0x185a2e);}for(var _0x170413=0x0;_0x170413<_0x274474[_0x32f241(0x2b4)][_0x32f241(0x353)];_0x170413++){_0x4b8e78[_0x32f241(0x35c)](0x0);}if(_0x274474[_0x32f241(0x27b)])this['speed']=_0x274474[_0x32f241(0x27b)];}this['workers']=0x0,this['workersIn']=0x0,this[_0x32f241(0x2c7)]=0x0,this[_0x32f241(0x460)]=_0x4b8e78,this[_0x32f241(0x2c3)]();}[_0x3bc93a(0x205)](){var _0xe3e4d0=_0x3bc93a;let _0x967cdc=this[_0xe3e4d0(0x291)][_0xe3e4d0(0x24e)][_0xe3e4d0(0x2e4)](this),_0x5d182d=this[_0xe3e4d0(0x291)]['companies']['indexOf'](this);this[_0xe3e4d0(0x2e7)]!=-0x2&&_0x967cdc>-0x1&&this['world']['freeCompanies'][_0xe3e4d0(0x2c1)](_0x967cdc,0x1),this[_0xe3e4d0(0x2e7)]!=-0x2&&_0x5d182d==-0x1&&this[_0xe3e4d0(0x291)][_0xe3e4d0(0x23d)][_0xe3e4d0(0x35c)](this),this[_0xe3e4d0(0x2e7)]==-0x2&&_0x5d182d>-0x1&&this[_0xe3e4d0(0x291)]['companies']['splice'](_0x5d182d,0x1),this[_0xe3e4d0(0x2e7)]==-0x2&&_0x967cdc==-0x1&&this['world'][_0xe3e4d0(0x24e)][_0xe3e4d0(0x35c)](this);}[_0x3bc93a(0x2c3)](){var _0x320d81=_0x3bc93a,_0xe588e4=parameter['allProducts'][this[_0x320d81(0x2e7)]],_0x23ee98=[];if(_0xe588e4){for(var _0x19591e=0x0;_0x19591e<_0xe588e4[_0x320d81(0x2b4)][_0x320d81(0x353)];_0x19591e++){_0x23ee98[_0x320d81(0x35c)](0x0);}this[_0x320d81(0x460)]=_0x23ee98;var _0x5dd39f=0x0;for(var _0x4ce979=0x0;_0x4ce979<0x2710;_0x4ce979++){var _0x116581=_0x4ce979===0x0?_0xe588e4[_0x320d81(0x2cf)]:_0xe588e4['name']+_0x4ce979,_0x203132=![];for(var _0x19591e=0x0;_0x19591e<this[_0x320d81(0x291)][_0x320d81(0x23d)][_0x320d81(0x353)];_0x19591e++){if(this['world']['companies'][_0x19591e][_0x320d81(0x2cf)]===_0x116581)_0x203132=!![];}if(!_0x203132){this[_0x320d81(0x2cf)]=_0x116581;break;}}}else this[_0x320d81(0x2cf)]='';}['nextTick'](){var _0x4ce6d0=_0x3bc93a;this[_0x4ce6d0(0x3b5)]();for(var _0x5e7f89=0x0;_0x5e7f89<this[_0x4ce6d0(0x2b6)]['length'];_0x5e7f89++){this[_0x4ce6d0(0x2b6)][_0x5e7f89]['nextTick']();}if(this[_0x4ce6d0(0x440)]===0x0)return;var _0xd824b0=this[_0x4ce6d0(0x2c7)]*parameter[_0x4ce6d0(0x311)]+parameter[_0x4ce6d0(0x311)];this['inproduction']=this[_0x4ce6d0(0x351)]+this['workers']*this[_0x4ce6d0(0x27b)];var _0x4f6c6b=Math['floor'](this[_0x4ce6d0(0x351)]/0x3e8);_0x4f6c6b=Math[_0x4ce6d0(0x3e8)](_0x4f6c6b,_0xd824b0-this['produced'],...this['rawmaterials']);if(this[_0x4ce6d0(0x2e7)]===_0x1b7fa8[_0x4ce6d0(0x30d)][_0x4ce6d0(0x33e)]&&this['world'][_0x4ce6d0(0x2ce)][_0x4ce6d0(0x233)]>=this[_0x4ce6d0(0x291)]['game'][_0x4ce6d0(0x20b)]()[_0x4ce6d0(0x461)])_0x4f6c6b=0x0;var _0x1e8cf9=0x0;this['world'][_0x4ce6d0(0x451)](_0x1b7fa8[_0x4ce6d0(0x30d)]['productSoldier'])[_0x4ce6d0(0x2dc)](_0xf36a57=>_0x1e8cf9+=_0xf36a57[_0x4ce6d0(0x2a7)]);if(this[_0x4ce6d0(0x2e7)]===_0x1b7fa8[_0x4ce6d0(0x30d)][_0x4ce6d0(0x337)]&&_0x1e8cf9>=this[_0x4ce6d0(0x291)][_0x4ce6d0(0x2ce)][_0x4ce6d0(0x20b)]()[_0x4ce6d0(0x2ee)])_0x4f6c6b=0x0;if(_0x4f6c6b>0x0){this[_0x4ce6d0(0x351)]=this[_0x4ce6d0(0x351)]%0x3e8,this['produced']=this[_0x4ce6d0(0x2a7)]+_0x4f6c6b;for(var _0x5e7f89=0x0;_0x5e7f89<this[_0x4ce6d0(0x460)]['length'];_0x5e7f89++){this[_0x4ce6d0(0x460)][_0x5e7f89]=this[_0x4ce6d0(0x460)][_0x5e7f89]-_0x4f6c6b;}this[_0x4ce6d0(0x2e7)]===_0x1b7fa8[_0x4ce6d0(0x30d)][_0x4ce6d0(0x33e)]&&(this[_0x4ce6d0(0x291)]['game'][_0x4ce6d0(0x233)]=this['world'][_0x4ce6d0(0x2ce)][_0x4ce6d0(0x233)]+_0x4f6c6b),this[_0x4ce6d0(0x2e7)]===_0x1b7fa8[_0x4ce6d0(0x30d)][_0x4ce6d0(0x337)]&&(this[_0x4ce6d0(0x291)][_0x4ce6d0(0x2ce)]['debugSoldierCreated']+=_0x4f6c6b);}this[_0x4ce6d0(0x3b5)]();}[_0x3bc93a(0x2a1)](_0x3fa114){var _0x1fb468=_0x3bc93a;for(let _0x19f015=0x0;_0x19f015<this[_0x1fb468(0x291)][_0x1fb468(0x23d)][_0x1fb468(0x353)];_0x19f015++){let _0x39b3b7=this[_0x1fb468(0x291)][_0x1fb468(0x23d)][_0x19f015];if(_0x39b3b7['enemy']===_0x3fa114&&_0x39b3b7[_0x1fb468(0x27d)]!==undefined)return _0x39b3b7;}return undefined;}['findEnemyBuildings'](_0x129448){var _0x52f4cf=_0x3bc93a,_0x55c83c=[];for(let _0x5cd06e=0x0;_0x5cd06e<this[_0x52f4cf(0x291)]['companies'][_0x52f4cf(0x353)];_0x5cd06e++){let _0x4e9353=this[_0x52f4cf(0x291)][_0x52f4cf(0x23d)][_0x5cd06e];_0x4e9353[_0x52f4cf(0x2da)]===_0x129448&&_0x55c83c[_0x52f4cf(0x35c)](_0x4e9353);}return _0x55c83c;}[_0x3bc93a(0x430)](_0x31d234){var _0x3d948c=_0x3bc93a,_0x3b4355=this,_0x398be3=this[_0x3d948c(0x274)](),_0x5045eb=_0x398be3['soldiercount']-0xc8;if(_0x5045eb<0x0)_0x5045eb=0x0;_0x5045eb=Math[_0x3d948c(0x3e8)](0x64,_0x5045eb,(0x0,_0x33342b['getRandomInt'])(0x5)===0x1?this[_0x3d948c(0x372)]:(0x0,_0x33342b[_0x3d948c(0x3f2)])(this[_0x3d948c(0x372)]));if(_0x5045eb===0x0)_0x5045eb=0x1;this[_0x3d948c(0x372)]-=_0x5045eb;var _0x18d108=(_0x51571d,_0x564a48,_0x5036f7)=>{setTimeout(()=>{var _0x3c0ecb=a0_0x3c91;_0x51571d['productCount']=_0x5036f7,_0x51571d[_0x3c0ecb(0x388)]=!![];},_0x564a48);};if(_0x5045eb<=0x0)return;_0x227274['Game']['showInfo'](_0x3d948c(0x216)+_0x31d234[_0x3d948c(0x2cf)]);for(var _0x1d2682=0x0;_0x1d2682<_0x5045eb;_0x1d2682++){var _0x1c5fba=new _0x4a2d75[(_0x3d948c(0x36f))](this);_0x1c5fba[_0x3d948c(0x327)]=_0x31d234[_0x3d948c(0x2cb)],_0x1c5fba[_0x3d948c(0x440)]=0x1;var _0x9796d=0x1;_0x1c5fba[_0x3d948c(0x238)]={'productid':_0x1b7fa8['Product']['productSoldier']},_0x1c5fba[_0x3d948c(0x3c3)](),_0x18d108(_0x1c5fba,_0x1d2682*0x64,_0x9796d),this[_0x3d948c(0x2b6)][_0x3d948c(0x35c)](_0x1c5fba);}if(_0x31d234[_0x3d948c(0x407)]===undefined)_0x31d234[_0x3d948c(0x407)]=0x0;_0x31d234[_0x3d948c(0x407)]+=_0x5045eb,_0x31d234[_0x3d948c(0x1db)]=this[_0x3d948c(0x291)][_0x3d948c(0x2a9)];}[_0x3bc93a(0x274)](){var _0x299044=_0x3bc93a;if(this[_0x299044(0x2da)]===undefined)return undefined;var _0x3842d6=this[_0x299044(0x291)][_0x299044(0x3c9)][this[_0x299044(0x291)][_0x299044(0x2ce)][_0x299044(0x333)][this['enemy']-0x1]];return _0x3842d6;}['enemyAttackCompanyOld'](_0x4da79d){var _0x3b1bf2=_0x3bc93a;if(_0x4da79d[_0x3b1bf2(0x1db)]!==undefined&&this[_0x3b1bf2(0x291)][_0x3b1bf2(0x2a9)]-_0x4da79d['tickLastInvader']<0x5*0x3c)return;var _0x214c74=this;_0x227274['Game']['showInfo'](_0x3b1bf2(0x216)+_0x4da79d[_0x3b1bf2(0x2cf)]);var _0x2703ee=Math[_0x3b1bf2(0x3e8)](0x64,_0x4da79d['soldiercount']);if(_0x2703ee===0x0)_0x2703ee=0x1;this[_0x3b1bf2(0x372)]-=_0x2703ee;var _0x1cab79=(_0x2a6568,_0x8dd10,_0x27060b)=>{setTimeout(()=>{var _0x59de1d=a0_0x3c91;_0x2a6568[_0x59de1d(0x2f4)]=_0x27060b,_0x2a6568['active']=!![];},_0x8dd10);};for(var _0x110b47=0x0;_0x110b47<_0x2703ee;_0x110b47++){var _0x27d3eb=new _0x4a2d75[(_0x3b1bf2(0x36f))](this);_0x27d3eb['companyTarget']=_0x4da79d[_0x3b1bf2(0x2cb)],_0x27d3eb['workers']=0x1;var _0x475e42=0x1;_0x27d3eb[_0x3b1bf2(0x238)]={'productid':_0x1b7fa8[_0x3b1bf2(0x30d)][_0x3b1bf2(0x337)]},_0x27d3eb[_0x3b1bf2(0x3c3)](),_0x1cab79(_0x27d3eb,_0x110b47*0x64,_0x475e42),this['transports']['push'](_0x27d3eb);}_0x4da79d[_0x3b1bf2(0x1db)]=this['world'][_0x3b1bf2(0x2a9)];}['enemyExpand'](){var _0x29a7fb=_0x3bc93a,_0x3aa257=this[_0x29a7fb(0x372)]-this[_0x29a7fb(0x27d)],_0x422b22=0x2;this[_0x29a7fb(0x2e7)]===_0x1b7fa8[_0x29a7fb(0x30d)][_0x29a7fb(0x443)]&&(_0x422b22=0x3);if(this[_0x29a7fb(0x2da)]===undefined)return;let _0x4318af=this[_0x29a7fb(0x2a5)](this[_0x29a7fb(0x2da)]);var _0x27f5ff=[];for(let _0x4650aa=0x0;_0x4650aa<_0x4318af[_0x29a7fb(0x353)];_0x4650aa++){let _0x21a0bf=_0x4318af[_0x4650aa],_0x466647=_0x21a0bf[_0x29a7fb(0x3b7)](_0x422b22,_0x422b22,![],!![]);_0x466647['forEach'](_0x3c5e1e=>{var _0x5440aa=_0x29a7fb;if(_0x3c5e1e[_0x5440aa(0x2e7)]==-0x2)_0x27f5ff[_0x5440aa(0x35c)](_0x3c5e1e);});}var _0x30bf46=[],_0x3498a9=[],_0x3b4833=[],_0x6e278f=[],_0x1654e2=[];for(let _0x3e3618=0x0;_0x3e3618<_0x27f5ff['length'];_0x3e3618++){let _0x27670a=_0x27f5ff[_0x3e3618],_0x392550=![],_0x4558f1=![],_0x42da26=![],_0x7101ad=_0x27670a[_0x29a7fb(0x3b7)](0x1,_0x422b22,!![],![]);_0x7101ad[_0x29a7fb(0x2dc)](_0x1d5116=>{var _0x8ca8f6=_0x29a7fb;if(_0x1d5116[_0x8ca8f6(0x415)])_0x392550=!![];});let _0x4a007c=_0x27670a[_0x29a7fb(0x3b7)](0x1,_0x422b22,!![],![]);if(_0x4a007c['length']>0x1)_0x4558f1=!![];_0x7101ad[_0x29a7fb(0x2dc)](_0x4a69cf=>{var _0x354c76=_0x29a7fb;if(_0x4a69cf['enemy']!==this[_0x354c76(0x2da)]&&this[_0x354c76(0x2da)]!==undefined)_0x42da26=!![];});if(_0x392550&&!_0x42da26&&!_0x4558f1)_0x30bf46[_0x29a7fb(0x35c)](_0x27670a);else{if(!_0x42da26&&!_0x4558f1)_0x3498a9['push'](_0x27670a);else{if(_0x42da26&&!_0x4558f1)_0x3b4833[_0x29a7fb(0x35c)](_0x27670a);else{if(_0x4558f1)_0x6e278f[_0x29a7fb(0x35c)](_0x27670a);else _0x1654e2[_0x29a7fb(0x35c)](_0x27670a);}}}}var _0x53a24a=_0x30bf46;if(_0x53a24a[_0x29a7fb(0x353)]===0x0)_0x53a24a=_0x3498a9;if(_0x53a24a[_0x29a7fb(0x353)]===0x0)_0x53a24a=_0x3b4833;if(_0x53a24a['length']===0x0)_0x53a24a=_0x6e278f;if(_0x53a24a[_0x29a7fb(0x353)]>0x0){let _0x5ced7b=_0x53a24a[(0x0,_0x33342b[_0x29a7fb(0x3f2)])(_0x53a24a[_0x29a7fb(0x353)])];_0x5ced7b[_0x29a7fb(0x2da)]=this[_0x29a7fb(0x2da)],_0x5ced7b[_0x29a7fb(0x1fd)](_0x1b7fa8[_0x29a7fb(0x30d)]['productCastle']),_0x5ced7b['soldiercount']=0x64,_0x5ced7b[_0x29a7fb(0x205)](),this['soldiercount']-=0x64;}}[_0x3bc93a(0x261)](){var _0x54b16c=_0x3bc93a,_0x350cbb=0x2;this['productid']===_0x1b7fa8[_0x54b16c(0x30d)]['productCastle']&&(_0x350cbb=0x3);if(this[_0x54b16c(0x2da)]===undefined)return;var _0x5e7ffc=[],_0x290ea3=this[_0x54b16c(0x3b7)](0x1,_0x350cbb+0x2,!![],![]);_0x290ea3[_0x54b16c(0x2dc)](_0xb3901f=>{var _0x1bb9cd=_0x54b16c;_0xb3901f[_0x1bb9cd(0x2da)]===undefined&&_0xb3901f['productid']>-0x1&&_0x5e7ffc[_0x1bb9cd(0x35c)](_0xb3901f);});if(_0x5e7ffc[_0x54b16c(0x353)]>0x0){let _0xaa2b87=_0x5e7ffc[(0x0,_0x33342b[_0x54b16c(0x3f2)])(_0x5e7ffc[_0x54b16c(0x353)])];this[_0x54b16c(0x430)](_0xaa2b87);return;}}[_0x3bc93a(0x32b)](){var _0x40657a=_0x3bc93a,_0x32d79e=this[_0x40657a(0x372)]-this['enemyBaseSoldierCount'],_0x5587a2=0x2;this[_0x40657a(0x2e7)]===_0x1b7fa8[_0x40657a(0x30d)]['productCastle']&&(_0x5587a2=0x3);if(this[_0x40657a(0x2da)]===undefined)return;let _0x3ce96f=this[_0x40657a(0x2a5)](this[_0x40657a(0x2da)]);var _0xcc1c9c=[];for(let _0xdccf51=0x0;_0xdccf51<_0x3ce96f['length'];_0xdccf51++){let _0x5a640e=_0x3ce96f[_0xdccf51];var _0x572a59=_0x5a640e[_0x40657a(0x3b7)](0x1,_0x5587a2+0x2,!![],![]);_0x572a59[_0x40657a(0x2dc)](_0x555ffe=>{var _0x1628fc=_0x40657a;_0x555ffe[_0x1628fc(0x2da)]===undefined&&_0x555ffe[_0x1628fc(0x2e7)]>-0x1&&_0xcc1c9c[_0x1628fc(0x35c)](_0x555ffe);});}if(_0xcc1c9c[_0x40657a(0x353)]>0x0){let _0x19764d=_0xcc1c9c[(0x0,_0x33342b[_0x40657a(0x3f2)])(_0xcc1c9c[_0x40657a(0x353)])];this[_0x40657a(0x430)](_0x19764d);return;}}['updateUI'](_0x2089c0){var _0x11cb90=_0x3bc93a;if(this[_0x11cb90(0x28c)]){var _0xa179f3=this[_0x11cb90(0x2a7)]===0x0?'':this[_0x11cb90(0x2a7)][_0x11cb90(0x453)](),_0x442ea1=parameter[_0x11cb90(0x2cd)];let _0x4db922=(this['x']-0x3)*_0x442ea1+0x14+0x1e,_0x436dc2=(this['y']-0x1)*_0x442ea1+0xa+0x3c;this[_0x11cb90(0x291)][_0x11cb90(0x2a9)]%0x4===0x0&&(_0x4db922>_0x2089c0['left']&&_0x4db922<_0x2089c0['left']+_0x2089c0[_0x11cb90(0x231)]&&_0x436dc2>_0x2089c0[_0x11cb90(0x34f)]&&_0x436dc2<_0x2089c0[_0x11cb90(0x34f)]+_0x2089c0[_0x11cb90(0x262)]&&this[_0x11cb90(0x28c)][_0x11cb90(0x28e)]!==_0xa179f3&&(this[_0x11cb90(0x28c)][_0x11cb90(0x253)]=_0xa179f3,this[_0x11cb90(0x28c)][_0x11cb90(0x28e)]=_0xa179f3));for(var _0x15bbba=0x0;_0x15bbba<this[_0x11cb90(0x2b6)][_0x11cb90(0x353)];_0x15bbba++){this[_0x11cb90(0x2b6)][_0x15bbba][_0x11cb90(0x338)](_0x2089c0);}}}[_0x3bc93a(0x3b5)](){var _0x1d1966=_0x3bc93a;this[_0x1d1966(0x27d)]!==undefined&&((0x0,_0x33342b[_0x1d1966(0x3f2)])(parameter['enemyReproduction'])===0x1&&(this[_0x1d1966(0x372)]++,this[_0x1d1966(0x291)][_0x1d1966(0x2ce)][_0x1d1966(0x279)]++),this[_0x1d1966(0x2da)]!==undefined&&this[_0x1d1966(0x27d)]!==undefined&&this[_0x1d1966(0x372)]-this['enemyBaseSoldierCount']>0x64&&this[_0x1d1966(0x2e3)]());if(this[_0x1d1966(0x2da)]!==undefined&&this['enemyBaseSoldierCount']===undefined&&(0x0,_0x33342b[_0x1d1966(0x3f2)])(0x7*0xa*0x3c)===0x1&&this[_0x1d1966(0x372)]<0x64){var _0x194e4f=this[_0x1d1966(0x274)]();if(_0x194e4f===undefined)var _0x5a273b=0x9;if(_0x194e4f[_0x1d1966(0x372)]>0x12c){var _0x3985bb=0x64-this[_0x1d1966(0x372)];this['soldiercount']+=_0x3985bb,_0x194e4f[_0x1d1966(0x372)]-=_0x3985bb;}}this[_0x1d1966(0x2da)]!==undefined&&this[_0x1d1966(0x372)]>0x32&&(0x0,_0x33342b['getRandomInt'])(0x7*0xa*0x3c)===0x1&&this['enemyAttack']();}static[_0x3bc93a(0x379)](_0x57f94f){var _0x6ed54f=_0x3bc93a;if(_0x57f94f===undefined)return'';if(window[_0x6ed54f(0x1e8)][_0x6ed54f(0x272)][_0x6ed54f(0x2e4)]('/sample/')!==-0x1)return'https://uwei.github.io/traffics/v2/images/'+_0x57f94f;return _0x6ed54f(0x2b0)+_0x57f94f;}[_0x3bc93a(0x1eb)](){var _0x2d06ba=_0x3bc93a;this[_0x2d06ba(0x291)][_0x2d06ba(0x2d9)][_0x2d06ba(0x290)](this[_0x2d06ba(0x2d9)]),this[_0x2d06ba(0x3c3)]();}[_0x3bc93a(0x3c3)](){var _0x27c67c=_0x3bc93a,_0x465603=this,_0x44d35f='',_0x54052a=parameter[_0x27c67c(0x2cd)],_0x91be3d=this['productid']===-0x1?undefined:parameter[_0x27c67c(0x21f)][this[_0x27c67c(0x2e7)]],_0x1bf2b1=_0x91be3d===undefined?'':_0x91be3d[_0x27c67c(0x2cf)];if(!this[_0x27c67c(0x415)]){_0x44d35f='<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20style=\x22top:'+((this['y']-0x1)*_0x54052a+'px')+_0x27c67c(0x1ec)+((this['x']-0x3)*_0x54052a+'px')+_0x27c67c(0x329)+_0x54052a*0x3+';height:'+_0x54052a*0x2+';position:absolute\x22\x20class=\x22company\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<polygon\x20points=\x22'+0x1*_0x54052a+_0x27c67c(0x365)+0x2*_0x54052a+_0x27c67c(0x365)+0x3*_0x54052a+','+0x1*_0x54052a+'\x20'+0x2*_0x54052a+','+0x2*_0x54052a+'\x20'+0x1*_0x54052a+','+0x2*_0x54052a+_0x27c67c(0x40c)+0x1*_0x54052a+_0x27c67c(0x360);;}else{_0x44d35f=_0x27c67c(0x3dd)+((this['y']-0x1)*_0x54052a+'px')+_0x27c67c(0x1ec)+((this['x']-0x3)*_0x54052a+'px')+_0x27c67c(0x329)+_0x54052a*0x3+_0x27c67c(0x3bc)+_0x54052a*0x2+_0x27c67c(0x21a)+0x1*_0x54052a+_0x27c67c(0x365)+0x2*_0x54052a+',0\x20'+0x3*_0x54052a+','+0x1*_0x54052a+'\x20'+0x2*_0x54052a+','+0x2*_0x54052a+'\x20'+0x1*_0x54052a+','+0x2*_0x54052a+_0x27c67c(0x40c)+0x1*_0x54052a+_0x27c67c(0x416);;}var _0x22d4a5='';if(this[_0x27c67c(0x2e7)]===-0x1)this[_0x27c67c(0x37a)]=document['createRange']()[_0x27c67c(0x431)](_0x27c67c(0x2a2)+_0x127923[_0x27c67c(0x379)](_0x27c67c(0x2de))+_0x27c67c(0x303)+parameter[_0x27c67c(0x2cd)]+_0x27c67c(0x352)+(parameter[_0x27c67c(0x2cd)]+0xe)+_0x27c67c(0x2c8)+((this['y']-0x1)*_0x54052a+'px')+_0x27c67c(0x1ec)+((this['x']-0x3)*_0x54052a+_0x54052a-0x5+'px')+_0x27c67c(0x1f3))['children'][0x0];else{if(this[_0x27c67c(0x2e7)]===-0x3)this[_0x27c67c(0x37a)]=document[_0x27c67c(0x3ab)]()[_0x27c67c(0x431)](_0x27c67c(0x2a2)+_0x127923['getImageUrl'](_0x27c67c(0x347))+_0x27c67c(0x2df)+parameter['zoomfactor']+_0x27c67c(0x352)+(parameter[_0x27c67c(0x2cd)]+0xe)+'\x22\x20style=\x22top:'+((this['y']-0x1)*_0x54052a+'px')+';left:'+((this['x']-0x3)*_0x54052a+_0x54052a-0x5+'px')+';position:absolute\x22>')[_0x27c67c(0x2bf)][0x0];else{if(this[_0x27c67c(0x2da)]!==undefined)this[_0x27c67c(0x37a)]=document[_0x27c67c(0x3ab)]()[_0x27c67c(0x431)](_0x27c67c(0x2a2)+_0x127923[_0x27c67c(0x379)](_0x27c67c(0x224)+(this[_0x27c67c(0x2da)]+0x1)+'.png')+_0x27c67c(0x2e5)+_0x91be3d[_0x27c67c(0x2cf)]+_0x27c67c(0x214)+(parameter[_0x27c67c(0x2cd)]+0xe)+_0x27c67c(0x352)+(parameter['zoomfactor']+0xe)+_0x27c67c(0x2c8)+((this['y']-0x1)*_0x54052a+'px')+_0x27c67c(0x1ec)+((this['x']-0x3)*_0x54052a+_0x54052a-0x5+'px')+_0x27c67c(0x1f3))[_0x27c67c(0x2bf)][0x0];else{if(_0x91be3d!==undefined&&_0x91be3d[_0x27c67c(0x387)]!=='')this[_0x27c67c(0x37a)]=document['createRange']()[_0x27c67c(0x431)](_0x27c67c(0x2a2)+_0x127923[_0x27c67c(0x379)](_0x91be3d[_0x27c67c(0x387)])+_0x27c67c(0x2e5)+_0x91be3d[_0x27c67c(0x2cf)]+_0x27c67c(0x214)+(parameter[_0x27c67c(0x2cd)]+0xe)+'\x22\x20height=\x22'+(parameter[_0x27c67c(0x2cd)]+0xe)+'\x22\x20style=\x22top:'+((this['y']-0x1)*_0x54052a+'px')+_0x27c67c(0x1ec)+((this['x']-0x3)*_0x54052a+_0x54052a-0x5+'px')+_0x27c67c(0x1f3))[_0x27c67c(0x2bf)][0x0];else this[_0x27c67c(0x37a)]=document[_0x27c67c(0x3ab)]()[_0x27c67c(0x431)]('<img\x20src=\x22'+_0x127923['getImageUrl'](_0x27c67c(0x32d))+'\x22\x20title=\x22\x22\x20width=\x22'+parameter['zoomfactor']+_0x27c67c(0x352)+(parameter[_0x27c67c(0x2cd)]+0xe)+_0x27c67c(0x2c8)+((this['y']-0x1)*_0x54052a+'px')+_0x27c67c(0x1ec)+((this['x']-0x3)*_0x54052a+_0x54052a-0x5+'px')+_0x27c67c(0x1f3))[_0x27c67c(0x2bf)][0x0];}}}this[_0x27c67c(0x2d9)]=document['createRange']()[_0x27c67c(0x431)](_0x44d35f)[_0x27c67c(0x2bf)][0x0],this[_0x27c67c(0x28c)]=document[_0x27c67c(0x3ab)]()[_0x27c67c(0x431)]('<div\x20\x20style=\x22color:black;text-align:\x20center;width:40px;font-size:10pt;top:'+((this['y']-0x1)*_0x54052a+0x2b+'px')+_0x27c67c(0x1ec)+((this['x']-0x3)*_0x54052a+0x1a+'px')+';position:absolute\x22></div>')['children'][0x0],this[_0x27c67c(0x330)]=document[_0x27c67c(0x3ab)]()[_0x27c67c(0x431)](_0x27c67c(0x3a7)+((this['y']-0x1)*_0x54052a+0xa+'px')+_0x27c67c(0x1ec)+((this['x']-0x3)*_0x54052a+0x14+'px')+_0x27c67c(0x341))[_0x27c67c(0x2bf)][0x0],this[_0x27c67c(0x2d9)][_0x27c67c(0x37e)](this[_0x27c67c(0x28c)]),this['dom'][_0x27c67c(0x37e)](this[_0x27c67c(0x330)]),this['dom'][_0x27c67c(0x37e)](this['domIcon']),this[_0x27c67c(0x291)][_0x27c67c(0x2d9)][_0x27c67c(0x37e)](this['dom']),this[_0x27c67c(0x2d9)][_0x27c67c(0x2a8)](_0x27c67c(0x1ee),this[_0x27c67c(0x2cb)][_0x27c67c(0x453)]()),this[_0x27c67c(0x2d9)]['addEventListener']('click',_0x3be51f=>{var _0x3115b6=_0x27c67c;return _0x465603[_0x3115b6(0x268)](_0x3be51f),undefined;}),$(this[_0x27c67c(0x2d9)])['on'](_0x27c67c(0x3dc),function(_0x15015f){var _0x2094b1=_0x27c67c;_0x465603[_0x2094b1(0x349)]();}),this[_0x27c67c(0x2d9)][_0x27c67c(0x323)]=this;for(var _0x54e3d9=0x0;_0x54e3d9<this[_0x27c67c(0x2b6)]['length'];_0x54e3d9++){this['transports'][_0x54e3d9]['render']();}}[_0x3bc93a(0x349)](){var _0x1da720=_0x3bc93a;if(!parameter[_0x1da720(0x2f6)])return;if(this[_0x1da720(0x2e7)]===_0x1b7fa8[_0x1da720(0x30d)][_0x1da720(0x287)]||this['productid']===_0x1b7fa8[_0x1da720(0x30d)][_0x1da720(0x443)]||this[_0x1da720(0x2e7)]===_0x1b7fa8[_0x1da720(0x30d)][_0x1da720(0x33e)]||this[_0x1da720(0x2e7)]===_0x1b7fa8[_0x1da720(0x30d)][_0x1da720(0x41b)]||this[_0x1da720(0x2e7)]===_0x1b7fa8['Product'][_0x1da720(0x337)])return;let _0x5c91c2=0x0;for(var _0x15e074=0x0;_0x15e074<parameter[_0x1da720(0x2f6)];_0x15e074++){if(this[_0x1da720(0x440)]+(this[_0x1da720(0x366)]?this[_0x1da720(0x366)]:0x0)<this['calcMaxWorker']())_0x5c91c2++;if(this[_0x1da720(0x2c2)]+(this[_0x1da720(0x221)]?this[_0x1da720(0x221)]:0x0)<this[_0x1da720(0x25a)]())_0x5c91c2++;if(this['workersOut']+(this[_0x1da720(0x219)]?this[_0x1da720(0x219)]:0x0)<this[_0x1da720(0x25a)]())_0x5c91c2++;for(var _0x2e90ae=0x0;_0x2e90ae<this['transports'][_0x1da720(0x353)];_0x2e90ae++){var _0x4d6249=this['transports'][_0x2e90ae];if(_0x4d6249[_0x1da720(0x440)]+(_0x4d6249[_0x1da720(0x366)]?_0x4d6249['workersComming']:0x0)<this['calcMaxWorker']())_0x5c91c2++;}}var _0x2299fe=this[_0x1da720(0x291)][_0x1da720(0x451)](_0x1b7fa8['Product'][_0x1da720(0x33e)]),_0x3ad998=0x0;for(var _0x15e074=0x0;_0x15e074<_0x2299fe[_0x1da720(0x353)];_0x15e074++){_0x2299fe[_0x15e074][_0x1da720(0x2a7)]>0x0&&(_0x3ad998=_0x2299fe[_0x15e074][_0x1da720(0x2a7)]);}if(_0x3ad998<_0x5c91c2){_0x227274['Game']['showInfo'](_0x1da720(0x2ef)+_0x5c91c2+_0x1da720(0x3a9));return;}for(var _0x15e074=0x0;_0x15e074<parameter[_0x1da720(0x2f6)];_0x15e074++){if(this[_0x1da720(0x440)]+(this['workersComming']?this[_0x1da720(0x366)]:0x0)<this[_0x1da720(0x25a)]())this['addWorker'](_0x1da720(0x440));if(this['workersIn']+(this[_0x1da720(0x221)]?this[_0x1da720(0x221)]:0x0)<this[_0x1da720(0x25a)]())this[_0x1da720(0x1f5)](_0x1da720(0x2c2));if(this['workersOut']+(this[_0x1da720(0x219)]?this[_0x1da720(0x219)]:0x0)<this[_0x1da720(0x25a)]())this[_0x1da720(0x1f5)](_0x1da720(0x2c7));for(var _0x2e90ae=0x0;_0x2e90ae<this[_0x1da720(0x2b6)]['length'];_0x2e90ae++){var _0x4d6249=this['transports'][_0x2e90ae];for(var _0x1aabb4=0x0;_0x1aabb4<parameter[_0x1da720(0x32e)];_0x1aabb4++){if(_0x4d6249[_0x1da720(0x440)]+(_0x4d6249['workersComming']?_0x4d6249[_0x1da720(0x366)]:0x0)<this[_0x1da720(0x25a)]())this[_0x1da720(0x1f5)](_0x4d6249);}}}}[_0x3bc93a(0x1f5)](_0x2ea297){var _0x317fce=_0x3bc93a,_0x4a27e2='',_0x19066e,_0xbc5cdc=this[_0x317fce(0x291)][_0x317fce(0x451)](_0x1b7fa8['Product'][_0x317fce(0x33e)]),_0x5452=0x0;for(var _0x36dc10=0x0;_0x36dc10<_0xbc5cdc['length'];_0x36dc10++){_0xbc5cdc[_0x36dc10]['produced']>0x0&&(_0x19066e=_0xbc5cdc[_0x36dc10],_0x5452=_0x19066e[_0x317fce(0x2a7)]);}if(_0x5452<0x1){_0x227274[_0x317fce(0x229)]['showInfo'](_0x317fce(0x33a));return;}var _0x390fae=new _0x4a2d75[(_0x317fce(0x36f))](_0x19066e);_0x390fae[_0x317fce(0x440)]=0x1,_0x390fae[_0x317fce(0x327)]=this[_0x317fce(0x2cb)],_0x390fae[_0x317fce(0x388)]=!![],_0x390fae['render'](),_0x390fae[_0x317fce(0x238)]={'productid':_0x19066e[_0x317fce(0x2e7)],'workertype':_0x2ea297},_0x19066e['transports'][_0x317fce(0x35c)](_0x390fae);if(_0x2ea297===_0x317fce(0x440))this[_0x317fce(0x366)]=this[_0x317fce(0x366)]?this['workersComming']+0x1:0x1;else{if(_0x2ea297==='workersIn')this['workersInComming']=this['workersInComming']?this['workersInComming']+0x1:0x1;else{if(_0x2ea297===_0x317fce(0x2c7))this['workersOutComming']=this[_0x317fce(0x219)]?this[_0x317fce(0x219)]+0x1:0x1;else _0x2ea297[_0x317fce(0x366)]=_0x2ea297[_0x317fce(0x366)]?_0x2ea297[_0x317fce(0x366)]+0x1:0x1;}}}[_0x3bc93a(0x207)](){var _0x18a726=_0x3bc93a;if(this['productid']===_0x1b7fa8[_0x18a726(0x30d)]['productTower']||this[_0x18a726(0x2e7)]===_0x1b7fa8[_0x18a726(0x30d)]['productCastle']){var _0x29fe7a=0x2;this['productid']===_0x1b7fa8[_0x18a726(0x30d)][_0x18a726(0x443)]&&(_0x29fe7a=0x3);var _0x1be2df=this[_0x18a726(0x3b7)](0x1,_0x29fe7a,!![],!![]);for(let _0x59ddaf=0x0;_0x59ddaf<_0x1be2df[_0x18a726(0x353)];_0x59ddaf++){_0x1be2df[_0x59ddaf][_0x18a726(0x415)]=!![],_0x1be2df[_0x59ddaf]['rerender']();}}}['calcMaxWorker'](){var _0x220064=_0x3bc93a,_0x277c7c=this['world'][_0x220064(0x2ce)][_0x220064(0x2cc)];if(_0x277c7c===0x1)_0x277c7c=0x2;return _0x277c7c+Math[_0x220064(0x420)](this[_0x220064(0x372)]/0x5);}[_0x3bc93a(0x40f)](){var _0x3321ca=_0x3bc93a,_0xe5acbb=parameter[_0x3321ca(0x203)];if(this['productid']===-0x1)return 0xa;if(this[_0x3321ca(0x2e7)]===_0x1b7fa8[_0x3321ca(0x30d)][_0x3321ca(0x287)])return 0x14;if(this[_0x3321ca(0x2e7)]===_0x1b7fa8[_0x3321ca(0x30d)]['productCastle'])return 0x64;if(this['soldiercount']<0xa)return 0xa;else return 0x2386f26fc10000;}[_0x3bc93a(0x381)](_0x1358d7){var _0x415dda=_0x3bc93a,_0x4c141c=this[_0x415dda(0x291)][_0x415dda(0x451)](_0x1b7fa8[_0x415dda(0x30d)][_0x415dda(0x33e)])[0x0];if(_0x4c141c===undefined)debugger;var _0x43b34d=new _0x4a2d75[(_0x415dda(0x36f))](_0x4c141c);_0x43b34d[_0x415dda(0x440)]=0x1,_0x43b34d['x']=this['x'],_0x43b34d['y']=this['y'];if(_0x1358d7==='workers'){if(this[_0x415dda(0x440)]===0x0)return;this[_0x415dda(0x440)]--;}else{if(_0x1358d7===_0x415dda(0x2c2)){if(this['workersIn']===0x0)return;this[_0x415dda(0x2c2)]--;}else{if(_0x1358d7==='workersOut'){if(this[_0x415dda(0x2c7)]===0x0)return;this[_0x415dda(0x2c7)]--;}else{if(_0x1358d7['workers']===0x0)return;_0x1358d7[_0x415dda(0x440)]--,_0x43b34d['x']=_0x1358d7['x'],_0x43b34d['y']=_0x1358d7['y'];}}}_0x43b34d[_0x415dda(0x388)]=!![],_0x43b34d['transferInfo']={'goHome':!![],'productid':_0x1b7fa8[_0x415dda(0x30d)]['productHelper']},_0x43b34d['moveTo'](_0x4c141c[_0x415dda(0x2cb)]),_0x43b34d['render'](),_0x4c141c[_0x415dda(0x2b6)][_0x415dda(0x35c)](_0x43b34d);}[_0x3bc93a(0x3f1)](){var _0x1aa450=_0x3bc93a,_0x57a2be,_0x2f957d=this['world'][_0x1aa450(0x451)](_0x1b7fa8[_0x1aa450(0x30d)][_0x1aa450(0x337)]);for(var _0x185806=0x0;_0x185806<_0x2f957d[_0x1aa450(0x353)];_0x185806++){if(_0x2f957d[_0x185806]!==this)_0x57a2be=_0x2f957d[_0x185806];}var _0x4395ea=new _0x4a2d75['Transport'](_0x57a2be);_0x4395ea['workers']=0x1,_0x4395ea['x']=this['x'],_0x4395ea['y']=this['y'],_0x4395ea['active']=!![],_0x4395ea[_0x1aa450(0x238)]={'goHome':!![],'productid':_0x1b7fa8[_0x1aa450(0x30d)][_0x1aa450(0x337)]},_0x4395ea['moveTo'](_0x57a2be[_0x1aa450(0x2cb)]),_0x4395ea[_0x1aa450(0x3c3)](),_0x57a2be['transports'][_0x1aa450(0x35c)](_0x4395ea);}[_0x3bc93a(0x2f8)](){var _0x51fcf0=_0x3bc93a,_0x9c0c63,_0xedc027=this[_0x51fcf0(0x291)][_0x51fcf0(0x451)](_0x1b7fa8[_0x51fcf0(0x30d)][_0x51fcf0(0x33e)]);for(var _0x385df7=0x0;_0x385df7<_0xedc027[_0x51fcf0(0x353)];_0x385df7++){if(_0xedc027[_0x385df7]!==this)_0x9c0c63=_0xedc027[_0x385df7];}var _0x171191=new _0x4a2d75[(_0x51fcf0(0x36f))](_0x9c0c63);_0x171191['workers']=0x1,_0x171191['x']=this['x'],_0x171191['y']=this['y'],_0x171191[_0x51fcf0(0x388)]=!![],_0x171191[_0x51fcf0(0x238)]={'goHome':!![],'productid':_0x1b7fa8[_0x51fcf0(0x30d)]['productSoldier']},_0x171191['moveTo'](_0x9c0c63[_0x51fcf0(0x2cb)]),_0x171191[_0x51fcf0(0x3c3)](),_0x9c0c63[_0x51fcf0(0x2b6)][_0x51fcf0(0x35c)](_0x171191);}[_0x3bc93a(0x3b7)](_0x57e7ac,_0x5601fc,_0x28077f=!![],_0x5e32bd=![]){var _0xf2951c=_0x3bc93a,_0x311578=this['x'],_0x4e6adc=this['y'],_0xba87b1=[];if(_0x28077f)for(var _0x485bab=0x0;_0x485bab<this[_0xf2951c(0x291)][_0xf2951c(0x23d)][_0xf2951c(0x353)];_0x485bab++){var _0x130547=this[_0xf2951c(0x291)][_0xf2951c(0x23d)][_0x485bab],_0x57a06f=Math['round'](Math[_0xf2951c(0x3c0)](Math[_0xf2951c(0x36b)](this['x']-_0x130547['x'],0x2)+Math['pow'](this['y']-_0x130547['y'],0x2))/0x2);_0x57a06f>=_0x57e7ac&&_0x57a06f<=_0x5601fc&&_0xba87b1[_0xf2951c(0x35c)](_0x130547);}if(_0x5e32bd)for(var _0x485bab=0x0;_0x485bab<this[_0xf2951c(0x291)][_0xf2951c(0x24e)][_0xf2951c(0x353)];_0x485bab++){var _0x130547=this[_0xf2951c(0x291)][_0xf2951c(0x24e)][_0x485bab],_0x57a06f=Math[_0xf2951c(0x3e0)](Math[_0xf2951c(0x3c0)](Math[_0xf2951c(0x36b)](this['x']-_0x130547['x'],0x2)+Math[_0xf2951c(0x36b)](this['y']-_0x130547['y'],0x2))/0x2);_0x57a06f>=_0x57e7ac&&_0x57a06f<=_0x5601fc&&_0xba87b1['push'](_0x130547);}return _0xba87b1;}[_0x3bc93a(0x29a)](){var _0x4cf56d=_0x3bc93a;if(this[_0x4cf56d(0x2e7)]===_0x1b7fa8['Product'][_0x4cf56d(0x287)]||this[_0x4cf56d(0x2e7)]===_0x1b7fa8['Product'][_0x4cf56d(0x443)])for(var _0x192a9e=0x0;_0x192a9e<this[_0x4cf56d(0x372)];_0x192a9e++){setTimeout(()=>this['soldierGoHome'](),_0x192a9e*0x64);}delete this[_0x4cf56d(0x407)],delete this[_0x4cf56d(0x261)],delete this['enemy'],delete this[_0x4cf56d(0x27d)],this[_0x4cf56d(0x2e0)]=0x0,this[_0x4cf56d(0x3d1)]=0x0,this[_0x4cf56d(0x409)]=0x0,this['workersComming']=0x0,this[_0x4cf56d(0x221)]=0x0,this['workersOutComming']=0x0,this['soldiercount']=0x0,this[_0x4cf56d(0x2e7)]=-0x2;while(this[_0x4cf56d(0x440)]>0x0)this['removeWorker'](_0x4cf56d(0x440));while(this[_0x4cf56d(0x2c2)]>0x0)this[_0x4cf56d(0x381)](_0x4cf56d(0x2c2));while(this[_0x4cf56d(0x2c7)]>0x0)this[_0x4cf56d(0x381)](_0x4cf56d(0x2c7));for(var _0x192a9e=0x0;_0x192a9e<this[_0x4cf56d(0x2b6)][_0x4cf56d(0x353)];_0x192a9e++){while(this[_0x4cf56d(0x2b6)][_0x192a9e]['workers']>0x0){this['removeWorker'](this[_0x4cf56d(0x2b6)][_0x192a9e]);}this[_0x4cf56d(0x2b6)][_0x192a9e]['destroy'](this[_0x4cf56d(0x2b6)]),_0x192a9e--;}var _0x44d3f3=this;this[_0x4cf56d(0x2a7)]=0x0,this[_0x4cf56d(0x1eb)](),delete this[_0x4cf56d(0x2bb)],this[_0x4cf56d(0x37a)][_0x4cf56d(0x3ef)]=_0x127923[_0x4cf56d(0x379)](_0x4cf56d(0x32d)),this[_0x4cf56d(0x205)]();}['onclick'](_0x807241){var _0x5ab8fa=_0x3bc93a;_0x807241[_0x5ab8fa(0x456)]();var _0x32e256=_0x187bdb['CompanyDialog'][_0x5ab8fa(0x222)]();_0x32e256['show'](),_0x32e256[_0x5ab8fa(0x323)]=this;}['toString'](){var _0x2f74e5=_0x3bc93a;return this[_0x2f74e5(0x2cf)]+'('+this[_0x2f74e5(0x2a7)]+')';}}_0x1c3824[_0x3bc93a(0x2f2)]=_0x127923;function _0xc65cf5(){var _0x2db113=_0x3bc93a;console[_0x2db113(0x27e)]((0x0,_0x33342b[_0x2db113(0x3f2)])(0x2)),console[_0x2db113(0x27e)]((0x0,_0x33342b[_0x2db113(0x3f2)])(0x2)),console['log']((0x0,_0x33342b[_0x2db113(0x3f2)])(0x2)),console[_0x2db113(0x27e)]((0x0,_0x33342b[_0x2db113(0x3f2)])(0x2)),console[_0x2db113(0x27e)]((0x0,_0x33342b[_0x2db113(0x3f2)])(0x2));}_0x1c3824[_0x3bc93a(0x3d5)]=_0xc65cf5;}),define('game/startgame',[a0_0x50878f(0x26b),a0_0x50878f(0x3d4),a0_0x50878f(0x339),a0_0x50878f(0x37f),a0_0x50878f(0x37d),a0_0x50878f(0x44f)],function(_0x4420d4,_0x3d1a3a,_0x103557,_0x1a408f,_0x1eb8ef,_0x4dfc20){'use strict';var _0x29bb32=a0_0x50878f;Object[_0x29bb32(0x3cc)](_0x3d1a3a,_0x29bb32(0x289),{'value':!![]}),_0x3d1a3a['test']=_0x3d1a3a[_0x29bb32(0x277)]=void 0x0;class _0x1a54b6 extends _0x103557['Panel']{constructor(){var _0x3955a6=_0x29bb32;super(),this['game']=new _0x1eb8ef['Game'](),this['game']['newGame']();var _0x2398a7=document[_0x3955a6(0x3ab)]()['createContextualFragment'](_0x3955a6(0x40e))[_0x3955a6(0x2bf)][0x0];this[_0x3955a6(0x2d9)]['style'][_0x3955a6(0x262)]=_0x3955a6(0x33c),this['dom']['append'](_0x2398a7),this['game'][_0x3955a6(0x3c3)](_0x2398a7);}[_0x29bb32(0x29a)](){var _0xc0cbff=_0x29bb32;this['game'][_0xc0cbff(0x29a)](),super[_0xc0cbff(0x29a)]();}static async[_0x29bb32(0x458)](){_0x27144a();}}__decorate([(0x0,_0x4dfc20['$Action'])({'name':_0x29bb32(0x229),'icon':_0x29bb32(0x3d9)}),__metadata(_0x29bb32(0x24c),Function),__metadata(_0x29bb32(0x2ca),[]),__metadata(_0x29bb32(0x2d6),Promise)],_0x1a54b6,_0x29bb32(0x458),null),_0x3d1a3a[_0x29bb32(0x277)]=_0x1a54b6;function _0x28bb20(){var _0x15ff6=_0x29bb32,_0x197836=_0x15ff6(0x269);if(document[_0x15ff6(0x439)](_0x197836))document[_0x15ff6(0x439)](_0x197836)[_0x15ff6(0x258)][_0x15ff6(0x290)](document[_0x15ff6(0x439)](_0x197836));var _0x1dfa9e=document[_0x15ff6(0x385)](_0x15ff6(0x35b))[0x0],_0x30044e=document[_0x15ff6(0x1d9)](_0x15ff6(0x363));_0x30044e['id']=_0x197836,_0x30044e[_0x15ff6(0x386)]='stylesheet',_0x30044e[_0x15ff6(0x313)]='text/css',_0x30044e[_0x15ff6(0x449)]='game/style.css',_0x30044e[_0x15ff6(0x3bb)]=_0x15ff6(0x3cd),_0x1dfa9e[_0x15ff6(0x37e)](_0x30044e);}function _0x27144a(){var _0xd392e9=_0x29bb32;_0x28bb20();var _0x46b176=new _0x1a54b6(),_0x3d4939=_0x1a408f['default'][_0xd392e9(0x245)]('Game');_0x3d4939===null||_0x3d4939===void 0x0?void 0x0:_0x3d4939[_0xd392e9(0x29a)](),_0x1a408f['default'][_0xd392e9(0x419)](_0x46b176,_0xd392e9(0x229));}_0x3d1a3a[_0x29bb32(0x3d5)]=_0x27144a;});
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+define("game/icons", ["require", "exports"], function (require, exports) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.Icons = void 0;
+    class Icons {
+    }
+    exports.Icons = Icons;
+    Icons.factory = "<span  class='mdi mdi-factory'></span>";
+    Icons.shop = "<span  class='mdi mdi-shop'></span>";
+    Icons.money = "<span style='color:darkgreen' class='mdi mdi-cash-100'></span>";
+    Icons.home = "<span  class='mdi  mdi-home-outline'></span>";
+    Icons.people = "<span  class='mdi  mdi-human-male'></span>";
+    Icons.table = "<span  class='mdi  mdi-table-large'></span>";
+    Icons.route = "<span  class='mdi  mdi-recycle-variant'></span>";
+    Icons.info = "<span  class='mdi  mdi-information-outline'></span>";
+    Icons.trash = "<span  class='mdi  mdi-delete-forever-outline'></span>";
+    Icons.edit = "<span  class='mdi  mdi-square-edit-outline'></span>";
+    Icons.save = "<span  class='mdi  mdi-content-save-outline'></span>";
+    Icons.load = "<span  class='mdi  mdi-folder-open-outline'></span>";
+    Icons.debug = "<span  class='mdi  mdi-bug-outline'></span>";
+    Icons.plus = "<span  class='mdi  mdi-plus-circle-outline'></span>";
+    Icons.minus = "<span  class='mdi  mdi-minus-circle-outline'></span>";
+    Icons.fillDown = "<span  class='mdi  mdi-elevator-down'></span>";
+    Icons.food = "<span  class='mdi  mdi-food-variant'></span>";
+    Icons.copy = "<span  class='mdi  mdi-content-copy'></span>";
+    Icons.airplane = "<span  class='mdi  mdi-airplane'></span>";
+    Icons.toright = "<span  class='mdi  mdi-arrow-right-bold-outline'></span>";
+    Icons.toleft = "<span  class='mdi  mdi-arrow-left-bold-outline'></span>";
+    Icons.remove = "<span  class='mdi  mdi-delete-forever-outline'></span>";
+    Icons.nine = "<span  class='mdi  mdi-numeric-9-plus-circle-outline'></span>";
+    Icons.diagram = "<span  class='mdi  mdi-chart-multiple'></span>";
+    Icons.refresh = "<span  class='mdi  mdi-refresh'></span>";
+    Icons.airport = "<span  class='mdi  mdi-airport'></span>";
+    Icons.hammer = "<span  class='mdi  mdi-hammer-wrench'></span>";
+    Icons.store = "<span  class='mdi  mdi-store'></span>";
+    Icons.stare = "<span  class='mdi  mdi-star'></span>";
+    Icons.wrench = "<span  class='mdi mdi-wrench-outline'></span>";
+    Icons.move = "<span  class='mdi mdi-arrow-expand-all'></span>";
+    Icons.capital = "<span  class='mdi mdi-city-variant-outline'></span>";
+    Icons.down = "<span  class='mdi mdi-arrow-down'></span>";
+    Icons.up = "<span  class='mdi mdi-arrow-up'></span>";
+});
+define("game/tools", ["require", "exports"], function (require, exports) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.getLocalNumber = exports.getRandomInt = void 0;
+    function getRandomInt(max) {
+        return Math.floor(Math.random() * max);
+    }
+    exports.getRandomInt = getRandomInt;
+    function getLocalNumber(num) {
+        if (num < 10000)
+            return num.toLocaleString();
+        else if (num < 10000000)
+            return Math.floor(num / 1000).toLocaleString() + "T";
+        else if (num < 10000000000)
+            return Math.floor(num / 1000000).toLocaleString() + "M";
+        else if (num < 10000000000000)
+            return Math.floor(num / 1000000000).toLocaleString() + "Mrd";
+        else
+            return Math.floor(num / 1000000000000).toLocaleString() + "Bil";
+    }
+    exports.getLocalNumber = getLocalNumber;
+});
+define("game/product", ["require", "exports"], function (require, exports) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.test = exports.Product = void 0;
+    class Product {
+        constructor(name = undefined, image = undefined, level = undefined, consume = undefined, forpeoplelevel = undefined, forsodierlevel = undefined, speed = undefined) {
+            this.type = "Product";
+            //Object.assign(this, prod);
+            this.name = name;
+            this.image = image;
+            this.speed = speed;
+            this.level = level;
+            this.consume = consume;
+            this.forpeoplelevel = forpeoplelevel;
+            this.forsoldierlevel = forsodierlevel;
+        }
+        static find(prodname) {
+            var ret = undefined;
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                if (parameter.allProducts[x].name === prodname)
+                    return parameter.allProducts[x];
+            }
+        }
+        static findProductsForLevel(level) {
+            var ret = [];
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                if (parameter.allProducts[x].level === level)
+                    ret.push(parameter.allProducts[x]);
+            }
+            return ret;
+        }
+        static init(all) {
+            var keys = [];
+            for (var x = 0; x < all.length; x++) {
+                keys.push(all[x].name);
+            }
+            var tests = [];
+            for (var x = 0; x < all.length; x++) {
+                tests.push(all[x].name);
+                if (all[x].name === "Helfer")
+                    Product.productHelper = x;
+                if (all[x].name === "Soldat")
+                    Product.productSoldier = x;
+                if (all[x].name === "Stein")
+                    Product.productStone = x;
+                if (all[x].name === "Holz")
+                    Product.productWood = x;
+                if (all[x].name === "Tor")
+                    Product.productGate = x;
+                if (all[x].name === "Turm")
+                    Product.productTower = x;
+                if (all[x].name === "Burg")
+                    Product.productCastle = x;
+                for (var y = 0; y < all[x].consume.length; y++) {
+                    var org = all[x].consume[y];
+                    if (tests.indexOf(all[x].consume[y]) === -1) {
+                        console.log(org + " nicht definiert bei " + all[x].name);
+                    }
+                    all[x].consume[y] = keys.indexOf(all[x].consume[y]); //move string to number
+                }
+                all[x].id = x; //setid
+            }
+            return all;
+        }
+    }
+    exports.Product = Product;
+    Product.productHelper = 0;
+    Product.productSoldier = 0;
+    Product.productWood = 0;
+    Product.productStone = 0;
+    Product.productGate = 0;
+    Product.productTower = 0;
+    Product.productCastle = 0;
+    function test() {
+    }
+    exports.test = test;
+});
+define("game/diagramdialog", ["require", "exports", "game/icons"], function (require, exports, icons_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.DiagramDialog = void 0;
+    class DiagramDialog {
+        constructor() {
+            this.create();
+        }
+        static getInstance() {
+            if (DiagramDialog.instance === undefined)
+                DiagramDialog.instance = new DiagramDialog();
+            return DiagramDialog.instance;
+        }
+        bindActions() {
+            var _this = this;
+            document.getElementById("peopleWithOneClick").addEventListener('change', (e) => {
+                var num = parseInt(document.getElementById("peopleWithOneClick").value);
+                parameter.peopleWithOneClick = num;
+                _this.world.game.parameter.peopleWithOneClick = num;
+                _this.update();
+            });
+            document.getElementById("soldierWithOneClick").addEventListener('change', (e) => {
+                var num = parseInt(document.getElementById("soldierWithOneClick").value);
+                parameter.soldierWithOneClick = num;
+                _this.world.game.parameter.soldierWithOneClick = num;
+                _this.update();
+            });
+            document.getElementById("buildWithDoubleClick").addEventListener('change', (e) => {
+                var num = parseInt(document.getElementById("buildWithDoubleClick").value);
+                parameter.buildWithDoubleClick = num;
+                _this.world.game.parameter.buildWithDoubleClick = num;
+                _this.update();
+            });
+        }
+        create() {
+            //template for code reloading
+            var sdom = `
+          <div hidden id="diagramdialog" class="diagramdialog">
+            <div></div>
+           </div>
+        `;
+            this.dom = document.createRange().createContextualFragment(sdom).children[0];
+            var old = document.getElementById("diagramdialog");
+            if (old) {
+                old.parentNode.removeChild(old);
+            }
+            var _this = this;
+            var sdom = `
+          <div>
+            <button id="diagramdialog-refresh" title="refresh data"  class="mybutton">` + icons_1.Icons.refresh + `</button>
+                            
+            <div id="diagramdialog-tabs">
+                <ul>
+                    <li><a href="#diagramdialog-settings" id="diagramdialog-settings-tab" class="diagramdialog-tabs">Settings</a></li>
+                </ul>
+                 <div id="diagramdialog-settings">   
+                       transfer people with one click: <input id="peopleWithOneClick"  value="""/><br/>
+                       transfer soldiers with one click: <input id="soldierWithOneClick"  value="""/><br/>
+                       build with doubleclick: <input id="buildWithDoubleClick"  value="""/><br/>
+                </div>
+            </div>
+           </div> 
+            `;
+            var newdom = document.createRange().createContextualFragment(sdom).children[0];
+            this.dom.removeChild(this.dom.children[0]);
+            this.dom.appendChild(newdom);
+            document.body.appendChild(this.dom);
+            $("#diagramdialog-tabs").tabs({
+            //collapsible: true
+            });
+            //        document.getElementById("citydialog-prev")
+            setTimeout(() => {
+                $("#diagramdialog-tabs").tabs({
+                //collapsible: true
+                });
+                _this.bindActions();
+            }, 500);
+            //document.createElement("span");
+        }
+        update() {
+            var _this = this;
+            if (document.activeElement !== document.getElementById("peopleWithOneClick")) {
+                document.getElementById("peopleWithOneClick").value = "" + parameter.peopleWithOneClick;
+            }
+            if (document.activeElement !== document.getElementById("soldierWithOneClick"))
+                document.getElementById("soldierWithOneClick").value = "" + parameter.soldierWithOneClick;
+            try {
+                if (!$(this.dom).dialog('isOpen')) {
+                    return;
+                }
+            }
+            catch (_a) {
+                return;
+            }
+        }
+        show() {
+            var _this = this;
+            this.dom.removeAttribute("hidden");
+            this.update();
+            //ui-tabs-active
+            $(this.dom).dialog({
+                title: "Statistics",
+                width: "400px",
+                draggable: true,
+                //     position:{my:"left top",at:"right top",of:$(document)} ,
+                open: function (event, ui) {
+                    _this.update();
+                },
+                close: function () {
+                },
+                create: function (e) {
+                    setTimeout(() => {
+                        $(e.target).dialog("widget").find(".ui-dialog-titlebar-close")[0].addEventListener('touchstart', (e) => {
+                            _this.close();
+                        });
+                    }, 200);
+                },
+                resizable: false
+            }).dialog("widget").draggable("option", "containment", "none");
+            $(this.dom).parent().css({ position: "fixed" });
+        }
+        close() {
+            $(this.dom).dialog("close");
+        }
+    }
+    exports.DiagramDialog = DiagramDialog;
+});
+define("game/transport", ["require", "exports", "game/company", "game/product"], function (require, exports, company_1, product_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.Transport = exports.TransferInfo = void 0;
+    class TransferInfo {
+    }
+    exports.TransferInfo = TransferInfo;
+    //
+    class Transport {
+        constructor(company = undefined) {
+            this.speed = 100;
+            this.workers = 0;
+            this.active = false;
+            this.type = "Transport";
+            this.curStep = 0;
+            this.productCount = 0;
+            this.autodeliver = false;
+            this.pathGarden = -5;
+            this.company = company;
+            this.world = company === null || company === void 0 ? void 0 : company.world;
+            if (this.x === undefined && company) {
+                this.x = company.x;
+                this.nextTargetX = company.x;
+            }
+            if (this.y === undefined && company) {
+                this.y = company.y;
+                this.nextTargetY = company.y;
+            }
+        }
+        getTransportedProduct() {
+            var p = this.company.productid;
+            return parameter.allProducts[p];
+        }
+        render() {
+            var _a, _b, _c;
+            var _this = this;
+            this.dom = document.createRange().createContextualFragment("<span z-index:2;style='font-size:20px;transform:rotate(0turn)' class='mdi mdi-airplane'></span>").children[0]; //document.createElement("span");
+            var im = (_a = parameter.allProducts[this.company.productid]) === null || _a === void 0 ? void 0 : _a.image;
+            if (((_b = this.transferInfo) === null || _b === void 0 ? void 0 : _b.productid) === product_1.Product.productSoldier) {
+                im = (_c = parameter.allProducts[product_1.Product.productSoldier]) === null || _c === void 0 ? void 0 : _c.image;
+                if (this.company.enemy !== undefined) {
+                    im = "Soldat" + (this.company.enemy + 1) + ".png";
+                }
+            }
+            if (im !== undefined && im !== "")
+                // this.dom = <any>document.createRange().createContextualFragment(`<img src="http://localhost/game/client/game/images/Helfer25.png">`).children[0];
+                this.dom = document.createRange().createContextualFragment(`<img src="${company_1.Company.getImageUrl(im)}" width="25" height="25">`).children[0];
+            this.dom.style.position = "absolute";
+            this.dom.style.zIndex = "10";
+            this.dom.addEventListener("click", (ev) => {
+                _this.onclick(ev);
+                return undefined;
+            });
+            this.update();
+            // this.world.dom.appendChild(this.dom);
+        }
+        isCrosingRight() {
+            if (this.y % 2 == 0) {
+                if (this.x % 4 == 1)
+                    return false;
+                if (this.x % 4 == 2)
+                    return true;
+            }
+            else {
+                if (this.x % 4 == 3)
+                    return false;
+                if (this.x % 4 == 0)
+                    return true;
+            }
+            throw "Wrong position";
+        }
+        calcNextPoint() {
+            var diffX = this.nextTargetX - this.x;
+            var diffY = this.nextTargetY - this.y;
+            var isCrosing = this.isCrosingRight();
+            if (!isCrosing && diffX > 0) {
+                this.nextX = this.x + 1;
+                this.nextY = this.y;
+            }
+            else if (isCrosing && diffX < 0) {
+                this.nextX = this.x - 1;
+                this.nextY = this.y;
+            }
+            else if (isCrosing && diffX > 0) {
+                if (diffY > 0) {
+                    this.nextX = this.x + 1;
+                    this.nextY = this.y + 1;
+                }
+                else {
+                    this.nextX = this.x + 1;
+                    this.nextY = this.y - 1;
+                }
+            }
+            else if (!isCrosing && diffX <= 0) {
+                if (diffY > 0) {
+                    this.nextX = this.x - 1;
+                    this.nextY = this.y + 1;
+                }
+                else {
+                    this.nextX = this.x - 1;
+                    this.nextY = this.y - 1;
+                }
+            }
+        }
+        getCapacity() {
+            if (this.company.productid === product_1.Product.productHelper || this.company.productid === product_1.Product.productSoldier)
+                return 1;
+            return this.workers * parameter.transportCapacityPerHelper;
+        }
+        load() {
+            var _a, _b, _c, _d;
+            if (this.workers === 0)
+                return;
+            if (this.company.productid === product_1.Product.productHelper && ((_a = this.transferInfo) === null || _a === void 0 ? void 0 : _a.goHome)) { //Helper go home
+                this.company.produced++;
+                (_b = this.transferInfo) === null || _b === void 0 ? true : delete _b.goHome;
+                this.destroy(this.company.transports);
+                return;
+            }
+            if (this.company.productid === product_1.Product.productSoldier && ((_c = this.transferInfo) === null || _c === void 0 ? void 0 : _c.goHome)) { //Helper go home
+                this.company.produced++;
+                (_d = this.transferInfo) === null || _d === void 0 ? true : delete _d.goHome;
+                this.destroy(this.company.transports);
+                return;
+            }
+            if (this.company.produced > 0)
+                this.company.produced = this.company.produced;
+            if (this.company.productid === product_1.Product.productSoldier || this.company.productid === product_1.Product.productCastle || this.company.productid === product_1.Product.productTurm) {
+                return true; //soldiers ware filled on sending
+            }
+            var canadd = this.getCapacity() - this.productCount;
+            var add = Math.min(canadd, this.company.produced);
+            if (add > 0) {
+                this.company.produced -= add;
+                this.productCount += add;
+            }
+            if (this.dom) {
+                if (this.productCount > 0) {
+                    if (this.dom.hasAttribute("hidden"))
+                        this.dom.removeAttribute("hidden");
+                    return true;
+                }
+                if (!this.dom.hasAttribute("hidden"))
+                    this.dom.setAttribute("hidden", "");
+            }
+            return false;
+        }
+        getName() {
+            var comp = this.world.companyCache[this.companyTarget];
+            if (comp === undefined) {
+                if (this.autodeliver)
+                    return "Bautransport";
+                else
+                    return "inaktiv";
+            }
+            return comp.name;
+        }
+        changeCompanyTaget(companyTarget) {
+            this.companyTarget = companyTarget === -1 ? undefined : companyTarget;
+            if (this.company.productid === product_1.Product.productStone || this.company.productid === product_1.Product.productWood) {
+                if (this.companyTarget === undefined) {
+                    this.autodeliver = true;
+                }
+                else {
+                    this.autodeliver = false;
+                }
+            }
+            this.moveTo(this.company.companyID);
+        }
+        unload() {
+            var _a, _b;
+            var comp = this.world.companyCache[this.companyTarget];
+            var prodid = this.company.productid;
+            //  if (comp.productid === -2 || comp.productid === -3) {
+            if (product_1.Product.productSoldier === ((_a = this === null || this === void 0 ? void 0 : this.transferInfo) === null || _a === void 0 ? void 0 : _a.productid) && this.autodeliver === false) {
+                // if (comp.soldiercount >= comp.calcMaxSoldiers() && this.company.enemy === undefined)
+                //   return false;
+                if (comp.enemy !== undefined) { //we attack Enemy
+                    if (this.company.tickLastInvader !== undefined && (this.world.tickCount - this.company.tickLastInvader) < 5)
+                        return false;
+                    this.company.tickLastInvader = this.world.tickCount;
+                    let diff = this.productCount > 0 ? 1 : 0;
+                    if (this.productCount > 0)
+                        this.productCount--;
+                    comp.soldiercount -= diff;
+                    if (comp.soldiercount < 0)
+                        comp.soldiercount = 0;
+                    if (comp.enemiesComming > 0)
+                        comp.enemiesComming -= diff;
+                    if (comp.soldiercount === 0) { //we conquer building
+                        comp.enemy = undefined;
+                        if (comp.enemiesComming) {
+                            if (comp.soldiersComing === undefined)
+                                comp.soldiersComing = 0;
+                            comp.soldiersComing += comp.enemiesComming;
+                            delete comp.enemiesComming;
+                        }
+                        //this.soldiercount = 0;
+                        //this.workersIn = 0;
+                        delete comp.enemyBaseSoldierCount;
+                        comp.isConquered = true;
+                        comp.rerender();
+                        //  this.destroy();
+                    }
+                    if (diff !== 0)
+                        return false;
+                }
+                else if (comp.enemy === undefined && this.company.enemy !== undefined) { //Enemy attack us
+                    //-2 -erobert
+                    if (comp.productid !== -2) {
+                        if (comp.tickLastInvader !== undefined && (this.world.tickCount - comp.tickLastInvader) < 8) {
+                            //  this.destroy(this.company.transports);
+                            return false;
+                        }
+                    }
+                    comp.tickLastInvader = this.world.tickCount;
+                    let diff = this.productCount > 0 ? 1 : 0;
+                    if (this.productCount > 0 && comp.soldiercount > 0) {
+                        this.productCount--;
+                        comp.soldiercount -= diff;
+                        if (comp.enemiesComming > 0)
+                            comp.enemiesComming -= diff;
+                        //comp.soldiersComing -= diff;
+                    }
+                    if (comp.soldiercount <= 0) {
+                        if (this.productCount > 0) {
+                            this.company.soldiercount += this.productCount;
+                        }
+                        comp.destroy();
+                    }
+                    this.destroy(this.company.transports);
+                    if (diff !== 0)
+                        return false;
+                }
+                else { //we get Soldiers
+                    comp.soldiercount += this.productCount;
+                    comp.soldiersComing -= this.productCount;
+                }
+                //if (this.productCount === 0)
+                this.destroy(this.company.transports);
+                if (comp.enemy === undefined && comp.soldiercount === parameter.soldiersToConquer) {
+                    if (comp.productid == -2 || comp.productid == -3) {
+                        delete comp.soldiersComing;
+                        comp.productid = -1;
+                        comp.domIcon.src = company_1.Company.getImageUrl("Baustelle.png");
+                    }
+                }
+                else {
+                    if ((comp.productid === product_1.Product.productTower || comp.productid === product_1.Product.productCastle) && comp.soldiercount === comp.calcMaxSoldiers()) {
+                        comp.expand();
+                    }
+                }
+                return true;
+            }
+            // }
+            if (this.transferInfo) {
+                if (this.transferInfo.productid === product_1.Product.productHelper) {
+                    if (this.transferInfo.workertype === "workers") {
+                        comp.workers++;
+                        comp.workersComming--;
+                        if (!comp.workersComming)
+                            delete comp.workersComming;
+                    }
+                    else if (this.transferInfo.workertype === "workersIn") {
+                        comp.workersIn++;
+                        comp.workersInComming--;
+                        if (!comp.workersInComming)
+                            delete comp.workersInComming;
+                    }
+                    else if (this.transferInfo.workertype === "workersOut") {
+                        comp.workersOut++;
+                        comp.workersOutComming--;
+                        if (!comp.workersOutComming)
+                            delete comp.workersOutComming;
+                    }
+                    else if ((_b = this.transferInfo.workertype) === null || _b === void 0 ? void 0 : _b.company) { //
+                        this.transferInfo.workertype.workers++;
+                        this.transferInfo.workertype.workersComming--;
+                        if (!this.transferInfo.workertype.workersComming)
+                            delete this.transferInfo.workertype.workersComming;
+                    }
+                    this.company.transports.splice(this.company.transports.indexOf(this), 1);
+                    this.world.dom.removeChild(this.dom);
+                }
+                if (this.autodeliver) {
+                    if (this.company.productid === product_1.Product.productWood || this.company.productid === product_1.Product.productStone) { //buildtransport
+                        var p = 999999999;
+                        if (comp.buildingInProgress >= 0) {
+                            p = parameter.allProducts[comp.buildingInProgress].level;
+                            if (this.transferInfo.productid === product_1.Product.productTower) {
+                                p = 15;
+                            }
+                            if (this.transferInfo.productid === product_1.Product.productCastle) {
+                                p = 50;
+                            }
+                        }
+                        var transfer = Math.min(this.productCount, p);
+                        if (this.company.productid === product_1.Product.productWood)
+                            comp.woodsComming -= transfer;
+                        if (this.company.productid === product_1.Product.productStone)
+                            comp.stonesComming -= transfer;
+                        this.productCount -= transfer;
+                        if (comp.stonesComming === 0 && comp.woodsComming === 0) {
+                            delete comp.stonesComming;
+                            delete comp.woodsComming;
+                            delete comp.buildingInProgress;
+                            comp.changeProduct(this.transferInfo.productid);
+                            // comp.buildingFinished();
+                            this.transferInfo = undefined;
+                        }
+                        this.companyTarget = undefined;
+                        return true;
+                    }
+                }
+            }
+            if (comp.productid < -2) //soldiers go in other home
+                return true;
+            if (comp.productid < 0) //soldiers go in other home
+                return true;
+            var prodindex = parameter.allProducts[comp.productid].consume.indexOf(prodid);
+            if (prodindex === -1) // e.g. Tor never needs Beeren
+                return false;
+            var cap = comp.workersIn * parameter.transportCapacityPerHelper + parameter.transportCapacityPerHelper;
+            var transfer = Math.min(this.productCount, cap - comp.rawmaterials[prodindex]);
+            if (transfer < 0)
+                return false;
+            comp.rawmaterials[prodindex] += transfer;
+            this.productCount -= transfer;
+            return true;
+        }
+        destroy(parent) {
+            parent.splice(parent.indexOf(this), 1);
+            //   this.world.dom.removeChild(this.dom);
+        }
+        isPositionTarget(withPathGarden = true) {
+            var t = this.world.companyCache[this.companyTarget];
+            if (t && t.x === this.x && t.y === this.y) {
+                if (withPathGarden)
+                    return this.pathGarden === -5;
+                else
+                    return true;
+            }
+            return false;
+        }
+        isPositionHome(withPathGarden = true) {
+            var t = this.company;
+            if (t && t.x === this.x && t.y === this.y) {
+                if (withPathGarden)
+                    return this.pathGarden === -5;
+                else
+                    return true;
+            }
+            return false;
+        }
+        nextTick() {
+            if (this.nextTargetX === undefined) {
+                this.update();
+                return;
+            }
+            if (this.company.enemy !== undefined)
+                this.company.world.game.setHeaderColor("red");
+            if (this.active && (this.x !== this.nextTargetX || this.y !== this.nextTargetY) && this.pathGarden < 0) {
+                //        if (this.active&& (this.isPositionHome(false)||this.isPositionTarget(false))&& this.x!==this.nextTargetX&&this.y !== this.nextTargetY&&this.pathGarden<0){
+                //go out
+                var h = 0;
+                this.pathGarden++;
+                this.update();
+                return;
+            }
+            else if (this.active && (this.isPositionHome(false) || this.isPositionTarget(false)) && this.x === this.nextTargetX && this.y === this.nextTargetY && this.pathGarden > -5) {
+                //go out
+                var h = 0;
+                this.pathGarden--;
+                this.update();
+                return;
+            }
+            /* if (this.active && this.isPositionTarget(false)&&this.x === this.nextTargetX && this.y === this.nextTargetY) {
+                 if (this.pathGarden === undefined) {
+                     this.pathGarden = 5;
+                     return;
+                 } else if(this.pathGarden>0){
+                     this.pathGarden--;
+                     this.update();
+                     return;
+                 } else if(this.pathGarden<0){
+                     this.pathGarden++;
+                     this.update();
+                     return;
+                 }
+             }
+             if (this.active && this.isPositionHome(false)&&this.x === this.nextTargetX && this.y === this.nextTargetY) {
+                 if (this.pathGarden === undefined) {
+                     this.pathGarden = 5;
+                     
+                     return;
+                 } else if(this.pathGarden>0){
+                     this.pathGarden--;
+                      this.update();
+                     return;
+                 } else if(this.pathGarden<0){
+                     this.pathGarden++;
+                      this.update();
+                     return;
+                 }
+         
+             }*/
+            if (this.x === this.nextTargetX && this.y === this.nextTargetY) {
+                //console.log("arrived");
+                if (this.active && this.isPositionTarget()) {
+                    if (!this.unload()) {
+                        this.update();
+                        return;
+                    }
+                    if (this.productCount === 0 || this.autodeliver)
+                        this.moveTo(this.company.companyID);
+                }
+                if (this.active && this.isPositionHome()) {
+                    if (this.load()) {
+                        if (this.companyTarget !== undefined && //Bautransport
+                            this.productCount >= this.getCapacity())
+                            this.moveTo(this.companyTarget);
+                    }
+                }
+                this.update();
+                return;
+            }
+            else {
+                var max = Math.max(1, Math.round(1000 / this.speed));
+                if (this.curStep === 0) {
+                    this.calcNextPoint();
+                    this.curStep++;
+                }
+                else if (this.curStep === max) {
+                    this.curStep = 0;
+                    this.x = this.nextX;
+                    this.y = this.nextY;
+                }
+                else
+                    this.curStep++;
+            }
+            // if(getRandomInt(10)!==1 )
+            this.update();
+        }
+        moveTo(compid) {
+            //if(this.isPositionHome()||this.isPositionTarget())
+            //     this.pathGarden=-5;
+            // else
+            if (this.dom) {
+                /* if (compid === this.company.companyID) {
+                     this.dom.style.opacity = "0.5";
+                 } else {
+                     this.dom.style.opacity = "1";
+                 }*/
+            }
+            if (this.world.companyCache[compid] === undefined) {
+                console.log("companyid " + compid + " not exists ");
+                return;
+            }
+            this.nextTargetX = this.world.companyCache[compid].x;
+            this.nextTargetY = this.world.companyCache[compid].y;
+            //console.log("drive to"+parameter.allProducts[this.world.companies[compid].productid].name+" "+this.nextTargetX+"/"+this.nextTargetY);
+            this.active = true;
+            this.status = 1;
+            //this.calcNextPoint();
+            /* var x = city.x;
+             var y = city.y;
+         
+             this.lastUpdate = this.world.game.date.getTime();
+             // console.log("fly to " + city.name)
+             this.action = "fly";
+             this.status = "fly to " + city.name;
+             this.targetX = x;
+             this.targetY = y;
+             this.update();*/
+        }
+        select() {
+            if (this.dom)
+                this.dom.classList.add("airplane_selected");
+        }
+        unselect() {
+            if (this.dom)
+                this.dom.classList.remove("airplane_selected");
+        }
+        updateUI(rect) {
+            if (!this.dom) {
+                return;
+            }
+            var fact = parameter.zoomfactor;
+            var x = fact * (this.x) - 10;
+            var y = ((fact * this.y) - 10);
+            var max = Math.max(1, Math.round(1000 / this.speed));
+            if (this.nextX !== undefined) {
+                x = Math.round(-fact * (this.x - this.nextX) * this.curStep / max + fact * this.x) - 10;
+                y = Math.round(-fact * (this.y - this.nextY) * this.curStep / max + fact * this.y) - 10;
+            }
+            if (this.pathGarden)
+                x = x - Math.abs(this.pathGarden * 4);
+            if (this.dom.mydisplay !== "none" && x > rect.left && x < (rect.left + rect.width) && y > rect.top && y < (rect.top + rect.height) && this.dom.myleft !== x) {
+                this.dom.myleft = x;
+                this.dom.style.left = x + "px";
+            }
+            if (this.dom.mydisplay !== "none" && x > rect.left && x < (rect.left + rect.width) && y > rect.top && y < (rect.top + rect.height) && this.dom.mytop !== y) {
+                this.dom.mytop = y;
+                this.dom.style.top = y + "px";
+            }
+            const context = this.world.game.domCanavas.getContext('2d');
+            context.drawImage(this.dom, x, y, 24, 24);
+        }
+        update() {
+            /*  if(this.curStep===0&&(this.isPositionHome(true)||this.isPositionTarget(true))||this.getTransportedProduct().id===Product.productHelper||this.getTransportedProduct().id===Product.productSoldier){
+                  if(this.dom.mydisplay==="none"){
+                      //this.dom.style.display="";
+                     
+                      this.dom.mydisplay="";
+                  }
+               }else{
+                  if(this.dom.mydisplay!=="none"){
+                      this.dom.mydisplay="none";
+                       //this.dom.style.left =  "1px";
+                     // this.dom.style.top = "1px";
+                      //this.dom.style.display="none";
+                  }
+               }*/
+            //else if(this.isPositionHome()||this.isPositionTarget())
+            //  x=x-20;
+            //if(this.dom.style.top !==( y + "px"))
+            /*  if (this.activeRoute !== -1 && this.route.length > 1) {
+                  if (this.action === "unload" && (this.lastUpdate - this.lastAction) > (3 * 1000 * 60 * 60)) {
+                      // console.log("load now");
+                      this.action = "load";
+                      this.status = "load";
+                      this.lastAction = this.lastUpdate;
+                       if(this.activeRoute>=this.route.length){
+                          this.activeRoute=0;
+                       }else
+                          this.route[this.activeRoute].unload();
+                      AirplaneDialog.getInstance().update();
+                  }
+                  if (this.action === "load" && (this.lastUpdate - this.lastAction) > (3 * 1000 * 60 * 60)) {
+         
+                      this.lastAction = this.lastUpdate;
+                      if(this.activeRoute>=this.route.length)
+                          this.activeRoute=0;
+                      else
+                          this.route[this.activeRoute].load();
+                      AirplaneDialog.getInstance().update();
+                      this.activeRoute++;
+                      if(this.activeRoute>=this.route.length)
+                          this.activeRoute=0;
+                      var city = this.world.cities[this.route[this.activeRoute].cityid];
+                      this.flyTo(city);
+         
+                  }
+              }*/
+        }
+        onclick(th) {
+            var _a;
+            th.preventDefault();
+            th.stopPropagation();
+            (_a = this.world.selection) === null || _a === void 0 ? void 0 : _a.unselect();
+            this.world.selection = this;
+            this.select();
+        }
+    }
+    exports.Transport = Transport;
+});
+//<span style='font-size:100px;'>&#9951;</span>
+define("game/savedialog", ["require", "exports", "game/product", "game/world", "game/game", "game/company", "game/transport"], function (require, exports, product_2, world_1, game_1, company_2, transport_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.test = exports.SaveDialog = void 0;
+    class SaveDialog {
+        constructor() {
+            this.create();
+        }
+        static getInstance() {
+            if (SaveDialog.instance === undefined)
+                SaveDialog.instance = new SaveDialog();
+            return SaveDialog.instance;
+        }
+        create() {
+            //template for code reloading
+            var sdom = `
+          <div hidden id="SaveDialog" class="SaveDialog">
+            <div></div>
+           </div>
+        `;
+            this.dom = document.createRange().createContextualFragment(sdom).children[0];
+            var old = document.getElementById("SaveDialog");
+            if (old) {
+                old.parentNode.removeChild(old);
+            }
+            var _this = this;
+            var sdom = `
+          <div>
+            <table>
+                <tr>
+                    <td>
+                        Filename: <input id="save-filename"/>
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="vertical-align: top;width:100%">
+                     <ul style="width:100%" class="mylist boxborder" id="save-files">
+                     
+           
+                    </ul>
+                      
+                    </td>
+                    <td>
+                        <button id="save-save" title="save" style="width:100%" class="mybutton">Save</button>
+                        <button id="save-export" title="save" style="width:100%" class="mybutton">Export</button>
+                        <button id="save-load" title="save" style="width:100%" class="mybutton">Load</button>
+                        <input type="file" id="save-import" name="files[]" accept="application/json" style="display: none;"  />
+                        <button id="save-doupload" title="save" style="width:100%" class="mybutton" onclick="document.getElementById('save-import').click();">Import</button>
+                        <button id="save-delete" title="save" style="width:100%" class="mybutton">Delete</button>
+                        <button id="save-cancel" title="save" style="width:100%" class="mybutton">Cancel</button>
+            
+                    </td>
+                </tr>    
+
+            </table>         
+           </div> 
+            `;
+            var newdom = document.createRange().createContextualFragment(sdom).children[0];
+            this.dom.removeChild(this.dom.children[0]);
+            this.dom.appendChild(newdom);
+            document.body.appendChild(this.dom);
+            //        document.getElementById("citydialog-prev")
+            setTimeout(() => {
+                $("#SaveDialog-tabs").tabs({
+                //collapsible: true
+                });
+                _this.bindActions();
+            }, 500);
+            //document.createElement("span");
+        }
+        bindActions() {
+            var _this = this;
+            var idfilename = document.getElementById("save-filename");
+            document.getElementById("save-cancel").addEventListener("click", (ev) => {
+                _this.close();
+            });
+            document.getElementById("save-save").addEventListener("click", (ev) => {
+                if (idfilename.value === "") {
+                    alert("Error:Filename is empty");
+                    return;
+                }
+                _this.save(idfilename.value);
+                _this.close();
+            });
+            document.getElementById("save-load").addEventListener("click", (ev) => {
+                if (idfilename.value === "") {
+                    alert("Error:Filename is empty");
+                    return;
+                }
+                _this.load(idfilename.value);
+                _this.close();
+            });
+            document.getElementById("save-files").addEventListener("click", (ev) => {
+                idfilename.value = ev.target.getAttribute("value"); //.substring(4);
+                var el = ev.target;
+                var select = document.getElementById("save-files");
+                for (var x = 0; x < select.children.length; x++) {
+                    select.children[x].classList.remove("active-listitem");
+                }
+                el.classList.add("active-listitem");
+            });
+            document.getElementById("save-delete").addEventListener("click", (ev) => {
+                window.localStorage.removeItem("save" + idfilename.value);
+                _this.update();
+            });
+            document.getElementById("save-export").addEventListener("click", (ev) => {
+                var text = _this.toJson();
+                var fileBlob = new Blob([text], { type: "application/json" });
+                var link = document.createElement("a");
+                link.setAttribute("href", URL.createObjectURL(fileBlob));
+                link.setAttribute("download", "export.json");
+                link.appendChild(document.createTextNode("Save file"));
+                document.body.appendChild(link);
+                link.click();
+                link.remove();
+            });
+            document.getElementById("save-import").addEventListener("change", function (evt) {
+                var files = evt.target["files"];
+                var data = {};
+                var downloaded = 0;
+                var file = files[0];
+                var reader = new FileReader();
+                reader.addEventListener("load", function () {
+                    var s = reader.result;
+                    _this.loadContent(s);
+                    //alert(s);
+                }, false);
+                reader.readAsText(file);
+            });
+        }
+        update() {
+            var list = [];
+            var ret = "";
+            for (var key in window.localStorage) {
+                if (key.startsWith("save")) {
+                    ret += '<li value="' + key.substring(4) + '">' + key.substring(4) + '</li>';
+                    //list.push();
+                }
+            }
+            document.getElementById("save-files").innerHTML = ret;
+            var last = window.localStorage.getItem("lastgame");
+            if (last)
+                document.getElementById("save-filename").value = last;
+        }
+        show() {
+            var _this = this;
+            this.dom.removeAttribute("hidden");
+            //ui-tabs-active
+            $(this.dom).dialog({
+                title: "Statistics",
+                width: "400px",
+                draggable: true,
+                //     position:{my:"left top",at:"right top",of:$(document)} ,
+                open: function (event, ui) {
+                    _this.update();
+                },
+                close: function () {
+                },
+                create: function (e) {
+                    setTimeout(() => {
+                        $(e.target).dialog("widget").find(".ui-dialog-titlebar-close")[0].addEventListener('touchstart', (e) => {
+                            _this.close();
+                        });
+                    }, 200);
+                }
+            }).dialog("widget").draggable("option", "containment", "none");
+            $(this.dom).parent().css({ position: "fixed" });
+        }
+        close() {
+            $(this.dom).dialog("close");
+        }
+        toJson() {
+            var sdata = JSON.stringify(this.game, (key, value) => {
+                var ret = {};
+                if (value instanceof HTMLElement) {
+                    return undefined;
+                }
+                if (key === "lastUpdate")
+                    return undefined;
+                if ((value === null || value === void 0 ? void 0 : value.type) === "World") {
+                    Object.assign(ret, value);
+                    delete ret.companyCache;
+                    delete ret.game;
+                    return ret;
+                }
+                if ((value === null || value === void 0 ? void 0 : value.type) === "Company") {
+                    Object.assign(ret, value);
+                    delete ret.world;
+                    return ret;
+                }
+                if ((value === null || value === void 0 ? void 0 : value.type) === "Transport") {
+                    Object.assign(ret, value);
+                    delete ret.world;
+                    delete ret.company;
+                    return ret;
+                }
+                if ((value === null || value === void 0 ? void 0 : value.type) === "Product") {
+                    Object.assign(ret, value);
+                    return ret;
+                }
+                return value;
+            });
+            return sdata;
+        }
+        save(filename) {
+            this.game.pause();
+            var sdata = this.toJson();
+            window.localStorage.setItem("save" + filename, sdata);
+            window.localStorage.setItem("lastgame", filename);
+            //this.load();
+            console.log(sdata);
+            this.game.resume();
+        }
+        packArray(arr) {
+            var test = arr[0];
+            for (var x = 1; x < arr.length; x++) {
+                if (arr[x] !== test)
+                    return arr;
+            }
+            return test;
+        }
+        unpackArray(value) {
+            if (Array.isArray(value))
+                return value;
+            var ret = [];
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                ret.push(value);
+            }
+            return ret;
+        }
+        loadContent(data) {
+            this.game.close();
+            var ret = JSON.parse(data, (key, value) => {
+                var r = value;
+                if (value === null)
+                    return undefined;
+                if (key === "parameter") {
+                    console.log("develop state - everytime new parameters");
+                    var sic = parameter.allLevels;
+                    Object.assign(parameter, value);
+                    parameter.allLevels = sic;
+                    for (var x = 0; x < parameter.allProducts.length; x++) {
+                        var temp = parameter.allProducts[x];
+                        parameter.allProducts[x] = new product_2.Product(); //(parameter.allProducts[x]);
+                        Object.assign(parameter.allProducts[x], temp);
+                    }
+                }
+                if ((value === null || value === void 0 ? void 0 : value.type) === "Company") {
+                    r = new company_2.Company();
+                    Object.assign(r, value);
+                    return r;
+                }
+                if ((value === null || value === void 0 ? void 0 : value.type) === "Product") {
+                    r = new product_2.Product();
+                    Object.assign(r, value);
+                    return r;
+                }
+                if ((value === null || value === void 0 ? void 0 : value.type) === "Transport") {
+                    r = new transport_1.Transport();
+                    Object.assign(r, value);
+                    return r;
+                }
+                if ((value === null || value === void 0 ? void 0 : value.type) === "World") {
+                    delete value._intervall;
+                    r = new world_1.World();
+                    Object.assign(r, value);
+                    return r;
+                }
+                return r;
+            });
+            var game = this.game;
+            delete ret.timer;
+            delete ret.updateUIID;
+            Object.assign(this.game, ret);
+            game.world.game = game;
+            game.date = new Date(game.date);
+            /*for (var x = 0; x < game.world.airplanes.length; x++) {
+                game.world.airplanes[x].world = game.world;
+                for (var y = 0; y < game.world.airplanes[x].route.length; y++) {
+                    game.world.airplanes[x].route[y].airplane = game.world.airplanes[x];
+                }
+            }*/
+            game.world.updateCompanyCache();
+            for (var x = 0; x < game.world.companies.length; x++) {
+                game.world.companies[x].world = game.world;
+                for (var y = 0; y < game.world.companies[x].transports.length; y++) {
+                    game.world.companies[x].transports[y].world = game.world;
+                    game.world.companies[x].transports[y].company = game.world.companies[x];
+                }
+            }
+            /*  if (game.world.freeCompanies === undefined) {
+                  game.world.freeCompanies = [];
+                  var z = 100000;
+                  for (var x = 1; x <= game.width; x++) {
+                      for (var y = 1; y <= game.height; y++) {
+                          var comp;
+                          if (x <= 8 && y <= 20)
+                              continue;
+                          if (y % 2 === 1)
+                              comp = new Company(game.world, z, -2, 0, 0, 0, x * 4 - 1, y);
+                          else
+                              comp = new Company(game.world, z, -2, 0, 0, 0, x * 4 + 1, y);
+                          game.world.freeCompanies.push(comp);
+                          z++;
+                      }
+                  }
+              }*/
+            for (var x = 0; x < game.world.freeCompanies.length; x++) {
+                game.world.freeCompanies[x].world = game.world;
+            }
+            if (Number(game.version) < 2.7) {
+                parameter.allLevels = [
+                    { maxPeople: 40, maxSoldiers: 100, maxPlaces: 10, buildingLimit: 2 },
+                    { maxPeople: 600, maxSoldiers: 150, maxPlaces: 50, buildingLimit: 1000 },
+                    { maxPeople: 1600, maxSoldiers: 150, maxPlaces: 100, buildingLimit: 2000 },
+                    { maxPeople: 2400, maxSoldiers: 150, maxPlaces: 2000, buildingLimit: 3000 },
+                    { maxPeople: 5000, maxSoldiers: 150, maxPlaces: 300, buildingLimit: 4000 },
+                    { maxPeople: 9999999999, maxSoldiers: 9999999999, maxPlaces: 9999999999, buildingLimit: 9999999999 },
+                ];
+            }
+            if (Number(game.version) < 3.4) {
+                game.enemyBases = [0, 0, 0, 0, 0, 0, 0];
+                for (var x = 0; x < game.world.companies.length; x++) {
+                    if (game.world.companies[x].enemyBaseSoldierCount !== undefined) {
+                        game.enemyBases[game.world.companies[x].enemy - 1] = game.world.companies[x].companyID;
+                    }
+                    if (game.world.companies[x].enemy !== undefined) {
+                        game.world.companies[x].soldiercount = game.world.companies[x].workersIn;
+                        game.world.companies[x].workersIn = 0;
+                    }
+                }
+            }
+            game.version = game_1.gameversion;
+            /*  if (game.world.cities[1].people > 0) {
+                  //migration
+                  for (var x = 1; x < game.world.cities.length; x++) {
+                      game.world.cities[0].people += game.world.cities[x].people;
+                      game.world.cities[x].people = 0;
+                  }
+                  for (var x = 1; x < parameter.allProducts.length; x++) {
+                      game.world.cities[0].score[x] = 50;
+      
+                  }
+                  game.world.cities[0].people = Math.round(game.world.cities[0].people);
+                  game.world.cities[0].shops = game.world.cities[0].shops * 7;
+                  game.world.cities[0].houses = Math.round(game.world.cities[0].people / parameter.peopleInHouse);
+              }
+              console.log("People: " + game.world.cities[0].people.toLocaleString());
+      */
+            game.render(this.game.dom);
+            game.resume();
+        }
+        load(filename) {
+            this.game.pause();
+            var data = window.localStorage.getItem("save" + filename);
+            this.loadContent(data);
+            window.localStorage.setItem("lastgame", filename);
+        }
+    }
+    exports.SaveDialog = SaveDialog;
+    function test() {
+        SaveDialog.getInstance().show();
+    }
+    exports.test = test;
+});
+define("game/companydialog", ["require", "exports", "game/icons", "game/company", "game/product", "game/transport", "game/game"], function (require, exports, icons_2, company_3, product_3, transport_2, game_2) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.CompanyDialog = void 0;
+    //@ts-ignore
+    window.company = function () {
+        return CompanyDialog.getInstance().company;
+    };
+    class CompanyDialog {
+        constructor() {
+            this.maxCompanies = 14;
+            this.hasPaused = false;
+            this.create();
+        }
+        static getInstance() {
+            if (CompanyDialog.instance === undefined)
+                CompanyDialog.instance = new CompanyDialog();
+            return CompanyDialog.instance;
+        }
+        create() {
+            //template for code reloading
+            var sdom = `
+          <div hidden id="companydialog" class="companydialog">
+            <div></div>
+           </div>
+        `;
+            this.dom = document.createRange().createContextualFragment(sdom).children[0];
+            var old = document.getElementById("companydialog");
+            if (old) {
+                old.parentNode.removeChild(old);
+            }
+            var products = parameter.allProducts;
+            var _this = this;
+            var city = _this.company;
+            var sdom = `
+          <div>
+        
+            <div id="companydialog-tabs">
+                <ul>
+                    <li><a href="#companydialog-production" id="companydialog-production-tab" class="companydialog-tabs">Produktion</a></li>
+                    <li><a href="#companydialog-transport" id="companydialog-transport-tab"  class="companydialog-tabs">Transport</a></li>
+                    <li><a href="#companydialog-conquer" id="companydialog-conquer-tab"  class="companydialog-tabs"><img src="${company_3.Company.getImageUrl(parameter.allProducts[product_3.Product.productSoldier].image)}" width="20" height="20"></a></li>
+                    <li><a href="#companydialog-build" id="companydialog-build-tab"  class="companydialog-tabs">Bauen</a></li>
+                    <li><a href="#companydialog-delete" id="companydialog-delete-tab"  class="companydialog-tabs">❌</a></li>
+                     <li><a href="#companydialog-gate" id="companydialog-gate-tab"  class="companydialog-tabs">Ziel</a></li>
+                </ul>
+                <div id="companydialog-production"> ` + this.createProductionTab() + `
+                </div>
+                <div id="companydialog-transport">` + this.createTransportTab() + `
+                </div>
+                <div id="companydialog-conquer">` + this.createConquerTab() + `
+                </div>
+                 <div id="companydialog-build">` + this.createBuildTab() + `
+                </div>
+                 <div id="companydialog-delete">
+                    Soll das Geb&auml;ude abgerissen werden?<br/>
+                    <button id="destroy-building"  class="mybutton"> Ja ❌ </button>
+                </div>
+           
+                 <div id="companydialog-gate">` + this.createGateTab() + `
+                </div>
+                     </div>
+            </div>
+          </div>
+        `;
+            var newdom = document.createRange().createContextualFragment(sdom).children[0];
+            this.dom.removeChild(this.dom.children[0]);
+            this.dom.appendChild(newdom);
+            $("#companydialog-tabs").tabs({
+            //collapsible: true
+            });
+            $("#companydialog-build-tabs").tabs({ beforeActivate: function (event, ui) { _this.buildTabActivated(event, ui); } });
+            setTimeout(() => {
+                $("#companydialog-tabs").tabs({
+                //collapsible: true
+                });
+                $("#companydialog-build-tabs").tabs({ beforeActivate: function (event, ui) { _this.buildTabActivated(event, ui); } });
+            }, 100);
+            document.body.appendChild(this.dom);
+            //        document.getElementById("companydialog-prev")
+            setTimeout(() => { _this.bindActions(); }, 500);
+            //document.createElement("span");
+        }
+        buildTabActivated(evt, ui) {
+            var level = parseInt(evt.currentTarget.id.split("_")[1]) + 1;
+            if (this.company.world.game.level < (level)) {
+                game_2.Game.showInfo("kann erst ab Level " + (level + 1) + " gebaut werden.");
+            }
+        }
+        createConquerTab() {
+            var _this = this;
+            return `
+                    <span id="info-soldiers"></span>
+                    <button id="add-soldier"  class="mybutton">+<img src="${company_3.Company.getImageUrl(parameter.allProducts[product_3.Product.productSoldier].image)}" width="20" height="20"> </button>  <br/>
+                    <button id="add-defense"  class="mybutton">+<img src="${company_3.Company.getImageUrl("Schild.png")}" width="20" height="20"> </button>  <br/>
+               `;
+        }
+        createBuildTab() {
+            var _this = this;
+            var links = "";
+            var tabs = "";
+            var prods = [];
+            for (var x = 0; x < parameter.allLevels.length; x++) {
+                prods.push([]);
+            }
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                var p = parameter.allProducts[x];
+                prods[p.level - 1].push(p);
+            }
+            for (var x = 0; x < parameter.allLevels.length; x++) {
+                links = links + `<li><a href="#companydialog-build-${x}" id="companydialog-bild-tab_${x}" class="companydialog-tabs">${x + 1}</a></li>`;
+                var icons = "";
+                for (var i = 0; i < prods[x].length; i++) {
+                    var p = prods[x][i];
+                    var prop = (p.id === product_3.Product.productGate) ? "hidden" : "";
+                    icons += `<button id="companydialog-build-product_${p.id}" ` + prop + ` class="companydialog-build-product">+
+                            <img  src="${company_3.Company.getImageUrl(p.image)}" width="30" height="30" title="${p.name}"> 
+                        </button>`;
+                }
+                tabs = tabs + ` <div id="companydialog-build-${x}">` + icons + `</div>`;
+            }
+            /*                            ${for(var i=0;i<4;i++){
+            
+                                }}
+                                <li><a href="#companydialog-bild-1" id="companydialog-bild-tab-1" class="companydialog-tabs">1</a></li>
+                                <li><a href="#companydialog-bild-2" id="companydialog-bild-tab-2" class="companydialog-tabs">2</a></li>
+                                <li><a href="#companydialog-bild-3" id="companydialog-bild-tab-3" class="companydialog-tabs">3</a></li>
+                                <li><a href="#companydialog-bild-4" id="companydialog-bild-tab-4" class="companydialog-tabs">4</a></li>*/
+            return `
+             <div id="companydialog-build-tabs">
+                <ul>` + links +
+                `</ul>
+                ` + tabs + `
+                
+            </div>
+
+               
+               `;
+        }
+        createProductionTab() {
+            var _this = this;
+            return `<span id="production-info" style="color:red"></span>
+                <table id="companydialog-production-table" style="height:100%;weight:100%;">
+                       
+                        <tr>
+                            <td>Produktion&nbsp;</td>
+                            <td></td>
+                            <td  style="text-align:right;min-width:70px"><span id="workers">1</span></td>
+                            <td >
+                                <button id="add-worker"  class="mybutton">&nbsp;+&nbsp;</button>
+                                <button id="remove-worker"  class="mybutton">&nbsp;-&nbsp;</button> 
+                            </td>
+                         
+                        </tr>
+                      
+                        <tr id="companydialog-production-table-rawmaterial">
+                            <td>Rohstoffe&nbsp;</td>
+                            <td></td>
+                            <td style="text-align:right;"><span id="workersIn">1</span></td>
+                            <td>
+                                <button id="in-add-worker"  class="mybutton">&nbsp;+&nbsp;</button>  
+                                <button id="in-remove-worker"  class="mybutton">&nbsp;-&nbsp;</button>  
+                            </td>
+                              
+                                
+                            
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td> 
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td  style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td  style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td  style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td  style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                        <tr style="border: solid;border-width: 1px 0;">
+                            <td>Lager&nbsp;</td>
+                            <td><img id="companydialog-production-table-icon" src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;"><b><span id="workersOut">1</span></b></td>
+                            <td>
+                                <button id="out-add-worker"  class="mybutton">&nbsp;+&nbsp;</button>  
+                                <button id="out-remove-worker"  class="mybutton">&nbsp;-&nbsp;</button>  
+                            </td>
+                        </tr>
+                </table>
+               
+               `;
+        }
+        createGateTab() {
+            var _this = this;
+            return `
+                 <div id="infonextlevel">
+                    
+                </div>
+                <table id="companydialog-gate-table" style="margin-left:40px;height:100%;weight:200px;">
+                       
+                    
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td> 
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td  style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td  style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td  style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td  style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                         <tr>
+                            <td style="padding-left:9px">Mehl</td>
+                            <td><img src="${company_3.Company.getImageUrl(parameter.allProducts[0].image)}" width="20" height="20"></td>
+                            <td  style="text-align:right;">0/0</td>
+                        </tr>
+                       
+                </table>
+               `;
+        }
+        createTransportTab() {
+            var _this = this;
+            return `
+
+                 <table>
+                    <tr>
+                        <td style="vertical-align:top">
+                             <button id="transport-up" class="mybutton">` + icons_2.Icons.up + `</button>
+                             <button id="transport-down"  class="mybutton">` + icons_2.Icons.down + `</button>
+                             <button id="transport-add"  class="mybutton">` + icons_2.Icons.plus + `</button>
+                             <button id="transport-del"  class="mybutton">` + icons_2.Icons.remove + `</button><br/>
+                            <ul id="companydialog-transport-list" size="10" class="mylist boxborder" style="width:180px;height:380px;overflow-y: scroll;">
+                            </ul>
+                        </td>
+                        <td id="transportdetails" style="vertical-align:top">
+                        
+                            <button id="transport-add-worker"  class="mybutton" style="width:70px" >&nbsp;+&nbsp;</button>
+                            <button id="transport-remove-worker"  class="mybutton" style="width:70px">&nbsp;-&nbsp;</button><br/>
+                                <ul id="companydialog-transport-productlist"  class="mylist boxborder"  size="10" style="height:380px;width:160px;overflow-y: scroll;">
+                                </ul>
+                            
+                        </td>
+                    
+                        
+                    </tr>
+                </table>
+               `;
+        }
+        bindActions() {
+            var _this = this;
+            document.getElementById("add-worker").addEventListener("click", (ev) => {
+                for (var x = 0; x < parameter.peopleWithOneClick; x++) {
+                    if ((this.company.workers + (this.company.workersComming ? this.company.workersComming : 0)) < this.company.calcMaxWorker())
+                        _this.company.addWorker("workers");
+                }
+            });
+            document.getElementById("remove-worker").addEventListener("click", (ev) => {
+                _this.company.removeWorker("workers");
+            });
+            document.getElementById("destroy-building").addEventListener("click", (ev) => {
+                var candestroy = true;
+                if (_this.company.workersComming || _this.company.workersInComming || this.company.workersOutComming)
+                    candestroy = false;
+                _this.company.transports.forEach((t) => {
+                    if (t.workersComming)
+                        candestroy = false;
+                });
+                if (!candestroy) {
+                    alert("Kann Gebäude nicht zerstören, solange noch Helfer unterwegs sind.");
+                    return;
+                }
+                if (_this.company.productid !== -1 && parameter.allProducts[_this.company.productid].level === 1 && _this.company.world.findCompanyThatProduces(_this.company.productid).length === 1) {
+                    alert("Das letzte Gebäude dieser Art kann nicht abgerissen werden.");
+                    return;
+                }
+                _this.company.destroy();
+            });
+            // (<HTMLButtonElement>document.getElementById("add-worker")).disabled = ((this.company.workers + (this.company.workersComming ? this.company.workersComming : 0)) >= this.company.calcMaxWorker());
+            // (<HTMLButtonElement>document.getElementById("in-add-worker")).disabled = ((this.company.workersIn + (this.company.workersInComming ? this.company.workersInComming : 0)) >= this.company.calcMaxWorker());
+            // (<HTMLButtonElement>document.getElementById("out-add-worker")).disabled = ((this.company.workersOut + (this.company.workersOutComming ? this.company.workersOutComming : 0)) >= (factSoldier * this.company.calcMaxWorker()));
+            document.getElementById("in-add-worker").addEventListener("click", (ev) => {
+                for (var x = 0; x < parameter.peopleWithOneClick; x++) {
+                    if ((_this.company.workersIn + (_this.company.workersInComming ? _this.company.workersInComming : 0)) < _this.company.calcMaxWorker())
+                        _this.company.addWorker("workersIn");
+                }
+            });
+            document.getElementById("in-remove-worker").addEventListener("click", (ev) => {
+                _this.company.removeWorker("workersIn");
+            });
+            document.getElementById("out-add-worker").addEventListener("click", (ev) => {
+                for (var x = 0; x < parameter.peopleWithOneClick; x++) {
+                    if ((_this.company.workersOut + (_this.company.workersOutComming ? _this.company.workersOutComming : 0)) < _this.company.calcMaxWorker())
+                        _this.company.addWorker("workersOut");
+                }
+            });
+            document.getElementById("out-remove-worker").addEventListener("click", (ev) => {
+                _this.company.removeWorker("workersOut");
+            });
+            document.getElementById("transport-add-worker").addEventListener("click", (event) => {
+                var trans = _this.getSelectedTransport();
+                for (var x = 0; x < parameter.peopleWithOneClick; x++) {
+                    if ((trans.workers + (trans.workersComming ? trans.workersComming : 0)) < _this.company.calcMaxWorker())
+                        _this.company.addWorker(trans);
+                }
+                _this.update();
+            });
+            document.getElementById("transport-remove-worker").addEventListener("click", (event) => {
+                var selected = this.getSelectedTransport();
+                _this.company.removeWorker(selected);
+            });
+            document.getElementById("transport-del").addEventListener("click", (event) => {
+                var selected = this.getSelectedTransport();
+                // if (selected.workersComming) {
+                //     alert("Der Transport kann nicht zerstört werden, solange noch Helfer unterwegs sind.");
+                //     return;
+                // }
+                while (selected.workers > 0) {
+                    _this.company.removeWorker(selected);
+                }
+                selected.destroy(_this.company.transports);
+            });
+            document.getElementById("transport-add").addEventListener("click", (event) => {
+                var trans = new transport_2.Transport(this.company);
+                trans.active = true;
+                trans.render();
+                if (_this.company.productid === product_3.Product.productStone || _this.company.productid === product_3.Product.productWood) {
+                    trans.autodeliver = true;
+                }
+                this.company.transports.push(trans);
+                if (trans)
+                    _this.company.addWorker(trans);
+                _this.update();
+            });
+            document.getElementById("add-soldier").addEventListener("click", (ev) => {
+                var run = (trans, delay, count) => {
+                    setTimeout(() => { trans.productCount = count; trans.active = true; }, delay);
+                };
+                var isTowerOrCastle = _this.company.enemy !== undefined ? _this.company : undefined;
+                var company = _this.company.world.findSoldier(isTowerOrCastle); // findCompanyThatProduces(Product.productSoldier)[0];
+                if (company === undefined) {
+                    game_2.Game.showInfo("Kein Turm oder Burg mit Soldaten in der Nähe für Angriff.");
+                    return;
+                }
+                if (_this.company.soldiersComing === undefined || isNaN(_this.company.soldiersComing))
+                    _this.company.soldiersComing = 0;
+                var max = 0;
+                if (company)
+                    max = Math.min(isTowerOrCastle ? company.soldiercount : company.produced, _this.company.calcMaxSoldiers() - _this.company.soldiercount - _this.company.soldiersComing);
+                if (this.company.enemy !== undefined)
+                    max = company.soldiercount;
+                max = Math.min(max, parameter.soldierWithOneClick);
+                if (max === 0 || isNaN(max))
+                    return;
+                var p = this.company.world.freeCompanies.indexOf(this.company);
+                if (p !== -1) {
+                    this.company.world.freeCompanies.splice(p, 1);
+                    this.company.world.companies.push(this.company);
+                    //                this.company.companyID = this.company.world.companies.length - 1;
+                }
+                if (this.company.productid == -2) {
+                    this.company.productid = -3;
+                    _this.company.domIcon.src = company_3.Company.getImageUrl("Attacke.png");
+                }
+                if (isTowerOrCastle)
+                    company.soldiercount -= max;
+                else
+                    company.produced -= max;
+                var first = 0;
+                var m = max;
+                if (m > 40) {
+                    m = 40;
+                    first = max - 40 + 1;
+                }
+                for (var x = 0; x < m; x++) {
+                    var trans = new transport_2.Transport(company);
+                    trans.companyTarget = _this.company.companyID;
+                    trans.workers = 1;
+                    var count = ((x === 0 && first) ? first : 1);
+                    if (this.company.enemy !== undefined) {
+                        if (_this.company.enemiesComming === undefined)
+                            _this.company.enemiesComming = 0;
+                        _this.company.enemiesComming += count;
+                    }
+                    else
+                        _this.company.soldiersComing += count;
+                    trans.transferInfo = { productid: product_3.Product.productSoldier };
+                    trans.render();
+                    run(trans, x * 100, count);
+                    company.transports.push(trans);
+                }
+                //_this.company.workersOut++;
+                _this.update(true);
+            });
+            document.getElementById("add-defense").addEventListener("click", (ev) => {
+                var run = (trans, delay, count) => {
+                    setTimeout(() => { trans.productCount = count; trans.active = true; }, delay);
+                };
+                var isTowerOrCastle = _this.company;
+                var company = _this.company.world.findSoldier(isTowerOrCastle); // findCompanyThatProduces(Product.productSoldier)[0];
+                if (company === undefined) {
+                    game_2.Game.showInfo("Kein Turm oder Burg mit Soldaten in der Nähe.");
+                    return;
+                }
+                if (_this.company.soldiersComing === undefined || isNaN(_this.company.soldiersComing))
+                    _this.company.soldiersComing = 0;
+                var max = 0;
+                if (company)
+                    max = Math.min(isTowerOrCastle ? company.soldiercount : company.produced, _this.company.calcMaxSoldiers() - _this.company.soldiercount - _this.company.soldiersComing);
+                max = Math.min(max, parameter.soldierWithOneClick);
+                if (max === 0 || isNaN(max))
+                    return;
+                var p = this.company.world.freeCompanies.indexOf(this.company);
+                company.soldiercount -= max;
+                var first = 0;
+                var m = max;
+                if (m > 40) {
+                    m = 40;
+                    first = max - 40 + 1;
+                }
+                for (var x = 0; x < m; x++) {
+                    var trans = new transport_2.Transport(company);
+                    trans.companyTarget = _this.company.companyID;
+                    trans.workers = 1;
+                    var count = ((x === 0 && first) ? first : 1);
+                    _this.company.soldiersComing += count;
+                    trans.transferInfo = { productid: product_3.Product.productSoldier };
+                    trans.render();
+                    run(trans, x * 100, count);
+                    company.transports.push(trans);
+                }
+                //_this.company.workersOut++;
+                _this.update(true);
+            });
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                document.getElementById("companydialog-build-product_" + x).addEventListener("click", (evt) => {
+                    var id = parseInt(evt.currentTarget.id.split("_")[1]);
+                    var serror = "";
+                    var count = parameter.allProducts[id].level;
+                    if (id === product_3.Product.productTower)
+                        count = 15;
+                    if (id === product_3.Product.productCastle)
+                        count = 50;
+                    var transwood = _this.getBuildTransport(product_3.Product.productWood, count);
+                    if (_this.company.world.findUsedCompanies().length > _this.company.world.game.getCurrentLevel().maxPlaces)
+                        serror = "Das Maximalle Gebäudelimit für diesen Level wurde erreicht.";
+                    if (!transwood)
+                        serror = "Kein " + count + " Holz gefunden oder kein Bautransport gefunden, der " + count + " Holz transportieren kann.";
+                    var transstone = this.getBuildTransport(product_3.Product.productStone, count);
+                    if (!transstone)
+                        serror += "Kein " + count + " Stein gefunden oder kein Bautransport gefunden, der " + count + " Stein transportieren kann.";
+                    if (this.company.productid !== -1)
+                        serror = "das Gebiet muss entweder erobert werden oder ist bereits bebaut.";
+                    if (serror !== "") {
+                        game_2.Game.showInfo(serror);
+                        return;
+                    }
+                    else {
+                        _this.company.buildingInProgress = id;
+                        var transferInfo = {
+                            productid: id
+                        };
+                        _this.company.woodsComming = count;
+                        _this.company.stonesComming = count;
+                        transstone.companyTarget = _this.company.companyID;
+                        transstone.active = true;
+                        transstone.transferInfo = transferInfo;
+                        transwood.companyTarget = _this.company.companyID;
+                        transwood.active = true;
+                        transwood.transferInfo = transferInfo;
+                        // this.company.changeProduct(id);
+                    }
+                });
+            }
+            document.getElementById("companydialog-transport-productlist").addEventListener("click", (ev) => {
+                var el = ev.target;
+                if (el.tagName === "UL") {
+                    return;
+                }
+                var select = document.getElementById("companydialog-transport-productlist");
+                for (var x = 0; x < select.children.length; x++) {
+                    select.children[x].classList.remove("active-listitem");
+                }
+                el.classList.add("active-listitem");
+                var val = el.getAttribute("value");
+                var trans = _this.getSelectedTransport();
+                var comp = parseInt(val);
+                trans.changeCompanyTaget(comp);
+                _this.update();
+            });
+            document.getElementById("companydialog-transport-list").addEventListener("click", (ev) => {
+                var el = ev.target;
+                if (el.tagName === "UL") {
+                    return;
+                }
+                if (el.parentNode.tagName == "LI")
+                    el = el.parentNode;
+                else if (el.parentNode.parentNode.tagName == "LI")
+                    el = el.parentNode.parentNode;
+                var select = document.getElementById("companydialog-transport-list");
+                for (var x = 0; x < select.children.length; x++) {
+                    select.children[x].classList.remove("active-listitem");
+                }
+                el.classList.add("active-listitem");
+                el.scrollIntoView();
+                _this.update();
+                /* var trans = _this.getSelectedTransport();
+                 debugger;
+                 var comp = parseInt((<any>event.target).value);
+                 trans.changeCompanyTaget(comp);
+                 _this.update();*/
+            });
+        }
+        selectCompanyIfNeeded(compid) {
+            var select = document.getElementById("companydialog-transport-productlist");
+            for (var x = 0; x < select.children.length; x++) {
+                var val = parseInt(select.children[x].getAttribute("value"));
+                if (val === compid && !select.children[x].classList.contains("active-listitem")) {
+                    select.children[x].classList.add("active-listitem");
+                    select.children[x].scrollIntoView();
+                }
+                if (val !== compid && select.children[x].classList.contains("active-listitem"))
+                    select.children[x].classList.remove("active-listitem");
+            }
+        }
+        getSelectedTransport() {
+            var select = document.getElementById("companydialog-transport-list");
+            for (var x = 0; x < select.children.length; x++) {
+                if (select.children[x].classList.contains("active-listitem")) {
+                    var val = select.children[x].getAttribute("value");
+                    var selectedtransport = parseInt(val === "" ? "-1" : val);
+                    return this.company.transports[selectedtransport];
+                }
+            }
+            return undefined;
+        }
+        getBuildTransport(prodId, count) {
+            var wood = this.company.world.findCompanyThatProduces(prodId);
+            for (var i = 0; i < wood.length; i++) {
+                for (var j = 0; j < wood[i].transports.length; j++) {
+                    var trans = wood[i].transports[j];
+                    if (trans.companyTarget === undefined && trans.autodeliver && trans.productCount >= count) {
+                        return trans;
+                    }
+                }
+            }
+            return undefined;
+        }
+        updateBuild() {
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                var button = document.getElementById("companydialog-build-product_" + x);
+                var prod = parameter.allProducts[x];
+                if (this.company.world.game.level >= (prod.level) &&
+                    this.company.world.findCompanyThatProduces(prod.id, true).length < this.company.world.game.getCurrentLevel().buildingLimit &&
+                    button.disabled) {
+                    button.disabled = false;
+                }
+                else if ((this.company.world.game.level < (prod.level) ||
+                    this.company.world.findCompanyThatProduces(prod.id, true).length >= this.company.world.game.getCurrentLevel().buildingLimit)
+                    && button.disabled === false) {
+                    button.disabled = true;
+                }
+            }
+        }
+        updateTransport() {
+            var list = document.getElementById("companydialog-transport-list");
+            if (list.children.length !== this.company.transports.length) {
+                var s = "";
+                for (var x = 0; x < this.company.transports.length; x++) {
+                    s = s + '<li value="' + x + `"></li>`;
+                }
+                list.innerHTML = s;
+            }
+            for (var x = 0; x < this.company.transports.length; x++) {
+                var s = "";
+                var trans = this.company.transports[x];
+                var target = this.company.world.companyCache[trans === null || trans === void 0 ? void 0 : trans.companyTarget];
+                var prod = parameter.allProducts[target === null || target === void 0 ? void 0 : target.productid];
+                var count = trans.productCount + "/" + trans.getCapacity();
+                s = s + '<img src="' + company_3.Company.getImageUrl((prod === null || prod === void 0 ? void 0 : prod.image) === undefined ? "Dummy.png" : prod.image) + '" height="25">' + trans.getName() + " " + '<span>' + count + (trans.workersComming ? ("+" + trans.workersComming) : "") + '</span>';
+                var entr = list.children[x];
+                if (entr.innerHTML !== s)
+                    entr.innerHTML = s;
+            }
+            var list2 = document.getElementById("companydialog-transport-productlist");
+            var s = ``;
+            var companies = this.company.world.findCompanyThatConsumes(this.company.productid);
+            for (var x = 0; x < companies.length; x++) {
+                var comp = companies[x];
+                var prod = parameter.allProducts[comp.productid];
+                s = s + `<li value="` + comp.companyID + '" class=""><img src="' + company_3.Company.getImageUrl((prod === null || prod === void 0 ? void 0 : prod.image) === undefined ? "Dummy.png" : prod.image) + `" height="25">${comp.name}</li>`;
+            }
+            if ((trans === null || trans === void 0 ? void 0 : trans.getName()) === "Bautransport")
+                s += `<li value="-1" class="">Bautransport</li>`;
+            else
+                s += `<li value="-1" class="">inaktiv</li>`;
+            if (list2.innerHTML.replace('active-listitem', "") !== s) {
+                list2.innerHTML = s;
+            }
+            var selectedtransport = this.getSelectedTransport();
+            if (selectedtransport === undefined) {
+                document.getElementById("transportdetails").setAttribute("hidden", "");
+                document.getElementById("companydialog-transport-productlist").setAttribute("hidden", "");
+                document.getElementById("transport-up").setAttribute("hidden", "");
+                document.getElementById("transport-down").setAttribute("hidden", "");
+                document.getElementById("transport-add-worker").setAttribute("hidden", "");
+                document.getElementById("transport-remove-worker").setAttribute("hidden", "");
+                document.getElementById("transport-del").setAttribute("hidden", "");
+            }
+            else {
+                document.getElementById("transportdetails").removeAttribute("hidden");
+                document.getElementById("companydialog-transport-productlist").removeAttribute("hidden");
+                document.getElementById("transport-up").removeAttribute("hidden");
+                document.getElementById("transport-down").removeAttribute("hidden");
+                document.getElementById("transport-add-worker").removeAttribute("hidden");
+                document.getElementById("transport-remove-worker").removeAttribute("hidden");
+                document.getElementById("transport-del").removeAttribute("hidden");
+            }
+            if (this.company.world.tickCount % 5 === 0) { //selection of companyTarget not work
+                var tar = selectedtransport === null || selectedtransport === void 0 ? void 0 : selectedtransport.companyTarget;
+                if (tar === undefined)
+                    tar = -1;
+                this.selectCompanyIfNeeded(tar);
+                /*if (list2.value !== tar?.toString()) {
+                    list2.value = tar?.toString();
+                }*/
+            }
+            var tt = this.getSelectedTransport();
+            if (tt) {
+                if (document.getElementById("transport-add-worker").disabled !== ((tt.workers + (tt.workersComming ? tt.workersComming : 0)) >= this.company.calcMaxWorker()))
+                    document.getElementById("transport-add-worker").disabled = ((tt.workers + (tt.workersComming ? tt.workersComming : 0)) >= this.company.calcMaxWorker());
+            }
+            //if(list2.value!==
+        }
+        updateGate() {
+            var prods = this.company.world.getProductsToBuildForLevel(this.company.world.game.level, true);
+            // if (prods.length > 0) {
+            var sgeb = "";
+            for (var x = 0; x < prods.length; x++) {
+                var prod = prods[x];
+                sgeb += '<img src="' + company_3.Company.getImageUrl(prod.image) + '"  height="25"></img>';
+            }
+            var info;
+            /*  if (this.company.world.game.level === parameter.allLevels.length) {
+                  info = `Alle Ziele erreicht. <br/><br/>
+                              Tipp: <br/>
+                              Schicke Soldaten in die Produktionsgeb&auml;ude, um dort mehr Arbeiter zu besch&auml;ftigen und die Wirtschaft in Schwung zu bringen.`;
+                  if (document.getElementById("infonextlevel").innerHTML !== info) {
+                      document.getElementById("infonextlevel").innerHTML = info;
+                  }
+      
+              } else {*/
+            info = ` Um in den n&auml;chsten Level zu kommen, muss folgendes erf&uuml;lt werden:<br/>
+                        <ol>`;
+            // }
+            if (sgeb !== "")
+                info += `<LI>    Diese Geb&auml;de m&uuml;ssen noch gebaut werden:<br/><span>${sgeb}</span></LI>`;
+            var table = document.getElementById("companydialog-gate-table");
+            var prod = parameter.allProducts[this.company.productid];
+            var ready = true;
+            for (var x = 0; x < this.company.rawmaterials.length; x++) {
+                var tr = table.children[0].children[x];
+                if (tr.hasAttribute("hidden"))
+                    tr.removeAttribute("hidden");
+                var pconsume = parameter.allProducts[prod.consume[x]];
+                var sname = pconsume.name;
+                var icon = company_3.Company.getImageUrl(pconsume.image);
+                var count = this.company.rawmaterials[x] + "/" + (parameter.capacityPerHelper + this.company.workersIn * parameter.capacityPerHelper);
+                if (this.company.rawmaterials[x] !== (parameter.capacityPerHelper + this.company.workersIn * parameter.capacityPerHelper))
+                    ready = false;
+                if (tr.children[0].textContent !== sname)
+                    tr.children[0].textContent = sname;
+                if (tr.children[1].children[0].src !== icon)
+                    tr.children[1].children[0].src = icon;
+                if (tr.children[2].textContent !== count)
+                    tr.children[2].textContent = count;
+            }
+            if (!ready)
+                info += `<LI>    Folgende Produkte werden hier ben&ouml;tigt:</LI>
+                      `;
+            info += `</ol>`;
+            if (document.getElementById("infonextlevel").innerHTML !== info) {
+                document.getElementById("infonextlevel").innerHTML = info;
+            }
+            for (var x = this.company.rawmaterials.length; x < 16; x++) {
+                var tr = table.children[0].children[x];
+                if (!tr.hasAttribute("hidden"))
+                    tr.setAttribute("hidden", "");
+            }
+        }
+        updateProduction() {
+            var _a, _b, _c;
+            if (((_a = this.company) === null || _a === void 0 ? void 0 : _a.productid) === -1 || ((_b = this.company) === null || _b === void 0 ? void 0 : _b.productid) === -2 || ((_c = this.company) === null || _c === void 0 ? void 0 : _c.productid) === -3)
+                return;
+            var srcicon = company_3.Company.getImageUrl(parameter.allProducts[this.company.productid].image);
+            if (document.getElementById("companydialog-production-table-icon").src !== srcicon)
+                document.getElementById("companydialog-production-table-icon").src = srcicon;
+            document.getElementById("workers").textContent = this.company.workers.toString() + (this.company.workersComming ? ("+" + this.company.workersComming) : "");
+            var maxprod = 0;
+            for (var x = 0; x < this.company.rawmaterials.length; x++) {
+                if (this.company.rawmaterials[x] > maxprod)
+                    maxprod = this.company.rawmaterials[x];
+            }
+            document.getElementById("workersIn").textContent = maxprod + "/" + (this.company.workersIn * parameter.capacityPerHelper + parameter.capacityPerHelper) +
+                (this.company.workersInComming ? ("+" + this.company.workersInComming * parameter.capacityPerHelper) : "");
+            var factSoldier = 1;
+            if (this.company.productid === product_3.Product.productSoldier)
+                factSoldier = 10;
+            document.getElementById("workersOut").textContent =
+                this.company.produced + "/" + (this.company.workersOut * parameter.capacityPerHelper + parameter.capacityPerHelper) +
+                    (this.company.workersOutComming ? ("+" + this.company.workersOutComming * parameter.capacityPerHelper) : "");
+            var table = document.getElementById("companydialog-production-table");
+            var prod = parameter.allProducts[this.company.productid];
+            var temp = document.getElementById("companydialog-production-table");
+            if (this.company.world.game.level < prod.level && !temp.hasAttribute("hidden"))
+                temp.setAttribute("hidden", "");
+            if (this.company.world.game.level >= prod.level && temp.hasAttribute("hidden"))
+                temp.removeAttribute("hidden");
+            /*if (this.company.productid === Product.productHelper || this.company.productid === Product.productSoldier) {
+                if (!table.children[0].children[0].hasAttribute("hidden")) {
+                    table.children[0].children[0].setAttribute("hidden", "");
+                    table.children[0].children[1].setAttribute("hidden", "");
+                }
+            } else {
+                if (table.children[0].children[0].hasAttribute("hidden")) {
+                    table.children[0].children[0].removeAttribute("hidden");
+                    table.children[0].children[1].removeAttribute("hidden");
+                }
+            }*/
+            for (var x = 0; x < this.company.rawmaterials.length; x++) {
+                var tr = table.children[0].children[x + 2];
+                if (tr.hasAttribute("hidden"))
+                    tr.removeAttribute("hidden");
+                var pconsume = parameter.allProducts[prod.consume[x]];
+                if (pconsume === undefined)
+                    pconsume = pconsume;
+                var sname = pconsume.name;
+                var icon = company_3.Company.getImageUrl(pconsume.image);
+                var count = this.company.rawmaterials[x] + "/" + (parameter.capacityPerHelper + this.company.workersIn * parameter.capacityPerHelper);
+                if (tr.children[0].textContent !== sname)
+                    tr.children[0].textContent = sname;
+                if (tr.children[1].children[0].src !== icon)
+                    tr.children[1].children[0].src = icon;
+                if (tr.children[2].textContent !== count)
+                    tr.children[2].textContent = count;
+            }
+            for (var x = this.company.rawmaterials.length; x < 16; x++) {
+                var tr = table.children[0].children[x + 2];
+                if (!tr.hasAttribute("hidden"))
+                    tr.setAttribute("hidden", "");
+            }
+            var prodinfo = document.getElementById("production-info");
+            var sprodinfo = "";
+            if (this.company.productid === product_3.Product.productHelper && this.company.world.game.people >= this.company.world.game.getCurrentLevel().maxPeople)
+                sprodinfo += "Level-Limit (" + this.company.world.game.getCurrentLevel().maxPeople + ") f&uuml;r Helfer erreicht. Es k&ouml;nnen keine weitere Helfer produziert werden.";
+            var sold = 0;
+            var csold = this.company.world.findCompanyThatProduces(product_3.Product.productSoldier);
+            csold.forEach(s => sold = sold + s.produced);
+            if (this.company.productid === product_3.Product.productSoldier && sold >= this.company.world.game.getCurrentLevel().maxSoldiers)
+                sprodinfo += "Level-Limit (" + this.company.world.game.getCurrentLevel().maxSoldiers + ") f&uuml;r Soldaten erreicht. Es k&ouml;nnen keine weitere Soldaten produziert werden.";
+            if (prodinfo.innerHTML !== sprodinfo)
+                prodinfo.innerHTML = sprodinfo;
+            document.getElementById("add-worker").disabled = ((this.company.workers + (this.company.workersComming ? this.company.workersComming : 0)) >= this.company.calcMaxWorker());
+            document.getElementById("in-add-worker").disabled = ((this.company.workersIn + (this.company.workersInComming ? this.company.workersInComming : 0)) >= this.company.calcMaxWorker());
+            document.getElementById("out-add-worker").disabled = ((this.company.workersOut + (this.company.workersOutComming ? this.company.workersOutComming : 0)) >= (factSoldier * this.company.calcMaxWorker()));
+            var rawMaterial = document.getElementById("companydialog-production-table-rawmaterial");
+            var rawMaterialvisible = true;
+            if (this.company.rawmaterials.length === 0)
+                rawMaterialvisible = false;
+            if (!rawMaterial.hasAttribute("hidden") && !rawMaterialvisible)
+                rawMaterial.setAttribute("hidden", "");
+            if (rawMaterial.hasAttribute("hidden") && rawMaterialvisible)
+                rawMaterial.removeAttribute("hidden");
+        }
+        update(force = false) {
+            var _a, _b, _c, _d, _e, _f, _g, _h, _j, _k, _l, _m, _o, _p, _q;
+            if (!this.company)
+                return;
+            try {
+                if (!$(this.dom).dialog('isOpen')) {
+                    return;
+                }
+            }
+            catch (_r) {
+                return;
+            }
+            this.updateTitle();
+            //production,transport,conquer,build,delete,gate
+            var tabs = [false, false, true, false, true, false];
+            var tabnames = ["companydialog-production-tab", "companydialog-transport-tab", "companydialog-conquer-tab", "companydialog-build-tab", "companydialog-delete-tab", "companydialog-gate-tab"];
+            if (this.company.productid === -2 || this.company.productid === -3) {
+                /* var button = <HTMLButtonElement>document.getElementById("add-soldier");
+                 if (this.company.soldiersComing && !button.disabled)
+                     button.disabled = true;
+                 if (!this.company.soldiersComing && button.disabled)
+                     button.disabled = false;*/
+                tabs[2] = true;
+                tabs[4] = false;
+            }
+            else if (this.company.productid === -1) {
+                if (!this.company.buildingInProgress && document.getElementById("companydialog-build-tabs").hasAttribute("hidden")) {
+                    document.getElementById("companydialog-build-tabs").removeAttribute("hidden");
+                }
+                if (this.company.buildingInProgress && !document.getElementById("companydialog-build-tabs").hasAttribute("hidden")) {
+                    document.getElementById("companydialog-build-tabs").setAttribute("hidden", "");
+                }
+                tabs[3] = true;
+            }
+            else {
+                tabs[0] = true;
+                tabs[1] = true;
+                // if (this.company.world.game.level == parameter.allLevels.length)
+                //      tabs[2] = true;
+            }
+            if (this.company.productid == product_3.Product.productSoldier || this.company.productid == product_3.Product.productHelper) {
+                tabs[1] = false;
+            }
+            if (this.company.productid == product_3.Product.productGate) {
+                tabs[0] = false;
+                tabs[1] = false;
+                tabs[2] = false;
+                tabs[3] = false;
+                tabs[4] = false;
+                tabs[5] = true;
+            }
+            if (this.company.productid == product_3.Product.productTower || this.company.productid == product_3.Product.productCastle) {
+                tabs[0] = false;
+                tabs[1] = false;
+                tabs[2] = true;
+                tabs[3] = false;
+                tabs[4] = this.company.enemy === undefined ? true : false;
+                tabs[5] = false;
+            }
+            if (!tabs[0] && !tabs[1] && !tabs[2] && !tabs[3] && !tabs[4] && ![tabs[5]])
+                tabs[5] = true;
+            var active = -1;
+            if (this.company.isConquered === false && this.company.enemy === undefined) {
+                tabs[0] = false;
+                tabs[1] = false;
+                tabs[2] = false;
+                tabs[3] = false;
+                tabs[4] = false;
+                tabs[5] = false;
+            }
+            for (var x = 0; x < tabs.length; x++) {
+                if (active === -1 && tabs[x])
+                    active = x;
+                var tabname = tabnames[x];
+                if (tabs[x] && document.getElementById(tabname).parentElement.hasAttribute("hidden")) {
+                    document.getElementById(tabname).parentElement.removeAttribute("hidden");
+                }
+                if (!tabs[x] && !document.getElementById(tabname).parentElement.hasAttribute("hidden")) {
+                    document.getElementById(tabname).parentElement.setAttribute("hidden", "");
+                }
+            }
+            if (tabs[$("#companydialog-tabs").tabs('option', 'active')] === false) { //aktver tab is hiding
+                $("#companydialog-tabs").tabs("option", "active", active);
+            }
+            /*
+                    if (this.company.productid === -2) {
+                        if (!document.getElementById("companydialog-production-tab").parentElement.hasAttribute("hidden")) {
+                            document.getElementById("companydialog-production-tab").parentElement.setAttribute("hidden", "");
+                            $("#companydialog-tabs").tabs("option", "active", 2);
+                        }
+                        if (!document.getElementById("companydialog-transport-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-transport-tab").parentElement.setAttribute("hidden", "");
+                        if (!document.getElementById("companydialog-build-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-build-tab").parentElement.setAttribute("hidden", "");
+                        if (document.getElementById("companydialog-conquer-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-conquer-tab").parentElement.removeAttribute("hidden");
+            
+                    } else if (this.company.productid === -1) {
+                        if (!document.getElementById("companydialog-conquer-tab").parentElement.hasAttribute("hidden")) {
+                            document.getElementById("companydialog-conquer-tab").parentElement.setAttribute("hidden", "");
+                            $("#companydialog-tabs").tabs("option", "active", 3);
+                        }
+                        if (!document.getElementById("companydialog-transport-tab").parentElement.hasAttribute("hidden")) {
+                            document.getElementById("companydialog-transport-tab").parentElement.setAttribute("hidden", "");
+                            $("#companydialog-tabs").tabs("option", "active", 3);
+                        }
+                        if (!document.getElementById("companydialog-production-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-production-tab").parentElement.setAttribute("hidden", "");
+                        if (document.getElementById("companydialog-build-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-build-tab").parentElement.removeAttribute("hidden");
+            
+                    } else {
+                        if (document.getElementById("companydialog-production-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-production-tab").parentElement.removeAttribute("hidden");
+                        if (document.getElementById("companydialog-transport-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-transport-tab").parentElement.removeAttribute("hidden");
+                        if (!document.getElementById("companydialog-build-tab").parentElement.hasAttribute("hidden"))
+                            document.getElementById("companydialog-build-tab").parentElement.setAttribute("hidden", "");
+                        if (!document.getElementById("companydialog-conquer-tab").parentElement.hasAttribute("hidden")) {
+                            document.getElementById("companydialog-conquer-tab").parentElement.setAttribute("hidden", "");
+                            $("#companydialog-tabs").tabs("option", "active", 0);
+                        }
+            
+                    }*/
+            if ((_c = (_b = (_a = document.getElementById("companydialog-production-tab")) === null || _a === void 0 ? void 0 : _a.parentElement) === null || _b === void 0 ? void 0 : _b.classList) === null || _c === void 0 ? void 0 : _c.contains("ui-tabs-active"))
+                this.updateProduction();
+            if ((_f = (_e = (_d = document.getElementById("companydialog-transport-tab")) === null || _d === void 0 ? void 0 : _d.parentElement) === null || _e === void 0 ? void 0 : _e.classList) === null || _f === void 0 ? void 0 : _f.contains("ui-tabs-active"))
+                this.updateTransport();
+            if ((_j = (_h = (_g = document.getElementById("companydialog-build-tab")) === null || _g === void 0 ? void 0 : _g.parentElement) === null || _h === void 0 ? void 0 : _h.classList) === null || _j === void 0 ? void 0 : _j.contains("ui-tabs-active"))
+                this.updateBuild();
+            if ((_m = (_l = (_k = document.getElementById("companydialog-conquer-tab")) === null || _k === void 0 ? void 0 : _k.parentElement) === null || _l === void 0 ? void 0 : _l.classList) === null || _m === void 0 ? void 0 : _m.contains("ui-tabs-active"))
+                this.updateSoldiers();
+            if ((_q = (_p = (_o = document.getElementById("companydialog-gate-tab")) === null || _o === void 0 ? void 0 : _o.parentElement) === null || _p === void 0 ? void 0 : _p.classList) === null || _q === void 0 ? void 0 : _q.contains("ui-tabs-active"))
+                this.updateGate();
+        }
+        updateTitle() {
+            var _a;
+            //     var sicon = '';
+            var _this = this;
+            if ($(this.dom).parent().find('.ui-dialog-title').length > 0) {
+                var prod = parameter.allProducts[this.company.productid];
+                var pic = prod === null || prod === void 0 ? void 0 : prod.image;
+                $(this.dom).parent().find('.ui-dialog-title')[0].innerHTML = '<img style="float: right" id="companydialog-icon" src="' + company_3.Company.getImageUrl(pic) +
+                    '"  height="15"></img> ' + ((_a = this.company) === null || _a === void 0 ? void 0 : _a.name) + "(" + this.company.produced + ")";
+            }
+        }
+        updateSoldiers() {
+            var ges = (this.company.soldiersComing ? this.company.soldiersComing : 0) + this.company.soldiercount;
+            var max = this.company.calcMaxSoldiers();
+            var soldiers = "Soldaten im Gebäude " + this.company.soldiercount + (this.company.soldiersComing ? ("+" + this.company.soldiersComing) : "") + (this.company.enemiesComming ? ("-" + this.company.enemiesComming) : "");
+            if (max < 9999999999) {
+                soldiers += "/" + max;
+            }
+            var button = document.getElementById("add-soldier");
+            if (ges >= max && !button.disabled)
+                button.disabled = true;
+            if (ges < max && button.disabled)
+                button.disabled = false;
+            if (this.company.soldiercount === 0 && !this.company.soldiersComing && this.company.world.companies.length >= this.company.world.game.getCurrentLevel().maxPlaces) {
+                button.disabled = true;
+                soldiers += "\r\nDie maximale Anzahl von Gebäuden für dieses Level wurde erreicht.";
+            }
+            if (this.company.enemy !== undefined) {
+                button.disabled = false;
+            }
+            if (document.getElementById("info-soldiers").textContent !== soldiers)
+                document.getElementById("info-soldiers").textContent = soldiers;
+        }
+        /*private savePos() {
+            var _this = this;
+            var o = $(_this.dom).dialog("open").closest('.ui-dialog').offset();
+           // Game.showInfo("Top: " + o.top + " Left : " + o.left);
+            if (o.top < 0 || o.left < 0)
+                return;
+            _this.savePosTop = o.top;
+            _this.savePosLeft = o.left;
+    
+        }*/
+        repairComingIfNeeded() {
+            var _a, _b, _c;
+            var workers = 0;
+            var workersIn = 0;
+            var workersOut = 0;
+            var soldier = 0;
+            var wood = 0;
+            var stone = 0;
+            if (this.company === undefined)
+                return;
+            for (var x = 0; x < this.company.world.companies.length; x++) {
+                var comp = this.company.world.companies[x];
+                if (comp.productid === product_3.Product.productStone || comp.productid == product_3.Product.productWood || comp.productid === product_3.Product.productCastle || comp.productid === product_3.Product.productTower || comp.productid === product_3.Product.productSoldier || comp.productid === product_3.Product.productHelper) {
+                    for (let t = 0; t < comp.transports.length; t++) {
+                        var trans = comp.transports[t];
+                        if (trans.companyTarget === this.company.companyID) {
+                            if (comp.productid === product_3.Product.productStone) {
+                                stone += trans.productCount;
+                            }
+                            if (comp.productid === product_3.Product.productWood) {
+                                wood += trans.productCount;
+                            }
+                            if (comp.productid === product_3.Product.productHelper && ((_a = trans.transferInfo) === null || _a === void 0 ? void 0 : _a.workertype) === "workers") {
+                                workers += trans.productCount;
+                            }
+                            if (comp.productid === product_3.Product.productHelper && ((_b = trans.transferInfo) === null || _b === void 0 ? void 0 : _b.workertype) === "workersIn") {
+                                workersIn += trans.productCount;
+                            }
+                            if (comp.productid === product_3.Product.productHelper && ((_c = trans.transferInfo) === null || _c === void 0 ? void 0 : _c.workertype) === "workersOut") {
+                                workersOut += trans.productCount;
+                            }
+                            if (comp.productid === product_3.Product.productCastle || comp.productid === product_3.Product.productTower || comp.productid === product_3.Product.productSoldier) {
+                                soldier += trans.productCount;
+                            }
+                        }
+                    }
+                }
+            }
+            if (wood === 0)
+                this.company.woodsComming = 0;
+            if (stone = 0)
+                this.company.stonesComming = 0;
+            if (soldier === 0)
+                this.company.soldiersComing = 0;
+            if (workers === 0)
+                this.company.workersComming = 0;
+            if (workersIn === 0)
+                this.company.workersInComming = 0;
+            if (workersOut === 0)
+                this.company.workersOutComming = 0;
+            this.update();
+        }
+        show() {
+            var _this = this;
+            this.repairComingIfNeeded();
+            // if (_this.savePosTop !== undefined) {
+            //   this.savePos();
+            // }
+            this.update();
+            if ($(this.dom).hasClass("ui-dialog-content") &&
+                $(this.dom).dialog("isOpen")) {
+                return;
+            }
+            this.dom.removeAttribute("hidden");
+            $(this.dom).dialog({
+                top: "10px",
+                left: "10px",
+                width: "390px",
+                //top:(_this.savePosTop?(_this.savePosTop+"px"):undefined),
+                //left:(_this.savePosLeft?(_this.savePosLeft+"px"):undefined),
+                draggable: true,
+                // position: { my: "left top", at: "right top", of: $(AirplaneDialog.getInstance().dom) },
+                open: function (event, ui) {
+                    _this.update(true);
+                },
+                beforeClose: function (e) {
+                },
+                close: function (ev, ev2) {
+                    if (_this.hasPaused) {
+                        _this.company.world.game.resume();
+                    }
+                },
+                create: function (e) {
+                    setTimeout(() => {
+                        $(e.target).dialog("widget").find(".ui-dialog-titlebar-close")[0].addEventListener('touchstart', (e) => {
+                            _this.close();
+                        });
+                    }, 200);
+                },
+                resizable: false
+            }).dialog("widget").draggable("option", "containment", "none");
+            //_this.savePos();
+            //    $(this.dom).position({of: $(window)});
+            setTimeout(() => {
+                $(this.dom).closest("div[role='dialog']").css({ top: "40px", left: "10px" });
+                $(this.dom).parent().css({ position: "fixed" });
+                // $(this.dom).dialog('option', 'position', [1,1]);
+            }, 100);
+        }
+        close() {
+            $(this.dom).dialog("close");
+        }
+    }
+    exports.CompanyDialog = CompanyDialog;
+});
+define("game/game", ["require", "exports", "game/world", "game/tools", "game/icons", "game/company", "game/product", "game/diagramdialog", "game/savedialog", "game/tools", "game/companydialog"], function (require, exports, world_2, tools_1, icons_3, company_4, product_4, diagramdialog_1, savedialog_1, tools_2, companydialog_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.test = exports.Game = exports.gameversion = exports.Parameter = exports.Level = void 0;
+    var gameversion = "3.8";
+    exports.gameversion = gameversion;
+    window.onbeforeunload = function () {
+        return "Do you want to exit?";
+    };
+    //@ts-ignore
+    $.notify.defaults({ position: "bottom right", className: "info" });
+    class Level {
+    }
+    exports.Level = Level;
+    class Parameter {
+        constructor() {
+            this.autoCloseDialog = true;
+            this.zoomfactor = 30;
+            this.peopleWithOneClick = 1;
+            this.soldierWithOneClick = 10;
+            this.buildWithDoubleClick = 0;
+            this.soldiersToConquer = 10;
+            this.transportCapacityPerHelper = 1;
+            this.capacityPerHelper = 1;
+            this.enemyReproduction = 120;
+        }
+    }
+    exports.Parameter = Parameter;
+    function createParameter() {
+        window.parameter = new Parameter();
+        globalThis.parameter = new Parameter();
+        //7*6
+        parameter.allProducts = product_4.Product.init([
+            new product_4.Product("Tor", "Tor.png", 1, []),
+            new product_4.Product("Wasser", "Wasser.png", 1, [], undefined, undefined, 30),
+            new product_4.Product("Beeren", "Beeren.png", 1, ["Wasser"], 1, undefined, 30),
+            new product_4.Product("Helfer", "Helfer.png", 1, ["Beeren"], undefined, undefined, 30),
+            new product_4.Product("Soldat", "Soldat.png", 1, ["Bier"]),
+            new product_4.Product("Stein", "Stein.png", 1, ["Beeren"]),
+            new product_4.Product("Holz", "Holz.png", 1, ["Beeren"]),
+            new product_4.Product("Getreide", "Getreide.png", 2, ["Wasser"]),
+            new product_4.Product("Mehl", "Mehl.png", 2, ["Getreide"]),
+            new product_4.Product("Brot", "Brot.png", 2, ["Mehl", "Holz"]),
+            new product_4.Product("Schwein", "Schwein.png", 2, ["Getreide", "Wasser"]),
+            new product_4.Product("Fleisch", "Fleisch.png", 2, ["Schwein"]),
+            new product_4.Product("Burger", "Burger.png", 2, ["Brot", "Fleisch", "Holz"], 2),
+            new product_4.Product("Bier", "Bier.png", 2, ["Getreide", "Wasser"], undefined, 2),
+            new product_4.Product("Gras", "Gras.png", 3, ["Wasser"]),
+            new product_4.Product("Milch", "Milch.png", 3, ["Gras"]),
+            new product_4.Product("Fisch", "Fisch.png", 3, ["Beeren"]),
+            new product_4.Product("Kakao", "Kakao.png", 3, ["Bier", "Fisch"]),
+            new product_4.Product("Kohle", "Kohle.png", 3, ["Fleisch"]),
+            new product_4.Product("Kakaomilch", "Kakaomilch.png", 3, ["Milch", "Kakao"], 3),
+            new product_4.Product("Eisenerz", "Eisenerz.png", 3, ["Brot"]),
+            new product_4.Product("Eisen", "Eisen.png", 3, ["Eisenerz", "Kohle"]),
+            new product_4.Product("Schwert", "Schwet.png", 3, ["Eisen", "Holz"], undefined, 3),
+            new product_4.Product("Brett", "Brett.png", 4, ["Holz"]),
+            new product_4.Product("Werkzeug", "Werkzeug.png", 4, ["Eisen", "Brett"]),
+            new product_4.Product("Tisch", "Tisch.png", 4, ["Brett", "Werkzeug"], 4),
+            new product_4.Product("Wolle", "Wolle.png", 4, ["Gras", "Wasser"]),
+            new product_4.Product("Stoff", "Stoff.png", 4, ["Wolle"]),
+            new product_4.Product("Kleidung", "Kleidung.png", 4, ["Stoff"]),
+            new product_4.Product("Rüstung", "Ruestung.png", 4, ["Kleidung", "Eisen", "Kohle", "Werkzeug"], undefined, 4),
+            new product_4.Product("Käse", "Kaese.png", 5, ["Milch"]),
+            new product_4.Product("Papier", "Papier.png", 5, ["Holz"]),
+            new product_4.Product("Pizza", "Pizza.png", 5, ["Fleisch", "Käse", "Mehl", "Papier"], 5),
+            new product_4.Product("Leder", "Leder.png", 5, ["Fisch"]),
+            new product_4.Product("Stiefel", "Stiefel.png", 5, ["Leder", "Stoff", "Wolle"], undefined, 5),
+            new product_4.Product("Ei", "Ei.png", 6, ["Gras", "Getreide"]),
+            new product_4.Product("Torte", "Torte.png", 6, ["Mehl", "Beeren", "Ei"]),
+            new product_4.Product("Gold", "Gold.png", 6, ["Torte"]),
+            new product_4.Product("Schmuck", "Schmuck.png", 6, ["Gold"]),
+            new product_4.Product("Eierlikör", "Eierlikoer.png", 6, ["Ei", "Milch"]),
+            new product_4.Product("Geschenk", "Geschenk.png", 6, ["Schmuck", "Eierlikör", "Papier"], 6),
+            new product_4.Product("Helm", "Helm.png", 6, ["Eisen", "Kohle", "Wolle", "Schmuck"], undefined, 6),
+            new product_4.Product("Turm", "Turm.png", 6, []),
+            new product_4.Product("Burg", "Burg.png", 6, [])
+            // new Product("Spielzeug",    "",         6,  ["Kleidung","Papier"])
+        ]);
+        parameter.allLevels = [
+            { maxPeople: 40, maxSoldiers: 100, maxPlaces: 10, buildingLimit: 2 },
+            { maxPeople: 600, maxSoldiers: 150, maxPlaces: 50, buildingLimit: 1000 },
+            { maxPeople: 1600, maxSoldiers: 150, maxPlaces: 100, buildingLimit: 2000 },
+            { maxPeople: 2400, maxSoldiers: 150, maxPlaces: 2000, buildingLimit: 3000 },
+            { maxPeople: 5000, maxSoldiers: 150, maxPlaces: 300, buildingLimit: 4000 },
+            { maxPeople: 9999999999, maxSoldiers: 9999999999, maxPlaces: 9999999999, buildingLimit: 9999999999 },
+        ];
+        return parameter;
+    }
+    ;
+    //global.parameter=new Parametetr();
+    class Game {
+        constructor() {
+            this.version = gameversion;
+            this.isAlive = true;
+            this.level = 1;
+            this.people = 0;
+            this.width = 9 * 3;
+            this.height = 29 * 3;
+            this.created = false;
+            this.debugSoldierCreated = 0;
+            this.debugEnemyCreated = 0;
+            this.enemyBases = [];
+            var _this = this;
+            Game.instance = this;
+            this.parameter = createParameter();
+            this.speed = Game.temposcale[6];
+            this.lastUpdate = Date.now();
+            this.date = new Date("Sat Jan 01 2000 00:00:00");
+            companydialog_1.CompanyDialog.instance = undefined;
+            this.updateUIID = setTimeout(() => {
+                _this.nextTick();
+            }, 100);
+            console.log("set intervall" + this.updateUIID);
+            var _this = this;
+            requestAnimationFrame((par) => _this.updateUI(par));
+        }
+        async updateUI(timestamp) {
+            var _a;
+            var _this = this;
+            var h = Date.now() - this.lastRefresh;
+            if (h < 100)
+                await new Promise((res) => setTimeout(res, 100 - h));
+            this.domCanavas.getContext('2d').clearRect(0, 0, 3320, 2710);
+            //if (this.world?.lastRefreshCount === this.world.tickCount) {
+            // requestAnimationFrame((par) => _this.updateUI(par));
+            // return;
+            // }
+            this.lastRefresh = Date.now();
+            (_a = this.world) === null || _a === void 0 ? void 0 : _a.lastRefreshCount = this.world.tickCount;
+            this.updateTitle();
+            var rect = { top: 0, left: 0, width: 100000, height: 100000 };
+            /*  var prect=this.dom.parentNode.getBoundingClientRect()
+             
+              rect.width=prect.width;
+              rect.height=prect.height;
+              var crect=this.dom.getBoundingClientRect();
+              
+              rect.top=45-$(this.dom.parentNode.parentNode).offset().top-crect.y;
+              rect.left=2+$(this.dom.parentNode.parentNode).offset().left-crect.x;
+              if(rect.height>window.innerHeight){
+                rect.height=window.innerHeight;
+                rect.top=$(this.dom.parentNode.parentNode).offset().top-crect.y;
+              }*/
+            //  document.getElementById("mess").style.width=rect.width+"px";
+            //  document.getElementById("mess").style.height=rect.height+"px"
+            //   document.getElementById("mess").style.top=rect.top+"px";
+            //   document.getElementById("mess").style.left=(rect.left)+"px"
+            for (var x = 0; x < this.world.companies.length; x++) {
+                try {
+                    var comp = this.world.companies[x];
+                    comp.updateUI(rect);
+                }
+                catch (err) {
+                    console.error(err);
+                }
+            }
+            for (var x = 0; x < this.world.freeCompanies.length; x++) {
+                try {
+                    var comp = this.world.freeCompanies[x];
+                    comp.updateUI(rect);
+                }
+                catch (err) {
+                    console.error(err);
+                }
+            }
+            if (this.isAlive)
+                requestAnimationFrame((par) => _this.updateUI(par));
+        }
+        getCurrentLevel() {
+            if (this.level >= parameter.allLevels.length)
+                return parameter.allLevels[parameter.allLevels.length - 1];
+            else
+                return parameter.allLevels[this.level - 1];
+        }
+        updateTitle() {
+            try {
+                var m = this.people;
+                if (document.getElementById("idpeople").textContent !== (0, tools_2.getLocalNumber)(m))
+                    document.getElementById("idpeople").textContent = (0, tools_2.getLocalNumber)(m);
+                if (document.getElementById("idlevel").textContent !== this.level.toString())
+                    document.getElementById("idlevel").textContent = this.level.toString();
+                if (document.getElementById("iddebuginfo").textContent !== ("+" + this.debugSoldierCreated + "-" + this.debugEnemyCreated))
+                    document.getElementById("iddebuginfo").textContent = ("+" + this.debugSoldierCreated + "-" + this.debugEnemyCreated);
+            }
+            catch (ex) {
+                console.log("stop game");
+                return;
+            }
+        }
+        static showInfo(info) {
+            //@ts-ignore
+            $.notify(info);
+        }
+        randomEnemy() {
+            var comp = this.world.freeCompanies[(0, tools_1.getRandomInt)(this.world.freeCompanies.length - 1)];
+            //var neighbours=comp.
+            if (Math.floor(comp.x / 4) <= (this.width - 2) && comp.y <= (this.height - 2))
+                return this.randomEnemy();
+            else {
+                var neighbours = comp.findCompaniesAround(12);
+                for (let x = 0; x < neighbours.length; x++) {
+                    var test = neighbours[x];
+                    if (test.enemy !== undefined)
+                        return this.randomEnemy();
+                }
+            }
+            return comp;
+        }
+        createEnemy(num) {
+            var comp = undefined;
+            comp = this.randomEnemy();
+            this.world.freeCompanies.splice(this.world.freeCompanies.indexOf(comp), 1);
+            this.world.companies.push(comp);
+            comp.enemy = num;
+            comp.changeProduct(product_4.Product.productCastle);
+            if (num > 4) //TO LARGE
+                num = 4;
+            comp.soldiercount = num * 350;
+            this.debugEnemyCreated += comp.soldiercount;
+            comp.enemyBaseSoldierCount = (num * 250);
+            this.world.game.enemyBases.push(comp.companyID);
+        }
+        checkNextLevel() {
+            var prods = this.world.getProductsToBuildForLevel(this.level, true);
+            if (prods.length === 0) {
+                var gate = this.world.findCompanyThatProduces(product_4.Product.productGate)[0];
+                var gatefull = true;
+                gate.rawmaterials.forEach(val => {
+                    if (val <= gate.workersIn) {
+                        gatefull = false;
+                    }
+                });
+                if (!gatefull || gate.rawmaterials.length === 0)
+                    return;
+                this.level++;
+                if (this.level === parameter.allLevels.length) {
+                    for (var x = 1; x <= 7; x++) {
+                        this.createEnemy(x);
+                    }
+                    /*   if (parameter.allProducts[Product.productGate].consume.length > 0) {
+                         parameter.allProducts[Product.productGate].consume = [];
+                         var gate = this.world.findCompanyThatProduces(Product.productGate)[0];
+                         gate.rawmaterials = [];
+                         for (var l = 4; l < 6; l++) {
+                           var prods = this.world.getProductsToBuildForLevel(l);
+                           var p = getRandomInt(prods.length);
+                           gate.rawmaterials.push(0);
+                           parameter.allProducts[prods[p].id].consume;
+               
+                         }
+                         gate.workersIn += 20;*/
+                }
+                if (this.level <= parameter.allLevels.length) {
+                    var prodHelper = parameter.allProducts[product_4.Product.productHelper];
+                    var productSoldier = parameter.allProducts[product_4.Product.productSoldier];
+                    for (var x = 0; x < parameter.allProducts.length; x++) {
+                        var prod = parameter.allProducts[x];
+                        if (prod.forpeoplelevel === this.level && prodHelper.consume.indexOf(prod.id) === -1) {
+                            prodHelper.consume.push(prod.id);
+                            this.world.findCompanyThatProduces(product_4.Product.productHelper).forEach(p => p.rawmaterials.push(0));
+                        }
+                        if (prod.forsoldierlevel === this.level && productSoldier.consume.indexOf(prod.id) === -1) {
+                            productSoldier.consume.push(prod.id);
+                            this.world.findCompanyThatProduces(product_4.Product.productSoldier).forEach(p => p.rawmaterials.push(0));
+                        }
+                    }
+                }
+                this.setProductsInGate();
+                alert("Glückwunsch, Du hast Level " + this.level + " erreicht. Weitere Gebäude wurden freigeschaltet.");
+            }
+            //this.updateTitle();
+        }
+        setProductsInGate() {
+            var gate = this.world.findCompanyThatProduces(product_4.Product.productGate)[0];
+            var helper = this.world.findCompanyThatProduces(product_4.Product.productHelper)[0];
+            var soldier = this.world.findCompanyThatProduces(product_4.Product.productSoldier)[0];
+            var pgate = parameter.allProducts[product_4.Product.productGate];
+            var phelper = parameter.allProducts[product_4.Product.productHelper];
+            var psoldier = parameter.allProducts[product_4.Product.productSoldier];
+            if (this.level >= parameter.allLevels.length) {
+                pgate.consume = [];
+                var gate = this.world.findCompanyThatProduces(product_4.Product.productGate)[0];
+                gate.rawmaterials = [];
+                for (var l = 4; l <= 6; l++) {
+                    var prods = this.world.getProductsToBuildForLevel(l, false, true);
+                    var p = (0, tools_1.getRandomInt)(prods.length);
+                    gate.rawmaterials.push(0);
+                    pgate.consume.push(prods[p].id);
+                }
+                gate.workersIn = this.level * 10;
+                if (gate.workersIn > 150)
+                    gate.workersIn = 150;
+            }
+            else {
+                gate.rawmaterials = [];
+                pgate.consume = [];
+                gate.workersIn = this.world.getProductsToBuildForLevel(this.level + 1).length * 10 - 1;
+                parameter.allProducts.forEach(p => {
+                    if ((this.level) === p.forpeoplelevel) {
+                        pgate.consume.push(p.id);
+                        gate.rawmaterials.push(this.world.getProductsToBuildForLevel(this.level + 1).length * 5);
+                    }
+                    if ((this.level) === p.forsoldierlevel) {
+                        pgate.consume.push(p.id);
+                        gate.rawmaterials.push(0);
+                    }
+                });
+            }
+            if (this.level <= parameter.allLevels.length) {
+                parameter.allProducts.forEach(p => {
+                    if ((this.level) === p.forpeoplelevel) {
+                        var idx = phelper.consume.indexOf(p.id);
+                        helper.rawmaterials[idx] = this.world.getProductsToBuildForLevel(this.level).length * 5;
+                    }
+                    if ((this.level) === p.forsoldierlevel) {
+                        var idx = psoldier.consume.indexOf(p.id);
+                        soldier.rawmaterials[idx] = this.world.getProductsToBuildForLevel(this.level).length * 10;
+                    }
+                });
+            }
+        }
+        nextTick() {
+            if (this.created === false)
+                return;
+            var _this = this;
+            this.checkNextLevel();
+            this.world.nextTick();
+            this.updateUIID = setTimeout(() => {
+                _this.nextTick();
+            }, 100);
+            companydialog_1.CompanyDialog.getInstance().update();
+            //this.updateUI(undefined);
+            //AirplaneDialog.getInstance().update();
+        }
+        updateSize() {
+            var mapWidth = this.width * parameter.zoomfactor * 4;
+            var mapHeight = this.height * parameter.zoomfactor;
+            this.domWorld.style.width = (mapWidth + 80) + "px";
+            this.domWorld.style.height = (mapHeight + 100) + "px";
+            this.domWorld.parentNode.style.width = (mapWidth + 80) + "px";
+            this.domWorld.parentNode.style.height = (mapHeight + 100) + "px";
+        }
+        //never call this outside the timer - then would be 2 updates
+        /*private nevercallthisfunction() {
+          //var t=new Date().getTime();
+          var intervall = 1000 / this.speed;
+          var _this = this;
+          var diff = 1000 * 60 * 60;//update always at full clock//((Date.now() - this.lastUpdate)) * 60 * 60 * this.speed;
+          this.date = new Date(this.date.getTime() + diff);
+       
+          if (this.world)
+            this.world.nextTick();
+          this.lastUpdate = Date.now();
+          this.timer = setTimeout(() => {
+            _this.nevercallthisfunction();
+       
+          }, intervall);
+       
+        }
+      */
+        newGame() {
+            this.world = new world_2.World();
+            this.world.game = this;
+            this.world.newGame();
+        }
+        getMoney() {
+            return this._money;
+        }
+        changeMoney(change, why, city = undefined) {
+            this._money += change;
+            //  console.log(change+" "+why);
+        }
+        setHeaderColor(color) {
+            if (this.domHeader.mycolor !== color) {
+                this.domHeader.mycolor = color;
+                this.domHeader.style.color = color;
+            }
+        }
+        render(dom) {
+            var _this = this;
+            dom.style.backgroundImage = "url(" + company_4.Company.getImageUrl("Wiese.png") + ")";
+            dom.style.paddingLeft = "10px";
+            dom.innerHTML = "";
+            dom.style.backgroundColor = "lightblue";
+            this.dom = dom;
+            //<div style="height:15px;position:fixed;z-index:10000;background-color:lightblue;">
+            var sdomHeader = `
+          <div style="height:15px;position:fixed;z-index:10000;">
+            Traffics2 ` + gameversion + ` 
+            <span id="gamedate"></span> &nbsp;&nbsp;&nbsp;&nbsp;  
+            <span id="idpeople"></span>` + "👤" + `
+            Level <span id="idlevel"></span>` + `
+            <span id="iddebuginfo"></span>
+            <button id="save-game"  class="mybutton">` + icons_3.Icons.save + `</button> 
+            <!--button id="debug-game"  class="mybutton">` + icons_3.Icons.debug + `</button--> 
+            <button id="show-diagram"  class="mybutton">` + icons_3.Icons.diagram + `</button> 
+          </div>  
+        `;
+            this.domHeader = document.createRange().createContextualFragment(sdomHeader).children[0];
+            var sdomWorld = `
+          <div id="world" style="position:absolute;top:20px;">
+          </div>  
+        `;
+            this.domCanavas = document.createRange().createContextualFragment('<canvas id="stage"  style="position:absolute;" width="3320" height="2710">').children[0];
+            this.dom.appendChild(this.domCanavas);
+            this.domWorld = document.createRange().createContextualFragment(sdomWorld).children[0];
+            this.dom.appendChild(this.domHeader);
+            // var headerPlaceeholder = <any>document.createRange().createContextualFragment('<div style="height:15px"></div>').children[0]
+            // this.dom.appendChild(headerPlaceeholder);
+            this.dom.appendChild(this.domWorld);
+            //var mess= <any>document.createRange().createContextualFragment('<div id="mess" style="position:absolute;top:100px;left:100px;height:100px;width:100px;border: 1px dotted blue;">').children[0];
+            //this.dom.appendChild(mess);
+            this.world.render(this.domWorld);
+            this.updateSize();
+            setTimeout(() => {
+                _this.bindActions();
+            }, 500);
+        }
+        bindActions() {
+            var _this = this;
+            document.getElementById("gamedate").addEventListener("mousedown", () => {
+                console.log("down");
+            });
+            document.getElementById("save-game").addEventListener("click", () => {
+                savedialog_1.SaveDialog.getInstance().game = _this;
+                savedialog_1.SaveDialog.getInstance().show();
+            });
+            /*  document.getElementById("debug-game").addEventListener("click", () => {
+                // _this.world.showMoveIcon();
+                //Product.randomUpdateConsumtion(_this.world,9,18,3,false);
+               Product.randomUpdateConsumtion(this.world);
+               });*/
+            document.getElementById("show-diagram").addEventListener("click", () => {
+                diagramdialog_1.DiagramDialog.getInstance().world = this.world;
+                diagramdialog_1.DiagramDialog.getInstance().show();
+            });
+            /*document.getElementById("game-slower").addEventListener("click", () => {
+              if (_this.speed === Game.temposcale[0]) {
+                _this.pause();
+                console.log("pause");
+                return;
+              }
+              var pos = Game.temposcale.indexOf(_this.speed);
+              pos--;
+              if (pos == -1)
+                return;
+              _this.speed = Game.temposcale[pos];
+              _this.pause();
+              _this.resume();
+            });
+            document.getElementById("game-faster").addEventListener("click", () => {
+              if (_this.isPaused()) {
+                _this.resume();
+                return;
+              }
+              var pos = Game.temposcale.indexOf(_this.speed);
+              pos++;
+              if (pos >= Game.temposcale.length) {
+                console.log("max");
+                return;
+              }
+              _this.speed = Game.temposcale[pos];
+              _this.pause();
+              _this.resume();
+            });*/
+        }
+        resume() {
+            //  if (this.timer === 0)
+            // this.nevercallthisfunction();
+        }
+        isPaused() {
+            return this.timer === 0;
+        }
+        pause() {
+            clearTimeout(this.timer);
+            this.timer = 0;
+        }
+        destroy() {
+            this.isAlive = false;
+            this.world.destroy();
+            clearTimeout(this.timer);
+            clearTimeout(this.updateUIID);
+            console.log("clear intervall" + this.updateUIID);
+        }
+        close() {
+            ///clearInterval(this.updateUIID);
+            //clearTimeout(this.timer);
+        }
+    }
+    exports.Game = Game;
+    Game.temposcale = [0.01, 0.5, 1, 2, 4, 8, 16, 32, 64, 128, 256];
+    function test() {
+    }
+    exports.test = test;
+});
+define("game/world", ["require", "exports", "game/company", "game/product", "game/tools", "game/transport"], function (require, exports, company_5, product_5, tools_3, transport_3) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.World = void 0;
+    class World {
+        constructor() {
+            this.type = "World";
+            this.lastUpdate = undefined;
+            this.tickCount = 0;
+            this.lastRefreshCount = 0;
+            var _this = this;
+            // console.log("CreateIntervall"+ this._intervall );
+        }
+        updateCompanyCache() {
+            this.companyCache = {};
+            for (let x = 0; x < this.companies.length; x++) {
+                let comp = this.companies[x];
+                this.companyCache[comp.companyID] = comp;
+            }
+            for (let x = 0; x < this.freeCompanies.length; x++) {
+                let comp = this.freeCompanies[x];
+                this.companyCache[comp.companyID] = comp;
+            }
+        }
+        getElementOffset(el) {
+            let top = 0;
+            let left = 0;
+            let element = el;
+            // Loop through the DOM tree
+            // and add it's parent's offset to get page offset
+            do {
+                top += element.offsetTop || 0;
+                left += element.offsetLeft || 0;
+                element = element.offsetParent;
+            } while (element);
+            return {
+                top,
+                left,
+            };
+        }
+        oncontextmenu(evt) {
+            evt.preventDefault();
+            /*
+                     if(this.selection){
+                         var pt=this.getElementOffset(evt.currentTarget);
+                        (<Airplane>this.selection).flyTo(evt.x-pt.left-8,evt.y-pt.top-10);
+                        console.log(evt.offsetX);
+                    }*/
+        }
+        onclick(th) {
+            var _a;
+            console.log("close");
+            (_a = this.selection) === null || _a === void 0 ? void 0 : _a.unselect();
+        }
+        updateUI() {
+        }
+        nextTick() {
+            this.tickCount++;
+            this.game.setHeaderColor("black");
+            for (var x = 0; x < this.companies.length; x++) {
+                this.companies[x].nextTick();
+                //            this.companies[x].update();
+            }
+            /* for (var x = 0; x < this.transports.length; x++) {
+                 this.transports[x].nextTick();
+     
+             }      */
+        }
+        getProductsToBuildForLevel(level, onlyIfNotAlreadyBuildt = false, withoutTowerOrCastle = false) {
+            var ret = [];
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                var prod = parameter.allProducts[x];
+                if (withoutTowerOrCastle && (prod.id == product_5.Product.productTower || prod.id == product_5.Product.productCastle))
+                    continue;
+                if ((level) === prod.level) {
+                    if (onlyIfNotAlreadyBuildt === false || this.findCompanyThatProduces(prod.id).length === 0) {
+                        ret.push(prod);
+                    }
+                }
+            }
+            return ret;
+        }
+        newGame() {
+            //createCities(this, 15);
+            this.companies = [];
+            this.freeCompanies = [];
+            var all = [];
+            //mix
+            /*for (var x = 0; x < (this.game.width * this.game.height * 5); x++) {
+                var rand1 = getRandomInt(this.game.width * this.game.height-(this.game.width * this.game.height/2));
+                var rand2 = getRandomInt(this.game.width * this.game.height-(this.game.width * this.game.height/2));
+                var temp = all[rand2];
+                all[rand2] = all[rand1];
+                all[rand1] = temp;
+            }*/
+            var z = 0;
+            var top = [];
+            for (var x = 1; x <= this.game.width; x++) {
+                for (var y = 1; y <= this.game.height; y++) {
+                    var comp;
+                    if (y % 2 === 1)
+                        comp = new company_5.Company(this, z, -2, 0, 0, 0, x * 4 - 1, y);
+                    else
+                        comp = new company_5.Company(this, z, -2, 0, 0, 0, x * 4 + 1, y);
+                    this.freeCompanies.push(comp);
+                    if (x < 5 && y < 16) {
+                        top.push(comp);
+                    }
+                    comp.isConquered = !(comp.x > 42 || comp.y > 34);
+                    z++;
+                }
+            }
+            parameter.allProducts.forEach(p => {
+                if (p.level === 1) {
+                    var r = (0, tools_3.getRandomInt)(top.length - 1);
+                    var found = top[r];
+                    this.freeCompanies.splice(this.freeCompanies.indexOf(found), 1);
+                    top.splice(top.indexOf(found), 1);
+                    this.companies.push(found);
+                    found.changeProduct(p.id);
+                }
+            });
+            var id = 1;
+            for (var x = 0; x < this.companies.length; x++) {
+                this.companies[x].companyID = id++;
+            }
+            for (var x = 0; x < this.freeCompanies.length; x++) {
+                this.freeCompanies[x].companyID = id++;
+            }
+            /* this.companies.push(new Company(this,0,0,1,[1],1,3,1));
+             this.companies.push(new Company(this,1,1,1,[1],1,7,1));
+             this.companies.push(new Company(this,2,2,1,[1],1,11,1));
+     
+             this.companies.push(new Company(this,3,3,1,[1],1,5,2));
+             this.companies.push(new Company(this,4, 4,1,[1],1,9,2));
+             this.companies.push(new Company(this,5,5,1,[1],1,13,2));
+             
+             this.companies.push(new Company(this,6,6,1,[1],1,3,3));
+             this.companies.push(new Company(this,7,7,1,[1],1,7,3));
+             this.companies.push(new Company(this,8,8,1,[1],1,11,3));
+     
+             this.companies.push(new Company(this,9,9,1,[1],1,5,4));
+             this.companies.push(new Company(this,10,10,1,[1],1,9,4));
+             this.companies.push(new Company(this,11,11,1,[1],1,13,4));*/
+            /* for (var i = 1; i < this.companies.length; i++) {
+                 if (this.companies[i].productid === -1)
+                     continue;
+                 var prod = parameter.allProducts[this.companies[i].productid];
+                 var compstarget = this.findCompanyThatConsumes(this.companies[i].productid);
+                 for (var x = 0; x < compstarget.length; x++) {
+                     var trans = new Transport(this.companies[i]);
+                     trans.active = true;
+                     trans.worker=1;
+                     trans.companyTarget = compstarget[x]?.companyID;
+                     //trans.productCount=5;
+                     this.companies[i].transports.push(trans);
+                     //  trans.moveTo(trans.companyTarget);
+                 }
+             }*/
+            this.updateCompanyCache();
+            var helper = this.findCompanyThatProduces(product_5.Product.productHelper)[0];
+            var soldier = this.findCompanyThatProduces(product_5.Product.productSoldier)[0];
+            helper.workers = 1;
+            helper.rawmaterials[0] = 10;
+            // helper.produced = 10;
+            this.game.people = 4; //2xBautransport 1Soldier 1Helper
+            soldier.workers = 1;
+            //soldier.rawmaterials[0]=this.getProductsToBuildForLevel(2).length*10;;
+            //Bautransport
+            var holz = this.findCompanyThatProduces(product_5.Product.productWood)[0];
+            var trans = new transport_3.Transport(holz);
+            trans.active = true;
+            trans.workers = 1;
+            trans.autodeliver = true;
+            holz.transports.push(trans);
+            var stein = this.findCompanyThatProduces(product_5.Product.productStone)[0];
+            var trans2 = new transport_3.Transport(stein);
+            trans2.active = true;
+            trans2.workers = 1;
+            trans2.autodeliver = true;
+            stein.transports.push(trans2);
+            this.game.setProductsInGate();
+            //var gate=this.findCompanyThatProduces(Product.productGate)[0];
+            this.game.created = true;
+        }
+        findSoldier(attackBuilding = undefined) {
+            var max = 0;
+            var maxc = undefined;
+            if (attackBuilding) {
+                var comps = attackBuilding.findCompaniesAround(1, attackBuilding.productid === product_5.Product.productCastle ? 5 : 3, true);
+                for (var x = 0; x < comps.length; x++) {
+                    if (comps[x].enemy === undefined && (comps[x].productid === product_5.Product.productCastle || comps[x].productid === product_5.Product.productTower))
+                        if (comps[x].soldiercount > max) {
+                            maxc = comps[x];
+                            max = comps[x].soldiercount;
+                        }
+                }
+            }
+            else {
+                var comps = this.findCompanyThatProduces(product_5.Product.productSoldier, false);
+                for (var x = 0; x < comps.length; x++) {
+                    if (comps[x].produced > max) {
+                        maxc = comps[x];
+                        max = comps[x].produced;
+                    }
+                }
+            }
+            return maxc;
+        }
+        findCompanyThatProducesByName(prodname) {
+            var ret = [];
+            var prodid = -1;
+            parameter.allProducts.forEach(p => { if (p.name === prodname)
+                prodid = p.id; });
+            if (prodid === -1)
+                return [];
+            return this.findCompanyThatProduces(prodid);
+        }
+        findCompanyThatProduces(prodid, withBuildingInProgress = false, withEnemy = false) {
+            var ret = [];
+            for (var x = 0; x < this.companies.length; x++) {
+                if (this.companies[x].productid === prodid || (withBuildingInProgress === true && this.companies[x].buildingInProgress === prodid)) {
+                    if (this.companies[x].enemy === undefined || withEnemy)
+                        ret.push(this.companies[x]);
+                }
+            }
+            return ret;
+        }
+        findCompanyThatConsumes(prodid) {
+            var _a;
+            var ret = [];
+            for (var x = 0; x < this.companies.length; x++) {
+                var prod = parameter.allProducts[this.companies[x].productid];
+                if (((_a = prod === null || prod === void 0 ? void 0 : prod.consume) === null || _a === void 0 ? void 0 : _a.indexOf(prodid)) > -1)
+                    ret.push(this.companies[x]);
+            }
+            return ret;
+        }
+        findUsedCompanies() {
+            var ret = [];
+            for (var x = 0; x < this.companies.length; x++) {
+                var prod = this.companies[x].productid;
+                if (prod > -2)
+                    ret.push(this.companies[x]);
+            }
+            return ret;
+        }
+        render(dom) {
+            var _this = this;
+            this.dom = dom;
+            for (var x = 0; x < this.companies.length; x++) {
+                this.companies[x].render();
+                //            this.companies[x].update();
+            }
+            for (var x = 0; x < this.freeCompanies.length; x++) {
+                this.freeCompanies[x].render();
+                //            this.companies[x].update();
+            }
+        }
+        destroy() {
+        }
+    }
+    exports.World = World;
+});
+define("game/company", ["require", "exports", "game/tools", "game/companydialog", "game/transport", "game/product", "game/game"], function (require, exports, tools_4, companydialog_2, transport_4, product_6, game_3) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.test = exports.Company = void 0;
+    class Company {
+        // static workerInCompany=20;
+        constructor(world = undefined, companyID = undefined, productid = undefined, workers = undefined, workersIn = undefined, workersOut = undefined, x = undefined, y = undefined) {
+            this.type = "Company";
+            this.produced = 0;
+            this.inproduction = 0;
+            this.speed = 10;
+            this.soldiercount = 0;
+            this.rawmaterials = [];
+            this.transports = [];
+            this.companyID = companyID;
+            this.productid = productid;
+            this.workers = workers;
+            this.workersIn = workersIn;
+            this.workersOut = workersOut;
+            this.x = x;
+            this.y = y;
+            this.world = world;
+            workersIn = 0;
+            if (productid !== undefined) {
+                this.changeProduct(productid);
+            }
+        }
+        changeProduct(prodid) {
+            this.productid = prodid;
+            var prod = parameter.allProducts[this.productid];
+            var con = [];
+            if (prod) {
+                if (this.domIcon) {
+                    var url = prod.image;
+                    if (this.enemy !== undefined)
+                        url = "Burg" + (this.enemy + 1) + ".png";
+                    this.domIcon.src = Company.getImageUrl(url);
+                }
+                for (var x = 0; x < prod.consume.length; x++) {
+                    con.push(0);
+                }
+                if (prod.speed)
+                    this.speed = prod.speed;
+            }
+            this.workers = 0;
+            this.workersIn = 0;
+            this.workersOut = 0;
+            this.rawmaterials = con;
+            this.updateName();
+        }
+        updateFreeOrNotFree() {
+            let posf = this.world.freeCompanies.indexOf(this);
+            let posc = this.world.companies.indexOf(this);
+            if (this.productid != -2 && posf > -1) {
+                this.world.freeCompanies.splice(posf, 1);
+            }
+            if (this.productid != -2 && posc == -1) {
+                this.world.companies.push(this);
+            }
+            if (this.productid == -2 && posc > -1) {
+                this.world.companies.splice(posc, 1);
+            }
+            if (this.productid == -2 && posf == -1) {
+                this.world.freeCompanies.push(this);
+            }
+        }
+        updateName() {
+            var prod = parameter.allProducts[this.productid];
+            var con = [];
+            if (prod) {
+                for (var x = 0; x < prod.consume.length; x++) {
+                    con.push(0);
+                }
+                this.rawmaterials = con;
+                var counter = 0;
+                for (var t = 0; t < 10000; t++) {
+                    var test = t === 0 ? prod.name : (prod.name + t);
+                    var found = false;
+                    for (var x = 0; x < this.world.companies.length; x++) {
+                        if (this.world.companies[x].name === test)
+                            found = true;
+                    }
+                    if (!found) {
+                        this.name = test;
+                        break;
+                    }
+                }
+            }
+            else {
+                this.name = "";
+            }
+        }
+        nextTick() {
+            this.update();
+            for (var x = 0; x < this.transports.length; x++) {
+                this.transports[x].nextTick();
+            }
+            if (this.workers === 0)
+                return;
+            //if (this.world.tickCount % 10 === 0) {
+            var max = this.workersOut * parameter.capacityPerHelper + parameter.capacityPerHelper;
+            this.inproduction = this.inproduction + this.workers * this.speed;
+            var prodnow = Math.floor(this.inproduction / 1000);
+            prodnow = Math.min(prodnow, max - this.produced, ...this.rawmaterials);
+            if (this.productid === product_6.Product.productHelper && this.world.game.people >= this.world.game.getCurrentLevel().maxPeople)
+                prodnow = 0;
+            var allsodiers = 0;
+            this.world.findCompanyThatProduces(product_6.Product.productSoldier).forEach(s => allsodiers += s.produced);
+            if (this.productid === product_6.Product.productSoldier && allsodiers >= this.world.game.getCurrentLevel().maxSoldiers)
+                prodnow = 0;
+            if (prodnow > 0) {
+                this.inproduction = this.inproduction % 1000;
+                this.produced = this.produced + prodnow;
+                for (var x = 0; x < this.rawmaterials.length; x++) {
+                    this.rawmaterials[x] = this.rawmaterials[x] - prodnow;
+                }
+                if (this.productid === product_6.Product.productHelper) {
+                    this.world.game.people = this.world.game.people + prodnow;
+                }
+                if (this.productid === product_6.Product.productSoldier) {
+                    this.world.game.debugSoldierCreated += prodnow;
+                }
+            }
+            //}
+            this.update();
+        }
+        findEnemyBase(num) {
+            for (let x = 0; x < this.world.companies.length; x++) {
+                let comp = this.world.companies[x];
+                if (comp.enemy === num && comp.enemyBaseSoldierCount !== undefined) {
+                    return comp;
+                }
+            }
+            return undefined;
+        }
+        findEnemyBuildings(num) {
+            var ret = [];
+            for (let x = 0; x < this.world.companies.length; x++) {
+                let comp = this.world.companies[x];
+                if (comp.enemy === num) {
+                    ret.push(comp);
+                }
+            }
+            return ret;
+        }
+        enemyAttackCompany(company) {
+            // if (company.tickLastInvader !== undefined && this.world.tickCount - company.tickLastInvader < (5 * 60))
+            //   return;
+            var _this = this;
+            var mainBase = this.getEnemyBase(); //this.world.companyCache[this.world.game.enemyBases[this.enemy]];
+            var max = mainBase.soldiercount - 200;
+            if (max < 0)
+                max = 0;
+            max = Math.min(100, max, (0, tools_4.getRandomInt)(5) === 1 ? this.soldiercount : (0, tools_4.getRandomInt)(this.soldiercount)); //20% with max
+            // var max = Math.min(100, company.soldiercount);
+            if (max === 0)
+                max = 1;
+            this.soldiercount -= max;
+            var run = (trans, delay, count) => {
+                setTimeout(() => { trans.productCount = count; trans.active = true; }, delay);
+            };
+            if (max <= 0)
+                return;
+            game_3.Game.showInfo("Angriff " + company.name);
+            for (var x = 0; x < max; x++) {
+                var trans = new transport_4.Transport(this);
+                trans.companyTarget = company.companyID;
+                trans.workers = 1;
+                var count = 1;
+                //_this.soldiersComing += count;
+                trans.transferInfo = { productid: product_6.Product.productSoldier };
+                trans.render();
+                run(trans, x * 100, count);
+                this.transports.push(trans);
+            }
+            if (company.enemiesComming === undefined)
+                company.enemiesComming = 0;
+            company.enemiesComming += max;
+            company.tickLastInvader = this.world.tickCount; // - this.company.tickLastInvader) < 5
+        }
+        getEnemyBase() {
+            if (this.enemy === undefined)
+                return undefined;
+            var base = this.world.companyCache[this.world.game.enemyBases[this.enemy - 1]];
+            return base;
+        }
+        enemyAttackCompanyOld(company) {
+            if (company.tickLastInvader !== undefined && this.world.tickCount - company.tickLastInvader < (5 * 60))
+                return;
+            var _this = this;
+            game_3.Game.showInfo("Angriff " + company.name);
+            var max = Math.min(100, company.soldiercount);
+            if (max === 0)
+                max = 1;
+            this.soldiercount -= max;
+            var run = (trans, delay, count) => {
+                setTimeout(() => { trans.productCount = count; trans.active = true; }, delay);
+            };
+            for (var x = 0; x < max; x++) {
+                var trans = new transport_4.Transport(this);
+                trans.companyTarget = company.companyID;
+                trans.workers = 1;
+                var count = 1;
+                //_this.soldiersComing += count;
+                trans.transferInfo = { productid: product_6.Product.productSoldier };
+                trans.render();
+                run(trans, x * 100, count);
+                this.transports.push(trans);
+            }
+            company.tickLastInvader = this.world.tickCount; // - this.company.tickLastInvader) < 5
+        }
+        enemyExpand() {
+            var soldiercount = this.soldiercount - this.enemyBaseSoldierCount;
+            //  if (soldiercount > 100) {
+            var radius = 2;
+            if (this.productid === product_6.Product.productCastle) {
+                radius = 3;
+            }
+            if (this.enemy === undefined)
+                return;
+            let enemyBuildings = this.findEnemyBuildings(this.enemy);
+            var outPosts = [];
+            for (let i = 0; i < enemyBuildings.length; i++) {
+                let enemyBuilding = enemyBuildings[i];
+                let comps = enemyBuilding.findCompaniesAround(radius, radius, false, true);
+                comps.forEach(c => { if (c.productid == -2)
+                    outPosts.push(c); });
+            }
+            var rating1 = [];
+            var rating2 = [];
+            var rating3 = [];
+            var rating4 = [];
+            var rating5 = [];
+            for (let x = 0; x < outPosts.length; x++) {
+                let outPost = outPosts[x];
+                let conqueredLand = false;
+                let besideMe = false;
+                let besideEnemy = false;
+                let comps = outPost.findCompaniesAround(1, radius, true, false);
+                comps.forEach(c => { if (c.isConquered)
+                    conqueredLand = true; }); //Angreifer in Sicht
+                let comps2 = outPost.findCompaniesAround(1, radius, true, false);
+                if (comps2.length > 1)
+                    besideMe = true; //nicht in Nachbarschaft bauen
+                //comps = outPost.findCompaniesAround(1, radius , true, false);
+                comps.forEach(c => { if (c.enemy !== this.enemy && this.enemy !== undefined)
+                    besideEnemy = true; }); //nicht bei anderen Feinden bauen
+                if (conqueredLand && !besideEnemy && !besideMe)
+                    rating1.push(outPost);
+                else if (!besideEnemy && !besideMe)
+                    rating2.push(outPost);
+                else if (besideEnemy && !besideMe)
+                    rating3.push(outPost);
+                else if (besideMe)
+                    rating4.push(outPost);
+                else
+                    rating5.push(outPost);
+            }
+            var currentRating = rating1;
+            if (currentRating.length === 0)
+                currentRating = rating2;
+            if (currentRating.length === 0)
+                currentRating = rating3;
+            if (currentRating.length === 0)
+                currentRating = rating4;
+            if (currentRating.length > 0) {
+                let comp = currentRating[(0, tools_4.getRandomInt)(currentRating.length)];
+                //        comp.companyID = this.world.companies.length - 1;
+                comp.enemy = this.enemy;
+                comp.changeProduct(product_6.Product.productCastle);
+                comp.soldiercount = 100;
+                comp.updateFreeOrNotFree();
+                //comp.enemyBaseSoldierCount=100;
+                this.soldiercount -= 100;
+                //build new Building here
+            }
+        }
+        enemyAttack() {
+            //  if (soldiercount > 100) {
+            var radius = 2;
+            if (this.productid === product_6.Product.productCastle) {
+                radius = 3;
+            }
+            if (this.enemy === undefined)
+                return;
+            var angriff = [];
+            var comps = this.findCompaniesAround(1, radius + 2, true, false);
+            //no attack 60seconds at the same building
+            comps.forEach(c => {
+                if (c.enemy === undefined && c.productid > -1) {
+                    angriff.push(c);
+                }
+            });
+            if (angriff.length > 0) {
+                let comp = angriff[(0, tools_4.getRandomInt)(angriff.length)];
+                this.enemyAttackCompany(comp);
+                return;
+            }
+        }
+        enemyAttackOld() {
+            var soldiercount = this.soldiercount - this.enemyBaseSoldierCount;
+            //  if (soldiercount > 100) {
+            var radius = 2;
+            if (this.productid === product_6.Product.productCastle) {
+                radius = 3;
+            }
+            if (this.enemy === undefined)
+                return;
+            let enemyBuildings = this.findEnemyBuildings(this.enemy);
+            var angriff = [];
+            for (let i = 0; i < enemyBuildings.length; i++) {
+                let enemyBuilding = enemyBuildings[i];
+                var comps = enemyBuilding.findCompaniesAround(1, radius + 2, true, false);
+                //no attack 60seconds at the same building
+                comps.forEach(c => {
+                    if (c.enemy === undefined && c.productid > -1) {
+                        angriff.push(c);
+                    }
+                });
+            }
+            if (angriff.length > 0) {
+                let comp = angriff[(0, tools_4.getRandomInt)(angriff.length)];
+                this.enemyAttackCompany(comp);
+                return;
+            }
+        }
+        updateUI(rect) {
+            var fact = parameter.zoomfactor;
+            const context = this.world.game.domCanavas.getContext('2d');
+            if (!this.isConquered) {
+                let y = ((this.y - 1) * fact);
+                let x = (this.x - 3) * fact + fact - 25;
+                context.fillStyle = '#f00';
+                context.fillStyle = "rgba(	4,75,148, 0.2)";
+                context.beginPath();
+                context.moveTo(x + 1 * fact, y + 0);
+                context.lineTo(x + 2 * fact, y + 0);
+                context.lineTo(x + 3 * fact, y + 1 * fact);
+                context.lineTo(x + 2 * fact, y + 2 * fact);
+                context.lineTo(x + 1 * fact, y + 2 * fact);
+                context.lineTo(x + 0, y + 1 * fact);
+                context.closePath();
+                context.fill();
+                return;
+            }
+            if (this.dom) {
+                //border
+                let y = ((this.y - 1) * fact);
+                let x = (this.x - 3) * fact + fact - 25;
+                context.strokeStyle = 'white';
+                context.beginPath();
+                context.moveTo(x + 1 * fact, y + 0);
+                context.lineTo(x + 2 * fact, y + 0);
+                context.lineTo(x + 3 * fact, y + 1 * fact);
+                context.lineTo(x + 2 * fact, y + 2 * fact);
+                context.lineTo(x + 1 * fact, y + 2 * fact);
+                context.lineTo(x + 0, y + 1 * fact);
+                context.closePath();
+                context.stroke();
+                //produced count
+                var s = this.produced === 0 ? "" : this.produced.toString();
+                x = (this.x - 3) * fact + 20 + 30;
+                y = (this.y - 1) * fact + 10 + 60;
+                if (this.world.tickCount % 4 === 0) {
+                    if (x > rect.left && x < (rect.left + rect.width) && y > rect.top && y < (rect.top + rect.height) && this.dom.mytext !== s) {
+                        this.dom.textContent = s;
+                        this.dom.mytext = s;
+                    }
+                }
+                for (var i = 0; i < this.transports.length; i++) {
+                    this.transports[i].updateUI(rect);
+                }
+                //icon
+                y = ((this.y - 1) * fact);
+                x = (this.x - 3) * fact + fact - 5;
+                context.drawImage(this.domIcon, x, y, parameter.zoomfactor + 14, parameter.zoomfactor + 14);
+                //this.domProduced = <any>document.createRange().createContextualFragment(`<div  style="color:black;text-align: center;width:40px;font-size:10pt;top:${((this.y - 1) * fact + 43) + "px"};left:${((this.x - 3) * fact + 26) + "px"};position:absolute"></div>`).children[0];
+            }
+        }
+        update() {
+            if (this.enemyBaseSoldierCount !== undefined) {
+                if ((0, tools_4.getRandomInt)(parameter.enemyReproduction) === 1) {
+                    this.soldiercount++;
+                    this.world.game.debugEnemyCreated++;
+                }
+                if (this.enemy !== undefined && this.enemyBaseSoldierCount !== undefined && (this.soldiercount - this.enemyBaseSoldierCount) > 100) {
+                    this.enemyExpand();
+                    //var base=this.findEnemyBase(this.enemy);
+                }
+                /*if (this.enemyBaseSoldierCount > 200 && getRandomInt(7 * 10 * 60) === 1) { //one per 7 Minute we attack
+                 this.enemyAttack();
+                }*/
+            }
+            //enemy get support from base
+            if (this.enemy !== undefined && this.enemyBaseSoldierCount === undefined && (0, tools_4.getRandomInt)(7 * 10 * 60) === 1 && this.soldiercount < 100) {
+                var base = this.getEnemyBase(); //this.world.companyCache[this.world.game.enemyBases[this.enemy]];
+                if (base === undefined)
+                    var h = 9;
+                if (base.soldiercount > 300) {
+                    var max = 100 - this.soldiercount;
+                    this.soldiercount += max;
+                    base.soldiercount -= max;
+                }
+            }
+            if (this.enemy !== undefined && this.soldiercount > 50 && (0, tools_4.getRandomInt)(7 * 10 * 60) === 1) {
+                this.enemyAttack();
+            }
+            /*var pin = "";
+            var prod = this.productid === -1 ? undefined : parameter.allProducts[this.productid];
+            if (prod) {
+              for (var x = 0; x < this.rawmaterials.length; x++) {
+                console.log(prod.name);
+                var pp = parameter.allProducts[prod.consume[x]];
+                if (pp === undefined) {
+                  pp = pp;
+                }
+                pin = pin + pp.name + ":" + this.rawmaterials[x]+" ";
+              }
+            }
+            if(this.domInput)
+              this.domInput.textContent=pin;*/
+        }
+        static getImageUrl(image) {
+            if (image === undefined)
+                return "";
+            if (window.location.pathname.indexOf("/sample/") !== -1) {
+                return "https://uwei.github.io/traffics/v2/images/" + image;
+            }
+            return "images/" + image;
+            //return "http://localhost/game/client/game/images/" + image;
+        }
+        rerender() {
+            //this.world.dom.removeChild(this.dom);
+            this.render();
+        }
+        render() {
+            var _this = this;
+            var text = "";
+            var fact = parameter.zoomfactor;
+            // console.log(this.productid);
+            var prod = this.productid === -1 ? undefined : parameter.allProducts[this.productid];
+            var name = prod === undefined ? "" : prod.name;
+            this.dom = document.createRange().createContextualFragment(`<div  style="font-size:10pt;text-align: center;display: flex;justify-content: center;align-items: flex-end;width:50px;height:60px;border:font-size:10pt;top:${((this.y - 1) * fact - 20) + "px"};left:${((this.x - 3) * fact + 20) + "px"};position:absolute"></div>`).children[0];
+            this.world.dom.appendChild(this.dom);
+            if (this.productid === -1)
+                this.domIcon = document.createRange().createContextualFragment(`<img src="${Company.getImageUrl("Baustelle.png")}" title="Baustelle" width="${parameter.zoomfactor}" height="${parameter.zoomfactor + 14}" style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact + fact - 5) + "px"};position:absolute">`).children[0];
+            else if (this.productid === -3)
+                this.domIcon = document.createRange().createContextualFragment(`<img src="${Company.getImageUrl("Attacke.png")}" title="Erobern" width="${parameter.zoomfactor}" height="${parameter.zoomfactor + 14}" style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact + fact - 5) + "px"};position:absolute">`).children[0];
+            else if (this.enemy !== undefined)
+                this.domIcon = document.createRange().createContextualFragment(`<img src="${Company.getImageUrl("Burg" + (this.enemy + 1) + ".png")}" title="${prod.name}" width="${parameter.zoomfactor + 14}" height="${parameter.zoomfactor + 14}" style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact + fact - 5) + "px"};position:absolute">`).children[0];
+            else if (prod !== undefined && prod.image !== "")
+                this.domIcon = document.createRange().createContextualFragment(`<img src="${Company.getImageUrl(prod.image)}" title="${prod.name}" width="${parameter.zoomfactor + 14}" height="${parameter.zoomfactor + 14}" style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact + fact - 5) + "px"};position:absolute">`).children[0];
+            else
+                this.domIcon = document.createRange().createContextualFragment(`<img src="${Company.getImageUrl("Dummy.png")}" title="" width="${parameter.zoomfactor}" height="${parameter.zoomfactor + 14}" style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact + fact - 5) + "px"};position:absolute">`).children[0];
+            // this.dom.setAttribute("src", "<span  class='mdi  mdi-content-save-outline'></span>");
+            //this.dom.style.cursor="url(https://www.w3schools.com/cssref/myBall.cur),auto";
+            this.dom.setAttribute("companyid", this.companyID.toString());
+            this.dom.addEventListener("click", (ev) => {
+                _this.onclick(ev);
+                return undefined;
+            });
+            $(this.dom).on("dblclick", function (e) {
+                _this.onDbleClick();
+            });
+            this.dom["company"] = this;
+            for (var x = 0; x < this.transports.length; x++) {
+                this.transports[x].render();
+            }
+            //console.log(this.dom.style.top + "   " + ((this.x + 3) * fact).toString() + "px");
+        }
+        renderOld() {
+            var _this = this;
+            var text = "";
+            var fact = parameter.zoomfactor;
+            // console.log(this.productid);
+            var prod = this.productid === -1 ? undefined : parameter.allProducts[this.productid];
+            var name = prod === undefined ? "" : prod.name;
+            if (!this.isConquered) {
+                text = `<div>
+              <svg style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact) + "px"};width:${fact * 3};height:${fact * 2};position:absolute" class="company">
+                <polygon points="${1 * fact},0 ${2 * fact},0 ${3 * fact},${1 * fact} ${2 * fact},${2 * fact} ${1 * fact},${2 * fact} 0,${1 * fact}" style="fill="#044B94" fill-opacity="0.4";stroke:white;stroke-width:1;" />
+               </svg>
+            </div>
+        `;
+                ;
+            }
+            else {
+                text = `<div>
+              <svg style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact) + "px"};width:${fact * 3};height:${fact * 2};position:absolute" class="company">
+                <polygon points="${1 * fact},0 ${2 * fact},0 ${3 * fact},${1 * fact} ${2 * fact},${2 * fact} ${1 * fact},${2 * fact} 0,${1 * fact}" style="fill:none;stroke:white;stroke-width:1;" />
+               </svg>
+            </div>
+        `;
+                ;
+            }
+            /* text = `<div>
+                       <svg style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact) + "px"};width:${fact * 3};height:${fact * 2};position:absolute" class="company">
+                         
+                        </svg>
+                     </div>
+                 `;*/
+            var icon = "";
+            if (this.productid === -1)
+                this.domIcon = document.createRange().createContextualFragment(`<img src="${Company.getImageUrl("Baustelle.png")}" title="Baustelle" width="${parameter.zoomfactor}" height="${parameter.zoomfactor + 14}" style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact + fact - 5) + "px"};position:absolute">`).children[0];
+            else if (this.productid === -3)
+                this.domIcon = document.createRange().createContextualFragment(`<img src="${Company.getImageUrl("Attacke.png")}" title="Erobern" width="${parameter.zoomfactor}" height="${parameter.zoomfactor + 14}" style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact + fact - 5) + "px"};position:absolute">`).children[0];
+            else if (this.enemy !== undefined)
+                this.domIcon = document.createRange().createContextualFragment(`<img src="${Company.getImageUrl("Burg" + (this.enemy + 1) + ".png")}" title="${prod.name}" width="${parameter.zoomfactor + 14}" height="${parameter.zoomfactor + 14}" style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact + fact - 5) + "px"};position:absolute">`).children[0];
+            else if (prod !== undefined && prod.image !== "")
+                this.domIcon = document.createRange().createContextualFragment(`<img src="${Company.getImageUrl(prod.image)}" title="${prod.name}" width="${parameter.zoomfactor + 14}" height="${parameter.zoomfactor + 14}" style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact + fact - 5) + "px"};position:absolute">`).children[0];
+            else
+                this.domIcon = document.createRange().createContextualFragment(`<img src="${Company.getImageUrl("Dummy.png")}" title="" width="${parameter.zoomfactor}" height="${parameter.zoomfactor + 14}" style="top:${((this.y - 1) * fact) + "px"};left:${((this.x - 3) * fact + fact - 5) + "px"};position:absolute">`).children[0];
+            this.dom = document.createRange().createContextualFragment(text).children[0];
+            this.domProduced = document.createRange().createContextualFragment(`<div  style="color:black;text-align: center;width:40px;font-size:10pt;top:${((this.y - 1) * fact + 43) + "px"};left:${((this.x - 3) * fact + 26) + "px"};position:absolute"></div>`).children[0];
+            this.domInput = document.createRange().createContextualFragment(`<span  style="font-size:6pt;top:${((this.y - 1) * fact + 10) + "px"};left:${((this.x - 3) * fact + 20) + "px"};position:absolute"></span>`).children[0];
+            this.dom.appendChild(this.domProduced);
+            this.dom.appendChild(this.domInput);
+            this.dom.appendChild(this.domIcon);
+            //this.world.dom.appendChild(this.dom);
+            this.world.dom.appendChild(this.domProduced);
+            // this.dom.setAttribute("src", "<span  class='mdi  mdi-content-save-outline'></span>");
+            //this.dom.style.cursor="url(https://www.w3schools.com/cssref/myBall.cur),auto";
+            this.dom.setAttribute("companyid", this.companyID.toString());
+            this.dom.addEventListener("click", (ev) => {
+                _this.onclick(ev);
+                return undefined;
+            });
+            $(this.dom).on("dblclick", function (e) {
+                _this.onDbleClick();
+            });
+            this.dom["company"] = this;
+            for (var x = 0; x < this.transports.length; x++) {
+                this.transports[x].render();
+            }
+            //console.log(this.dom.style.top + "   " + ((this.x + 3) * fact).toString() + "px");
+        }
+        onDbleClick() {
+            if (!parameter.buildWithDoubleClick)
+                return;
+            if (this.productid === product_6.Product.productTower || this.productid === product_6.Product.productCastle || this.productid === product_6.Product.productHelper || this.productid === product_6.Product.productGate || this.productid === product_6.Product.productSoldier) {
+                return;
+            }
+            let calc = 0;
+            for (var x = 0; x < parameter.buildWithDoubleClick; x++) {
+                if ((this.workers + (this.workersComming ? this.workersComming : 0)) < this.calcMaxWorker())
+                    calc++;
+                if ((this.workersIn + (this.workersInComming ? this.workersInComming : 0)) < this.calcMaxWorker())
+                    calc++;
+                if ((this.workersOut + (this.workersOutComming ? this.workersOutComming : 0)) < this.calcMaxWorker())
+                    calc++;
+                for (var t = 0; t < this.transports.length; t++) {
+                    var trans = this.transports[t];
+                    if ((trans.workers + (trans.workersComming ? trans.workersComming : 0)) < this.calcMaxWorker())
+                        calc++;
+                }
+            }
+            var companies = this.world.findCompanyThatProduces(product_6.Product.productHelper);
+            var max = 0;
+            for (var x = 0; x < companies.length; x++) {
+                if (companies[x].produced > 0) {
+                    max = companies[x].produced; // - company.transports.length;
+                }
+            }
+            if (max < calc) {
+                game_3.Game.showInfo("keine " + calc + " Helfer gefunden.");
+                return;
+            }
+            for (var x = 0; x < parameter.buildWithDoubleClick; x++) {
+                if ((this.workers + (this.workersComming ? this.workersComming : 0)) < this.calcMaxWorker())
+                    this.addWorker("workers");
+                if ((this.workersIn + (this.workersInComming ? this.workersInComming : 0)) < this.calcMaxWorker())
+                    this.addWorker("workersIn");
+                if ((this.workersOut + (this.workersOutComming ? this.workersOutComming : 0)) < this.calcMaxWorker())
+                    this.addWorker("workersOut");
+                for (var t = 0; t < this.transports.length; t++) {
+                    var trans = this.transports[t];
+                    for (var xx = 0; xx < parameter.peopleWithOneClick; xx++) {
+                        if ((trans.workers + (trans.workersComming ? trans.workersComming : 0)) < this.calcMaxWorker())
+                            this.addWorker(trans);
+                    }
+                }
+            }
+        }
+        addWorker(workertype) {
+            var serror = "";
+            var company;
+            var companies = this.world.findCompanyThatProduces(product_6.Product.productHelper);
+            var max = 0;
+            for (var x = 0; x < companies.length; x++) {
+                if (companies[x].produced > 0) {
+                    company = companies[x];
+                    max = company.produced; // - company.transports.length;
+                }
+            }
+            if (max < 1) {
+                game_3.Game.showInfo("nicht genug Helfer");
+                return;
+            }
+            var trans = new transport_4.Transport(company);
+            trans.workers = 1;
+            trans.companyTarget = this.companyID;
+            trans.active = true;
+            trans.render();
+            trans.transferInfo = { productid: company.productid, workertype: workertype };
+            company.transports.push(trans);
+            if (workertype === "workers")
+                this.workersComming = (this.workersComming ? this.workersComming + 1 : 1);
+            else if (workertype === "workersIn")
+                this.workersInComming = (this.workersInComming ? this.workersInComming + 1 : 1);
+            else if (workertype === "workersOut")
+                this.workersOutComming = (this.workersOutComming ? this.workersOutComming + 1 : 1);
+            else
+                workertype.workersComming = (workertype.workersComming ? workertype.workersComming + 1 : 1);
+        }
+        expand() {
+            if (this.productid === product_6.Product.productTower || this.productid === product_6.Product.productCastle) {
+                var radius = 2;
+                if (this.productid === product_6.Product.productCastle) {
+                    radius = 3;
+                }
+                var comps = this.findCompaniesAround(1, radius, true, true);
+                for (let x = 0; x < comps.length; x++) {
+                    comps[x].isConquered = true;
+                    comps[x].rerender();
+                }
+            }
+            //   if(this.productid === Product.productCastle){Product.productTower
+        }
+        calcMaxWorker() {
+            // (this.world.game.level < parameter.allLevels.length) {
+            var ret = this.world.game.level;
+            if (ret === 1)
+                ret = 2;
+            return ret + Math.floor(this.soldiercount / 5);
+            //  }
+            //return 6 + Math.floor(this.soldiercount / 10);
+        }
+        calcMaxSoldiers() {
+            var max = parameter.soldiersToConquer;
+            //if (this.enemy !== undefined)
+            //  return this.workersIn;
+            if (this.productid === -1) {
+                return 10;
+            }
+            if (this.productid === product_6.Product.productTower) {
+                return 20;
+            }
+            if (this.productid === product_6.Product.productCastle) {
+                return 100;
+            }
+            if (this.soldiercount < 10)
+                return 10;
+            else
+                return 9999999999999999;
+        }
+        removeWorker(workertype) {
+            var compHelper = this.world.findCompanyThatProduces(product_6.Product.productHelper)[0];
+            if (compHelper === undefined)
+                debugger;
+            var trans = new transport_4.Transport(compHelper);
+            trans.workers = 1;
+            trans.x = this.x;
+            trans.y = this.y;
+            if (workertype === "workers") {
+                if (this.workers === 0)
+                    return;
+                this.workers--;
+            }
+            else if (workertype === "workersIn") {
+                if (this.workersIn === 0)
+                    return;
+                this.workersIn--;
+            }
+            else if (workertype === "workersOut") {
+                if (this.workersOut === 0)
+                    return;
+                this.workersOut--;
+            }
+            else {
+                if (workertype.workers === 0)
+                    return;
+                workertype.workers--;
+                trans.x = workertype.x;
+                trans.y = workertype.y;
+            }
+            trans.active = true;
+            trans.transferInfo = { goHome: true, productid: product_6.Product.productHelper };
+            trans.moveTo(compHelper.companyID);
+            trans.render();
+            compHelper.transports.push(trans);
+        }
+        soldierGoHome() {
+            var compSoldier;
+            var compSoldiers = this.world.findCompanyThatProduces(product_6.Product.productSoldier);
+            for (var x = 0; x < compSoldiers.length; x++) {
+                if (compSoldiers[x] !== this)
+                    compSoldier = compSoldiers[x];
+            }
+            var trans = new transport_4.Transport(compSoldier);
+            trans.workers = 1;
+            trans.x = this.x;
+            trans.y = this.y;
+            trans.active = true;
+            trans.transferInfo = { goHome: true, productid: product_6.Product.productSoldier };
+            trans.moveTo(compSoldier.companyID);
+            trans.render();
+            compSoldier.transports.push(trans);
+        }
+        helperGoHome() {
+            var compHelper;
+            var compHelpers = this.world.findCompanyThatProduces(product_6.Product.productHelper);
+            for (var x = 0; x < compHelpers.length; x++) {
+                if (compHelpers[x] !== this)
+                    compHelper = compHelpers[x];
+            }
+            var trans = new transport_4.Transport(compHelper);
+            trans.workers = 1;
+            trans.x = this.x;
+            trans.y = this.y;
+            trans.active = true;
+            trans.transferInfo = { goHome: true, productid: product_6.Product.productSoldier };
+            trans.moveTo(compHelper.companyID);
+            trans.render();
+            compHelper.transports.push(trans);
+        }
+        findCompaniesAround(radiusFrom, radiusTo, inCompanies = true, inFreeCompanies = false) {
+            var x = this.x;
+            var y = this.y;
+            var found = [];
+            if (inCompanies) {
+                for (var i = 0; i < this.world.companies.length; i++) {
+                    var test = this.world.companies[i];
+                    var dist = Math.round(Math.sqrt(Math.pow(this.x - test.x, 2) + Math.pow(this.y - test.y, 2)) / 2);
+                    if (dist >= radiusFrom && dist <= radiusTo) {
+                        found.push(test);
+                    }
+                }
+            }
+            if (inFreeCompanies) {
+                for (var i = 0; i < this.world.freeCompanies.length; i++) {
+                    var test = this.world.freeCompanies[i];
+                    var dist = Math.round(Math.sqrt(Math.pow(this.x - test.x, 2) + Math.pow(this.y - test.y, 2)) / 2);
+                    if (dist >= radiusFrom && dist <= radiusTo) {
+                        found.push(test);
+                    }
+                }
+            }
+            /*for (var i = 0; i < this.world.freeCompanies.length; i++) {
+              var test = this.world.freeCompanies[i];
+              if ((test.x >= (this.x - (radiusTo * 2)) && test.x <= (this.x - (radiusFrom * 2))) || (test.x >= (this.x + (radiusFrom * 2)) && test.x <= (this.x + (radiusFrom * 2)))&&
+                 (test.y >= (this.y - (radiusTo * 2)) && test.y <= (this.y - (radiusFrom * 2))) || (test.y >= (this.y + (radiusFrom * 2)) && test.y <= (this.y + (radiusFrom * 2)))) {
+                    found.push(test);
+              }
+            }*/
+            return found;
+        }
+        destroy() {
+            //Soldiers go home
+            if (this.productid === product_6.Product.productTower || this.productid === product_6.Product.productCastle) {
+                for (var x = 0; x < this.soldiercount; x++) {
+                    setTimeout(() => this.soldierGoHome(), x * 100);
+                }
+            }
+            delete this.enemiesComming;
+            delete this.enemyAttack;
+            delete this.enemy;
+            delete this.enemyBaseSoldierCount;
+            this.soldiersComing = 0;
+            this.stonesComming = 0;
+            this.woodsComming = 0;
+            this.workersComming = 0;
+            this.workersInComming = 0;
+            this.workersOutComming = 0;
+            this.soldiercount = 0;
+            this.productid = -2;
+            while (this.workers > 0)
+                this.removeWorker("workers");
+            while (this.workersIn > 0)
+                this.removeWorker("workersIn");
+            while (this.workersOut > 0)
+                this.removeWorker("workersOut");
+            for (var x = 0; x < this.transports.length; x++) {
+                while (this.transports[x].workers > 0) {
+                    this.removeWorker(this.transports[x]);
+                }
+                this.transports[x].destroy(this.transports);
+                x--;
+            }
+            var _this = this;
+            this.produced = 0;
+            this.rerender();
+            delete this.buildingInProgress;
+            this.domIcon.src = Company.getImageUrl("Dummy.png");
+            this.updateFreeOrNotFree();
+        }
+        onclick(th) {
+            th.preventDefault();
+            var h = companydialog_2.CompanyDialog.getInstance();
+            h.show();
+            h.company = this;
+        }
+        toString() {
+            return this.name + "(" + this.produced + ")";
+        }
+    }
+    exports.Company = Company;
+    function test() {
+        console.log((0, tools_4.getRandomInt)(2));
+        console.log((0, tools_4.getRandomInt)(2));
+        console.log((0, tools_4.getRandomInt)(2));
+        console.log((0, tools_4.getRandomInt)(2));
+        console.log((0, tools_4.getRandomInt)(2));
+    }
+    exports.test = test;
+});
+define("game/startgame", ["require", "exports", "jassijs/ui/Panel", "jassijs/base/Windows", "game/game", "jassijs/base/Actions"], function (require, exports, Panel_1, Windows_1, game_4, Actions_1) {
+    "use strict";
+    Object.defineProperty(exports, "__esModule", { value: true });
+    exports.test = exports.PPanel = void 0;
+    class PPanel extends Panel_1.Panel {
+        constructor() {
+            super();
+            this.game = new game_4.Game();
+            //this.width = "1050px";
+            // this.height = "650px"; 
+            this.game.newGame();
+            var domGame = document.createRange().createContextualFragment('<div id="game"></div>').children[0];
+            this.dom.style.height = "100%";
+            this.dom.append(domGame);
+            this.game.render(domGame);
+        }
+        destroy() {
+            this.game.destroy();
+            super.destroy();
+        }
+        static async show() {
+            test();
+        }
+    }
+    __decorate([
+        (0, Actions_1.$Action)({
+            name: "Game",
+            icon: "mdi  mdi-airplane",
+        }),
+        __metadata("design:type", Function),
+        __metadata("design:paramtypes", []),
+        __metadata("design:returntype", Promise)
+    ], PPanel, "show", null);
+    exports.PPanel = PPanel;
+    function createStyle() {
+        var cssId = 'game.css'; // you could encode the css path itself to generate id..
+        if (document.getElementById(cssId))
+            document.getElementById(cssId).parentNode.removeChild(document.getElementById(cssId));
+        var head = document.getElementsByTagName('head')[0];
+        var link = document.createElement('link');
+        link.id = cssId;
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'game/style.css';
+        link.media = 'all';
+        head.appendChild(link);
+    }
+    function test() {
+        createStyle();
+        var ret = new PPanel();
+        //ret.dom.style.backgroundColor="white";
+        var wd = Windows_1.default.findComponent("Game");
+        wd === null || wd === void 0 ? void 0 : wd.destroy();
+        Windows_1.default.add(ret, "Game");
+    }
+    exports.test = test;
+});
