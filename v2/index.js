@@ -557,7 +557,7 @@ define("game/transport", ["require", "exports", "game/company", "game/product"],
                             delete this.transferInfo.workertype.workersComming;
                     }
                     this.company.transports.splice(this.company.transports.indexOf(this), 1);
-                    this.world.dom.removeChild(this.dom);
+                    //                this.world.dom.removeChild(this.dom);
                 }
                 if (this.autodeliver) {
                     if (this.company.productid === product_1.Product.productWood || this.company.productid === product_1.Product.productStone) { //buildtransport
@@ -2402,7 +2402,7 @@ define("game/game", ["require", "exports", "game/world", "game/tools", "game/ico
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.test = exports.Game = exports.gameversion = exports.Parameter = exports.Level = void 0;
-    var gameversion = "3.8";
+    var gameversion = "3.9";
     exports.gameversion = gameversion;
     window.onbeforeunload = function () {
         return "Do you want to exit?";
@@ -3487,10 +3487,11 @@ define("game/company", ["require", "exports", "game/tools", "game/companydialog"
         updateUI(rect) {
             var fact = parameter.zoomfactor;
             const context = this.world.game.domCanavas.getContext('2d');
+            //border
+            let x, y;
             if (!this.isConquered) {
-                let y = ((this.y - 1) * fact);
-                let x = (this.x - 3) * fact + fact - 25;
-                context.fillStyle = '#f00';
+                y = ((this.y - 1) * fact);
+                x = (this.x - 3) * fact + fact - 25;
                 context.fillStyle = "rgba(	4,75,148, 0.2)";
                 context.beginPath();
                 context.moveTo(x + 1 * fact, y + 0);
@@ -3503,11 +3504,10 @@ define("game/company", ["require", "exports", "game/tools", "game/companydialog"
                 context.fill();
                 return;
             }
-            if (this.dom) {
-                //border
-                let y = ((this.y - 1) * fact);
-                let x = (this.x - 3) * fact + fact - 25;
-                context.strokeStyle = 'white';
+            else {
+                y = ((this.y - 1) * fact);
+                x = (this.x - 3) * fact + fact - 25;
+                context.strokeStyle = 'rgba(	255,255,255, 0.2)';
                 context.beginPath();
                 context.moveTo(x + 1 * fact, y + 0);
                 context.lineTo(x + 2 * fact, y + 0);
@@ -3517,25 +3517,24 @@ define("game/company", ["require", "exports", "game/tools", "game/companydialog"
                 context.lineTo(x + 0, y + 1 * fact);
                 context.closePath();
                 context.stroke();
-                //produced count
-                var s = this.produced === 0 ? "" : this.produced.toString();
-                x = (this.x - 3) * fact + 20 + 30;
-                y = (this.y - 1) * fact + 10 + 60;
-                if (this.world.tickCount % 4 === 0) {
-                    if (x > rect.left && x < (rect.left + rect.width) && y > rect.top && y < (rect.top + rect.height) && this.dom.mytext !== s) {
-                        this.dom.textContent = s;
-                        this.dom.mytext = s;
-                    }
-                }
-                for (var i = 0; i < this.transports.length; i++) {
-                    this.transports[i].updateUI(rect);
-                }
-                //icon
-                y = ((this.y - 1) * fact);
-                x = (this.x - 3) * fact + fact - 5;
-                context.drawImage(this.domIcon, x, y, parameter.zoomfactor + 14, parameter.zoomfactor + 14);
-                //this.domProduced = <any>document.createRange().createContextualFragment(`<div  style="color:black;text-align: center;width:40px;font-size:10pt;top:${((this.y - 1) * fact + 43) + "px"};left:${((this.x - 3) * fact + 26) + "px"};position:absolute"></div>`).children[0];
             }
+            //produced count
+            var s = this.produced === 0 ? "" : this.produced.toString();
+            x = (this.x - 3) * fact + 20 + 30;
+            y = (this.y - 1) * fact + 10 + 60;
+            if (this.world.tickCount % 4 === 0) {
+                if (x > rect.left && x < (rect.left + rect.width) && y > rect.top && y < (rect.top + rect.height) && this.dom.mytext !== s) {
+                    this.dom.textContent = s;
+                    this.dom.mytext = s;
+                }
+            }
+            for (var i = 0; i < this.transports.length; i++) {
+                this.transports[i].updateUI(rect);
+            }
+            //icon
+            y = ((this.y - 1) * fact);
+            x = (this.x - 3) * fact + fact - 5;
+            context.drawImage(this.domIcon, x, y, parameter.zoomfactor + 14, parameter.zoomfactor + 14);
         }
         update() {
             if (this.enemyBaseSoldierCount !== undefined) {
