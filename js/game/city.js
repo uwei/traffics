@@ -376,7 +376,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
                 var queue = this.queueBuildings[0];
                 const readyBuildings = Math.min(1 + Math.floor(diff / buildingTime), queue.count);
                 const timeLeft = diff % buildingTime;
-                queue.ready = this.world.game.date.getTime() + timeLeft;
+                queue.ready = this.world.game.date.getTime() + timeLeft + buildingTime;
                 queue.count -= readyBuildings;
                 if (queue.typeid === 10000) {
                     this.shops = this.shops + readyBuildings;

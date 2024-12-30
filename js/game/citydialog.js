@@ -228,8 +228,12 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
             var comp = _this.city.companies[id];
             var count = 0;
             for (var i = 0; i < parameter.numberBuildWithContextMenu; i++) {
-                if (!_this.city.commitBuildingCosts(comp.getBuildingCosts(i), comp.getBuildingMaterial(), "buy building", false))
+                if (!_this.city.commitBuildingCosts(comp.getBuildingCosts(i), comp.getBuildingMaterial(), "buy building", false)) {
+                    if (i > 1) {
+                        _this.city.buildBuilding(id, comp.productid, i - 1);
+                    }
                     return;
+                }
                 count++;
             }
             _this.city.buildBuilding(id, comp.productid, count);
