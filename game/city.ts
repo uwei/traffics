@@ -11,11 +11,12 @@ class QueueItem {
     typeid: number;
     name?: string;
     ready: number;
-    count?:number;
-    cid:number;
+    count?: number;
+    cid: number;
 }
+let isDblClick = false;
 export class City {
-    level=1;
+    level = 1;
     id: number;
     x: number;
     y: number;
@@ -164,7 +165,7 @@ export class City {
         this.dom = <any>document.createElement("img");
         this.dom.style.border = "1px solid black";
         this.dom.setAttribute("src", this.icon);
-        this.dom.style.cursor="url(https://www.w3schools.com/cssref/myBall.cur),auto";
+        this.dom.style.cursor = "url(https://www.w3schools.com/cssref/myBall.cur),auto";
         this.dom.setAttribute("cityid", cityid.toString());
         this.dom.style.position = "absolute";
         this.dom.classList.add("city");
@@ -204,6 +205,16 @@ export class City {
         if (!this.hasAirport) {
             this.domAirport.style.visibility = "hidden";
         }
+
+        this.dom.addEventListener("dblclick", (ev: MouseEvent) => {
+            _this.ondblclick(ev);
+            return undefined;
+        });
+        this.domDesc.addEventListener("dblclick", (ev: MouseEvent) => {
+            _this.ondblclick(ev);
+            return undefined;
+        });
+
         this.dom.addEventListener("click", (ev: MouseEvent) => {
             _this.onclick(ev);
             return undefined;
@@ -255,28 +266,28 @@ export class City {
         //@ts-ignore
         $.notify("Congratulations. All building costs " + this.name + " are reset.");
     }
-    buildBuilding(companyid:number,typeid: number,count:number, before = false) {
-        var buildingTime=(parameter.daysBuildBuilding * 1000 * 60 * 60 * 24) / (!this.buildingplaces ? 1 : (this.buildingplaces + 1));
+    buildBuilding(companyid: number, typeid: number, count: number, before = false) {
+        var buildingTime = (parameter.daysBuildBuilding * 1000 * 60 * 60 * 24) / (!this.buildingplaces ? 1 : (this.buildingplaces + 1));
 
         //shop should create at first
         if (before && this.queueBuildings.length > 0) {
             var last = this.world.game.date.getTime();
             last = this.queueBuildings[0].ready;
-            this.queueBuildings.splice(0, 0, {cid:companyid, ready: last, typeid: typeid,count:count});
+            this.queueBuildings.splice(0, 0, { cid: companyid, ready: last, typeid: typeid, count: count });
             //move others
-             var buildingTimeSum=buildingTime*count;
+            var buildingTimeSum = buildingTime * count;
             for (var x = 1; x < this.queueBuildings.length; x++) {
                 last += buildingTimeSum;
                 this.queueBuildings[x].ready = last;
             }
         } else {
             var last = this.world.game.date.getTime();
-            if (this.queueBuildings.length > 0){
-                var entry=this.queueBuildings[this.queueBuildings.length - 1];
-                last = entry.ready+( entry.count?entry.count:0)*buildingTime;
+            if (this.queueBuildings.length > 0) {
+                var entry = this.queueBuildings[this.queueBuildings.length - 1];
+                last = entry.ready + (entry.count ? entry.count : 0) * buildingTime;
             }
             //    last += buildingTime;//*this.queueBuildings[this.queueBuildings.length - 1].count;
-            this.queueBuildings.push({ cid:companyid, ready: last+buildingTime, typeid: typeid,count:count});
+            this.queueBuildings.push({ cid: companyid, ready: last + buildingTime, typeid: typeid, count: count });
         }
     }
     buildAirplane(typeid: number) {
@@ -284,7 +295,7 @@ export class City {
         if (this.queueAirplane.length > 0)
             last = this.queueAirplane[this.buildAirplane.length - 1].ready;
         last += parameter.allAirplaneTypes[typeid].buildDays * 1000 * 60 * 60 * 24;
-        this.queueAirplane.push({cid:10002,  ready: last, typeid: typeid, name: parameter.allAirplaneTypes[typeid].model });
+        this.queueAirplane.push({ cid: 10002, ready: last, typeid: typeid, name: parameter.allAirplaneTypes[typeid].model });
     }
     newAirplane(typeid: number) {
         var _this = this;
@@ -386,20 +397,20 @@ export class City {
             this.companies[comps[winner]].workers++;
         }
     }
-    tryRemoveBuildingInProgress(typeid,count:number) {
+    tryRemoveBuildingInProgress(typeid, count: number) {
         var ret = false;
-        var countTODO=count;
-        var counsumed=false;
+        var countTODO = count;
+        var counsumed = false;
         for (var x = this.queueBuildings.length - 1; x > -1; x--) {
             if (this.queueBuildings[x].typeid === typeid) {
-                var has=this.queueBuildings[x].count?this.queueBuildings[x].count:1;
-                if(has>countTODO){
-                    this.queueBuildings[x].count-=countTODO;
+                var has = this.queueBuildings[x].count ? this.queueBuildings[x].count : 1;
+                if (has > countTODO) {
+                    this.queueBuildings[x].count -= countTODO;
                     return true;
-                }else{
-                    countTODO-=this.queueBuildings[x].count;
-                     this.queueBuildings.splice(x, 1);
-                     counsumed=true;
+                } else {
+                    countTODO -= this.queueBuildings[x].count;
+                    this.queueBuildings.splice(x, 1);
+                    counsumed = true;
                 }
             }
         }
@@ -408,8 +419,8 @@ export class City {
     getBuildingInProgress(typeid) {
         var ret = 0;
         for (var x = 0; x < this.queueBuildings.length; x++) {
-            if (this.queueBuildings[x].typeid === typeid){
-                ret=ret+(this.queueBuildings[x].count?this.queueBuildings[x].count:0);
+            if (this.queueBuildings[x].typeid === typeid) {
+                ret = ret + (this.queueBuildings[x].count ? this.queueBuildings[x].count : 0);
             }
         }
         return ret;
@@ -421,22 +432,22 @@ export class City {
         }
     }
     updateBuildingQueue() {
-         var buildingTime=(parameter.daysBuildBuilding * 1000 * 60 * 60 * 24) / (!this.buildingplaces ? 1 : (this.buildingplaces + 1));
+        var buildingTime = (parameter.daysBuildBuilding * 1000 * 60 * 60 * 24) / (!this.buildingplaces ? 1 : (this.buildingplaces + 1));
 
         if (this.queueBuildings.length > 0 && this.queueBuildings[0].ready <= this.world.game.date.getTime()) {
-            var diff= this.world.game.date.getTime()-this.queueBuildings[0].ready;
-            var queue=this.queueBuildings[0];
-            const readyBuildings =Math.min(1+Math.floor(diff/buildingTime),queue.count);
+            var diff = this.world.game.date.getTime() - this.queueBuildings[0].ready;
+            var queue = this.queueBuildings[0];
+            const readyBuildings = Math.min(1 + Math.floor(diff / buildingTime), queue.count);
             const timeLeft = diff % buildingTime;
-            queue.ready=this.world.game.date.getTime()+timeLeft+buildingTime;
-            queue.count-=readyBuildings;
+            queue.ready = this.world.game.date.getTime() + timeLeft + buildingTime;
+            queue.count -= readyBuildings;
             if (queue.typeid === 10000) {
-                this.shops=this.shops+readyBuildings;
+                this.shops = this.shops + readyBuildings;
             } else if (queue.typeid === 10001) {
-                this.buildingplaces= this.buildingplaces+readyBuildings;
+                this.buildingplaces = this.buildingplaces + readyBuildings;
             } else {
-                this.companies[queue.cid].buildings=this.companies[queue.cid].buildings+readyBuildings;
-                this.companies[queue.cid].workers =this.companies[queue.cid].workers+ parameter.workerInCompany*readyBuildings;
+                this.companies[queue.cid].buildings = this.companies[queue.cid].buildings + readyBuildings;
+                this.companies[queue.cid].workers = this.companies[queue.cid].workers + parameter.workerInCompany * readyBuildings;
                 /*for (var x = 0; x < this.companies.length; x++) {
                     if (this.companies[x].productid === this.queueBuildings[0].typeid) {
                         this.companies[x].buildings++;
@@ -445,14 +456,14 @@ export class City {
                     }
                 }*/
             }
-          /*  if(this.queueBuildings[0].count){
-                this.queueBuildings[0].count--;
-                this.queueBuildings[0].ready+=buildingTime;
-            }*/
-            if(!this.queueBuildings[0].count)
+            /*  if(this.queueBuildings[0].count){
+                  this.queueBuildings[0].count--;
+                  this.queueBuildings[0].ready+=buildingTime;
+              }*/
+            if (!this.queueBuildings[0].count)
                 this.queueBuildings.splice(0, 1);
             //this.newAirplane(this.queueAirplane[0].typeid);
-            
+
         }
     }
     getScore(): number {
@@ -532,14 +543,14 @@ export class City {
         // }
         if (this.people > workers) {
             this.people = workers;
-           
+
             return;
         }
         if (this.people >= workers)
             return;
         if (this.getRating(this.people + newPeople) > 0) {
             this.people = this.people + newPeople;
-            this.growing=true;
+            this.growing = true;
         } else {
             //  var rating=this.getRating(this.people)===-1?Math.round(newPeople/2):newPeople;
             while (newPeople > 0) {
@@ -601,7 +612,7 @@ export class City {
         var dayProcent = this.world.game.date.getHours() / 24;
         if (this.world.game.date.getHours() === 23) {
             dayProcent = 1;
-            this.growing=false;
+            this.growing = false;
         }
 
         for (var x = 0; x < parameter.allProducts.length; x++) {
@@ -702,7 +713,7 @@ export class City {
         //shop full
         var gesamount = this.getCompleteAmount();
         var max = this.shops * parameter.capacityShop;
-        if (gesamount >= max) {
+        if (gesamount >= max&&this.getBuildingInProgress(10000)===0) {
             this.domShopfull.style.display = "initial";
         } else {
             this.domShopfull.style.display = "none";
@@ -731,7 +742,7 @@ export class City {
     updateShopinfo() {
         var arr = [];
         var _this = this;
-        var gesamount = 0; 
+        var gesamount = 0;
         for (var x = 0; x < parameter.allProducts.length; x++) {
             arr.push(x);
             gesamount += this.shop[x];
@@ -759,7 +770,7 @@ export class City {
     updateUI() {
         var _this = this;
         //  setTimeout(()=>{
-        var s = (this.people === 0 ? "" : getLocalNumber(this.people))+(this.growing?"↑":""); //this.people.toLocaleString());
+        var s = (this.people === 0 ? "" : getLocalNumber(this.people)) + (this.growing ? "↑" : ""); //this.people.toLocaleString());
         if (_this.domPeople.textContent !== s) {
 
             _this.domPeople.textContent = s;
@@ -801,7 +812,7 @@ export class City {
             acolor = "blueviolet";
         }
 
-         if (this.people > 3500000) {
+        if (this.people > 3500000) {
             acolor = "Chartreuse";
         }
         if (this.people > 4000000) {
@@ -818,12 +829,12 @@ export class City {
         return acolor;
     }
     checkUpgrade() {
-        var upgr=500000;
-       
-        if (this.people >(this.level* upgr)) {
+        var upgr = 500000;
+
+        if (this.people > (this.level * upgr)) {
             this.level++;
-            if(this.people<=5000000||this.level%2===1){//upgrade on 500.000 and if >5.000.000  1.000.000
-                if(this.companies.length<CityDialog.getInstance().maxCompanies)
+            if (this.people <= 5000000 || this.level % 2 === 1) {//upgrade on 500.000 and if >5.000.000  1.000.000
+                if (this.companies.length < CityDialog.getInstance().maxCompanies)
                     this.addNewCompany();
                 this.resetBuildingsWithoutCosts();
             }
@@ -879,27 +890,57 @@ export class City {
 
 
     }
-    onclick(th: MouseEvent) {
-        if (this.hasAirport === false) {
-            var iprice = Math.round(parameter.newAirportRate * (this.world.cities.length - 15) * 1000000);
+    ondblclick(th: MouseEvent) {
+        console.log("dblclick");
+        isDblClick = true;
+        th.preventDefault();
+        if (!this.commitBuildingCosts(15000 * parameter.numberBuildShopsWithContextMenu, [], "buy building"))
+            return;
+        // for (var x = 0; x < parameter.numberBuildShopsWithContextMenu; x++) {
+        this.buildBuilding(10000, 10000, parameter.numberBuildShopsWithContextMenu, true);
+
+        // }
+
+    }
+    doClick(th: MouseEvent) {
+        let _this = this;
+        th.preventDefault();
+        if (_this.hasAirport === false) {
+            var iprice = Math.round(parameter.newAirportRate * (_this.world.cities.length - 15) * 1000000);
             var price = Number(iprice).toLocaleString();
             if (confirm(`Do you want to buy an airport for ${price}?`)) {
-                if (this.world.game.getMoney() < iprice) {
+                if (_this.world.game.getMoney() < iprice) {
                     //@ts-ignore
                     $.notify("Not enough money");
                     return;
                 }
-                this.world.game.changeMoney(-iprice, "buy an airport", this);
-                this.hasAirport = true;
-                this.domAirport.style.visibility = "initial";
-                this.world.addCity(false);//cities[this.world.cities.length - 1].hasAirport = false;
+                _this.world.game.changeMoney(-iprice, "buy an airport", _this);
+                _this.hasAirport = true;
+                _this.domAirport.style.visibility = "initial";
+                _this.world.addCity(false);//cities[this.world.cities.length - 1].hasAirport = false;
             }
             return;
         }
-        th.preventDefault();
+
         var h = CityDialog.getInstance();
-        h.city = this;
+        h.city = _this;
         h.show();
+
+
+    }
+    onclick(th: MouseEvent) {
+        
+        isDblClick = false;
+        let _this = this;
+        if (CityDialog.isOpen()) {
+            _this.doClick(th);
+        } else {
+            setTimeout(() => {
+                if(isDblClick)
+                    return;
+                _this.doClick(th);
+            }, 200);
+        }
 
     }
     commitBuildingCosts(buildPrice: number, buildMaterial: number[], transactiontext: string, doUpdateCity = true): boolean {
@@ -945,7 +986,7 @@ export class City {
     }
 
     static getBuildingCostsAsIcon(money: number, buildingMaterial: number[], withBreak = false) {
-        var s =getLocalNumber(money); 
+        var s = getLocalNumber(money);
         var lastAmount = undefined;
         for (var x = 0; x < buildingMaterial.length; x++) {
             if (buildingMaterial[x]) {

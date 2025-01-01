@@ -4,6 +4,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
     exports.test = exports.createCities = exports.City = void 0;
     class QueueItem {
     }
+    let isDblClick = false;
     class City {
         constructor() {
             this.level = 1;
@@ -160,6 +161,14 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             if (!this.hasAirport) {
                 this.domAirport.style.visibility = "hidden";
             }
+            this.dom.addEventListener("dblclick", (ev) => {
+                _this.ondblclick(ev);
+                return undefined;
+            });
+            this.domDesc.addEventListener("dblclick", (ev) => {
+                _this.ondblclick(ev);
+                return undefined;
+            });
             this.dom.addEventListener("click", (ev) => {
                 _this.onclick(ev);
                 return undefined;
@@ -635,7 +644,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             //shop full
             var gesamount = this.getCompleteAmount();
             var max = this.shops * parameter.capacityShop;
-            if (gesamount >= max) {
+            if (gesamount >= max && this.getBuildingInProgress(10000) === 0) {
                 this.domShopfull.style.display = "initial";
             }
             else {
@@ -799,27 +808,52 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             this.world.selection.flyTo(this);
             console.log(evt.offsetX);
         }
-        onclick(th) {
-            if (this.hasAirport === false) {
-                var iprice = Math.round(parameter.newAirportRate * (this.world.cities.length - 15) * 1000000);
+        ondblclick(th) {
+            console.log("dblclick");
+            isDblClick = true;
+            th.preventDefault();
+            if (!this.commitBuildingCosts(15000 * parameter.numberBuildShopsWithContextMenu, [], "buy building"))
+                return;
+            // for (var x = 0; x < parameter.numberBuildShopsWithContextMenu; x++) {
+            this.buildBuilding(10000, 10000, parameter.numberBuildShopsWithContextMenu, true);
+            // }
+        }
+        doClick(th) {
+            let _this = this;
+            th.preventDefault();
+            if (_this.hasAirport === false) {
+                var iprice = Math.round(parameter.newAirportRate * (_this.world.cities.length - 15) * 1000000);
                 var price = Number(iprice).toLocaleString();
                 if (confirm(`Do you want to buy an airport for ${price}?`)) {
-                    if (this.world.game.getMoney() < iprice) {
+                    if (_this.world.game.getMoney() < iprice) {
                         //@ts-ignore
                         $.notify("Not enough money");
                         return;
                     }
-                    this.world.game.changeMoney(-iprice, "buy an airport", this);
-                    this.hasAirport = true;
-                    this.domAirport.style.visibility = "initial";
-                    this.world.addCity(false); //cities[this.world.cities.length - 1].hasAirport = false;
+                    _this.world.game.changeMoney(-iprice, "buy an airport", _this);
+                    _this.hasAirport = true;
+                    _this.domAirport.style.visibility = "initial";
+                    _this.world.addCity(false); //cities[this.world.cities.length - 1].hasAirport = false;
                 }
                 return;
             }
-            th.preventDefault();
             var h = citydialog_1.CityDialog.getInstance();
-            h.city = this;
+            h.city = _this;
             h.show();
+        }
+        onclick(th) {
+            isDblClick = false;
+            let _this = this;
+            if (citydialog_1.CityDialog.isOpen()) {
+                _this.doClick(th);
+            }
+            else {
+                setTimeout(() => {
+                    if (isDblClick)
+                        return;
+                    _this.doClick(th);
+                }, 200);
+            }
         }
         commitBuildingCosts(buildPrice, buildMaterial, transactiontext, doUpdateCity = true) {
             if (this.canBuild(buildPrice, buildMaterial) !== "")

@@ -7,10 +7,14 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
 define(["require", "exports", "jassijs/ui/Panel", "jassijs/base/Windows", "game/game", "jassijs/base/Actions", "jassijs/remote/Registry"], function (require, exports, Panel_1, Windows_1, game_1, Actions_1, Registry_1) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.test = exports.PPanel = void 0;
+    Windows_1 = __importDefault(Windows_1);
     let PPanel = class PPanel extends Panel_1.Panel {
         constructor() {
             super();
@@ -28,6 +32,7 @@ define(["require", "exports", "jassijs/ui/Panel", "jassijs/base/Windows", "game/
             test();
         }
     };
+    exports.PPanel = PPanel;
     __decorate([
         (0, Actions_1.$Action)({
             name: "Game",
@@ -37,12 +42,11 @@ define(["require", "exports", "jassijs/ui/Panel", "jassijs/base/Windows", "game/
         __metadata("design:paramtypes", []),
         __metadata("design:returntype", Promise)
     ], PPanel, "show", null);
-    PPanel = __decorate([
+    exports.PPanel = PPanel = __decorate([
         (0, Actions_1.$ActionProvider)("jassijs.base.ActionNode"),
         (0, Registry_1.$Class)("game.PPanel"),
         __metadata("design:paramtypes", [])
     ], PPanel);
-    exports.PPanel = PPanel;
     function createStyle() {
         var cssId = 'game.css'; // you could encode the css path itself to generate id..
         if (document.getElementById(cssId))

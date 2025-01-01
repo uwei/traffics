@@ -718,6 +718,16 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 $(this.dom).parent().find('.ui-dialog-title')[0].innerHTML = '<img style="float: right" id="citydialog-icon" src="' + this.city.icon +
                     '"  height="15"></img> ' + this.city.name + " (lev " + this.city.level + ") " + this.city.people + " " + icons_1.Icons.people;
         }
+        static isOpen() {
+            var _a;
+            if (!((_a = CityDialog.instance) === null || _a === void 0 ? void 0 : _a.city))
+                return false;
+            if ($(CityDialog.instance.city.dom).hasClass("ui-dialog-content") &&
+                $(CityDialog.instance.city.dom).dialog("isOpen")) {
+                return true;
+            }
+            return false;
+        }
         show() {
             var _this = this;
             this.dom.removeAttribute("hidden");
