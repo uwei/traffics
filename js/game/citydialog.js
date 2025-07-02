@@ -92,7 +92,8 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
             for (var x = 0; x < parameter.allProducts.length; x++) {
                 //  ret+='<option value="'+x+'"><span>'+parameter.allProducts[x].getIcon()+" "+parameter.allProducts[x].name+'</span></option>';
                 ret += '<div style="width:30px"><div id="citydialog-producticon' + x + '">' + parameter.allProducts[x].getIcon() + '</div>';
-                ret += '<div id="citydialog-productstat' + x + '">' + "100" + '</div></div>';
+                ret += '<div id="citydialog-productstat' + x + '">' + "100" + '</div>';
+                ret += '<div id="citydialog-productinprogress' + x + '">' + "100" + '</div></div>';
             }
             return ret + "</div>";
         }
@@ -462,6 +463,8 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
             citydialogshop_1.CityDialogShop.getInstance().bindActions();
         }
         filterCities(prodid) {
+            if (!this.city)
+                return;
             var _this = this;
             var hide_busy = document.getElementById("hide-busy").checked;
             if (prodid === "all")
@@ -764,6 +767,11 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 document.getElementById("citydialog-shopinfo").checked = this.city.cityShowShopInfo;
             if (this.showCompact) {
                 for (var x = 0; x < parameter.allProducts.length; x++) {
+                    var inprogr = 0;
+                    for (var y = 0; y < this.city.world.cities.length; y++) {
+                        inprogr += this.city.world.cities[y].getBuildingInProgress(x);
+                    }
+                    document.getElementById("citydialog-productinprogress" + x).innerText = (0, tools_1.getLocalNumber)(inprogr);
                     var suc = 0;
                     var unsuc = 0;
                     for (var t = 0; t < 7; t++) {
@@ -782,7 +790,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 for (var x = 0; x < parameter.allProducts.length; x++) {
                     inprogr += this.city.getBuildingInProgress(x);
                 }
-                document.getElementById("city-dialog-busy").innerHTML = inprogr + icons_1.Icons.hammer;
+                document.getElementById("city-dialog-busy").innerHTML = (0, tools_1.getLocalNumber)(inprogr) + icons_1.Icons.hammer;
             }
             return;
         }
