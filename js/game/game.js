@@ -2,7 +2,7 @@ define(["require", "exports", "game/citydialog", "game/world", "game/airplanedia
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
     exports.test = exports.Game = exports.Parameter = exports.Statistic = void 0;
-    var gameversion = "5.5";
+    var gameversion = "5.6";
     window.onbeforeunload = function () {
         return "Do you want to exit?";
     };
@@ -115,7 +115,7 @@ define(["require", "exports", "game/citydialog", "game/world", "game/airplanedia
     //global.parameter=new Parametetr();
     class Game {
         constructor() {
-            this.version = "5.4";
+            this.version = "5.6";
             this.mapWidth = 1000;
             this.mapHeight = 600;
             var _this = this;
@@ -203,8 +203,8 @@ define(["require", "exports", "game/citydialog", "game/world", "game/airplanedia
             <button id="game-faster"  class="mybutton">` + icons_1.Icons.plus + `</button> 
             <span id="gamemoney"></span>` + icons_1.Icons.money + `
             <button id="save-game"  class="mybutton">` + icons_1.Icons.save + `</button> 
-            <!--button id="debug-game"  class="mybutton">` + icons_1.Icons.debug + `</button--> 
-            <button id="show-diagram"  class="mybutton">` + icons_1.Icons.diagram + `</button> 
+            <!--button id="debug-game"  class="mybutton">` + icons_1.Icons.debug + `</button-->
+             <button id="show-diagram"  class="mybutton">` + icons_1.Icons.diagram + `</button>  
           </div>  
         `;
             this.domHeader = document.createRange().createContextualFragment(sdomHeader).children[0];

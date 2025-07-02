@@ -34,7 +34,8 @@ export class Icons {
      static move="<span  class='mdi mdi-arrow-expand-all'></span>";
      static capital="<span  class='mdi mdi-city-variant-outline'></span>";
      static down="<span  class='mdi mdi-arrow-down'></span>";
-     
+     static chevron_up="<span  class='mdi mdi-chevron-up'></span>";
+     static chevron_down="<span  class='mdi mdi-chevron-down'></span>";
      
     
 

@@ -12,7 +12,7 @@ import { Product } from "game/product";
 import { DiagramDialog } from "game/diagramdialog";
 import { SaveDialog } from "game/savedialog";
 import { getLocalNumber } from "game/tools";
-var gameversion = "5.5";
+var gameversion = "5.6";
 window.onbeforeunload = function () {
   return "Do you want to exit?";
 
@@ -137,7 +137,7 @@ export class Game {
   domHeader: HTMLDivElement;
   domWorld: HTMLDivElement;
   _money;
-  version = "5.4";
+  version = "5.6";
   date: Date;
   lastUpdate: number;
   speed: number;
@@ -241,8 +241,8 @@ export class Game {
             <button id="game-faster"  class="mybutton">`+ Icons.plus + `</button> 
             <span id="gamemoney"></span>`+ Icons.money + `
             <button id="save-game"  class="mybutton">`+ Icons.save + `</button> 
-            <!--button id="debug-game"  class="mybutton">`+ Icons.debug + `</button--> 
-            <button id="show-diagram"  class="mybutton">`+ Icons.diagram + `</button> 
+            <!--button id="debug-game"  class="mybutton">`+ Icons.debug + `</button-->
+             <button id="show-diagram"  class="mybutton">`+ Icons.diagram + `</button>  
           </div>  
         `;
     this.domHeader = <any>document.createRange().createContextualFragment(sdomHeader).children[0];

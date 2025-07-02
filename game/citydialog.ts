@@ -20,6 +20,7 @@ export class CityDialog {
     city: City;
     hasPaused = false;
     filteredCities: City[];
+    showCompact = false;
     public static instance;
     constructor() {
         this.create();
@@ -49,6 +50,9 @@ export class CityDialog {
         var city = _this.city;
         var sdom = `
           <div>
+          <div id="citydialog-products" hidden>
+           `+ this.createProducts() + `
+          </div>
           <div>
             <button id="buy-companies-next" title="update all routes" class="mybutton">`+ "+" + Icons.factory + Icons.route + ">" + `</button>
             <button id="citydialog-capital" title="goto Capital" class="mybutton">`+ Icons.capital + `</button>
@@ -58,9 +62,11 @@ export class CityDialog {
             <select id="citydialog-filter" style="width:80px">
                 `+ this.productFilter() + `
             </select>
-            <input type="checkbox" id="hide-busy" name="vehicle1">hide busy</input>
+            <input type="checkbox" id="hide-busy" name="vehicle1 title="hide cities where buildings already are built">busy</input>
             <input type="checkbox" id="citydialog-shopinfo" title="show shop info beside the city" >info</input>
             <button id="update-all-routes" title="update all routes" class="mybutton">`+ Icons.route + `</button>
+             <button id="show-compact" title="toogle compact view" class="mybutton">`+ Icons.chevron_up + `</button>
+             <span id="city-dialog-busy"  hidden></span>
             
           </div>
             <div id="citydialog-tabs">
@@ -98,6 +104,15 @@ export class CityDialog {
         //        document.getElementById("citydialog-prev")
         setTimeout(() => { _this.bindActions(); }, 500);
         //document.createElement("span");
+    }
+    createProducts() {
+        var ret = '<div style="display: flex;flex-wrap: wrap;">';
+        for (var x = 0; x < parameter.allProducts.length; x++) {
+            //  ret+='<option value="'+x+'"><span>'+parameter.allProducts[x].getIcon()+" "+parameter.allProducts[x].name+'</span></option>';
+            ret += '<div style="width:30px"><div id="citydialog-producticon' + x + '">' + parameter.allProducts[x].getIcon() + '</div>';
+            ret += '<div id="citydialog-productstat' + x + '">' + "100" + '</div></div>';
+        }
+        return ret + "</div>";
     }
     productFilter() {
         var ret = '<option value="all">All</option>';
@@ -250,16 +265,16 @@ export class CityDialog {
         var comp = _this.city.companies[id];
         var count = 0;
         for (var i = 0; i < parameter.numberBuildWithContextMenu; i++) {
-            if (!_this.city.commitBuildingCosts(comp.getBuildingCosts(i), comp.getBuildingMaterial(), "buy building", false)){
-                if(i>1){
-                     _this.city.buildBuilding(id,comp.productid, i-1);
+            if (!_this.city.commitBuildingCosts(comp.getBuildingCosts(i), comp.getBuildingMaterial(), "buy building", false)) {
+                if (i > 1) {
+                    _this.city.buildBuilding(id, comp.productid, i - 1);
                 }
-               
+
                 return;
             }
             count++;
         }
-        _this.city.buildBuilding(id,comp.productid, count);
+        _this.city.buildBuilding(id, comp.productid, count);
 
         //comp.buildings++;
         _this.update();
@@ -286,52 +301,31 @@ export class CityDialog {
 
         document.getElementById("citydialog-filter").addEventListener("change", (ev) => {
             var sel = (<HTMLSelectElement>document.getElementById("citydialog-filter")).value;
-            var hide_busy = (<HTMLInputElement>document.getElementById("hide-busy")).checked;
-
-            if (sel === "all")
-                this.filteredCities = _this.city.world.cities;
-            else {
-                this.filteredCities = [];
-                for (var x = 0; x < _this.city.world.cities.length; x++) {
-                    var city = _this.city.world.cities[x];
-                    for (var y = 0; y < city.companies.length; y++) {
-                        if (city.companies[y].productid === Number(sel)) {
-                            if (hide_busy && city.queueBuildings.length > 0) {
-                                //
-                            } else
-                                this.filteredCities.push(city);
-                        }
-                    }
-                }
-                if (this.filteredCities.length === 0) {
-                    this.filteredCities = [_this.city];
-                }
-                this.filteredCities.sort((a: City, b: City) => {
-                    var a1, b1;
-                    for (var y = 0; y < a.companies.length; y++) {
-                        if (a.companies[y].productid === Number(sel)) {
-
-                            a1 = a.companies[y].buildings - (a.companies[y].buildingsWithoutCosts ? a.companies[y].buildingsWithoutCosts : 0);
-                        }
-                    }
-                    for (var y = 0; y < b.companies.length; y++) {
-                        if (b.companies[y].productid === Number(sel)) {
-
-                            b1 = b.companies[y].buildings - (b.companies[y].buildingsWithoutCosts ? b.companies[y].buildingsWithoutCosts : 0);
-                        }
-                    }
-
-                    return (a1 - b1) * 1000000000 + (a.people - b.people) / 1000;
-                });
-                this.city = this.filteredCities[this.filteredCities.length - 1];
-            }
-            _this.nextCity();
+            _this.filterCities(sel);
         });
         document.getElementById("update-all-routes").addEventListener("click", (e) => {
             _this.loadFillAllConsumtion();
             //  _this.update();
 
         });
+        document.getElementById("show-compact").addEventListener("click", (e) => {
+            _this.showCompact = !_this.showCompact;
+            document.getElementById("show-compact").innerHTML = _this.showCompact ? Icons.chevron_down : Icons.chevron_up;
+            document.getElementById("citydialog-tabs").hidden = _this.showCompact;
+            document.getElementById("citydialog-products").hidden = !_this.showCompact;
+            document.getElementById("citydialog-capital").hidden = _this.showCompact;
+            document.getElementById("citydialog-filter").hidden = _this.showCompact;
+            document.getElementById("citydialog-shopinfo").hidden = _this.showCompact;
+            document.getElementById("update-all-routes").hidden = _this.showCompact;
+            document.getElementById("city-dialog-busy").hidden = !_this.showCompact;
+            if(_this.showCompact)
+                $(this.dom).dialog({width: "270px"});
+            else
+                $(this.dom).dialog({width: "400px"});
+            //  _this.update();
+
+        });
+
         document.getElementById("buy-companies-next").addEventListener("click", (e) => {
             var sel = (<HTMLSelectElement>document.getElementById("citydialog-filter")).value;
             if (sel == "all")
@@ -430,7 +424,7 @@ export class CityDialog {
             if (!_this.city.commitBuildingCosts(15000 * parameter.numberBuildShopsWithContextMenu, [], "buy building"))
                 return;
             // for (var x = 0; x < parameter.numberBuildShopsWithContextMenu; x++) {
-            _this.city.buildBuilding(10000,10000, parameter.numberBuildShopsWithContextMenu, true);
+            _this.city.buildBuilding(10000, 10000, parameter.numberBuildShopsWithContextMenu, true);
             // }
             _this.update();
         });
@@ -462,7 +456,7 @@ export class CityDialog {
 
 
             //_this.city.buildingplaces= parameter.numberBuildSpeedWithContextMenu+_this.city.buildingplaces;
-            _this.city.buildBuilding(10001,10001, parameter.numberBuildSpeedWithContextMenu, true);
+            _this.city.buildBuilding(10001, 10001, parameter.numberBuildSpeedWithContextMenu, true);
             //_this.city.buildBuilding(10000);
             _this.update();
         });
@@ -495,7 +489,65 @@ export class CityDialog {
             });
 
         }
+        for (var x = 0; x < parameter.allProducts.length; x++) {
+            document.getElementById("citydialog-producticon" + x).addEventListener("click", evt => {
+                //    debugger;
+                var sid = (<any>evt.currentTarget).id.replace("citydialog-producticon", "");
+                (<HTMLSelectElement>document.getElementById("citydialog-filter")).value = sid;
+                _this.filterCities(sid);
+                var id=parseInt(sid);
+                for(var x=0;x<parameter.allProducts.length;x++){
+                    if(x===id){
+                        document.getElementById("citydialog-producticon" + x).style.border="1px solid black";
+                    }else{
+                        document.getElementById("citydialog-producticon" + x).style.border="";
+                    }
+                }
+            })
+        }
         CityDialogShop.getInstance().bindActions();
+    }
+    filterCities(prodid: string) {
+        var _this = this;
+        var hide_busy = (<HTMLInputElement>document.getElementById("hide-busy")).checked;
+        if (prodid === "all")
+            this.filteredCities = _this.city.world.cities;
+        else {
+            this.filteredCities = [];
+            for (var x = 0; x < _this.city.world.cities.length; x++) {
+                var city = _this.city.world.cities[x];
+                for (var y = 0; y < city.companies.length; y++) {
+                    if (city.companies[y].productid === Number(prodid)) {
+                        if (hide_busy && city.queueBuildings.length > 0) {
+                            //
+                        } else
+                            this.filteredCities.push(city);
+                    }
+                }
+            }
+            if (this.filteredCities.length === 0) {
+                this.filteredCities = [_this.city];
+            }
+            this.filteredCities.sort((a: City, b: City) => {
+                var a1, b1;
+                for (var y = 0; y < a.companies.length; y++) {
+                    if (a.companies[y].productid === Number(prodid)) {
+
+                        a1 = a.companies[y].buildings - (a.companies[y].buildingsWithoutCosts ? a.companies[y].buildingsWithoutCosts : 0);
+                    }
+                }
+                for (var y = 0; y < b.companies.length; y++) {
+                    if (b.companies[y].productid === Number(prodid)) {
+
+                        b1 = b.companies[y].buildings - (b.companies[y].buildingsWithoutCosts ? b.companies[y].buildingsWithoutCosts : 0);
+                    }
+                }
+
+                return (a1 - b1) * 1000000000 + (a.people - b.people) / 1000;
+            });
+            this.city = this.filteredCities[this.filteredCities.length - 1];
+        }
+        _this.nextCity();
     }
     loadFillAllConsumtion(nowarning = false) {
         var routes: Route[] = [];
@@ -521,7 +573,7 @@ export class CityDialog {
             }
         }
         var money = 20000 * routes.length / 2;
-        if ((this.city.world.game.getMoney()/money)<1000&&(routes.length > 2 || this.city.world.game.getMoney() < 1000000)) {
+        if ((this.city.world.game.getMoney() / money) < 1000 && (routes.length > 2 || this.city.world.game.getMoney() < 1000000)) {
             if (nowarning)
                 return;
             if (!confirm("Update conumtion in all routes for " + money + "?")) {
@@ -767,6 +819,30 @@ export class CityDialog {
             this.updateScore();
         if ((<HTMLInputElement>document.getElementById("citydialog-shopinfo")).checked !== this.city.cityShowShopInfo)
             (<HTMLInputElement>document.getElementById("citydialog-shopinfo")).checked = this.city.cityShowShopInfo;
+        if (this.showCompact) {
+
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                var suc = 0;
+                var unsuc = 0;
+                for (var t = 0; t < 7; t++) {
+                    suc += this.city.world.game.statistic.successfulLoad[t][x];
+                    unsuc += this.city.world.game.statistic.unsuccessfulLoad[t][x];
+                }
+                var ges = unsuc + suc;
+                var dif = ges - unsuc;
+                var num = (10000 * dif / ges) / 100;
+                if (Number.isNaN(num))
+                    num = 0;
+                var proc = (num).toLocaleString(undefined, { maximumFractionDigits: 2 });
+                document.getElementById("citydialog-productstat" + x).innerText = proc;
+            }
+            var inprogr = this.city.getBuildingInProgress(10000) + this.city.getBuildingInProgress(10001);
+            for (var x = 0; x < parameter.allProducts.length; x++) {
+                inprogr += this.city.getBuildingInProgress(x);
+            }
+            document.getElementById("city-dialog-busy").innerHTML = inprogr + Icons.hammer;
+
+        }
         return;
     }
     updateTitle() {
@@ -775,7 +851,7 @@ export class CityDialog {
             $(this.dom).parent().find('.ui-dialog-title')[0].innerHTML = '<img style="float: right" id="citydialog-icon" src="' + this.city.icon +
                 '"  height="15"></img> ' + this.city.name + " (lev " + this.city.level + ") " + this.city.people + " " + Icons.people;
     }
-     static isOpen() {
+    static isOpen() {
         if (!CityDialog.instance?.city)
             return false;
         if ($(CityDialog.instance.city.dom).hasClass("ui-dialog-content") &&
