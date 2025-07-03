@@ -26,6 +26,11 @@ define(["require", "exports", "game/icons", "game/tools"], function (require, ex
                 parameter.numberBuildShopsWithContextMenu = num;
                 _this.update();
             });
+            document.getElementById("citynamelength").addEventListener('change', (e) => {
+                var num = parseInt(document.getElementById("citynamelength").value);
+                parameter.cityNameLength = num;
+                _this.update();
+            });
             document.getElementById("buildSpeedWithOneClick").addEventListener('change', (e) => {
                 var num = parseInt(document.getElementById("buildSpeedWithOneClick").value);
                 parameter.numberBuildSpeedWithContextMenu = num;
@@ -54,6 +59,15 @@ define(["require", "exports", "game/icons", "game/tools"], function (require, ex
                     _this.update();
                 });
             }
+            document.getElementById("diagramdialog-restorewindow").addEventListener("click", (evt) => {
+                $(_this.dom).dialog({}).dialog({
+                    position: {
+                        my: "center center",
+                        at: "center center",
+                        of: window
+                    }
+                });
+            });
         }
         create() {
             //template for code reloading
@@ -88,10 +102,13 @@ define(["require", "exports", "game/icons", "game/tools"], function (require, ex
                        build company with one click: <input id="buildWithOneClick"  value="""/><br/>
                        build shops with contextmenu: <input id="buildShopsWithOneClick"  value="""/><br/>
                        build speed with contextmenu: <input id="buildSpeedWithOneClick"  value="""/><br/>
+                       length of city names: <input id="citynamelength"  value="""/><br/>
                        <input type="checkbox" id="hideFlags" title="hide flags" >hide flags</input>
                        <input type="checkbox" id="autoCloseDialog" title="auto close dialog" >auto close dialog</input>
                 </div>
             </div>
+            <button style="display: block;margin: 0 auto" id="diagramdialog-restorewindow"></button>
+      
            </div> 
             `;
             var newdom = document.createRange().createContextualFragment(sdom).children[0];
@@ -144,6 +161,8 @@ define(["require", "exports", "game/icons", "game/tools"], function (require, ex
                 document.getElementById("buildShopsWithOneClick").value = "" + parameter.numberBuildShopsWithContextMenu;
             if (document.activeElement !== document.getElementById("buildSpeedWithOneClick"))
                 document.getElementById("buildSpeedWithOneClick").value = "" + parameter.numberBuildSpeedWithContextMenu;
+            if (document.activeElement !== document.getElementById("citynamelength"))
+                document.getElementById("citynamelength").value = "" + parameter.cityNameLength;
             if (document.getElementById("hideFlags").checked !== parameter.hideFlags)
                 document.getElementById("hideFlags").checked = parameter.hideFlags;
             if (document.getElementById("autoCloseDialog").checked !== parameter.autoCloseDialog)

@@ -16,7 +16,7 @@ window.city = function () {
 
 export class CityDialog {
     maxCompanies = 14;
-    dom: HTMLDivElement; 
+    dom: HTMLDivElement;
     city: City;
     hasPaused = false;
     filteredCities: City[];
@@ -50,9 +50,7 @@ export class CityDialog {
         var city = _this.city;
         var sdom = `
           <div>
-          <div id="citydialog-products" hidden>
-           `+ this.createProducts() + `
-          </div>
+         
           <div>
             <button id="buy-companies-next" title="update all routes" class="mybutton">`+ "+" + Icons.factory + Icons.route + ">" + `</button>
             <button id="citydialog-capital" title="goto Capital" class="mybutton">`+ Icons.capital + `</button>
@@ -85,6 +83,12 @@ export class CityDialog {
                 <div id="citydialog-score">`+ this.createScore() + `
                 </div>
           </div>
+          <div id="citydialog-buttonholder2">
+           <div id="citydialog-products" hidden>
+           `+ this.createProducts() + `
+          </div>
+          </div>
+          <button style="display: block;margin: 0 auto" id="citydialog-restorewindow"></button>
         `;
         var newdom = <any>document.createRange().createContextualFragment(sdom).children[0];
         this.dom.removeChild(this.dom.children[0]);
@@ -110,8 +114,8 @@ export class CityDialog {
         for (var x = 0; x < parameter.allProducts.length; x++) {
             //  ret+='<option value="'+x+'"><span>'+parameter.allProducts[x].getIcon()+" "+parameter.allProducts[x].name+'</span></option>';
             ret += '<div style="width:30px"><div id="citydialog-producticon' + x + '">' + parameter.allProducts[x].getIcon() + '</div>';
-            ret += '<div id="citydialog-productstat' + x + '">' + "100" + '</div>';
-            ret += '<div id="citydialog-productinprogress' + x + '">' + "100" + '</div></div>';
+            ret += '<div style="font-size:8pt" id="citydialog-productstat' + x + '">' + "100" + '</div>';
+            ret += '<div style="font-size:8pt" id="citydialog-productinprogress' + x + '">' + "100" + '</div></div>';
         }
         return ret + "</div>";
     }
@@ -159,14 +163,14 @@ export class CityDialog {
                 return ret;
             })()}
                     </table>
-                       `+ Icons.home + ` Shops: <span id="count-shops">0/0</span> ` + `  
+                       <div id="citydialog-buttonholder"><div id="citydialog-buttons">`+ Icons.home + ` Shops: <span id="count-shops">0/0</span> ` + `  
                         <button id="buy-shop"  class="mybutton">+`+ Icons.shop + ` ` + getLocalNumber(15000) + Icons.money + `</button> 
                         <button id="delete-shop"  class="mybutton">-`+ Icons.shop + `</button>` + "&nbsp;&nbsp;&nbsp;&nbsp;" +
             `<span id="city-buildingplaces">` + Icons.wrench + `Speed: <span id="count-buildingplaces">0</span>  
                         `  + Icons.money + `  
                         <button id="buy-buildingplace"  class="mybutton">+`+ ` ` + getLocalNumber(20000000) + Icons.money + `</button> 
                         <button id="delete-buildingplace"  class="mybutton">-`+ `</button>` +
-            '</span>'
+            '</span></div></div>'
     }
 
     createScore() {
@@ -319,10 +323,16 @@ export class CityDialog {
             document.getElementById("citydialog-shopinfo").hidden = _this.showCompact;
             document.getElementById("update-all-routes").hidden = _this.showCompact;
             document.getElementById("city-dialog-busy").hidden = !_this.showCompact;
-            if (_this.showCompact)
-                $(this.dom).dialog({ width: "270px" });
-            else
+
+            //   <div id="citydialog-buttonholder"><div id="citydialog-buttons">`+ Icons.home + ` Shops: <span id="count-shops">0/0</span> ` + `  
+
+            if (_this.showCompact) {
+                document.getElementById("citydialog-buttonholder2").append(document.getElementById("citydialog-buttons"));
+                $(this.dom).dialog({ width: "340px" });
+            } else {
+                document.getElementById("citydialog-buttonholder").append(document.getElementById("citydialog-buttons"));
                 $(this.dom).dialog({ width: "400px" });
+            }
             //  _this.update();
 
         });
@@ -506,11 +516,21 @@ export class CityDialog {
                 }
             })
         }
+        document.getElementById("citydialog-restorewindow").addEventListener("click", (evt) => {
+            $(_this.dom).dialog({
+            }).dialog({
+                position: {
+                    my: "center center",
+                    at: "center center",
+                    of: window
+                }
+            });
+        });
         CityDialogShop.getInstance().bindActions();
     }
     filterCities(prodid: string) {
-         if (!this.city)
-                return;
+        if (!this.city)
+            return;
         var _this = this;
         var hide_busy = (<HTMLInputElement>document.getElementById("hide-busy")).checked;
         if (prodid === "all")
@@ -829,7 +849,7 @@ export class CityDialog {
                 for (var y = 0; y < this.city.world.cities.length; y++) {
                     inprogr += this.city.world.cities[y].getBuildingInProgress(x);
                 }
-                document.getElementById("citydialog-productinprogress" + x).innerText =getLocalNumber(inprogr);
+                document.getElementById("citydialog-productinprogress" + x).innerText = getLocalNumber(inprogr);
 
                 var suc = 0;
                 var unsuc = 0;
@@ -849,10 +869,10 @@ export class CityDialog {
             for (var x = 0; x < parameter.allProducts.length; x++) {
                 inprogr += this.city.getBuildingInProgress(x);
             }
-            document.getElementById("city-dialog-busy").innerHTML =getLocalNumber(inprogr) + Icons.hammer;
-            
+            document.getElementById("city-dialog-busy").innerHTML = getLocalNumber(inprogr) + Icons.hammer;
+
         }
-        
+
         return;
     }
     updateTitle() {

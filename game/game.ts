@@ -68,6 +68,7 @@ export class Parameter {
   numberBuildWithContextMenu = 1;
   numberBuildShopsWithContextMenu = 1;
   numberBuildSpeedWithContextMenu = 1;
+  cityNameLength=12;
   hideFlags=false;
   autoCloseDialog=true;
   startMoney = 250000;

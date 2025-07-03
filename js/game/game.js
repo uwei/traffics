@@ -50,6 +50,7 @@ define(["require", "exports", "game/citydialog", "game/world", "game/airplanedia
             this.numberBuildWithContextMenu = 1;
             this.numberBuildShopsWithContextMenu = 1;
             this.numberBuildSpeedWithContextMenu = 1;
+            this.cityNameLength = 12;
             this.hideFlags = false;
             this.autoCloseDialog = true;
             this.startMoney = 250000;

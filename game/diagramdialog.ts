@@ -30,44 +30,59 @@ export class DiagramDialog {
             _this.update();
         });
         document.getElementById("buildWithOneClick").addEventListener('change', (e) => {
-            var num=parseInt((<HTMLInputElement>document.getElementById("buildWithOneClick")).value);
-            parameter.numberBuildWithContextMenu=num;
+            var num = parseInt((<HTMLInputElement>document.getElementById("buildWithOneClick")).value);
+            parameter.numberBuildWithContextMenu = num;
             _this.update();
         });
-         document.getElementById("buildShopsWithOneClick").addEventListener('change', (e) => {
-            var num=parseInt((<HTMLInputElement>document.getElementById("buildShopsWithOneClick")).value);
-            parameter.numberBuildShopsWithContextMenu=num;
+        document.getElementById("buildShopsWithOneClick").addEventListener('change', (e) => {
+            var num = parseInt((<HTMLInputElement>document.getElementById("buildShopsWithOneClick")).value);
+            parameter.numberBuildShopsWithContextMenu = num;
             _this.update();
         });
-          document.getElementById("buildSpeedWithOneClick").addEventListener('change', (e) => {
-            var num=parseInt((<HTMLInputElement>document.getElementById("buildSpeedWithOneClick")).value);
-            parameter.numberBuildSpeedWithContextMenu=num;
+          document.getElementById("citynamelength").addEventListener('change', (e) => {
+            var num = parseInt((<HTMLInputElement>document.getElementById("citynamelength")).value);
+            parameter.cityNameLength = num;
             _this.update();
         });
-          document.getElementById("hideFlags").addEventListener("click", (e) => {
+        document.getElementById("buildSpeedWithOneClick").addEventListener('change', (e) => {
+            var num = parseInt((<HTMLInputElement>document.getElementById("buildSpeedWithOneClick")).value);
+            parameter.numberBuildSpeedWithContextMenu = num;
+            _this.update();
+        });
+        document.getElementById("hideFlags").addEventListener("click", (e) => {
             var en = (<HTMLInputElement>document.getElementById("hideFlags")).checked;
-            parameter.hideFlags=en;
-            for(var x=0;x<_this.world.cities.length;x++){
+            parameter.hideFlags = en;
+            for (var x = 0; x < _this.world.cities.length; x++) {
                 _this.world.cities[x].showOrHideFlags();
             }
-           // _this.city.renderShopinfo(en);
+            // _this.city.renderShopinfo(en);
             //  _this.update();
 
         });
-         document.getElementById("autoCloseDialog").addEventListener("click", (e) => {
+        document.getElementById("autoCloseDialog").addEventListener("click", (e) => {
             var en = (<HTMLInputElement>document.getElementById("autoCloseDialog")).checked;
-            parameter.autoCloseDialog=en;
+            parameter.autoCloseDialog = en;
         });
         for (var x = 0; x < parameter.allProducts.length; x++) {
             document.getElementById("diagram-advertise_" + x).addEventListener("click", (evt) => {
                 var sid = (<any>evt.target).id;
-                 var id = Number(sid.split("_")[1]);
-                var money=_this.world.cities.length * parameter.costsAdvertising;
-                _this.world.game.changeMoney(-money,"advertising");
-                _this.world.advertising[id]=new Date(_this.world.game.date.getTime()+30*24*60*60*1000).getTime();
+                var id = Number(sid.split("_")[1]);
+                var money = _this.world.cities.length * parameter.costsAdvertising;
+                _this.world.game.changeMoney(-money, "advertising");
+                _this.world.advertising[id] = new Date(_this.world.game.date.getTime() + 30 * 24 * 60 * 60 * 1000).getTime();
                 _this.update();
             });
         }
+         document.getElementById("diagramdialog-restorewindow").addEventListener("click", (evt) => {
+            $(_this.dom).dialog({
+            }).dialog({
+                position: {
+                    my: "center center",
+                    at: "center center",
+                    of: window
+                }
+            });
+        });
     }
 
     private create() {
@@ -103,10 +118,13 @@ export class DiagramDialog {
                        build company with one click: <input id="buildWithOneClick"  value="""/><br/>
                        build shops with contextmenu: <input id="buildShopsWithOneClick"  value="""/><br/>
                        build speed with contextmenu: <input id="buildSpeedWithOneClick"  value="""/><br/>
+                       length of city names: <input id="citynamelength"  value="""/><br/>
                        <input type="checkbox" id="hideFlags" title="hide flags" >hide flags</input>
                        <input type="checkbox" id="autoCloseDialog" title="auto close dialog" >auto close dialog</input>
                 </div>
             </div>
+            <button style="display: block;margin: 0 auto" id="diagramdialog-restorewindow"></button>
+      
            </div> 
             `;
         var newdom = <any>document.createRange().createContextualFragment(sdom).children[0];
@@ -154,13 +172,15 @@ export class DiagramDialog {
                     <span id="diagramdialog-buildings-last-change"></span>`;
     }
     update() {
-        
-        if (document.activeElement !== <any>document.getElementById("buildWithOneClick")) 
-             (<HTMLInputElement>document.getElementById("buildWithOneClick")).value=""+parameter.numberBuildWithContextMenu;
-        if (document.activeElement !== <any>document.getElementById("buildShopsWithOneClick")) 
-         (<HTMLInputElement>document.getElementById("buildShopsWithOneClick")).value=""+parameter.numberBuildShopsWithContextMenu;
-         if (document.activeElement !== <any>document.getElementById("buildSpeedWithOneClick")) 
-         (<HTMLInputElement>document.getElementById("buildSpeedWithOneClick")).value=""+parameter.numberBuildSpeedWithContextMenu;
+
+        if (document.activeElement !== <any>document.getElementById("buildWithOneClick"))
+            (<HTMLInputElement>document.getElementById("buildWithOneClick")).value = "" + parameter.numberBuildWithContextMenu;
+        if (document.activeElement !== <any>document.getElementById("buildShopsWithOneClick"))
+            (<HTMLInputElement>document.getElementById("buildShopsWithOneClick")).value = "" + parameter.numberBuildShopsWithContextMenu;
+        if (document.activeElement !== <any>document.getElementById("buildSpeedWithOneClick"))
+            (<HTMLInputElement>document.getElementById("buildSpeedWithOneClick")).value = "" + parameter.numberBuildSpeedWithContextMenu;
+        if (document.activeElement !== <any>document.getElementById("citynamelength"))
+            (<HTMLInputElement>document.getElementById("citynamelength")).value = "" + parameter.cityNameLength;
         if ((<HTMLInputElement>document.getElementById("hideFlags")).checked !== parameter.hideFlags)
             (<HTMLInputElement>document.getElementById("hideFlags")).checked = parameter.hideFlags;
         if ((<HTMLInputElement>document.getElementById("autoCloseDialog")).checked !== parameter.autoCloseDialog)
@@ -196,28 +216,28 @@ export class DiagramDialog {
                 sh = sh + "(" + inprogr + Icons.hammer + ")";
             }
             tr.children[3].innerHTML = sh;
-            var suc=0;
-            var unsuc=0;
-            for(var t=0;t<7;t++){
-                suc+=this.world.game.statistic.successfulLoad[t][x];
-                unsuc+=this.world.game.statistic.unsuccessfulLoad[t][x];
+            var suc = 0;
+            var unsuc = 0;
+            for (var t = 0; t < 7; t++) {
+                suc += this.world.game.statistic.successfulLoad[t][x];
+                unsuc += this.world.game.statistic.unsuccessfulLoad[t][x];
             }
-            var ges=unsuc+suc;
-            var dif=ges-unsuc;
-            tr.children[2].innerHTML=(Math.round(10000*dif/ges)/100).toLocaleString(undefined,{maximumFractionDigits:2})+"&nbsp;";
+            var ges = unsuc + suc;
+            var dif = ges - unsuc;
+            tr.children[2].innerHTML = (Math.round(10000 * dif / ges) / 100).toLocaleString(undefined, { maximumFractionDigits: 2 }) + "&nbsp;";
             //tr.children[3].innerHTML = parameter.allProducts[x].dailyConsumtion.toLocaleString();
-            
+
             //var test1=parameter.allProducts[x].getAmountForPeople()/(parameter.workerInCompany*parameter.allProducts.length);
             //var abw1=Math.round(1000*(parameter.allProducts[x].dailyConsumtion-test1)/parameter.allProducts[x].dailyConsumtion)/10;
-            
-            tr.children[4].innerHTML = (parameter.allProducts[x].getDiffConsumtion()*100).toLocaleString(undefined,{maximumFractionDigits:1});
+
+            tr.children[4].innerHTML = (parameter.allProducts[x].getDiffConsumtion() * 100).toLocaleString(undefined, { maximumFractionDigits: 1 });
             var but = <HTMLButtonElement>document.getElementById("diagram-advertise_" + x);
             if (this.world.advertising[x]) {
                 but.innerHTML = "until " + new Date(this.world.advertising[x]).toLocaleDateString();
                 but.setAttribute("disabled", "");
             } else {
                 but.removeAttribute("disabled");
-                but.innerHTML = "for " + (this.world.cities.length * parameter.costsAdvertising).toLocaleString()+" "+Icons.money;
+                but.innerHTML = "for " + (this.world.cities.length * parameter.costsAdvertising).toLocaleString() + " " + Icons.money;
             }
         }
 
@@ -240,27 +260,27 @@ export class DiagramDialog {
                 allKeys.push(key);
         }
         allKeys.sort((a: string, b) => a.localeCompare(b));
-        var gest=0;
-        var gesy=0;
+        var gest = 0;
+        var gesy = 0;
         for (var x = 0; x < allKeys.length; x++) {
             var k = allKeys[x];
-            if(this.world.game.statistic.yesterday[k]!=0)
-                gesy+=this.world.game.statistic.yesterday[k];
-            if(this.world.game.statistic.today[k]!=0)
-                gest+=this.world.game.statistic.today[k];
+            if (this.world.game.statistic.yesterday[k] != 0)
+                gesy += this.world.game.statistic.yesterday[k];
+            if (this.world.game.statistic.today[k] != 0)
+                gest += this.world.game.statistic.today[k];
             content += `<tr>
                         <td>`+ k + `</td>
-                        <td style="text-align: right">`+"&nbsp;"+ (this.world.game.statistic.yesterday[k] === undefined ? "" : this.world.game.statistic.yesterday[k].toLocaleString()) + `</td>
-                        <td style="text-align: right">`+"&nbsp;"+ (this.world.game.statistic.today[k] === undefined ? "" : this.world.game.statistic.today[k].toLocaleString()) + `</td>
+                        <td style="text-align: right">`+ "&nbsp;" + (this.world.game.statistic.yesterday[k] === undefined ? "" : this.world.game.statistic.yesterday[k].toLocaleString()) + `</td>
+                        <td style="text-align: right">`+ "&nbsp;" + (this.world.game.statistic.today[k] === undefined ? "" : this.world.game.statistic.today[k].toLocaleString()) + `</td>
                       </tr>`
         }
         content += `<tr>
                         <td>Total</td>
-                        <td style="text-align: right">`+"&nbsp;"+gesy.toLocaleString() + `</td>
-                        <td style="text-align: right">`+"&nbsp;"+gest.toLocaleString() + `</td>
+                        <td style="text-align: right">`+ "&nbsp;" + gesy.toLocaleString() + `</td>
+                        <td style="text-align: right">`+ "&nbsp;" + gest.toLocaleString() + `</td>
                       </tr>`
         table.innerHTML = content;
-        document.getElementById("diagramdialog-buildings-last-change").textContent=this.world.game.statistic.lastPriceChange;
+        document.getElementById("diagramdialog-buildings-last-change").textContent = this.world.game.statistic.lastPriceChange;
     }
     show() {
         var _this = this;

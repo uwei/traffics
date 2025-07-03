@@ -35,9 +35,7 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
             var city = _this.city;
             var sdom = `
           <div>
-          <div id="citydialog-products" hidden>
-           ` + this.createProducts() + `
-          </div>
+         
           <div>
             <button id="buy-companies-next" title="update all routes" class="mybutton">` + "+" + icons_1.Icons.factory + icons_1.Icons.route + ">" + `</button>
             <button id="citydialog-capital" title="goto Capital" class="mybutton">` + icons_1.Icons.capital + `</button>
@@ -70,6 +68,12 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 <div id="citydialog-score">` + this.createScore() + `
                 </div>
           </div>
+          <div id="citydialog-buttonholder2">
+           <div id="citydialog-products" hidden>
+           ` + this.createProducts() + `
+          </div>
+          </div>
+          <button style="display: block;margin: 0 auto" id="citydialog-restorewindow"></button>
         `;
             var newdom = document.createRange().createContextualFragment(sdom).children[0];
             this.dom.removeChild(this.dom.children[0]);
@@ -92,8 +96,8 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
             for (var x = 0; x < parameter.allProducts.length; x++) {
                 //  ret+='<option value="'+x+'"><span>'+parameter.allProducts[x].getIcon()+" "+parameter.allProducts[x].name+'</span></option>';
                 ret += '<div style="width:30px"><div id="citydialog-producticon' + x + '">' + parameter.allProducts[x].getIcon() + '</div>';
-                ret += '<div id="citydialog-productstat' + x + '">' + "100" + '</div>';
-                ret += '<div id="citydialog-productinprogress' + x + '">' + "100" + '</div></div>';
+                ret += '<div style="font-size:8pt" id="citydialog-productstat' + x + '">' + "100" + '</div>';
+                ret += '<div style="font-size:8pt" id="citydialog-productinprogress' + x + '">' + "100" + '</div></div>';
             }
             return ret + "</div>";
         }
@@ -139,14 +143,14 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 return ret;
             })()}
                     </table>
-                       ` + icons_1.Icons.home + ` Shops: <span id="count-shops">0/0</span> ` + `  
+                       <div id="citydialog-buttonholder"><div id="citydialog-buttons">` + icons_1.Icons.home + ` Shops: <span id="count-shops">0/0</span> ` + `  
                         <button id="buy-shop"  class="mybutton">+` + icons_1.Icons.shop + ` ` + (0, tools_1.getLocalNumber)(15000) + icons_1.Icons.money + `</button> 
                         <button id="delete-shop"  class="mybutton">-` + icons_1.Icons.shop + `</button>` + "&nbsp;&nbsp;&nbsp;&nbsp;" +
                 `<span id="city-buildingplaces">` + icons_1.Icons.wrench + `Speed: <span id="count-buildingplaces">0</span>  
                         ` + icons_1.Icons.money + `  
                         <button id="buy-buildingplace"  class="mybutton">+` + ` ` + (0, tools_1.getLocalNumber)(20000000) + icons_1.Icons.money + `</button> 
                         <button id="delete-buildingplace"  class="mybutton">-` + `</button>` +
-                '</span>';
+                '</span></div></div>';
         }
         createScore() {
             return `<table id="citydialog-score-table" style="height:100%;weight:100%;">
@@ -293,10 +297,15 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                 document.getElementById("citydialog-shopinfo").hidden = _this.showCompact;
                 document.getElementById("update-all-routes").hidden = _this.showCompact;
                 document.getElementById("city-dialog-busy").hidden = !_this.showCompact;
-                if (_this.showCompact)
-                    $(this.dom).dialog({ width: "270px" });
-                else
+                //   <div id="citydialog-buttonholder"><div id="citydialog-buttons">`+ Icons.home + ` Shops: <span id="count-shops">0/0</span> ` + `  
+                if (_this.showCompact) {
+                    document.getElementById("citydialog-buttonholder2").append(document.getElementById("citydialog-buttons"));
+                    $(this.dom).dialog({ width: "340px" });
+                }
+                else {
+                    document.getElementById("citydialog-buttonholder").append(document.getElementById("citydialog-buttons"));
                     $(this.dom).dialog({ width: "400px" });
+                }
                 //  _this.update();
             });
             document.getElementById("buy-companies-next").addEventListener("click", (e) => {
@@ -460,6 +469,15 @@ define(["require", "exports", "game/city", "game/icons", "game/citydialogshop", 
                     }
                 });
             }
+            document.getElementById("citydialog-restorewindow").addEventListener("click", (evt) => {
+                $(_this.dom).dialog({}).dialog({
+                    position: {
+                        my: "center center",
+                        at: "center center",
+                        of: window
+                    }
+                });
+            });
             citydialogshop_1.CityDialogShop.getInstance().bindActions();
         }
         filterCities(prodid) {

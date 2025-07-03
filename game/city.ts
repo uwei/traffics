@@ -186,7 +186,7 @@ export class City {
         this.domDesc.setAttribute("cityid", cityid.toString());
         this.domDesc["city"] = this;
         this.domDesc.classList.add("citydesc");
-        this.domName = <any>document.createRange().createContextualFragment('<span>' + this.name.substring(0, 12) + '</span>').children[0];
+        this.domName = <any>document.createRange().createContextualFragment('<span>' + this.name.substring(0, parameter.cityNameLength) + '</span>').children[0];
         this.domPeople = <any>document.createRange().createContextualFragment('<span>0</span>').children[0];
         this.domDesc.appendChild(this.domName);
         this.domDesc.appendChild(<any>document.createRange().createContextualFragment("<br/>").children[0]);

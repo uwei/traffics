@@ -144,7 +144,7 @@ define(["require", "exports", "game/citydialog", "game/company", "game/airplane"
             this.domDesc.setAttribute("cityid", cityid.toString());
             this.domDesc["city"] = this;
             this.domDesc.classList.add("citydesc");
-            this.domName = document.createRange().createContextualFragment('<span>' + this.name.substring(0, 12) + '</span>').children[0];
+            this.domName = document.createRange().createContextualFragment('<span>' + this.name.substring(0, parameter.cityNameLength) + '</span>').children[0];
             this.domPeople = document.createRange().createContextualFragment('<span>0</span>').children[0];
             this.domDesc.appendChild(this.domName);
             this.domDesc.appendChild(document.createRange().createContextualFragment("<br/>").children[0]);
