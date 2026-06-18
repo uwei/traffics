@@ -1,14 +1,9 @@
 erstelle ein bild im semi realistischen stil mit transparenten hintergrund. Das Bild soll aus 9 quadratischen separaten Einzelbildern bestehen, die Trennlinien sollen unsichtbar transparent sein. In jedem Quadrat ein Bild: 
 
-Gerösteter Kaffee in Werbeverpackung,
-Klöße in Werbeverpackung,
-Zuckerwürfel,
-rote Coladose in Werbeverpackung,
-Bierdose in Werbeverpackung
-eine Packung Buntstifte,
-ein grünes Fahrrad,
-Schokoladentafel in lila Werbeverpackung,
-Päckchen Tomatensuppe in Werbeverpackung
+Papierkorb,
+Diagramm,
+schwarze Spielfigur (Brettspiel)
+
 
 
 
