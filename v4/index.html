@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <title>Traffics 4</title>
+    <meta name="description" content="Traffics 4 – Wirtschafts- und Transportsimulation" />
+    <meta name="theme-color" content="#1c1611" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" type="image/svg+xml" href="./icons/icon.svg" />
+    <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Traffics 4" />
+    <script type="module" crossorigin src="./assets/index-CmJMif7v.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BQsgcKzu.css">
+  </head>
+  <body>
+    <div id="app">
+      <!-- Layer 1: Unterer Canvas für Hex-Felder und Gebäude (wird nur bei Bau/Abriss/Änderung aktualisiert) -->
+      <canvas id="buildingsCanvas" class="canvas-layer"></canvas>
+
+      <!-- Layer 2: Oberer Canvas für Warentransporte, Wege, Animationen & Hover-Effekte -->
+      <canvas id="transportsCanvas" class="canvas-layer"></canvas>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3e2d22"/>
+      <stop offset="1" stop-color="#1c1611"/>
+    </linearGradient>
+    <linearGradient id="hex" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6aa84f"/>
+      <stop offset="1" stop-color="#3f7a2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="0" fill="url(#bg)"/>
+  <!-- Sechseck (flat-top), Safe-Zone für maskable Icons -->
+  <polygon points="356,83 456,256 356,429 156,429 56,256 156,83" fill="url(#hex)" stroke="#fbc02d" stroke-width="14" stroke-linejoin="round"/>
+  <!-- Weg mit Fahnen -->
+  <path d="M150 340 L256 280 L362 340" fill="none" stroke="#2b1f1d" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 340 L256 280 L362 340" fill="none" stroke="#fbc02d" stroke-width="5" stroke-dasharray="14 14" stroke-linecap="round"/>
+  <!-- Fahne in der Mitte -->
+  <line x1="256" y1="280" x2="256" y2="150" stroke="#5d4037" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="256" cy="148" r="10" fill="#ffd54f"/>
+  <polygon points="262,154 352,186 262,218" fill="#d32f2f" stroke="#7f0000" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="276,172 322,186 276,200" fill="#ffeb3b"/>
+  <!-- Ware (Kiste) und Münze -->
+  <rect x="122" y="300" width="56" height="48" rx="6" fill="#d7b98a" stroke="#6d4c41" stroke-width="6"/>
+  <circle cx="366" cy="318" r="28" fill="#fbc02d" stroke="#f57f17" stroke-width="6"/>
+  <text x="366" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="34" fill="#e65100">4</text>
+</svg>
